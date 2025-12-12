@@ -1,0 +1,225 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Calendrier Culture France//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Evenements Culturels France
+X-WR-CALDESC:Nuit des Musees, Journees du Patrimoine, Fete de la Musique
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nuit-musees-2025@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20250517
+DTEND;VALUE=DATE:20250518
+SUMMARY:Nuit europeenne des Musees
+DESCRIPTION:Entree gratuite dans les musees participants - Ouverture nocturne exceptionnelle
+URL:https://nuitdesmusees.culture.gouv.fr/
+CATEGORIES:Culture,Musees
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fete-musique-2025@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20250621
+DTEND;VALUE=DATE:20250622
+SUMMARY:Fete de la Musique
+DESCRIPTION:Concerts gratuits partout en France - 21 juin
+URL:https://fetedelamusique.culture.gouv.fr/
+CATEGORIES:Culture,Musique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:journees-patrimoine-2025@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20250920
+DTEND;VALUE=DATE:20250922
+SUMMARY:Journees europeennes du Patrimoine
+DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre
+URL:https://journeesdupatrimoine.culture.gouv.fr/
+CATEGORIES:Culture,Patrimoine
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nuit-musees-2026@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Nuit europeenne des Musees
+DESCRIPTION:Entree gratuite dans les musees participants - Ouverture nocturne exceptionnelle
+URL:https://nuitdesmusees.culture.gouv.fr/
+CATEGORIES:Culture,Musees
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fete-musique-2026@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Fete de la Musique
+DESCRIPTION:Concerts gratuits partout en France - 21 juin
+URL:https://fetedelamusique.culture.gouv.fr/
+CATEGORIES:Culture,Musique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:journees-patrimoine-2026@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journees europeennes du Patrimoine
+DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre
+URL:https://journeesdupatrimoine.culture.gouv.fr/
+CATEGORIES:Culture,Patrimoine
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nuit-musees-2027@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Nuit europeenne des Musees
+DESCRIPTION:Entree gratuite dans les musees participants - Ouverture nocturne exceptionnelle
+URL:https://nuitdesmusees.culture.gouv.fr/
+CATEGORIES:Culture,Musees
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fete-musique-2027@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:Fete de la Musique
+DESCRIPTION:Concerts gratuits partout en France - 21 juin
+URL:https://fetedelamusique.culture.gouv.fr/
+CATEGORIES:Culture,Musique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:journees-patrimoine-2027@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270920
+SUMMARY:Journees europeennes du Patrimoine
+DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre
+URL:https://journeesdupatrimoine.culture.gouv.fr/
+CATEGORIES:Culture,Patrimoine
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nuit-musees-2028@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20280520
+DTEND;VALUE=DATE:20280521
+SUMMARY:Nuit europeenne des Musees
+DESCRIPTION:Entree gratuite dans les musees participants - Ouverture nocturne exceptionnelle
+URL:https://nuitdesmusees.culture.gouv.fr/
+CATEGORIES:Culture,Musees
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fete-musique-2028@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20280621
+DTEND;VALUE=DATE:20280622
+SUMMARY:Fete de la Musique
+DESCRIPTION:Concerts gratuits partout en France - 21 juin
+URL:https://fetedelamusique.culture.gouv.fr/
+CATEGORIES:Culture,Musique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:journees-patrimoine-2028@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20280916
+DTEND;VALUE=DATE:20280918
+SUMMARY:Journees europeennes du Patrimoine
+DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre
+URL:https://journeesdupatrimoine.culture.gouv.fr/
+CATEGORIES:Culture,Patrimoine
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nuit-musees-2029@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20290519
+DTEND;VALUE=DATE:20290520
+SUMMARY:Nuit europeenne des Musees
+DESCRIPTION:Entree gratuite dans les musees participants - Ouverture nocturne exceptionnelle
+URL:https://nuitdesmusees.culture.gouv.fr/
+CATEGORIES:Culture,Musees
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fete-musique-2029@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20290621
+DTEND;VALUE=DATE:20290622
+SUMMARY:Fete de la Musique
+DESCRIPTION:Concerts gratuits partout en France - 21 juin
+URL:https://fetedelamusique.culture.gouv.fr/
+CATEGORIES:Culture,Musique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:journees-patrimoine-2029@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20290915
+DTEND;VALUE=DATE:20290917
+SUMMARY:Journees europeennes du Patrimoine
+DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre
+URL:https://journeesdupatrimoine.culture.gouv.fr/
+CATEGORIES:Culture,Patrimoine
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nuit-musees-2030@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20300518
+DTEND;VALUE=DATE:20300519
+SUMMARY:Nuit europeenne des Musees
+DESCRIPTION:Entree gratuite dans les musees participants - Ouverture nocturne exceptionnelle
+URL:https://nuitdesmusees.culture.gouv.fr/
+CATEGORIES:Culture,Musees
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fete-musique-2030@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20300621
+DTEND;VALUE=DATE:20300622
+SUMMARY:Fete de la Musique
+DESCRIPTION:Concerts gratuits partout en France - 21 juin
+URL:https://fetedelamusique.culture.gouv.fr/
+CATEGORIES:Culture,Musique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:journees-patrimoine-2030@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20300921
+DTEND;VALUE=DATE:20300923
+SUMMARY:Journees europeennes du Patrimoine
+DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre
+URL:https://journeesdupatrimoine.culture.gouv.fr/
+CATEGORIES:Culture,Patrimoine
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

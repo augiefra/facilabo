@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Calendrier Soldes France//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Soldes France
+X-WR-CALDESC:Dates des soldes d'hiver et d'ete en France metropolitaine
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:soldes-hiver-debut-2025@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20250108
+DTEND;VALUE=DATE:20250109
+SUMMARY:Debut des Soldes d'hiver
+DESCRIPTION:Debut des soldes d'hiver en France metropolitaine - Duree 4 semaines
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-hiver-fin-2025@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20250204
+DTEND;VALUE=DATE:20250205
+SUMMARY:Fin des Soldes d'hiver
+DESCRIPTION:Dernier jour des soldes d'hiver en France metropolitaine
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-ete-debut-2025@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20250625
+DTEND;VALUE=DATE:20250626
+SUMMARY:Debut des Soldes d'ete
+DESCRIPTION:Debut des soldes d'ete en France metropolitaine - Duree 4 semaines
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-ete-fin-2025@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20250722
+DTEND;VALUE=DATE:20250723
+SUMMARY:Fin des Soldes d'ete
+DESCRIPTION:Dernier jour des soldes d'ete en France metropolitaine
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-hiver-debut-2026@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:Debut des Soldes d'hiver
+DESCRIPTION:Debut des soldes d'hiver en France metropolitaine - Duree 4 semaines
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-hiver-fin-2026@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:Fin des Soldes d'hiver
+DESCRIPTION:Dernier jour des soldes d'hiver en France metropolitaine
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-ete-debut-2026@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Debut des Soldes d'ete
+DESCRIPTION:Debut des soldes d'ete en France metropolitaine - Duree 4 semaines
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-ete-fin-2026@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:Fin des Soldes d'ete
+DESCRIPTION:Dernier jour des soldes d'ete en France metropolitaine
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-hiver-debut-2027@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Debut des Soldes d'hiver
+DESCRIPTION:Debut des soldes d'hiver en France metropolitaine - Duree 4 semaines
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-hiver-fin-2027@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Fin des Soldes d'hiver
+DESCRIPTION:Dernier jour des soldes d'hiver en France metropolitaine
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-ete-debut-2027@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Debut des Soldes d'ete
+DESCRIPTION:Debut des soldes d'ete en France metropolitaine - Duree 4 semaines
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-ete-fin-2027@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:Fin des Soldes d'ete
+DESCRIPTION:Dernier jour des soldes d'ete en France metropolitaine
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-hiver-debut-2028@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20280112
+DTEND;VALUE=DATE:20280113
+SUMMARY:Debut des Soldes d'hiver
+DESCRIPTION:Debut des soldes d'hiver en France metropolitaine - Duree 4 semaines
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-hiver-fin-2028@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20280208
+DTEND;VALUE=DATE:20280209
+SUMMARY:Fin des Soldes d'hiver
+DESCRIPTION:Dernier jour des soldes d'hiver en France metropolitaine
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-ete-debut-2028@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20280628
+DTEND;VALUE=DATE:20280629
+SUMMARY:Debut des Soldes d'ete
+DESCRIPTION:Debut des soldes d'ete en France metropolitaine - Duree 4 semaines
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-ete-fin-2028@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Fin des Soldes d'ete
+DESCRIPTION:Dernier jour des soldes d'ete en France metropolitaine
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-hiver-debut-2029@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20290110
+DTEND;VALUE=DATE:20290111
+SUMMARY:Debut des Soldes d'hiver
+DESCRIPTION:Debut des soldes d'hiver en France metropolitaine - Duree 4 semaines
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-hiver-fin-2029@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20290206
+DTEND;VALUE=DATE:20290207
+SUMMARY:Fin des Soldes d'hiver
+DESCRIPTION:Dernier jour des soldes d'hiver en France metropolitaine
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-ete-debut-2029@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20290627
+DTEND;VALUE=DATE:20290628
+SUMMARY:Debut des Soldes d'ete
+DESCRIPTION:Debut des soldes d'ete en France metropolitaine - Duree 4 semaines
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-ete-fin-2029@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20290724
+DTEND;VALUE=DATE:20290725
+SUMMARY:Fin des Soldes d'ete
+DESCRIPTION:Dernier jour des soldes d'ete en France metropolitaine
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-hiver-debut-2030@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20300109
+DTEND;VALUE=DATE:20300110
+SUMMARY:Debut des Soldes d'hiver
+DESCRIPTION:Debut des soldes d'hiver en France metropolitaine - Duree 4 semaines
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-hiver-fin-2030@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20300205
+DTEND;VALUE=DATE:20300206
+SUMMARY:Fin des Soldes d'hiver
+DESCRIPTION:Dernier jour des soldes d'hiver en France metropolitaine
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-ete-debut-2030@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20300626
+DTEND;VALUE=DATE:20300627
+SUMMARY:Debut des Soldes d'ete
+DESCRIPTION:Debut des soldes d'ete en France metropolitaine - Duree 4 semaines
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soldes-ete-fin-2030@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20300723
+DTEND;VALUE=DATE:20300724
+SUMMARY:Fin des Soldes d'ete
+DESCRIPTION:Dernier jour des soldes d'ete en France metropolitaine
+CATEGORIES:Soldes,Shopping
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
