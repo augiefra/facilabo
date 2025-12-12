@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Prime Day & Singles Day//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Prime Day & Singles Day
+X-WR-CALDESC:Amazon Prime Day (juillet) et Singles Day Alibaba (11 novembre)
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:primeday-2025-1@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20250715
+DTEND;VALUE=DATE:20250716
+SUMMARY:Amazon Prime Day - Jour 1
+DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+CATEGORIES:E-commerce,Amazon,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:primeday-2025-2@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20250716
+DTEND;VALUE=DATE:20250717
+SUMMARY:Amazon Prime Day - Jour 2
+DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+CATEGORIES:E-commerce,Amazon,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:singlesday-2025@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20251111
+DTEND;VALUE=DATE:20251112
+SUMMARY:Singles Day (11.11)
+DESCRIPTION:Plus grande journee de shopping au monde - Alibaba/AliExpress
+CATEGORIES:E-commerce,Alibaba,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:primeday-2026-1@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Amazon Prime Day - Jour 1
+DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+CATEGORIES:E-commerce,Amazon,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:primeday-2026-2@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:Amazon Prime Day - Jour 2
+DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+CATEGORIES:E-commerce,Amazon,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:singlesday-2026@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Singles Day (11.11)
+DESCRIPTION:Plus grande journee de shopping au monde - Alibaba/AliExpress
+CATEGORIES:E-commerce,Alibaba,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:primeday-2027-1@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20270713
+DTEND;VALUE=DATE:20270714
+SUMMARY:Amazon Prime Day - Jour 1
+DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+CATEGORIES:E-commerce,Amazon,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:primeday-2027-2@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:Amazon Prime Day - Jour 2
+DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+CATEGORIES:E-commerce,Amazon,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:singlesday-2027@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+SUMMARY:Singles Day (11.11)
+DESCRIPTION:Plus grande journee de shopping au monde - Alibaba/AliExpress
+CATEGORIES:E-commerce,Alibaba,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:primeday-2028-1@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20280711
+DTEND;VALUE=DATE:20280712
+SUMMARY:Amazon Prime Day - Jour 1
+DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+CATEGORIES:E-commerce,Amazon,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:primeday-2028-2@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20280712
+DTEND;VALUE=DATE:20280713
+SUMMARY:Amazon Prime Day - Jour 2
+DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+CATEGORIES:E-commerce,Amazon,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:singlesday-2028@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20281111
+DTEND;VALUE=DATE:20281112
+SUMMARY:Singles Day (11.11)
+DESCRIPTION:Plus grande journee de shopping au monde - Alibaba/AliExpress
+CATEGORIES:E-commerce,Alibaba,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:primeday-2029-1@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20290710
+DTEND;VALUE=DATE:20290711
+SUMMARY:Amazon Prime Day - Jour 1
+DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+CATEGORIES:E-commerce,Amazon,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:primeday-2029-2@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20290711
+DTEND;VALUE=DATE:20290712
+SUMMARY:Amazon Prime Day - Jour 2
+DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+CATEGORIES:E-commerce,Amazon,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:singlesday-2029@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20291111
+DTEND;VALUE=DATE:20291112
+SUMMARY:Singles Day (11.11)
+DESCRIPTION:Plus grande journee de shopping au monde - Alibaba/AliExpress
+CATEGORIES:E-commerce,Alibaba,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:primeday-2030-1@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20300716
+DTEND;VALUE=DATE:20300717
+SUMMARY:Amazon Prime Day - Jour 1
+DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+CATEGORIES:E-commerce,Amazon,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:primeday-2030-2@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20300717
+DTEND;VALUE=DATE:20300718
+SUMMARY:Amazon Prime Day - Jour 2
+DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+CATEGORIES:E-commerce,Amazon,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:singlesday-2030@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20301111
+DTEND;VALUE=DATE:20301112
+SUMMARY:Singles Day (11.11)
+DESCRIPTION:Plus grande journee de shopping au monde - Alibaba/AliExpress
+CATEGORIES:E-commerce,Alibaba,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

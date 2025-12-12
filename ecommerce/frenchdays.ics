@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//French Days//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:French Days
+X-WR-CALDESC:French Days - Promotions e-commerce francaises (printemps et automne)
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:frenchdays-spring-2025@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250506
+SUMMARY:French Days - Printemps
+DESCRIPTION:Promotions e-commerce francaises - Edition de printemps
+CATEGORIES:E-commerce,Promotions,France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:frenchdays-fall-2025@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20250924
+DTEND;VALUE=DATE:20250929
+SUMMARY:French Days - Automne
+DESCRIPTION:Promotions e-commerce francaises - Edition d'automne
+CATEGORIES:E-commerce,Promotions,France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:frenchdays-spring-2026@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260504
+SUMMARY:French Days - Printemps
+DESCRIPTION:Promotions e-commerce francaises - Edition de printemps
+CATEGORIES:E-commerce,Promotions,France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:frenchdays-fall-2026@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260928
+SUMMARY:French Days - Automne
+DESCRIPTION:Promotions e-commerce francaises - Edition d'automne
+CATEGORIES:E-commerce,Promotions,France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:frenchdays-spring-2027@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270503
+SUMMARY:French Days - Printemps
+DESCRIPTION:Promotions e-commerce francaises - Edition de printemps
+CATEGORIES:E-commerce,Promotions,France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:frenchdays-fall-2027@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270927
+SUMMARY:French Days - Automne
+DESCRIPTION:Promotions e-commerce francaises - Edition d'automne
+CATEGORIES:E-commerce,Promotions,France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:frenchdays-spring-2028@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20280426
+DTEND;VALUE=DATE:20280501
+SUMMARY:French Days - Printemps
+DESCRIPTION:Promotions e-commerce francaises - Edition de printemps
+CATEGORIES:E-commerce,Promotions,France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:frenchdays-fall-2028@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20280927
+DTEND;VALUE=DATE:20281002
+SUMMARY:French Days - Automne
+DESCRIPTION:Promotions e-commerce francaises - Edition d'automne
+CATEGORIES:E-commerce,Promotions,France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:frenchdays-spring-2029@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20290425
+DTEND;VALUE=DATE:20290430
+SUMMARY:French Days - Printemps
+DESCRIPTION:Promotions e-commerce francaises - Edition de printemps
+CATEGORIES:E-commerce,Promotions,France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:frenchdays-fall-2029@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20290926
+DTEND;VALUE=DATE:20291001
+SUMMARY:French Days - Automne
+DESCRIPTION:Promotions e-commerce francaises - Edition d'automne
+CATEGORIES:E-commerce,Promotions,France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:frenchdays-spring-2030@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20300424
+DTEND;VALUE=DATE:20300429
+SUMMARY:French Days - Printemps
+DESCRIPTION:Promotions e-commerce francaises - Edition de printemps
+CATEGORIES:E-commerce,Promotions,France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:frenchdays-fall-2030@facilabo.app
+DTSTAMP:20241212T120000Z
+DTSTART;VALUE=DATE:20300925
+DTEND;VALUE=DATE:20300930
+SUMMARY:French Days - Automne
+DESCRIPTION:Promotions e-commerce francaises - Edition d'automne
+CATEGORIES:E-commerce,Promotions,France
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
