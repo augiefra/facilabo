@@ -1,17 +1,22 @@
 # FacilAbo Calendars
 
-Calendriers ICS personnalisés pour l'application FacilAbo.
+Calendriers ICS personnalises pour l'application FacilAbo.
 
 ## Structure
 
 ```
-calendars/
+/
 ├── fiscal/
-│   └── france.ics      # Calendrier fiscal français (2025-2030)
+│   └── france.ics          # Calendrier fiscal francais (2025-2030)
 ├── soldes/
-│   └── france.ics      # Dates des soldes (2025-2030)
+│   └── france.ics          # Dates des soldes (2025-2030)
 ├── culture/
-│   └── france.ics      # Événements culturels (2025-2030)
+│   └── france.ics          # Evenements culturels (2025-2030)
+├── ecommerce/
+│   ├── blackfriday.ics     # Black Friday & Cyber Monday (2025-2030)
+│   ├── primeday.ics        # Prime Day & Singles Day (2025-2030)
+│   ├── frenchdays.ics      # French Days (2025-2030)
+│   └── fetes-commerciales.ics  # Fetes commerciales (2025-2030)
 └── README.md
 ```
 
@@ -20,40 +25,75 @@ calendars/
 ### Calendrier Fiscal (`fiscal/france.ics`)
 - **X-WR-CALNAME**: "Calendrier Fiscal France"
 - Contenu:
-  - Déclaration de revenus (papier et en ligne par zone)
-  - Taxe foncière (paiement classique et en ligne)
-  - IFI (Impôt sur la Fortune Immobilière)
+  - Declaration de revenus (papier et en ligne par zone)
+  - Taxe fonciere (paiement classique et en ligne)
+  - IFI (Impot sur la Fortune Immobiliere)
 
 ### Soldes (`soldes/france.ics`)
 - **X-WR-CALNAME**: "Soldes France"
 - Contenu:
-  - Soldes d'hiver (2ème mercredi de janvier, 4 semaines)
-  - Soldes d'été (dernier mercredi de juin, 4 semaines)
-- Calcul basé sur le Code du commerce français
+  - Soldes d'hiver (2eme mercredi de janvier, 4 semaines)
+  - Soldes d'ete (dernier mercredi de juin, 4 semaines)
+- Calcul base sur le Code du commerce francais
 
 ### Culture (`culture/france.ics`)
-- **X-WR-CALNAME**: "Événements Culturels France"
+- **X-WR-CALNAME**: "Evenements Culturels France"
 - Contenu:
-  - Nuit européenne des Musées (3ème samedi de mai)
-  - Fête de la Musique (21 juin)
-  - Journées européennes du Patrimoine (3ème week-end de septembre)
+  - Nuit europeenne des Musees (3eme samedi de mai)
+  - Fete de la Musique (21 juin)
+  - Journees europeennes du Patrimoine (3eme week-end de septembre)
 
-## Accès aux fichiers (repo public)
+### E-commerce
 
-URLs raw GitHub (pas besoin de GitHub Pages):
-- `https://raw.githubusercontent.com/augiefra/facilabo/develop/calendars/fiscal/france.ics`
-- `https://raw.githubusercontent.com/augiefra/facilabo/develop/calendars/soldes/france.ics`
-- `https://raw.githubusercontent.com/augiefra/facilabo/develop/calendars/culture/france.ics`
+#### Black Friday & Cyber Monday (`ecommerce/blackfriday.ics`)
+- **X-WR-CALNAME**: "Black Friday & Cyber Monday"
+- Contenu:
+  - Black Friday (dernier vendredi de novembre)
+  - Cyber Monday (lundi suivant le Black Friday)
 
-## Mise à jour
+#### Prime Day & Singles Day (`ecommerce/primeday.ics`)
+- **X-WR-CALNAME**: "Prime Day & Singles Day"
+- Contenu:
+  - Amazon Prime Day (mi-juillet, 2 jours)
+  - Singles Day Alibaba (11 novembre)
 
-Les calendriers couvrent 2025-2030. Pour mettre à jour:
+#### French Days (`ecommerce/frenchdays.ics`)
+- **X-WR-CALNAME**: "French Days"
+- Contenu:
+  - French Days Printemps (fin avril/debut mai)
+  - French Days Automne (fin septembre)
+
+#### Fetes Commerciales (`ecommerce/fetes-commerciales.ics`)
+- **X-WR-CALNAME**: "Fetes Commerciales"
+- Contenu:
+  - Saint-Valentin (14 fevrier)
+  - Fete des Meres (dernier dimanche de mai)
+  - Fete des Peres (3eme dimanche de juin)
+  - Halloween (31 octobre)
+
+## Acces aux fichiers (repo public)
+
+URLs raw GitHub:
+```
+https://raw.githubusercontent.com/augiefra/facilabo/main/fiscal/france.ics
+https://raw.githubusercontent.com/augiefra/facilabo/main/soldes/france.ics
+https://raw.githubusercontent.com/augiefra/facilabo/main/culture/france.ics
+https://raw.githubusercontent.com/augiefra/facilabo/main/ecommerce/blackfriday.ics
+https://raw.githubusercontent.com/augiefra/facilabo/main/ecommerce/primeday.ics
+https://raw.githubusercontent.com/augiefra/facilabo/main/ecommerce/frenchdays.ics
+https://raw.githubusercontent.com/augiefra/facilabo/main/ecommerce/fetes-commerciales.ics
+```
+
+## Mise a jour
+
+Les calendriers couvrent 2025-2030. Pour mettre a jour:
 1. Modifier les fichiers `.ics`
 2. Push sur `main`
-3. GitHub Pages met à jour automatiquement
+3. Les URLs raw sont immediatement accessibles
 
 ## Sources
 
 - **Fiscal**: [impots.gouv.fr](https://www.impots.gouv.fr)
 - **Soldes**: [economie.gouv.fr](https://www.economie.gouv.fr/dgccrf/soldes)
 - **Culture**: [culture.gouv.fr](https://www.culture.gouv.fr)
+- **E-commerce**: Dates calculees selon les standards du marche francais
