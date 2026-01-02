@@ -6,8 +6,12 @@ Calendriers ICS personnalises pour l'application FacilAbo.
 
 ```
 /
+├── astronomie/
+│   └── calendrier-astronomie.ics  # Phases lunaires, eclipses, etc.
 ├── fiscal/
 │   └── france.ics          # Calendrier fiscal francais (2025-2030)
+├── jardin/
+│   └── lunaire.ics         # Calendrier lunaire (genere par nos soins)
 ├── soldes/
 │   └── france.ics          # Dates des soldes (2025-2030)
 ├── culture/
@@ -17,10 +21,17 @@ Calendriers ICS personnalises pour l'application FacilAbo.
 │   ├── primeday.ics        # Prime Day & Singles Day (2025-2030)
 │   ├── frenchdays.ics      # French Days (2025-2030)
 │   └── fetes-commerciales.ics  # Fetes commerciales (2025-2030)
+├── privacy-policy.html     # Page de confidentialite (App Store)
 └── README.md
 ```
 
 ## Calendriers disponibles
+
+### Astronomie (`astronomie/calendrier-astronomie.ics`)
+- **X-WR-CALNAME**: "Calendrier Astronomie"
+- Contenu:
+  - Phases de la lune
+  - Eclipses et principaux evenements astronomiques
 
 ### Calendrier Fiscal (`fiscal/france.ics`)
 - **X-WR-CALNAME**: "Calendrier Fiscal France"
@@ -42,6 +53,12 @@ Calendriers ICS personnalises pour l'application FacilAbo.
   - Nuit europeenne des Musees (3eme samedi de mai)
   - Fete de la Musique (21 juin)
   - Journees europeennes du Patrimoine (3eme week-end de septembre)
+
+### Jardin (`jardin/lunaire.ics`)
+- **X-WR-CALNAME**: "Calendrier Lunaire Jardin"
+- Contenu:
+  - Conseils quotidiens bases sur les cycles lunaires
+  - Fichier genere par nos soins (source interne)
 
 ### E-commerce
 
@@ -75,9 +92,11 @@ Calendriers ICS personnalises pour l'application FacilAbo.
 
 URLs raw GitHub:
 ```
+https://raw.githubusercontent.com/augiefra/facilabo/main/astronomie/calendrier-astronomie.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/fiscal/france.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/soldes/france.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/culture/france.ics
+https://raw.githubusercontent.com/augiefra/facilabo/main/jardin/lunaire.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/ecommerce/blackfriday.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/ecommerce/primeday.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/ecommerce/frenchdays.ics
@@ -97,3 +116,5 @@ Les calendriers couvrent 2025-2030. Pour mettre a jour:
 - **Soldes**: [economie.gouv.fr](https://www.economie.gouv.fr/dgccrf/soldes)
 - **Culture**: [culture.gouv.fr](https://www.culture.gouv.fr)
 - **E-commerce**: Dates calculees selon les standards du marche francais
+- **Astronomie**: Sources publiques + curation
+- **Jardin**: Calendrier genere en interne
