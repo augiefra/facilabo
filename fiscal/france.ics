@@ -214,4 +214,234 @@ DESCRIPTION:Date limite de paiement en ligne ou par prelevement de la taxe fonci
 CATEGORIES:Fiscalite,Impots
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-ifi-2026@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:IFI - Declaration
+DESCRIPTION:Date limite de declaration de l'Impot sur la Fortune Immobiliere
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-ifi-2027@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:IFI - Declaration
+DESCRIPTION:Date limite de declaration de l'Impot sur la Fortune Immobiliere
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-decla-papier-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20280516
+DTEND;VALUE=DATE:20280517
+SUMMARY:Declaration revenus (papier)
+DESCRIPTION:Date limite de depot de la declaration de revenus papier
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-decla-zone1-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20280518
+DTEND;VALUE=DATE:20280519
+SUMMARY:Declaration revenus en ligne - Zone 1
+DESCRIPTION:Date limite declaration en ligne - Departements 01 a 19 et non-residents
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-decla-zone2-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:Declaration revenus en ligne - Zone 2
+DESCRIPTION:Date limite declaration en ligne - Departements 20 a 54
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-decla-zone3-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20280601
+DTEND;VALUE=DATE:20280602
+SUMMARY:Declaration revenus en ligne - Zone 3
+DESCRIPTION:Date limite declaration en ligne - Departements 55 a 976
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-ifi-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20280601
+DTEND;VALUE=DATE:20280602
+SUMMARY:IFI - Declaration
+DESCRIPTION:Date limite de declaration de l'Impot sur la Fortune Immobiliere
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-taxe-fonciere-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20281015
+DTEND;VALUE=DATE:20281016
+SUMMARY:Taxe fonciere - Date limite
+DESCRIPTION:Date limite de paiement de la taxe fonciere (20 octobre si paiement en ligne)
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-taxe-fonciere-enligne-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20281020
+DTEND;VALUE=DATE:20281021
+SUMMARY:Taxe fonciere - Paiement en ligne
+DESCRIPTION:Date limite de paiement en ligne ou par prelevement de la taxe fonciere
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-decla-papier-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20290522
+DTEND;VALUE=DATE:20290523
+SUMMARY:Declaration revenus (papier)
+DESCRIPTION:Date limite de depot de la declaration de revenus papier
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-decla-zone1-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20290524
+DTEND;VALUE=DATE:20290525
+SUMMARY:Declaration revenus en ligne - Zone 1
+DESCRIPTION:Date limite declaration en ligne - Departements 01 a 19 et non-residents
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-decla-zone2-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20290531
+DTEND;VALUE=DATE:20290601
+SUMMARY:Declaration revenus en ligne - Zone 2
+DESCRIPTION:Date limite declaration en ligne - Departements 20 a 54
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-decla-zone3-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20290607
+DTEND;VALUE=DATE:20290608
+SUMMARY:Declaration revenus en ligne - Zone 3
+DESCRIPTION:Date limite declaration en ligne - Departements 55 a 976
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-ifi-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20290607
+DTEND;VALUE=DATE:20290608
+SUMMARY:IFI - Declaration
+DESCRIPTION:Date limite de declaration de l'Impot sur la Fortune Immobiliere
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-taxe-fonciere-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20291015
+DTEND;VALUE=DATE:20291016
+SUMMARY:Taxe fonciere - Date limite
+DESCRIPTION:Date limite de paiement de la taxe fonciere (20 octobre si paiement en ligne)
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-taxe-fonciere-enligne-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20291020
+DTEND;VALUE=DATE:20291021
+SUMMARY:Taxe fonciere - Paiement en ligne
+DESCRIPTION:Date limite de paiement en ligne ou par prelevement de la taxe fonciere
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-decla-papier-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20300521
+DTEND;VALUE=DATE:20300522
+SUMMARY:Declaration revenus (papier)
+DESCRIPTION:Date limite de depot de la declaration de revenus papier
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-decla-zone1-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20300523
+DTEND;VALUE=DATE:20300524
+SUMMARY:Declaration revenus en ligne - Zone 1
+DESCRIPTION:Date limite declaration en ligne - Departements 01 a 19 et non-residents
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-decla-zone2-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20300530
+DTEND;VALUE=DATE:20300531
+SUMMARY:Declaration revenus en ligne - Zone 2
+DESCRIPTION:Date limite declaration en ligne - Departements 20 a 54
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-decla-zone3-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20300606
+DTEND;VALUE=DATE:20300607
+SUMMARY:Declaration revenus en ligne - Zone 3
+DESCRIPTION:Date limite declaration en ligne - Departements 55 a 976
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-ifi-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20300606
+DTEND;VALUE=DATE:20300607
+SUMMARY:IFI - Declaration
+DESCRIPTION:Date limite de declaration de l'Impot sur la Fortune Immobiliere
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-taxe-fonciere-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20301015
+DTEND;VALUE=DATE:20301016
+SUMMARY:Taxe fonciere - Date limite
+DESCRIPTION:Date limite de paiement de la taxe fonciere (20 octobre si paiement en ligne)
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-taxe-fonciere-enligne-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20301020
+DTEND;VALUE=DATE:20301021
+SUMMARY:Taxe fonciere - Paiement en ligne
+DESCRIPTION:Date limite de paiement en ligne ou par prelevement de la taxe fonciere
+CATEGORIES:Fiscalite,Impots
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
