@@ -578,4 +578,624 @@ CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
 
+
+# 2028
+BEGIN:VEVENT
+UID:astro-quadra-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20280103
+DTEND;VALUE=DATE:20280105
+SUMMARY:Quadrantides - Pluie de meteores
+DESCRIPTION:Premiere grande pluie de meteores de l'annee. Jusqu'a 120 meteores par heure au pic.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-eclipse-lunaire-202801@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20280112
+DTEND;VALUE=DATE:20280113
+SUMMARY:Eclipse lunaire totale
+DESCRIPTION:Eclipse lunaire totale visible depuis l'Europe, l'Afrique, l'Amerique et l'Asie occidentale. Excellentes conditions d'observation.
+CATEGORIES:Astronomie,Eclipse
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-eclipse-solaire-202801@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20280126
+DTEND;VALUE=DATE:20280127
+SUMMARY:Eclipse solaire annulaire
+DESCRIPTION:Eclipse solaire annulaire visible depuis l'Amerique du Sud, l'Atlantique Sud et l'Antarctique.
+CATEGORIES:Astronomie,Eclipse
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-equinoxe-printemps-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20280320
+DTEND;VALUE=DATE:20280321
+SUMMARY:Equinoxe de printemps
+DESCRIPTION:Debut du printemps dans l'hemisphere nord. Le jour et la nuit ont une duree egale (07h17 UTC).
+CATEGORIES:Astronomie,Saisons
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-lyrides-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20280421
+DTEND;VALUE=DATE:20280423
+SUMMARY:Lyrides - Pluie de meteores
+DESCRIPTION:Pluie de meteores des Lyrides. Jusqu'a 20 meteores par heure au pic.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-eta-aquarides-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280507
+SUMMARY:Eta Aquarides - Pluie de meteores
+DESCRIPTION:Debris de la comete de Halley. Jusqu'a 60 meteores par heure.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-solstice-ete-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20280620
+DTEND;VALUE=DATE:20280621
+SUMMARY:Solstice d'ete
+DESCRIPTION:Jour le plus long de l'annee dans l'hemisphere nord. Debut de l'ete (20h02 UTC).
+CATEGORIES:Astronomie,Saisons
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-eclipse-lunaire-202807@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20280706
+DTEND;VALUE=DATE:20280707
+SUMMARY:Eclipse lunaire partielle
+DESCRIPTION:Eclipse lunaire partielle visible depuis l'Amerique, l'Europe, l'Afrique et l'Asie de l'Ouest.
+CATEGORIES:Astronomie,Eclipse
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-eclipse-solaire-202807@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Eclipse solaire totale
+DESCRIPTION:Eclipse solaire totale visible depuis l'Australie et la Nouvelle-Zelande.
+CATEGORIES:Astronomie,Eclipse
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-delta-aquarides-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280730
+SUMMARY:Delta Aquarides - Pluie de meteores
+DESCRIPTION:Pluie de meteores des Delta Aquarides. Jusqu'a 20 meteores par heure au pic.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-perseides-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20280811
+DTEND;VALUE=DATE:20280814
+SUMMARY:Perseides - Pluie de meteores
+DESCRIPTION:Une des meilleures pluies de meteores de l'annee! Jusqu'a 100 meteores par heure.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-equinoxe-automne-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20280922
+DTEND;VALUE=DATE:20280923
+SUMMARY:Equinoxe d'automne
+DESCRIPTION:Debut de l'automne dans l'hemisphere nord. Le jour et la nuit ont une duree egale (18h45 UTC).
+CATEGORIES:Astronomie,Saisons
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-orionides-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20281020
+DTEND;VALUE=DATE:20281022
+SUMMARY:Orionides - Pluie de meteores
+DESCRIPTION:Debris de la comete de Halley. Jusqu'a 20 meteores par heure.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-taurides-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20281104
+DTEND;VALUE=DATE:20281106
+SUMMARY:Taurides - Pluie de meteores
+DESCRIPTION:Pluie de meteores des Taurides. Meteores lents avec parfois des bolides spectaculaires.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-leonides-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20281116
+DTEND;VALUE=DATE:20281118
+SUMMARY:Leonides - Pluie de meteores
+DESCRIPTION:Debris de la comete Tempel-Tuttle. Jusqu'a 15 meteores par heure.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-geminides-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20281213
+DTEND;VALUE=DATE:20281215
+SUMMARY:Geminides - Pluie de meteores
+DESCRIPTION:Meilleure pluie de meteores de l'annee! Jusqu'a 120 meteores multicolores par heure.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-solstice-hiver-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20281221
+DTEND;VALUE=DATE:20281222
+SUMMARY:Solstice d'hiver
+DESCRIPTION:Nuit la plus longue de l'annee dans l'hemisphere nord. Debut de l'hiver (08h19 UTC).
+CATEGORIES:Astronomie,Saisons
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-ursides-2028@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20281221
+DTEND;VALUE=DATE:20281223
+SUMMARY:Ursides - Pluie de meteores
+DESCRIPTION:Pluie de meteores mineure. 5-10 meteores par heure au pic.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-eclipse-lunaire-202812@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:Eclipse lunaire totale - Nouvel An!
+DESCRIPTION:Eclipse lunaire totale pour celebrer le Nouvel An! Visible depuis l'Europe, l'Afrique, l'Amerique et l'Asie de l'Ouest.
+CATEGORIES:Astronomie,Eclipse
+STATUS:CONFIRMED
+END:VEVENT
+
+# 2029
+BEGIN:VEVENT
+UID:astro-quadra-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20290103
+DTEND;VALUE=DATE:20290105
+SUMMARY:Quadrantides - Pluie de meteores
+DESCRIPTION:Premiere grande pluie de meteores de l'annee. Jusqu'a 120 meteores par heure au pic.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-eclipse-lunaire-202901@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20290114
+DTEND;VALUE=DATE:20290115
+SUMMARY:Eclipse lunaire partielle
+DESCRIPTION:Eclipse lunaire partielle visible depuis l'Europe, l'Afrique, l'Amerique et l'Asie.
+CATEGORIES:Astronomie,Eclipse
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-equinoxe-printemps-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20290320
+DTEND;VALUE=DATE:20290321
+SUMMARY:Equinoxe de printemps
+DESCRIPTION:Debut du printemps dans l'hemisphere nord. Le jour et la nuit ont une duree egale (13h00 UTC).
+CATEGORIES:Astronomie,Saisons
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-lyrides-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20290421
+DTEND;VALUE=DATE:20290423
+SUMMARY:Lyrides - Pluie de meteores
+DESCRIPTION:Pluie de meteores des Lyrides. Jusqu'a 20 meteores par heure au pic.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-eta-aquarides-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20290505
+DTEND;VALUE=DATE:20290507
+SUMMARY:Eta Aquarides - Pluie de meteores
+DESCRIPTION:Debris de la comete de Halley. Jusqu'a 60 meteores par heure.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-eclipse-solaire-202906@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20290612
+DTEND;VALUE=DATE:20290613
+SUMMARY:Eclipse solaire totale - RARE!
+DESCRIPTION:EVENEMENT RARE! Eclipse solaire totale visible depuis l'Arctique, la Scandinavie (Norvege, Suede, Finlande). Une des plus longues du siecle avec 5 min 10 sec de totalite.
+CATEGORIES:Astronomie,Eclipse
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-solstice-ete-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20290621
+DTEND;VALUE=DATE:20290622
+SUMMARY:Solstice d'ete
+DESCRIPTION:Jour le plus long de l'annee dans l'hemisphere nord. Debut de l'ete (01h48 UTC).
+CATEGORIES:Astronomie,Saisons
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-eclipse-lunaire-202906@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20290626
+DTEND;VALUE=DATE:20290627
+SUMMARY:Eclipse lunaire partielle
+DESCRIPTION:Eclipse lunaire partielle visible depuis l'Europe, l'Afrique, l'Asie et l'Australie.
+CATEGORIES:Astronomie,Eclipse
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-eclipse-solaire-202907@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20290711
+DTEND;VALUE=DATE:20290712
+SUMMARY:Eclipse solaire partielle
+DESCRIPTION:Eclipse solaire partielle visible depuis l'Amerique du Sud et l'Antarctique.
+CATEGORIES:Astronomie,Eclipse
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-delta-aquarides-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20290728
+DTEND;VALUE=DATE:20290730
+SUMMARY:Delta Aquarides - Pluie de meteores
+DESCRIPTION:Pluie de meteores des Delta Aquarides. Jusqu'a 20 meteores par heure au pic.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-perseides-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20290811
+DTEND;VALUE=DATE:20290814
+SUMMARY:Perseides - Pluie de meteores
+DESCRIPTION:Une des meilleures pluies de meteores de l'annee! Jusqu'a 100 meteores par heure.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-equinoxe-automne-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20290922
+DTEND;VALUE=DATE:20290923
+SUMMARY:Equinoxe d'automne
+DESCRIPTION:Debut de l'automne dans l'hemisphere nord. Le jour et la nuit ont une duree egale (00h38 UTC).
+CATEGORIES:Astronomie,Saisons
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-orionides-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20291020
+DTEND;VALUE=DATE:20291022
+SUMMARY:Orionides - Pluie de meteores
+DESCRIPTION:Debris de la comete de Halley. Jusqu'a 20 meteores par heure.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-taurides-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20291104
+DTEND;VALUE=DATE:20291106
+SUMMARY:Taurides - Pluie de meteores
+DESCRIPTION:Pluie de meteores des Taurides. Meteores lents avec parfois des bolides spectaculaires.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-leonides-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20291116
+DTEND;VALUE=DATE:20291118
+SUMMARY:Leonides - Pluie de meteores
+DESCRIPTION:Debris de la comete Tempel-Tuttle. Jusqu'a 15 meteores par heure.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-eclipse-lunaire-202912@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20291205
+DTEND;VALUE=DATE:20291206
+SUMMARY:Eclipse lunaire totale
+DESCRIPTION:Eclipse lunaire totale visible depuis l'Europe, l'Afrique, l'Amerique et l'Asie occidentale. Excellentes conditions d'observation.
+CATEGORIES:Astronomie,Eclipse
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-geminides-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20291213
+DTEND;VALUE=DATE:20291215
+SUMMARY:Geminides - Pluie de meteores
+DESCRIPTION:Meilleure pluie de meteores de l'annee! Jusqu'a 120 meteores multicolores par heure.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-solstice-hiver-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20291221
+DTEND;VALUE=DATE:20291222
+SUMMARY:Solstice d'hiver
+DESCRIPTION:Nuit la plus longue de l'annee dans l'hemisphere nord. Debut de l'hiver (14h15 UTC).
+CATEGORIES:Astronomie,Saisons
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-ursides-2029@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20291221
+DTEND;VALUE=DATE:20291223
+SUMMARY:Ursides - Pluie de meteores
+DESCRIPTION:Pluie de meteores mineure. 5-10 meteores par heure au pic.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+# 2030
+BEGIN:VEVENT
+UID:astro-quadra-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20300103
+DTEND;VALUE=DATE:20300105
+SUMMARY:Quadrantides - Pluie de meteores
+DESCRIPTION:Premiere grande pluie de meteores de l'annee. Jusqu'a 120 meteores par heure au pic.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-equinoxe-printemps-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20300320
+DTEND;VALUE=DATE:20300321
+SUMMARY:Equinoxe de printemps
+DESCRIPTION:Debut du printemps dans l'hemisphere nord. Le jour et la nuit ont une duree egale (18h51 UTC).
+CATEGORIES:Astronomie,Saisons
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-lyrides-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20300421
+DTEND;VALUE=DATE:20300423
+SUMMARY:Lyrides - Pluie de meteores
+DESCRIPTION:Pluie de meteores des Lyrides. Jusqu'a 20 meteores par heure au pic.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-eta-aquarides-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20300505
+DTEND;VALUE=DATE:20300507
+SUMMARY:Eta Aquarides - Pluie de meteores
+DESCRIPTION:Debris de la comete de Halley. Jusqu'a 60 meteores par heure.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-eclipse-solaire-203006@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20300601
+DTEND;VALUE=DATE:20300602
+SUMMARY:Eclipse solaire annulaire
+DESCRIPTION:Eclipse solaire annulaire visible depuis l'Afrique du Nord, l'Europe de l'Est, l'Asie de l'Ouest et la Russie.
+CATEGORIES:Astronomie,Eclipse
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-eclipse-lunaire-203006@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20300615
+DTEND;VALUE=DATE:20300616
+SUMMARY:Eclipse lunaire partielle
+DESCRIPTION:Eclipse lunaire partielle visible depuis l'Europe, l'Afrique, l'Asie et l'Australie.
+CATEGORIES:Astronomie,Eclipse
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-solstice-ete-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20300621
+DTEND;VALUE=DATE:20300622
+SUMMARY:Solstice d'ete
+DESCRIPTION:Jour le plus long de l'annee dans l'hemisphere nord. Debut de l'ete (07h31 UTC).
+CATEGORIES:Astronomie,Saisons
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-delta-aquarides-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20300728
+DTEND;VALUE=DATE:20300730
+SUMMARY:Delta Aquarides - Pluie de meteores
+DESCRIPTION:Pluie de meteores des Delta Aquarides. Jusqu'a 20 meteores par heure au pic.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-perseides-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20300811
+DTEND;VALUE=DATE:20300814
+SUMMARY:Perseides - Pluie de meteores
+DESCRIPTION:Une des meilleures pluies de meteores de l'annee! Jusqu'a 100 meteores par heure.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-equinoxe-automne-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20300922
+DTEND;VALUE=DATE:20300923
+SUMMARY:Equinoxe d'automne
+DESCRIPTION:Debut de l'automne dans l'hemisphere nord. Le jour et la nuit ont une duree egale (06h27 UTC).
+CATEGORIES:Astronomie,Saisons
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-orionides-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20301020
+DTEND;VALUE=DATE:20301022
+SUMMARY:Orionides - Pluie de meteores
+DESCRIPTION:Debris de la comete de Halley. Jusqu'a 20 meteores par heure.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-taurides-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20301104
+DTEND;VALUE=DATE:20301106
+SUMMARY:Taurides - Pluie de meteores
+DESCRIPTION:Pluie de meteores des Taurides. Meteores lents avec parfois des bolides spectaculaires.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-leonides-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20301116
+DTEND;VALUE=DATE:20301118
+SUMMARY:Leonides - Pluie de meteores
+DESCRIPTION:Debris de la comete Tempel-Tuttle. Jusqu'a 15 meteores par heure.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-eclipse-solaire-203011@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20301125
+DTEND;VALUE=DATE:20301126
+SUMMARY:Eclipse solaire totale
+DESCRIPTION:Eclipse solaire totale visible depuis l'Afrique du Sud, l'ocean Indien et l'Australie.
+CATEGORIES:Astronomie,Eclipse
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-eclipse-lunaire-203012@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20301209
+DTEND;VALUE=DATE:20301210
+SUMMARY:Eclipse lunaire penombrale
+DESCRIPTION:Eclipse lunaire penombrale visible depuis l'Europe, l'Afrique et l'Asie.
+CATEGORIES:Astronomie,Eclipse
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-geminides-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20301213
+DTEND;VALUE=DATE:20301215
+SUMMARY:Geminides - Pluie de meteores
+DESCRIPTION:Meilleure pluie de meteores de l'annee! Jusqu'a 120 meteores multicolores par heure.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-solstice-hiver-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20301221
+DTEND;VALUE=DATE:20301222
+SUMMARY:Solstice d'hiver
+DESCRIPTION:Nuit la plus longue de l'annee dans l'hemisphere nord. Debut de l'hiver (20h09 UTC).
+CATEGORIES:Astronomie,Saisons
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:astro-ursides-2030@facilabo.app
+DTSTAMP:20260106T120000Z
+DTSTART;VALUE=DATE:20301221
+DTEND;VALUE=DATE:20301223
+SUMMARY:Ursides - Pluie de meteores
+DESCRIPTION:Pluie de meteores mineure. 5-10 meteores par heure au pic.
+CATEGORIES:Astronomie,Meteores
+STATUS:CONFIRMED
+END:VEVENT
+
 END:VCALENDAR
