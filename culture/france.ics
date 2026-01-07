@@ -48,11 +48,11 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:journees-patrimoine-2025@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20250920
-DTEND;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250921
 SUMMARY:Journees europeennes du Patrimoine
-DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre
+DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre (samedi 20 et dimanche 21 septembre)
 URL:https://journeesdupatrimoine.culture.gouv.fr/
 CATEGORIES:Culture,Patrimoine
 STATUS:CONFIRMED
@@ -81,11 +81,11 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:journees-patrimoine-2026@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260920
 SUMMARY:Journees europeennes du Patrimoine
-DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre
+DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre (samedi 19 et dimanche 20 septembre)
 URL:https://journeesdupatrimoine.culture.gouv.fr/
 CATEGORIES:Culture,Patrimoine
 STATUS:CONFIRMED
@@ -114,11 +114,11 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:journees-patrimoine-2027@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20270918
-DTEND;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270919
 SUMMARY:Journees europeennes du Patrimoine
-DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre
+DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre (samedi 18 et dimanche 19 septembre)
 URL:https://journeesdupatrimoine.culture.gouv.fr/
 CATEGORIES:Culture,Patrimoine
 STATUS:CONFIRMED
@@ -147,11 +147,11 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:journees-patrimoine-2028@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20280916
-DTEND;VALUE=DATE:20280918
+DTEND;VALUE=DATE:20280917
 SUMMARY:Journees europeennes du Patrimoine
-DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre
+DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre (samedi 16 et dimanche 17 septembre)
 URL:https://journeesdupatrimoine.culture.gouv.fr/
 CATEGORIES:Culture,Patrimoine
 STATUS:CONFIRMED
@@ -180,11 +180,11 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:journees-patrimoine-2029@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20290915
-DTEND;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290916
 SUMMARY:Journees europeennes du Patrimoine
-DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre
+DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre (samedi 15 et dimanche 16 septembre)
 URL:https://journeesdupatrimoine.culture.gouv.fr/
 CATEGORIES:Culture,Patrimoine
 STATUS:CONFIRMED
@@ -213,11 +213,11 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:journees-patrimoine-2030@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20300921
-DTEND;VALUE=DATE:20300923
+DTEND;VALUE=DATE:20300922
 SUMMARY:Journees europeennes du Patrimoine
-DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre
+DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre (samedi 21 et dimanche 22 septembre)
 URL:https://journeesdupatrimoine.culture.gouv.fr/
 CATEGORIES:Culture,Patrimoine
 STATUS:CONFIRMED
