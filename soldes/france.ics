@@ -106,21 +106,21 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:soldes-hiver-debut-2027@facilabo.app
-DTSTAMP:20241212T120000Z
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270114
+DTSTAMP:20260107T120000Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
 SUMMARY:Debut des Soldes d'hiver
-DESCRIPTION:Debut des soldes d'hiver en France metropolitaine - Duree 4 semaines
+DESCRIPTION:Debut des soldes d'hiver en France metropolitaine - Duree 4 semaines (du 6 janvier au 2 fevrier)
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:soldes-hiver-fin-2027@facilabo.app
-DTSTAMP:20241212T120000Z
-DTSTART;VALUE=DATE:20270209
-DTEND;VALUE=DATE:20270210
+DTSTAMP:20260107T120000Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
 SUMMARY:Fin des Soldes d'hiver
-DESCRIPTION:Dernier jour des soldes d'hiver en France metropolitaine
+DESCRIPTION:Dernier jour des soldes d'hiver en France metropolitaine (2 fevrier 2027)
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -146,21 +146,21 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:soldes-hiver-debut-2028@facilabo.app
-DTSTAMP:20241212T120000Z
-DTSTART;VALUE=DATE:20280112
-DTEND;VALUE=DATE:20280113
+DTSTAMP:20260107T120000Z
+DTSTART;VALUE=DATE:20280105
+DTEND;VALUE=DATE:20280106
 SUMMARY:Debut des Soldes d'hiver
-DESCRIPTION:Debut des soldes d'hiver en France metropolitaine - Duree 4 semaines
+DESCRIPTION:Debut des soldes d'hiver en France metropolitaine - Duree 4 semaines (du 5 janvier au 1 fevrier)
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:soldes-hiver-fin-2028@facilabo.app
-DTSTAMP:20241212T120000Z
-DTSTART;VALUE=DATE:20280208
-DTEND;VALUE=DATE:20280209
+DTSTAMP:20260107T120000Z
+DTSTART;VALUE=DATE:20280201
+DTEND;VALUE=DATE:20280202
 SUMMARY:Fin des Soldes d'hiver
-DESCRIPTION:Dernier jour des soldes d'hiver en France metropolitaine
+DESCRIPTION:Dernier jour des soldes d'hiver en France metropolitaine (1 fevrier 2028)
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -186,21 +186,21 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:soldes-hiver-debut-2029@facilabo.app
-DTSTAMP:20241212T120000Z
-DTSTART;VALUE=DATE:20290110
-DTEND;VALUE=DATE:20290111
+DTSTAMP:20260107T120000Z
+DTSTART;VALUE=DATE:20290103
+DTEND;VALUE=DATE:20290104
 SUMMARY:Debut des Soldes d'hiver
-DESCRIPTION:Debut des soldes d'hiver en France metropolitaine - Duree 4 semaines
+DESCRIPTION:Debut des soldes d'hiver en France metropolitaine - Duree 4 semaines (du 3 au 30 janvier)
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:soldes-hiver-fin-2029@facilabo.app
-DTSTAMP:20241212T120000Z
-DTSTART;VALUE=DATE:20290206
-DTEND;VALUE=DATE:20290207
+DTSTAMP:20260107T120000Z
+DTSTART;VALUE=DATE:20290130
+DTEND;VALUE=DATE:20290131
 SUMMARY:Fin des Soldes d'hiver
-DESCRIPTION:Dernier jour des soldes d'hiver en France metropolitaine
+DESCRIPTION:Dernier jour des soldes d'hiver en France metropolitaine (30 janvier 2029)
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -226,21 +226,21 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:soldes-hiver-debut-2030@facilabo.app
-DTSTAMP:20241212T120000Z
-DTSTART;VALUE=DATE:20300109
-DTEND;VALUE=DATE:20300110
+DTSTAMP:20260107T120000Z
+DTSTART;VALUE=DATE:20300102
+DTEND;VALUE=DATE:20300103
 SUMMARY:Debut des Soldes d'hiver
-DESCRIPTION:Debut des soldes d'hiver en France metropolitaine - Duree 4 semaines
+DESCRIPTION:Debut des soldes d'hiver en France metropolitaine - Duree 4 semaines (du 2 au 29 janvier)
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:soldes-hiver-fin-2030@facilabo.app
-DTSTAMP:20241212T120000Z
-DTSTART;VALUE=DATE:20300205
-DTEND;VALUE=DATE:20300206
+DTSTAMP:20260107T120000Z
+DTSTART;VALUE=DATE:20300129
+DTEND;VALUE=DATE:20300130
 SUMMARY:Fin des Soldes d'hiver
-DESCRIPTION:Dernier jour des soldes d'hiver en France metropolitaine
+DESCRIPTION:Dernier jour des soldes d'hiver en France metropolitaine (29 janvier 2030)
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
