@@ -4,7 +4,8 @@ PRODID:-//FacilAbo//Calendrier Astronomie FR//FR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Astronomie - FacilAbo
-X-WR-CALDESC:Phases lunaires, eclipses, meteores et evenements astronomiques en francais
+X-WR-CALDESC:Phases lunaires, eclipses, meteores et evenements astronomique
+ s en francais
 
 BEGIN:VEVENT
 UID:astro-quadra-2025@facilabo.app
@@ -12,7 +13,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20250103
 DTEND;VALUE=DATE:20250105
 SUMMARY:Quadrantides - Pluie de meteores
-DESCRIPTION:Premiere grande pluie de meteores de l'annee. Jusqu'a 120 meteores par heure au pic. Meilleure observation apres minuit.
+DESCRIPTION:Premiere grande pluie de meteores de l'annee. Jusqu'a 120 meteo
+ res par heure au pic. Meilleure observation apres minuit.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -23,7 +25,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20250129
 DTEND;VALUE=DATE:20250130
 SUMMARY:Nouvelle Lune
-DESCRIPTION:La Lune n'est pas visible - excellente periode pour observer les etoiles et galaxies.
+DESCRIPTION:La Lune n'est pas visible - excellente periode pour observer le
+ s etoiles et galaxies.
 CATEGORIES:Astronomie,Lune
 STATUS:CONFIRMED
 END:VEVENT
@@ -34,7 +37,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20250205
 DTEND;VALUE=DATE:20250206
 SUMMARY:Premier Quartier
-DESCRIPTION:La Lune est eclairee a 50% - bon moment pour observer les crateres au terminateur.
+DESCRIPTION:La Lune est eclairee a 50% - bon moment pour observer les crate
+ res au terminateur.
 CATEGORIES:Astronomie,Lune
 STATUS:CONFIRMED
 END:VEVENT
@@ -45,7 +49,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20250212
 DTEND;VALUE=DATE:20250213
 SUMMARY:Pleine Lune (Lune des Neiges)
-DESCRIPTION:Pleine Lune de fevrier, appelee Lune des Neiges par les Amerindiens.
+DESCRIPTION:Pleine Lune de fevrier, appelee Lune des Neiges par les Amerind
+ iens.
 CATEGORIES:Astronomie,Lune
 STATUS:CONFIRMED
 END:VEVENT
@@ -67,7 +72,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20250228
 DTEND;VALUE=DATE:20250301
 SUMMARY:Nouvelle Lune
-DESCRIPTION:La Lune n'est pas visible - excellente periode pour observer les etoiles.
+DESCRIPTION:La Lune n'est pas visible - excellente periode pour observer le
+ s etoiles.
 CATEGORIES:Astronomie,Lune
 STATUS:CONFIRMED
 END:VEVENT
@@ -78,7 +84,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20250320
 DTEND;VALUE=DATE:20250321
 SUMMARY:Equinoxe de printemps
-DESCRIPTION:Debut du printemps dans l'hemisphere nord. Le jour et la nuit ont une duree egale (09h02 UTC).
+DESCRIPTION:Debut du printemps dans l'hemisphere nord. Le jour et la nuit o
+ nt une duree egale (09h02 UTC).
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -89,7 +96,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20250329
 DTEND;VALUE=DATE:20250330
 SUMMARY:Eclipse solaire partielle
-DESCRIPTION:Eclipse solaire partielle visible depuis l'Europe, le nord de l'Afrique, l'Amerique du Nord et l'Atlantique.
+DESCRIPTION:Eclipse solaire partielle visible depuis l'Europe, le nord de l
+ 'Afrique, l'Amerique du Nord et l'Atlantique.
 CATEGORIES:Astronomie,Eclipse
 STATUS:CONFIRMED
 END:VEVENT
@@ -100,7 +108,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20250422
 DTEND;VALUE=DATE:20250423
 SUMMARY:Lyrides - Pluie de meteores
-DESCRIPTION:Pluie de meteores des Lyrides. Jusqu'a 20 meteores par heure au pic. Active du 16 au 25 avril.
+DESCRIPTION:Pluie de meteores des Lyrides. Jusqu'a 20 meteores par heure au
+  pic. Active du 16 au 25 avril.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -111,7 +120,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20250506
 DTEND;VALUE=DATE:20250507
 SUMMARY:Eta Aquarides - Pluie de meteores
-DESCRIPTION:Debris de la comete de Halley. Jusqu'a 60 meteores par heure. Meilleure observation avant l'aube.
+DESCRIPTION:Debris de la comete de Halley. Jusqu'a 60 meteores par heure. M
+ eilleure observation avant l'aube.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -122,7 +132,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20250621
 DTEND;VALUE=DATE:20250622
 SUMMARY:Solstice d'ete
-DESCRIPTION:Jour le plus long de l'annee dans l'hemisphere nord. Debut de l'ete (02h40 UTC).
+DESCRIPTION:Jour le plus long de l'annee dans l'hemisphere nord. Debut de l
+ 'ete (02h40 UTC).
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -133,7 +144,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20250728
 DTEND;VALUE=DATE:20250730
 SUMMARY:Delta Aquarides - Pluie de meteores
-DESCRIPTION:Pluie de meteores des Delta Aquarides. Jusqu'a 20 meteores par heure au pic.
+DESCRIPTION:Pluie de meteores des Delta Aquarides. Jusqu'a 20 meteores par 
+ heure au pic.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -144,7 +156,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20250812
 DTEND;VALUE=DATE:20250814
 SUMMARY:Perseides - Pluie de meteores
-DESCRIPTION:Une des meilleures pluies de meteores de l'annee! Jusqu'a 100 meteores par heure. Debris de la comete Swift-Tuttle.
+DESCRIPTION:Une des meilleures pluies de meteores de l'annee! Jusqu'a 100 m
+ eteores par heure. Debris de la comete Swift-Tuttle.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -155,7 +168,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20250922
 DTEND;VALUE=DATE:20250923
 SUMMARY:Equinoxe d'automne
-DESCRIPTION:Debut de l'automne dans l'hemisphere nord. Le jour et la nuit ont une duree egale.
+DESCRIPTION:Debut de l'automne dans l'hemisphere nord. Le jour et la nuit o
+ nt une duree egale.
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -166,7 +180,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20250907
 DTEND;VALUE=DATE:20250908
 SUMMARY:Eclipse lunaire totale
-DESCRIPTION:Eclipse lunaire totale visible depuis l'Europe, l'Afrique et l'Amerique.
+DESCRIPTION:Eclipse lunaire totale visible depuis l'Europe, l'Afrique et l'
+ Amerique.
 CATEGORIES:Astronomie,Eclipse
 STATUS:CONFIRMED
 END:VEVENT
@@ -177,7 +192,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20251021
 DTEND;VALUE=DATE:20251022
 SUMMARY:Orionides - Pluie de meteores
-DESCRIPTION:Debris de la comete de Halley. Jusqu'a 20 meteores par heure. Meteores rapides et brillants.
+DESCRIPTION:Debris de la comete de Halley. Jusqu'a 20 meteores par heure. M
+ eteores rapides et brillants.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -188,7 +204,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20251104
 DTEND;VALUE=DATE:20251106
 SUMMARY:Taurides - Pluie de meteores
-DESCRIPTION:Pluie de meteores des Taurides. Meteores lents avec parfois des bolides spectaculaires.
+DESCRIPTION:Pluie de meteores des Taurides. Meteores lents avec parfois des
+  bolides spectaculaires.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -199,7 +216,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20251117
 DTEND;VALUE=DATE:20251118
 SUMMARY:Leonides - Pluie de meteores
-DESCRIPTION:Debris de la comete Tempel-Tuttle. Jusqu'a 15 meteores par heure. Meteores tres rapides.
+DESCRIPTION:Debris de la comete Tempel-Tuttle. Jusqu'a 15 meteores par heur
+ e. Meteores tres rapides.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -210,7 +228,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20251213
 DTEND;VALUE=DATE:20251215
 SUMMARY:Geminides - Pluie de meteores
-DESCRIPTION:Consideree comme la meilleure pluie de meteores de l'annee! Jusqu'a 120 meteores multicolores par heure.
+DESCRIPTION:Consideree comme la meilleure pluie de meteores de l'annee! Jus
+ qu'a 120 meteores multicolores par heure.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -221,7 +240,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20251221
 DTEND;VALUE=DATE:20251222
 SUMMARY:Solstice d'hiver
-DESCRIPTION:Nuit la plus longue de l'annee dans l'hemisphere nord. Debut de l'hiver (15h02 UTC).
+DESCRIPTION:Nuit la plus longue de l'annee dans l'hemisphere nord. Debut de
+  l'hiver (15h02 UTC).
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -232,7 +252,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20251221
 DTEND;VALUE=DATE:20251223
 SUMMARY:Ursides - Pluie de meteores
-DESCRIPTION:Pluie de meteores mineure. 5-10 meteores par heure au pic. Debris de la comete Tuttle.
+DESCRIPTION:Pluie de meteores mineure. 5-10 meteores par heure au pic. Debr
+ is de la comete Tuttle.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -243,7 +264,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20260103
 DTEND;VALUE=DATE:20260105
 SUMMARY:Quadrantides - Pluie de meteores
-DESCRIPTION:Premiere grande pluie de meteores de l'annee. Jusqu'a 120 meteores par heure au pic.
+DESCRIPTION:Premiere grande pluie de meteores de l'annee. Jusqu'a 120 meteo
+ res par heure au pic.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -254,7 +276,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20260110
 DTEND;VALUE=DATE:20260111
 SUMMARY:Jupiter en opposition
-DESCRIPTION:Jupiter est au plus proche de la Terre et entierement illuminee par le Soleil. Meilleur moment pour l'observer!
+DESCRIPTION:Jupiter est au plus proche de la Terre et entierement illuminee
+  par le Soleil. Meilleur moment pour l'observer!
 CATEGORIES:Astronomie,Planetes
 STATUS:CONFIRMED
 END:VEVENT
@@ -265,7 +288,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260304
 SUMMARY:Eclipse lunaire totale
-DESCRIPTION:Eclipse lunaire totale visible depuis l'Europe, l'Afrique et l'Amerique.
+DESCRIPTION:Eclipse lunaire totale visible depuis l'Europe, l'Afrique et l'
+ Amerique.
 CATEGORIES:Astronomie,Eclipse
 STATUS:CONFIRMED
 END:VEVENT
@@ -276,7 +300,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:Equinoxe de printemps
-DESCRIPTION:Debut du printemps dans l'hemisphere nord. Le jour et la nuit ont une duree egale.
+DESCRIPTION:Debut du printemps dans l'hemisphere nord. Le jour et la nuit o
+ nt une duree egale.
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -287,7 +312,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
 SUMMARY:Lyrides - Pluie de meteores
-DESCRIPTION:Pluie de meteores des Lyrides. Jusqu'a 20 meteores par heure au pic.
+DESCRIPTION:Pluie de meteores des Lyrides. Jusqu'a 20 meteores par heure au
+  pic.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -309,7 +335,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
 SUMMARY:Solstice d'ete
-DESCRIPTION:Jour le plus long de l'annee dans l'hemisphere nord. Debut de l'ete (08h24 UTC).
+DESCRIPTION:Jour le plus long de l'annee dans l'hemisphere nord. Debut de l
+ 'ete (08h24 UTC).
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -320,7 +347,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260730
 SUMMARY:Delta Aquarides - Pluie de meteores
-DESCRIPTION:Pluie de meteores des Delta Aquarides. Jusqu'a 20 meteores par heure au pic.
+DESCRIPTION:Pluie de meteores des Delta Aquarides. Jusqu'a 20 meteores par 
+ heure au pic.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -331,7 +359,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260814
 SUMMARY:Perseides - Pluie de meteores
-DESCRIPTION:Excellente annee pour les Perseides! Nouvelle Lune = ciel sombre. Jusqu'a 90 meteores par heure.
+DESCRIPTION:Excellente annee pour les Perseides! Nouvelle Lune = ciel sombr
+ e. Jusqu'a 90 meteores par heure.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -342,7 +371,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:Eclipse solaire totale
-DESCRIPTION:Eclipse solaire totale visible depuis l'Arctique, le Groenland, l'Islande et l'Espagne.
+DESCRIPTION:Eclipse solaire totale visible depuis l'Arctique, le Groenland,
+  l'Islande et l'Espagne.
 CATEGORIES:Astronomie,Eclipse
 STATUS:CONFIRMED
 END:VEVENT
@@ -353,7 +383,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Equinoxe d'automne
-DESCRIPTION:Debut de l'automne dans l'hemisphere nord. Le jour et la nuit ont une duree egale.
+DESCRIPTION:Debut de l'automne dans l'hemisphere nord. Le jour et la nuit o
+ nt une duree egale.
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -375,7 +406,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Leonides - Pluie de meteores
-DESCRIPTION:Debris de la comete Tempel-Tuttle. Jusqu'a 15 meteores par heure.
+DESCRIPTION:Debris de la comete Tempel-Tuttle. Jusqu'a 15 meteores par heur
+ e.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -386,7 +418,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261215
 SUMMARY:Geminides - Pluie de meteores
-DESCRIPTION:Meilleure pluie de meteores de l'annee! Jusqu'a 120 meteores multicolores par heure. Excellentes conditions cette annee.
+DESCRIPTION:Meilleure pluie de meteores de l'annee! Jusqu'a 120 meteores mu
+ lticolores par heure. Excellentes conditions cette annee.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -397,7 +430,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:Solstice d'hiver
-DESCRIPTION:Nuit la plus longue de l'annee dans l'hemisphere nord. Debut de l'hiver (20h49 UTC).
+DESCRIPTION:Nuit la plus longue de l'annee dans l'hemisphere nord. Debut de
+  l'hiver (20h49 UTC).
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -419,7 +453,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270105
 SUMMARY:Quadrantides - Pluie de meteores
-DESCRIPTION:Premiere grande pluie de meteores de l'annee. Jusqu'a 120 meteores par heure au pic.
+DESCRIPTION:Premiere grande pluie de meteores de l'annee. Jusqu'a 120 meteo
+ res par heure au pic.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -430,7 +465,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:Equinoxe de printemps
-DESCRIPTION:Debut du printemps dans l'hemisphere nord. Le jour et la nuit ont une duree egale.
+DESCRIPTION:Debut du printemps dans l'hemisphere nord. Le jour et la nuit o
+ nt une duree egale.
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -441,7 +477,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
 SUMMARY:Lyrides - Pluie de meteores
-DESCRIPTION:Pluie de meteores des Lyrides. Jusqu'a 20 meteores par heure au pic.
+DESCRIPTION:Pluie de meteores des Lyrides. Jusqu'a 20 meteores par heure au
+  pic.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -463,7 +500,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270622
 SUMMARY:Solstice d'ete
-DESCRIPTION:Jour le plus long de l'annee dans l'hemisphere nord. Debut de l'ete.
+DESCRIPTION:Jour le plus long de l'annee dans l'hemisphere nord. Debut de l
+ 'ete.
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -474,7 +512,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
 SUMMARY:Eclipse lunaire penombrale
-DESCRIPTION:Eclipse lunaire penombrale visible depuis l'Afrique de l'Est, l'Asie du Sud-Est, l'Australie et le Pacifique.
+DESCRIPTION:Eclipse lunaire penombrale visible depuis l'Afrique de l'Est, l
+ 'Asie du Sud-Est, l'Australie et le Pacifique.
 CATEGORIES:Astronomie,Eclipse
 STATUS:CONFIRMED
 END:VEVENT
@@ -485,7 +524,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20270728
 DTEND;VALUE=DATE:20270730
 SUMMARY:Delta Aquarides - Pluie de meteores
-DESCRIPTION:Pluie de meteores des Delta Aquarides. Jusqu'a 20 meteores par heure au pic.
+DESCRIPTION:Pluie de meteores des Delta Aquarides. Jusqu'a 20 meteores par 
+ heure au pic.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -496,7 +536,9 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270803
 SUMMARY:Eclipse solaire totale - MAJEURE
-DESCRIPTION:Deuxieme plus longue eclipse solaire du siecle! Totalite de 6 min 24 sec. Visible depuis le Maroc, l'Espagne, l'Algerie, la Libye, l'Egypte, l'Arabie Saoudite.
+DESCRIPTION:Deuxieme plus longue eclipse solaire du siecle! Totalite de 6 m
+ in 24 sec. Visible depuis le Maroc, l'Espagne, l'Algerie, la Libye, l'Egyp
+ te, l'Arabie Saoudite.
 CATEGORIES:Astronomie,Eclipse
 STATUS:CONFIRMED
 END:VEVENT
@@ -507,7 +549,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20270812
 DTEND;VALUE=DATE:20270814
 SUMMARY:Perseides - Pluie de meteores
-DESCRIPTION:Une des meilleures pluies de meteores de l'annee! Jusqu'a 100 meteores par heure.
+DESCRIPTION:Une des meilleures pluies de meteores de l'annee! Jusqu'a 100 m
+ eteores par heure.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -518,7 +561,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20270923
 DTEND;VALUE=DATE:20270924
 SUMMARY:Equinoxe d'automne
-DESCRIPTION:Debut de l'automne dans l'hemisphere nord. Le jour et la nuit ont une duree egale.
+DESCRIPTION:Debut de l'automne dans l'hemisphere nord. Le jour et la nuit o
+ nt une duree egale.
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -540,7 +584,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20271117
 DTEND;VALUE=DATE:20271118
 SUMMARY:Leonides - Pluie de meteores
-DESCRIPTION:Debris de la comete Tempel-Tuttle. Jusqu'a 15 meteores par heure.
+DESCRIPTION:Debris de la comete Tempel-Tuttle. Jusqu'a 15 meteores par heur
+ e.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -551,7 +596,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20271213
 DTEND;VALUE=DATE:20271215
 SUMMARY:Geminides - Pluie de meteores
-DESCRIPTION:Meilleure pluie de meteores de l'annee! Jusqu'a 120 meteores multicolores par heure.
+DESCRIPTION:Meilleure pluie de meteores de l'annee! Jusqu'a 120 meteores mu
+ lticolores par heure.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -573,7 +619,8 @@ DTSTAMP:20241218T120000Z
 DTSTART;VALUE=DATE:20271222
 DTEND;VALUE=DATE:20271223
 SUMMARY:Solstice d'hiver
-DESCRIPTION:Nuit la plus longue de l'annee dans l'hemisphere nord. Debut de l'hiver (02h45 UTC).
+DESCRIPTION:Nuit la plus longue de l'annee dans l'hemisphere nord. Debut de
+  l'hiver (02h45 UTC).
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -586,7 +633,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20280103
 DTEND;VALUE=DATE:20280105
 SUMMARY:Quadrantides - Pluie de meteores
-DESCRIPTION:Premiere grande pluie de meteores de l'annee. Jusqu'a 120 meteores par heure au pic.
+DESCRIPTION:Premiere grande pluie de meteores de l'annee. Jusqu'a 120 meteo
+ res par heure au pic.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -597,7 +645,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20280112
 DTEND;VALUE=DATE:20280113
 SUMMARY:Eclipse lunaire totale
-DESCRIPTION:Eclipse lunaire totale visible depuis l'Europe, l'Afrique, l'Amerique et l'Asie occidentale. Excellentes conditions d'observation.
+DESCRIPTION:Eclipse lunaire totale visible depuis l'Europe, l'Afrique, l'Am
+ erique et l'Asie occidentale. Excellentes conditions d'observation.
 CATEGORIES:Astronomie,Eclipse
 STATUS:CONFIRMED
 END:VEVENT
@@ -608,7 +657,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20280126
 DTEND;VALUE=DATE:20280127
 SUMMARY:Eclipse solaire annulaire
-DESCRIPTION:Eclipse solaire annulaire visible depuis l'Amerique du Sud, l'Atlantique Sud et l'Antarctique.
+DESCRIPTION:Eclipse solaire annulaire visible depuis l'Amerique du Sud, l'A
+ tlantique Sud et l'Antarctique.
 CATEGORIES:Astronomie,Eclipse
 STATUS:CONFIRMED
 END:VEVENT
@@ -619,7 +669,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20280320
 DTEND;VALUE=DATE:20280321
 SUMMARY:Equinoxe de printemps
-DESCRIPTION:Debut du printemps dans l'hemisphere nord. Le jour et la nuit ont une duree egale (07h17 UTC).
+DESCRIPTION:Debut du printemps dans l'hemisphere nord. Le jour et la nuit o
+ nt une duree egale (07h17 UTC).
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -630,7 +681,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20280421
 DTEND;VALUE=DATE:20280423
 SUMMARY:Lyrides - Pluie de meteores
-DESCRIPTION:Pluie de meteores des Lyrides. Jusqu'a 20 meteores par heure au pic.
+DESCRIPTION:Pluie de meteores des Lyrides. Jusqu'a 20 meteores par heure au
+  pic.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -652,7 +704,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20280620
 DTEND;VALUE=DATE:20280621
 SUMMARY:Solstice d'ete
-DESCRIPTION:Jour le plus long de l'annee dans l'hemisphere nord. Debut de l'ete (20h02 UTC).
+DESCRIPTION:Jour le plus long de l'annee dans l'hemisphere nord. Debut de l
+ 'ete (20h02 UTC).
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -663,7 +716,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20280706
 DTEND;VALUE=DATE:20280707
 SUMMARY:Eclipse lunaire partielle
-DESCRIPTION:Eclipse lunaire partielle visible depuis l'Amerique, l'Europe, l'Afrique et l'Asie de l'Ouest.
+DESCRIPTION:Eclipse lunaire partielle visible depuis l'Amerique, l'Europe, 
+ l'Afrique et l'Asie de l'Ouest.
 CATEGORIES:Astronomie,Eclipse
 STATUS:CONFIRMED
 END:VEVENT
@@ -674,7 +728,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20280722
 DTEND;VALUE=DATE:20280723
 SUMMARY:Eclipse solaire totale
-DESCRIPTION:Eclipse solaire totale visible depuis l'Australie et la Nouvelle-Zelande.
+DESCRIPTION:Eclipse solaire totale visible depuis l'Australie et la Nouvell
+ e-Zelande.
 CATEGORIES:Astronomie,Eclipse
 STATUS:CONFIRMED
 END:VEVENT
@@ -685,7 +740,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20280728
 DTEND;VALUE=DATE:20280730
 SUMMARY:Delta Aquarides - Pluie de meteores
-DESCRIPTION:Pluie de meteores des Delta Aquarides. Jusqu'a 20 meteores par heure au pic.
+DESCRIPTION:Pluie de meteores des Delta Aquarides. Jusqu'a 20 meteores par 
+ heure au pic.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -696,7 +752,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20280811
 DTEND;VALUE=DATE:20280814
 SUMMARY:Perseides - Pluie de meteores
-DESCRIPTION:Une des meilleures pluies de meteores de l'annee! Jusqu'a 100 meteores par heure.
+DESCRIPTION:Une des meilleures pluies de meteores de l'annee! Jusqu'a 100 m
+ eteores par heure.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -707,7 +764,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20280922
 DTEND;VALUE=DATE:20280923
 SUMMARY:Equinoxe d'automne
-DESCRIPTION:Debut de l'automne dans l'hemisphere nord. Le jour et la nuit ont une duree egale (18h45 UTC).
+DESCRIPTION:Debut de l'automne dans l'hemisphere nord. Le jour et la nuit o
+ nt une duree egale (18h45 UTC).
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -729,7 +787,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20281104
 DTEND;VALUE=DATE:20281106
 SUMMARY:Taurides - Pluie de meteores
-DESCRIPTION:Pluie de meteores des Taurides. Meteores lents avec parfois des bolides spectaculaires.
+DESCRIPTION:Pluie de meteores des Taurides. Meteores lents avec parfois des
+  bolides spectaculaires.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -740,7 +799,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20281116
 DTEND;VALUE=DATE:20281118
 SUMMARY:Leonides - Pluie de meteores
-DESCRIPTION:Debris de la comete Tempel-Tuttle. Jusqu'a 15 meteores par heure.
+DESCRIPTION:Debris de la comete Tempel-Tuttle. Jusqu'a 15 meteores par heur
+ e.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -751,7 +811,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20281213
 DTEND;VALUE=DATE:20281215
 SUMMARY:Geminides - Pluie de meteores
-DESCRIPTION:Meilleure pluie de meteores de l'annee! Jusqu'a 120 meteores multicolores par heure.
+DESCRIPTION:Meilleure pluie de meteores de l'annee! Jusqu'a 120 meteores mu
+ lticolores par heure.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -762,7 +823,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20281221
 DTEND;VALUE=DATE:20281222
 SUMMARY:Solstice d'hiver
-DESCRIPTION:Nuit la plus longue de l'annee dans l'hemisphere nord. Debut de l'hiver (08h19 UTC).
+DESCRIPTION:Nuit la plus longue de l'annee dans l'hemisphere nord. Debut de
+  l'hiver (08h19 UTC).
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -784,7 +846,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20281231
 DTEND;VALUE=DATE:20290101
 SUMMARY:Eclipse lunaire totale - Nouvel An!
-DESCRIPTION:Eclipse lunaire totale pour celebrer le Nouvel An! Visible depuis l'Europe, l'Afrique, l'Amerique et l'Asie de l'Ouest.
+DESCRIPTION:Eclipse lunaire totale pour celebrer le Nouvel An! Visible depu
+ is l'Europe, l'Afrique, l'Amerique et l'Asie de l'Ouest.
 CATEGORIES:Astronomie,Eclipse
 STATUS:CONFIRMED
 END:VEVENT
@@ -796,7 +859,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20290103
 DTEND;VALUE=DATE:20290105
 SUMMARY:Quadrantides - Pluie de meteores
-DESCRIPTION:Premiere grande pluie de meteores de l'annee. Jusqu'a 120 meteores par heure au pic.
+DESCRIPTION:Premiere grande pluie de meteores de l'annee. Jusqu'a 120 meteo
+ res par heure au pic.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -807,7 +871,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20290114
 DTEND;VALUE=DATE:20290115
 SUMMARY:Eclipse lunaire partielle
-DESCRIPTION:Eclipse lunaire partielle visible depuis l'Europe, l'Afrique, l'Amerique et l'Asie.
+DESCRIPTION:Eclipse lunaire partielle visible depuis l'Europe, l'Afrique, l
+ 'Amerique et l'Asie.
 CATEGORIES:Astronomie,Eclipse
 STATUS:CONFIRMED
 END:VEVENT
@@ -818,7 +883,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20290320
 DTEND;VALUE=DATE:20290321
 SUMMARY:Equinoxe de printemps
-DESCRIPTION:Debut du printemps dans l'hemisphere nord. Le jour et la nuit ont une duree egale (13h00 UTC).
+DESCRIPTION:Debut du printemps dans l'hemisphere nord. Le jour et la nuit o
+ nt une duree egale (13h00 UTC).
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -829,7 +895,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20290421
 DTEND;VALUE=DATE:20290423
 SUMMARY:Lyrides - Pluie de meteores
-DESCRIPTION:Pluie de meteores des Lyrides. Jusqu'a 20 meteores par heure au pic.
+DESCRIPTION:Pluie de meteores des Lyrides. Jusqu'a 20 meteores par heure au
+  pic.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -851,7 +918,9 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20290612
 DTEND;VALUE=DATE:20290613
 SUMMARY:Eclipse solaire totale - RARE!
-DESCRIPTION:EVENEMENT RARE! Eclipse solaire totale visible depuis l'Arctique, la Scandinavie (Norvege, Suede, Finlande). Une des plus longues du siecle avec 5 min 10 sec de totalite.
+DESCRIPTION:EVENEMENT RARE! Eclipse solaire totale visible depuis l'Arctiqu
+ e, la Scandinavie (Norvege, Suede, Finlande). Une des plus longues du siec
+ le avec 5 min 10 sec de totalite.
 CATEGORIES:Astronomie,Eclipse
 STATUS:CONFIRMED
 END:VEVENT
@@ -862,7 +931,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20290621
 DTEND;VALUE=DATE:20290622
 SUMMARY:Solstice d'ete
-DESCRIPTION:Jour le plus long de l'annee dans l'hemisphere nord. Debut de l'ete (01h48 UTC).
+DESCRIPTION:Jour le plus long de l'annee dans l'hemisphere nord. Debut de l
+ 'ete (01h48 UTC).
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -873,7 +943,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20290626
 DTEND;VALUE=DATE:20290627
 SUMMARY:Eclipse lunaire partielle
-DESCRIPTION:Eclipse lunaire partielle visible depuis l'Europe, l'Afrique, l'Asie et l'Australie.
+DESCRIPTION:Eclipse lunaire partielle visible depuis l'Europe, l'Afrique, l
+ 'Asie et l'Australie.
 CATEGORIES:Astronomie,Eclipse
 STATUS:CONFIRMED
 END:VEVENT
@@ -884,7 +955,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20290711
 DTEND;VALUE=DATE:20290712
 SUMMARY:Eclipse solaire partielle
-DESCRIPTION:Eclipse solaire partielle visible depuis l'Amerique du Sud et l'Antarctique.
+DESCRIPTION:Eclipse solaire partielle visible depuis l'Amerique du Sud et l
+ 'Antarctique.
 CATEGORIES:Astronomie,Eclipse
 STATUS:CONFIRMED
 END:VEVENT
@@ -895,7 +967,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20290728
 DTEND;VALUE=DATE:20290730
 SUMMARY:Delta Aquarides - Pluie de meteores
-DESCRIPTION:Pluie de meteores des Delta Aquarides. Jusqu'a 20 meteores par heure au pic.
+DESCRIPTION:Pluie de meteores des Delta Aquarides. Jusqu'a 20 meteores par 
+ heure au pic.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -906,7 +979,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20290811
 DTEND;VALUE=DATE:20290814
 SUMMARY:Perseides - Pluie de meteores
-DESCRIPTION:Une des meilleures pluies de meteores de l'annee! Jusqu'a 100 meteores par heure.
+DESCRIPTION:Une des meilleures pluies de meteores de l'annee! Jusqu'a 100 m
+ eteores par heure.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -917,7 +991,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20290922
 DTEND;VALUE=DATE:20290923
 SUMMARY:Equinoxe d'automne
-DESCRIPTION:Debut de l'automne dans l'hemisphere nord. Le jour et la nuit ont une duree egale (00h38 UTC).
+DESCRIPTION:Debut de l'automne dans l'hemisphere nord. Le jour et la nuit o
+ nt une duree egale (00h38 UTC).
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -939,7 +1014,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20291104
 DTEND;VALUE=DATE:20291106
 SUMMARY:Taurides - Pluie de meteores
-DESCRIPTION:Pluie de meteores des Taurides. Meteores lents avec parfois des bolides spectaculaires.
+DESCRIPTION:Pluie de meteores des Taurides. Meteores lents avec parfois des
+  bolides spectaculaires.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -950,7 +1026,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20291116
 DTEND;VALUE=DATE:20291118
 SUMMARY:Leonides - Pluie de meteores
-DESCRIPTION:Debris de la comete Tempel-Tuttle. Jusqu'a 15 meteores par heure.
+DESCRIPTION:Debris de la comete Tempel-Tuttle. Jusqu'a 15 meteores par heur
+ e.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -961,7 +1038,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20291205
 DTEND;VALUE=DATE:20291206
 SUMMARY:Eclipse lunaire totale
-DESCRIPTION:Eclipse lunaire totale visible depuis l'Europe, l'Afrique, l'Amerique et l'Asie occidentale. Excellentes conditions d'observation.
+DESCRIPTION:Eclipse lunaire totale visible depuis l'Europe, l'Afrique, l'Am
+ erique et l'Asie occidentale. Excellentes conditions d'observation.
 CATEGORIES:Astronomie,Eclipse
 STATUS:CONFIRMED
 END:VEVENT
@@ -972,7 +1050,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20291213
 DTEND;VALUE=DATE:20291215
 SUMMARY:Geminides - Pluie de meteores
-DESCRIPTION:Meilleure pluie de meteores de l'annee! Jusqu'a 120 meteores multicolores par heure.
+DESCRIPTION:Meilleure pluie de meteores de l'annee! Jusqu'a 120 meteores mu
+ lticolores par heure.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -983,7 +1062,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20291221
 DTEND;VALUE=DATE:20291222
 SUMMARY:Solstice d'hiver
-DESCRIPTION:Nuit la plus longue de l'annee dans l'hemisphere nord. Debut de l'hiver (14h15 UTC).
+DESCRIPTION:Nuit la plus longue de l'annee dans l'hemisphere nord. Debut de
+  l'hiver (14h15 UTC).
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -1006,7 +1086,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20300103
 DTEND;VALUE=DATE:20300105
 SUMMARY:Quadrantides - Pluie de meteores
-DESCRIPTION:Premiere grande pluie de meteores de l'annee. Jusqu'a 120 meteores par heure au pic.
+DESCRIPTION:Premiere grande pluie de meteores de l'annee. Jusqu'a 120 meteo
+ res par heure au pic.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -1017,7 +1098,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20300320
 DTEND;VALUE=DATE:20300321
 SUMMARY:Equinoxe de printemps
-DESCRIPTION:Debut du printemps dans l'hemisphere nord. Le jour et la nuit ont une duree egale (18h51 UTC).
+DESCRIPTION:Debut du printemps dans l'hemisphere nord. Le jour et la nuit o
+ nt une duree egale (18h51 UTC).
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -1028,7 +1110,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20300421
 DTEND;VALUE=DATE:20300423
 SUMMARY:Lyrides - Pluie de meteores
-DESCRIPTION:Pluie de meteores des Lyrides. Jusqu'a 20 meteores par heure au pic.
+DESCRIPTION:Pluie de meteores des Lyrides. Jusqu'a 20 meteores par heure au
+  pic.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -1050,7 +1133,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20300601
 DTEND;VALUE=DATE:20300602
 SUMMARY:Eclipse solaire annulaire
-DESCRIPTION:Eclipse solaire annulaire visible depuis l'Afrique du Nord, l'Europe de l'Est, l'Asie de l'Ouest et la Russie.
+DESCRIPTION:Eclipse solaire annulaire visible depuis l'Afrique du Nord, l'E
+ urope de l'Est, l'Asie de l'Ouest et la Russie.
 CATEGORIES:Astronomie,Eclipse
 STATUS:CONFIRMED
 END:VEVENT
@@ -1061,7 +1145,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20300615
 DTEND;VALUE=DATE:20300616
 SUMMARY:Eclipse lunaire partielle
-DESCRIPTION:Eclipse lunaire partielle visible depuis l'Europe, l'Afrique, l'Asie et l'Australie.
+DESCRIPTION:Eclipse lunaire partielle visible depuis l'Europe, l'Afrique, l
+ 'Asie et l'Australie.
 CATEGORIES:Astronomie,Eclipse
 STATUS:CONFIRMED
 END:VEVENT
@@ -1072,7 +1157,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20300621
 DTEND;VALUE=DATE:20300622
 SUMMARY:Solstice d'ete
-DESCRIPTION:Jour le plus long de l'annee dans l'hemisphere nord. Debut de l'ete (07h31 UTC).
+DESCRIPTION:Jour le plus long de l'annee dans l'hemisphere nord. Debut de l
+ 'ete (07h31 UTC).
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -1083,7 +1169,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20300728
 DTEND;VALUE=DATE:20300730
 SUMMARY:Delta Aquarides - Pluie de meteores
-DESCRIPTION:Pluie de meteores des Delta Aquarides. Jusqu'a 20 meteores par heure au pic.
+DESCRIPTION:Pluie de meteores des Delta Aquarides. Jusqu'a 20 meteores par 
+ heure au pic.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -1094,7 +1181,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20300811
 DTEND;VALUE=DATE:20300814
 SUMMARY:Perseides - Pluie de meteores
-DESCRIPTION:Une des meilleures pluies de meteores de l'annee! Jusqu'a 100 meteores par heure.
+DESCRIPTION:Une des meilleures pluies de meteores de l'annee! Jusqu'a 100 m
+ eteores par heure.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -1105,7 +1193,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20300922
 DTEND;VALUE=DATE:20300923
 SUMMARY:Equinoxe d'automne
-DESCRIPTION:Debut de l'automne dans l'hemisphere nord. Le jour et la nuit ont une duree egale (06h27 UTC).
+DESCRIPTION:Debut de l'automne dans l'hemisphere nord. Le jour et la nuit o
+ nt une duree egale (06h27 UTC).
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
@@ -1127,7 +1216,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20301104
 DTEND;VALUE=DATE:20301106
 SUMMARY:Taurides - Pluie de meteores
-DESCRIPTION:Pluie de meteores des Taurides. Meteores lents avec parfois des bolides spectaculaires.
+DESCRIPTION:Pluie de meteores des Taurides. Meteores lents avec parfois des
+  bolides spectaculaires.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -1138,7 +1228,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20301116
 DTEND;VALUE=DATE:20301118
 SUMMARY:Leonides - Pluie de meteores
-DESCRIPTION:Debris de la comete Tempel-Tuttle. Jusqu'a 15 meteores par heure.
+DESCRIPTION:Debris de la comete Tempel-Tuttle. Jusqu'a 15 meteores par heur
+ e.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -1149,7 +1240,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20301125
 DTEND;VALUE=DATE:20301126
 SUMMARY:Eclipse solaire totale
-DESCRIPTION:Eclipse solaire totale visible depuis l'Afrique du Sud, l'ocean Indien et l'Australie.
+DESCRIPTION:Eclipse solaire totale visible depuis l'Afrique du Sud, l'ocean
+  Indien et l'Australie.
 CATEGORIES:Astronomie,Eclipse
 STATUS:CONFIRMED
 END:VEVENT
@@ -1160,7 +1252,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20301209
 DTEND;VALUE=DATE:20301210
 SUMMARY:Eclipse lunaire penombrale
-DESCRIPTION:Eclipse lunaire penombrale visible depuis l'Europe, l'Afrique et l'Asie.
+DESCRIPTION:Eclipse lunaire penombrale visible depuis l'Europe, l'Afrique e
+ t l'Asie.
 CATEGORIES:Astronomie,Eclipse
 STATUS:CONFIRMED
 END:VEVENT
@@ -1171,7 +1264,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20301213
 DTEND;VALUE=DATE:20301215
 SUMMARY:Geminides - Pluie de meteores
-DESCRIPTION:Meilleure pluie de meteores de l'annee! Jusqu'a 120 meteores multicolores par heure.
+DESCRIPTION:Meilleure pluie de meteores de l'annee! Jusqu'a 120 meteores mu
+ lticolores par heure.
 CATEGORIES:Astronomie,Meteores
 STATUS:CONFIRMED
 END:VEVENT
@@ -1182,7 +1276,8 @@ DTSTAMP:20260106T120000Z
 DTSTART;VALUE=DATE:20301221
 DTEND;VALUE=DATE:20301222
 SUMMARY:Solstice d'hiver
-DESCRIPTION:Nuit la plus longue de l'annee dans l'hemisphere nord. Debut de l'hiver (20h09 UTC).
+DESCRIPTION:Nuit la plus longue de l'annee dans l'hemisphere nord. Debut de
+  l'hiver (20h09 UTC).
 CATEGORIES:Astronomie,Saisons
 STATUS:CONFIRMED
 END:VEVENT
