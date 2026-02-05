@@ -1,0 +1,159 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Calendrier Religion Fetes Musulmanes//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Fetes Musulmanes
+X-WR-CALDESC:Fetes majeures musulmanes (Aid al-Fitr, Aid al-Adha). Les dates peuvent varier de J+/-1 selon l'observation lunaire locale.
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:religion-musulmane-aid-al-fitr-2025@facilabo.app
+DTSTAMP:20260205T120000Z
+DTSTART;VALUE=DATE:20250330
+DTEND;VALUE=DATE:20250331
+SUMMARY:Aid al-Fitr (Islam)
+DESCRIPTION:Fin du Ramadan (date susceptible de varier selon observation lunaire)
+URL:https://www.islamicfinder.org/islamic-calendar/
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-aid-al-adha-2025@facilabo.app
+DTSTAMP:20260205T120000Z
+DTSTART;VALUE=DATE:20250606
+DTEND;VALUE=DATE:20250607
+SUMMARY:Aid al-Adha (Islam)
+DESCRIPTION:Fete du sacrifice (date susceptible de varier selon observation lunaire)
+URL:https://www.islamicfinder.org/islamic-calendar/
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-aid-al-fitr-2026@facilabo.app
+DTSTAMP:20260205T120000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Aid al-Fitr (Islam)
+DESCRIPTION:Fin du Ramadan (date susceptible de varier selon observation lunaire)
+URL:https://www.islamicfinder.org/islamic-calendar/
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-aid-al-adha-2026@facilabo.app
+DTSTAMP:20260205T120000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:Aid al-Adha (Islam)
+DESCRIPTION:Fete du sacrifice (date susceptible de varier selon observation lunaire)
+URL:https://www.islamicfinder.org/islamic-calendar/
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-aid-al-fitr-2027@facilabo.app
+DTSTAMP:20260205T120000Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Aid al-Fitr (Islam)
+DESCRIPTION:Fin du Ramadan (date susceptible de varier selon observation lunaire)
+URL:https://www.islamicfinder.org/islamic-calendar/
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-aid-al-adha-2027@facilabo.app
+DTSTAMP:20260205T120000Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Aid al-Adha (Islam)
+DESCRIPTION:Fete du sacrifice (date susceptible de varier selon observation lunaire)
+URL:https://www.islamicfinder.org/islamic-calendar/
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-aid-al-fitr-2028@facilabo.app
+DTSTAMP:20260205T120000Z
+DTSTART;VALUE=DATE:20280227
+DTEND;VALUE=DATE:20280228
+SUMMARY:Aid al-Fitr (Islam)
+DESCRIPTION:Fin du Ramadan (date susceptible de varier selon observation lunaire)
+URL:https://www.islamicfinder.org/islamic-calendar/
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-aid-al-adha-2028@facilabo.app
+DTSTAMP:20260205T120000Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+SUMMARY:Aid al-Adha (Islam)
+DESCRIPTION:Fete du sacrifice (date susceptible de varier selon observation lunaire)
+URL:https://www.islamicfinder.org/islamic-calendar/
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-aid-al-fitr-2029@facilabo.app
+DTSTAMP:20260205T120000Z
+DTSTART;VALUE=DATE:20290214
+DTEND;VALUE=DATE:20290215
+SUMMARY:Aid al-Fitr (Islam)
+DESCRIPTION:Fin du Ramadan (date susceptible de varier selon observation lunaire)
+URL:https://www.islamicfinder.org/islamic-calendar/
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-aid-al-adha-2029@facilabo.app
+DTSTAMP:20260205T120000Z
+DTSTART;VALUE=DATE:20290424
+DTEND;VALUE=DATE:20290425
+SUMMARY:Aid al-Adha (Islam)
+DESCRIPTION:Fete du sacrifice (date susceptible de varier selon observation lunaire)
+URL:https://www.islamicfinder.org/islamic-calendar/
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-aid-al-fitr-2030@facilabo.app
+DTSTAMP:20260205T120000Z
+DTSTART;VALUE=DATE:20300204
+DTEND;VALUE=DATE:20300205
+SUMMARY:Aid al-Fitr (Islam)
+DESCRIPTION:Fin du Ramadan (date susceptible de varier selon observation lunaire)
+URL:https://www.islamicfinder.org/islamic-calendar/
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-aid-al-adha-2030@facilabo.app
+DTSTAMP:20260205T120000Z
+DTSTART;VALUE=DATE:20300413
+DTEND;VALUE=DATE:20300414
+SUMMARY:Aid al-Adha (Islam)
+DESCRIPTION:Fete du sacrifice (date susceptible de varier selon observation lunaire)
+URL:https://www.islamicfinder.org/islamic-calendar/
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
