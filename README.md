@@ -15,7 +15,10 @@ Calendriers ICS personnalises pour l'application FacilAbo.
 ├── soldes/
 │   └── france.ics          # Dates des soldes (2025-2030)
 ├── culture/
-│   └── france.ics          # Evenements culturels (2025-2030)
+│   ├── france.ics          # Evenements culturels France (2025-2030)
+│   └── ceremonies.ics      # Oscars, Cesars, Grammys, Emmy (2025-2030)
+├── religion/
+│   └── multi-cultes.ics    # Fetes majeures multi-cultes (2025-2030)
 ├── ecommerce/
 │   ├── blackfriday.ics     # Black Friday & Cyber Monday (2025-2030)
 │   ├── primeday.ics        # Prime Day & Singles Day (2025-2030)
@@ -53,6 +56,26 @@ Calendriers ICS personnalises pour l'application FacilAbo.
   - Nuit europeenne des Musees (3eme samedi de mai)
   - Fete de la Musique (21 juin)
   - Journees europeennes du Patrimoine (3eme week-end de septembre)
+
+### Ceremonies (`culture/ceremonies.ics`)
+- **X-WR-CALNAME**: "Culture Ceremonies"
+- Contenu:
+  - Oscars
+  - Cesars
+  - Grammys
+  - Emmy Awards
+
+### Religion multi-cultes (`religion/multi-cultes.ics`)
+- **X-WR-CALNAME**: "Fetes Religieuses Multi-Cultes"
+- Contenu:
+  - Christianisme: Paques, Noel
+  - Islam: Aid al-Fitr, Aid al-Adha
+  - Judaisme: Rosh Hashanah, Yom Kippour
+  - Hindouisme: Diwali
+  - Bouddhisme: Vesak
+  - Sikhisme: Vaisakhi
+- Note:
+  - Certaines dates (notamment lunaires) peuvent varier localement de J+/-1.
 
 ### Jardin (`jardin/lunaire.ics`)
 - **X-WR-CALNAME**: "Calendrier Lunaire Jardin"
@@ -96,6 +119,8 @@ https://raw.githubusercontent.com/augiefra/facilabo/main/astronomie/calendrier-a
 https://raw.githubusercontent.com/augiefra/facilabo/main/fiscal/france.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/soldes/france.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/culture/france.ics
+https://raw.githubusercontent.com/augiefra/facilabo/main/culture/ceremonies.ics
+https://raw.githubusercontent.com/augiefra/facilabo/main/religion/multi-cultes.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/jardin/lunaire.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/ecommerce/blackfriday.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/ecommerce/primeday.ics
@@ -110,11 +135,23 @@ Les calendriers couvrent 2025-2030. Pour mettre a jour:
 2. Push sur `main`
 3. Les URLs raw sont immediatement accessibles
 
+## Controle des doublons attendus
+
+Chevauchements volontaires documentes:
+- `Noel` (religion/multi-cultes) peut apparaitre aussi dans certains calendriers de jours feries.
+- Certains evenements culturels peuvent partager la meme fenetre avec des jours feries/ponts.
+
+Doublons accidentels interdits:
+- Ne pas dupliquer un meme evenement dans un meme flux pour une meme annee.
+- Conserver les UID stables et uniques par evenement/annee.
+
 ## Sources
 
 - **Fiscal**: [impots.gouv.fr](https://www.impots.gouv.fr)
 - **Soldes**: [economie.gouv.fr](https://www.economie.gouv.fr/dgccrf/soldes)
 - **Culture**: [culture.gouv.fr](https://www.culture.gouv.fr)
+- **Ceremonies**: [oscars.org](https://www.oscars.org), [academie-cinema.org](https://www.academie-cinema.org), [grammy.com](https://www.grammy.com), [emmys.com](https://www.emmys.com)
+- **Religion**: [vatican.va](https://www.vatican.va), [islamicfinder.org](https://www.islamicfinder.org/islamic-calendar/), [hebcal.com](https://www.hebcal.com/holidays), [drikpanchang.com](https://www.drikpanchang.com), [un.org](https://www.un.org/en/observances/vesak-day), [sgpc.net](https://www.sgpc.net)
 - **E-commerce**: Dates calculees selon les standards du marche francais
 - **Astronomie**: Sources publiques + curation
 - **Jardin**: Calendrier genere en interne
