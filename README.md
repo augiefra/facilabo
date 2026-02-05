@@ -18,7 +18,13 @@ Calendriers ICS personnalises pour l'application FacilAbo.
 │   ├── france.ics          # Evenements culturels France (2025-2030)
 │   └── ceremonies.ics      # Oscars, Cesars, Grammys, Emmy (2025-2030)
 ├── religion/
-│   └── multi-cultes.ics    # Fetes majeures multi-cultes (2025-2030)
+│   ├── chretienne.ics      # Fetes chretiennes (2025-2030)
+│   ├── musulmane.ics       # Fetes musulmanes (2025-2030)
+│   ├── juive.ics           # Fetes juives (2025-2030)
+│   ├── hindoue.ics         # Fetes hindoues (2025-2030)
+│   ├── bouddhiste.ics      # Fetes bouddhistes (2025-2030)
+│   ├── sikhe.ics           # Fetes sikhes (2025-2030)
+│   └── multi-cultes.ics    # Compat legacy (deprecie)
 ├── ecommerce/
 │   ├── blackfriday.ics     # Black Friday & Cyber Monday (2025-2030)
 │   ├── primeday.ics        # Prime Day & Singles Day (2025-2030)
@@ -65,15 +71,16 @@ Calendriers ICS personnalises pour l'application FacilAbo.
   - Grammys
   - Emmy Awards
 
-### Religion multi-cultes (`religion/multi-cultes.ics`)
-- **X-WR-CALNAME**: "Fetes Religieuses Multi-Cultes"
-- Contenu:
-  - Christianisme: Paques, Noel
-  - Islam: Aid al-Fitr, Aid al-Adha
-  - Judaisme: Rosh Hashanah, Yom Kippour
-  - Hindouisme: Diwali
-  - Bouddhisme: Vesak
-  - Sikhisme: Vaisakhi
+### Religion (`religion/*.ics`)
+- **X-WR-CALNAME**:
+  - `Fetes Chretiennes` (`religion/chretienne.ics`)
+  - `Fetes Musulmanes` (`religion/musulmane.ics`)
+  - `Fetes Juives` (`religion/juive.ics`)
+  - `Fetes Hindoues` (`religion/hindoue.ics`)
+  - `Fetes Bouddhistes` (`religion/bouddhiste.ics`)
+  - `Fetes Sikhes` (`religion/sikhe.ics`)
+- Compatibilite:
+  - `religion/multi-cultes.ics` reste disponible temporairement pour les anciennes integrations.
 - Note:
   - Certaines dates (notamment lunaires) peuvent varier localement de J+/-1.
 
@@ -120,6 +127,12 @@ https://raw.githubusercontent.com/augiefra/facilabo/main/fiscal/france.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/soldes/france.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/culture/france.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/culture/ceremonies.ics
+https://raw.githubusercontent.com/augiefra/facilabo/main/religion/chretienne.ics
+https://raw.githubusercontent.com/augiefra/facilabo/main/religion/musulmane.ics
+https://raw.githubusercontent.com/augiefra/facilabo/main/religion/juive.ics
+https://raw.githubusercontent.com/augiefra/facilabo/main/religion/hindoue.ics
+https://raw.githubusercontent.com/augiefra/facilabo/main/religion/bouddhiste.ics
+https://raw.githubusercontent.com/augiefra/facilabo/main/religion/sikhe.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/religion/multi-cultes.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/jardin/lunaire.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/ecommerce/blackfriday.ics
@@ -138,7 +151,7 @@ Les calendriers couvrent 2025-2030. Pour mettre a jour:
 ## Controle des doublons attendus
 
 Chevauchements volontaires documentes:
-- `Noel` (religion/multi-cultes) peut apparaitre aussi dans certains calendriers de jours feries.
+- `Noel` (religion/chretienne) peut apparaitre aussi dans certains calendriers de jours feries.
 - Certains evenements culturels peuvent partager la meme fenetre avec des jours feries/ponts.
 
 Doublons accidentels interdits:

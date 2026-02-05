@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Calendrier Religion Fetes Bouddhistes//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Fetes Bouddhistes
+X-WR-CALDESC:Fetes majeures du bouddhisme (Vesak).
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:religion-bouddhiste-vesak-2025@facilabo.app
+DTSTAMP:20260205T120000Z
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250513
+SUMMARY:Vesak (Bouddhisme)
+DESCRIPTION:Commemoration de la naissance, eveil et parinirvana du Bouddha
+URL:https://www.un.org/en/observances/vesak-day
+CATEGORIES:Religion,Bouddhisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-bouddhiste-vesak-2026@facilabo.app
+DTSTAMP:20260205T120000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Vesak (Bouddhisme)
+DESCRIPTION:Commemoration de la naissance, eveil et parinirvana du Bouddha
+URL:https://www.un.org/en/observances/vesak-day
+CATEGORIES:Religion,Bouddhisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-bouddhiste-vesak-2027@facilabo.app
+DTSTAMP:20260205T120000Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Vesak (Bouddhisme)
+DESCRIPTION:Commemoration de la naissance, eveil et parinirvana du Bouddha
+URL:https://www.un.org/en/observances/vesak-day
+CATEGORIES:Religion,Bouddhisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-bouddhiste-vesak-2028@facilabo.app
+DTSTAMP:20260205T120000Z
+DTSTART;VALUE=DATE:20280508
+DTEND;VALUE=DATE:20280509
+SUMMARY:Vesak (Bouddhisme)
+DESCRIPTION:Commemoration de la naissance, eveil et parinirvana du Bouddha
+URL:https://www.un.org/en/observances/vesak-day
+CATEGORIES:Religion,Bouddhisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-bouddhiste-vesak-2029@facilabo.app
+DTSTAMP:20260205T120000Z
+DTSTART;VALUE=DATE:20290527
+DTEND;VALUE=DATE:20290528
+SUMMARY:Vesak (Bouddhisme)
+DESCRIPTION:Commemoration de la naissance, eveil et parinirvana du Bouddha
+URL:https://www.un.org/en/observances/vesak-day
+CATEGORIES:Religion,Bouddhisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-bouddhiste-vesak-2030@facilabo.app
+DTSTAMP:20260205T120000Z
+DTSTART;VALUE=DATE:20300516
+DTEND;VALUE=DATE:20300517
+SUMMARY:Vesak (Bouddhisme)
+DESCRIPTION:Commemoration de la naissance, eveil et parinirvana du Bouddha
+URL:https://www.un.org/en/observances/vesak-day
+CATEGORIES:Religion,Bouddhisme
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
