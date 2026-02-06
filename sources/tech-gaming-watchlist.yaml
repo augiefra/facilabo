@@ -1,0 +1,238 @@
+{
+  "version": 1,
+  "generated_at": "2026-02-06",
+  "timezone_default": "Europe/Paris",
+  "cadence_hours": 6,
+  "sources": [
+    {
+      "slug": "ces",
+      "event_name": "CES 2026",
+      "source_url": "https://www.ces.tech/media-and-press/ces-unveiled-news/ces-unveiled-news-2026/",
+      "selector_rule": "Find the official 2026 date range on CTA pages",
+      "timezone_source": "America/Los_Angeles",
+      "confidence_rule": "high_if_date_explicit",
+      "enabled": true,
+      "watch_only": false,
+      "event": {
+        "summary": "CES 2026",
+        "description": "Consumer Technology Association - dates officielles.",
+        "start_date": "2026-01-06",
+        "end_date": "2026-01-09",
+        "timed": false,
+        "location": "Las Vegas, USA",
+        "status": "CONFIRMED",
+        "dtstamp": "20260206T120000Z",
+        "categories": ["Culture", "Tech", "Gaming"]
+      }
+    },
+    {
+      "slug": "nvidia-gtc",
+      "event_name": "NVIDIA GTC 2026",
+      "source_url": "https://www.nvidia.com/gtc/",
+      "selector_rule": "Find the official event date range in the landing page hero",
+      "timezone_source": "America/Los_Angeles",
+      "confidence_rule": "high_if_date_explicit",
+      "enabled": true,
+      "watch_only": false,
+      "event": {
+        "summary": "NVIDIA GTC 2026",
+        "description": "Conference NVIDIA GTC - dates officielles.",
+        "start_date": "2026-03-16",
+        "end_date": "2026-03-19",
+        "timed": false,
+        "location": "San Jose, USA",
+        "status": "CONFIRMED",
+        "dtstamp": "20260206T120000Z",
+        "categories": ["Culture", "Tech", "Gaming"]
+      }
+    },
+    {
+      "slug": "pax-east",
+      "event_name": "PAX East 2026",
+      "source_url": "https://www.paxsite.com/",
+      "selector_rule": "Find the official date range for PAX East",
+      "timezone_source": "America/New_York",
+      "confidence_rule": "high_if_date_explicit",
+      "enabled": true,
+      "watch_only": false,
+      "event": {
+        "summary": "PAX East 2026",
+        "description": "Festival PAX East - dates officielles.",
+        "start_date": "2026-03-26",
+        "end_date": "2026-03-29",
+        "timed": false,
+        "location": "Boston, USA",
+        "status": "CONFIRMED",
+        "dtstamp": "20260206T120000Z",
+        "categories": ["Culture", "Tech", "Gaming"]
+      }
+    },
+    {
+      "slug": "google-cloud-next",
+      "event_name": "Google Cloud Next 2026",
+      "source_url": "https://cloud.google.com/blog/topics/google-cloud-next/registration-is-open-for-google-cloud-next",
+      "selector_rule": "Find the date range in official Google Cloud announcements",
+      "timezone_source": "America/Los_Angeles",
+      "confidence_rule": "high_if_date_explicit",
+      "enabled": true,
+      "watch_only": false,
+      "event": {
+        "summary": "Google Cloud Next 2026",
+        "description": "Conference Google Cloud Next - dates officielles.",
+        "start_date": "2026-04-22",
+        "end_date": "2026-04-24",
+        "timed": false,
+        "location": "Las Vegas, USA",
+        "status": "CONFIRMED",
+        "dtstamp": "20260206T120000Z",
+        "categories": ["Culture", "Tech", "Gaming"]
+      }
+    },
+    {
+      "slug": "computex",
+      "event_name": "COMPUTEX 2026",
+      "source_url": "https://www.computextaipei.com.tw/en/menu/A546BFC6C2E2ED34D0636733C6861689/info.html",
+      "selector_rule": "Find official date range in COMPUTEX event information",
+      "timezone_source": "Asia/Taipei",
+      "confidence_rule": "high_if_date_explicit",
+      "enabled": true,
+      "watch_only": false,
+      "event": {
+        "summary": "COMPUTEX 2026",
+        "description": "Salon COMPUTEX - dates officielles.",
+        "start_date": "2026-06-02",
+        "end_date": "2026-06-05",
+        "timed": false,
+        "location": "Taipei, Taiwan",
+        "status": "CONFIRMED",
+        "dtstamp": "20260206T120000Z",
+        "categories": ["Culture", "Tech", "Gaming"]
+      }
+    },
+    {
+      "slug": "summer-game-fest",
+      "event_name": "Summer Game Fest 2026",
+      "source_url": "https://www.summergamefest.com/events/summer-game-fest",
+      "selector_rule": "Find the show date and start time from official event page",
+      "timezone_source": "America/Los_Angeles",
+      "confidence_rule": "high_if_date_and_time_explicit",
+      "enabled": true,
+      "watch_only": false,
+      "event": {
+        "summary": "Summer Game Fest 2026",
+        "description": "Showcase principal Summer Game Fest (heure officielle convertie Europe/Paris).",
+        "timed": true,
+        "start_datetime": "2026-06-05T23:00:00",
+        "end_datetime": "2026-06-06T01:00:00",
+        "location": "Los Angeles, USA",
+        "status": "CONFIRMED",
+        "dtstamp": "20260206T120000Z",
+        "categories": ["Culture", "Tech", "Gaming"]
+      }
+    },
+    {
+      "slug": "siggraph",
+      "event_name": "SIGGRAPH 2026",
+      "source_url": "https://s2026.siggraph.org/",
+      "selector_rule": "Find conference date range in official SIGGRAPH pages",
+      "timezone_source": "America/Vancouver",
+      "confidence_rule": "high_if_date_explicit",
+      "enabled": true,
+      "watch_only": false,
+      "event": {
+        "summary": "SIGGRAPH 2026",
+        "description": "Conference ACM SIGGRAPH - dates officielles.",
+        "start_date": "2026-07-19",
+        "end_date": "2026-07-23",
+        "timed": false,
+        "location": "Vancouver, Canada",
+        "status": "CONFIRMED",
+        "dtstamp": "20260206T120000Z",
+        "categories": ["Culture", "Tech", "Gaming"]
+      }
+    },
+    {
+      "slug": "gamescom-dev",
+      "event_name": "gamescom dev 2026",
+      "source_url": "https://dev.gamescom.global/conference/",
+      "selector_rule": "Find official dates in the gamescom dev conference page",
+      "timezone_source": "Europe/Berlin",
+      "confidence_rule": "high_if_date_explicit",
+      "enabled": true,
+      "watch_only": false,
+      "event": {
+        "summary": "gamescom dev 2026",
+        "description": "Conference gamescom dev - dates officielles.",
+        "start_date": "2026-08-23",
+        "end_date": "2026-08-25",
+        "timed": false,
+        "location": "Cologne, Germany",
+        "status": "CONFIRMED",
+        "dtstamp": "20260206T120000Z",
+        "categories": ["Culture", "Tech", "Gaming"]
+      }
+    },
+    {
+      "slug": "pax-west",
+      "event_name": "PAX West 2026",
+      "source_url": "https://www.paxsite.com/",
+      "selector_rule": "Find official date range for PAX West",
+      "timezone_source": "America/Los_Angeles",
+      "confidence_rule": "high_if_date_explicit",
+      "enabled": true,
+      "watch_only": false,
+      "event": {
+        "summary": "PAX West 2026",
+        "description": "Festival PAX West - dates officielles.",
+        "start_date": "2026-09-04",
+        "end_date": "2026-09-07",
+        "timed": false,
+        "location": "Seattle, USA",
+        "status": "CONFIRMED",
+        "dtstamp": "20260206T120000Z",
+        "categories": ["Culture", "Tech", "Gaming"]
+      }
+    },
+    {
+      "slug": "blizzcon",
+      "event_name": "BlizzCon 2026",
+      "source_url": "https://news.blizzard.com/en-us/article/24188065/blizzcon-returns-in-2026",
+      "selector_rule": "Find official date range in Blizzard news post",
+      "timezone_source": "America/Los_Angeles",
+      "confidence_rule": "high_if_date_explicit",
+      "enabled": true,
+      "watch_only": false,
+      "event": {
+        "summary": "BlizzCon 2026",
+        "description": "BlizzCon - dates officielles.",
+        "start_date": "2026-09-12",
+        "end_date": "2026-09-13",
+        "timed": false,
+        "location": "Anaheim, USA",
+        "status": "CONFIRMED",
+        "dtstamp": "20260206T120000Z",
+        "categories": ["Culture", "Tech", "Gaming"]
+      }
+    },
+    {
+      "slug": "wwdc",
+      "event_name": "WWDC 2026",
+      "source_url": "https://developer.apple.com/wwdc/",
+      "selector_rule": "Watch Apple WWDC page for official 2026 announcement",
+      "timezone_source": "America/Los_Angeles",
+      "confidence_rule": "high_if_date_explicit",
+      "enabled": true,
+      "watch_only": true
+    },
+    {
+      "slug": "google-io",
+      "event_name": "Google I/O 2026",
+      "source_url": "https://io.google/",
+      "selector_rule": "Watch Google I/O page for official 2026 announcement",
+      "timezone_source": "America/Los_Angeles",
+      "confidence_rule": "high_if_date_explicit",
+      "enabled": true,
+      "watch_only": true
+    }
+  ]
+}

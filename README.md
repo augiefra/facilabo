@@ -16,7 +16,8 @@ Calendriers ICS personnalises pour l'application FacilAbo.
 │   └── france.ics          # Dates des soldes (2025-2030)
 ├── culture/
 │   ├── france.ics          # Evenements culturels France (2025-2030)
-│   └── ceremonies.ics      # Oscars, Cesars, Grammys, Emmy (2025-2030)
+│   ├── ceremonies.ics      # Oscars, Cesars, Grammys, Emmy (2025-2030)
+│   └── tech-gaming.ics     # Conferences Tech/Gaming officielles (MVP 2026)
 ├── religion/
 │   ├── chretienne.ics      # Fetes chretiennes (2025-2031)
 │   ├── musulmane.ics       # Fetes musulmanes (2025-2031)
@@ -31,6 +32,13 @@ Calendriers ICS personnalises pour l'application FacilAbo.
 │   ├── primeday.ics        # Prime Day & Singles Day (2025-2030)
 │   ├── frenchdays.ics      # French Days (2025-2030)
 │   └── fetes-commerciales.ics  # Fetes commerciales (2025-2030)
+├── sources/
+│   └── tech-gaming-watchlist.yaml # Regles de veille officielles (MVP + watchlist WWDC/I/O)
+├── scripts/
+│   ├── validate-tech-gaming-sources.ts # Validation du registre des sources
+│   └── update-tech-gaming-calendar.ts  # Generation ICS deterministe + sync mirror
+├── .github/workflows/
+│   └── tech-gaming-watch.yml  # Cron 6h + PR auto en cas de changement
 ├── privacy-policy.html     # Page de confidentialite (App Store)
 └── README.md
 ```
@@ -71,6 +79,22 @@ Calendriers ICS personnalises pour l'application FacilAbo.
   - Cesars
   - Grammys
   - Emmy Awards
+
+### Conferences Tech/Gaming (`culture/tech-gaming.ics`)
+- **X-WR-CALNAME**: "Conferences Tech/Gaming"
+- Contenu:
+  - CES
+  - NVIDIA GTC
+  - PAX East / PAX West
+  - Google Cloud Next
+  - COMPUTEX
+  - Summer Game Fest
+  - SIGGRAPH
+  - gamescom dev
+  - BlizzCon
+- Politique:
+  - MVP 2026 avec dates officielles uniquement
+  - WWDC / Google I/O restent en watchlist tant que non annonces officiellement
 
 ### Religion (`religion/*.ics`)
 - **X-WR-CALNAME**:
@@ -129,6 +153,7 @@ https://raw.githubusercontent.com/augiefra/facilabo/main/fiscal/france.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/soldes/france.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/culture/france.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/culture/ceremonies.ics
+https://raw.githubusercontent.com/augiefra/facilabo/main/culture/tech-gaming.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/religion/chretienne.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/religion/musulmane.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/religion/juive.ics
@@ -156,6 +181,7 @@ Les calendriers couvrent 2025-2032 selon les flux (details dans la section Struc
 Chevauchements volontaires documentes:
 - `Noel` (religion/chretienne) peut apparaitre aussi dans certains calendriers de jours feries.
 - Certains evenements culturels peuvent partager la meme fenetre avec des jours feries/ponts.
+- `culture/tech-gaming.ics` est editorialement separe de `culture/france.ics` et `culture/ceremonies.ics` (pas de recopie volontaire des memes conferences).
 
 Doublons accidentels interdits:
 - Ne pas dupliquer un meme evenement dans un meme flux pour une meme annee.
