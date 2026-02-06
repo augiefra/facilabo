@@ -121,7 +121,7 @@ SUMMARY:Oscars 2027
 DESCRIPTION:99th Academy Awards (date previsionnelle, attente annonce)
 URL:https://www.oscars.org/
 CATEGORIES:Culture,Ceremonies
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:culture-ceremonies-cesars-2027@facilabo.app
@@ -132,7 +132,7 @@ SUMMARY:Cesars 2027
 DESCRIPTION:52e ceremonie des Cesars (date previsionnelle, attente annonce)
 URL:https://www.academie-cinema.org/
 CATEGORIES:Culture,Ceremonies
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:culture-ceremonies-grammys-2027@facilabo.app
@@ -143,7 +143,7 @@ SUMMARY:Grammys 2027
 DESCRIPTION:69th Grammy Awards (date previsionnelle, attente annonce)
 URL:https://www.grammy.com/
 CATEGORIES:Culture,Ceremonies
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:culture-ceremonies-emmy-2027@facilabo.app
@@ -154,7 +154,7 @@ SUMMARY:Emmy Awards 2027
 DESCRIPTION:Primetime Emmy Awards (date previsionnelle, attente annonce)
 URL:https://www.emmys.com/
 CATEGORIES:Culture,Ceremonies
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:culture-ceremonies-oscars-2028@facilabo.app
@@ -165,7 +165,7 @@ SUMMARY:Oscars 2028
 DESCRIPTION:100th Academy Awards (date previsionnelle, attente annonce)
 URL:https://www.oscars.org/
 CATEGORIES:Culture,Ceremonies
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:culture-ceremonies-cesars-2028@facilabo.app
@@ -176,7 +176,7 @@ SUMMARY:Cesars 2028
 DESCRIPTION:53e ceremonie des Cesars (date previsionnelle, attente annonce)
 URL:https://www.academie-cinema.org/
 CATEGORIES:Culture,Ceremonies
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:culture-ceremonies-grammys-2028@facilabo.app
@@ -187,7 +187,7 @@ SUMMARY:Grammys 2028
 DESCRIPTION:70th Grammy Awards (date previsionnelle, attente annonce)
 URL:https://www.grammy.com/
 CATEGORIES:Culture,Ceremonies
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:culture-ceremonies-emmy-2028@facilabo.app
@@ -198,7 +198,7 @@ SUMMARY:Emmy Awards 2028
 DESCRIPTION:Primetime Emmy Awards (date previsionnelle, attente annonce)
 URL:https://www.emmys.com/
 CATEGORIES:Culture,Ceremonies
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:culture-ceremonies-oscars-2029@facilabo.app
@@ -209,7 +209,7 @@ SUMMARY:Oscars 2029
 DESCRIPTION:101st Academy Awards (date previsionnelle, attente annonce)
 URL:https://www.oscars.org/
 CATEGORIES:Culture,Ceremonies
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:culture-ceremonies-cesars-2029@facilabo.app
@@ -220,7 +220,7 @@ SUMMARY:Cesars 2029
 DESCRIPTION:54e ceremonie des Cesars (date previsionnelle, attente annonce)
 URL:https://www.academie-cinema.org/
 CATEGORIES:Culture,Ceremonies
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:culture-ceremonies-grammys-2029@facilabo.app
@@ -231,7 +231,7 @@ SUMMARY:Grammys 2029
 DESCRIPTION:71st Grammy Awards (date previsionnelle, attente annonce)
 URL:https://www.grammy.com/
 CATEGORIES:Culture,Ceremonies
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:culture-ceremonies-emmy-2029@facilabo.app
@@ -242,7 +242,7 @@ SUMMARY:Emmy Awards 2029
 DESCRIPTION:Primetime Emmy Awards (date previsionnelle, attente annonce)
 URL:https://www.emmys.com/
 CATEGORIES:Culture,Ceremonies
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:culture-ceremonies-oscars-2030@facilabo.app
@@ -253,7 +253,7 @@ SUMMARY:Oscars 2030
 DESCRIPTION:102nd Academy Awards (date previsionnelle, attente annonce)
 URL:https://www.oscars.org/
 CATEGORIES:Culture,Ceremonies
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:culture-ceremonies-cesars-2030@facilabo.app
@@ -264,7 +264,7 @@ SUMMARY:Cesars 2030
 DESCRIPTION:55e ceremonie des Cesars (date previsionnelle, attente annonce)
 URL:https://www.academie-cinema.org/
 CATEGORIES:Culture,Ceremonies
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:culture-ceremonies-grammys-2030@facilabo.app
@@ -275,7 +275,7 @@ SUMMARY:Grammys 2030
 DESCRIPTION:72nd Grammy Awards (date previsionnelle, attente annonce)
 URL:https://www.grammy.com/
 CATEGORIES:Culture,Ceremonies
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:culture-ceremonies-emmy-2030@facilabo.app
@@ -286,6 +286,6 @@ SUMMARY:Emmy Awards 2030
 DESCRIPTION:Primetime Emmy Awards (date previsionnelle, attente annonce)
 URL:https://www.emmys.com/
 CATEGORIES:Culture,Ceremonies
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR

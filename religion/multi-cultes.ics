@@ -500,8 +500,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-noel-2027@facilabo.app
 DTSTAMP:20260206T081127Z
-DTSTART;VALUE=DATE:20271224
-DTEND;VALUE=DATE:20271225
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
 SUMMARY:Noel
 DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
 URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public

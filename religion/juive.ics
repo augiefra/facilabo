@@ -47,6 +47,17 @@ CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:religion-juive-chavouot-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250603
+SUMMARY:Chavouot
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:religion-juive-tisha-beav-2025@facilabo.app
 DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250802
@@ -129,6 +140,17 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260403
 SUMMARY:Pessah (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-chavouot-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Chavouot
 DESCRIPTION:Fete juive importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
@@ -223,6 +245,17 @@ CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:religion-juive-chavouot-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Chavouot
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:religion-juive-tisha-beav-2027@facilabo.app
 DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270811
@@ -305,6 +338,17 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280411
 DTEND;VALUE=DATE:20280412
 SUMMARY:Pessah (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-chavouot-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280531
+DTEND;VALUE=DATE:20280601
+SUMMARY:Chavouot
 DESCRIPTION:Fete juive importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
@@ -399,6 +443,17 @@ CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:religion-juive-chavouot-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290520
+DTEND;VALUE=DATE:20290521
+SUMMARY:Chavouot
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:religion-juive-tisha-beav-2029@facilabo.app
 DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290721
@@ -487,6 +542,17 @@ CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:religion-juive-chavouot-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300607
+DTEND;VALUE=DATE:20300608
+SUMMARY:Chavouot
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:religion-juive-tisha-beav-2030@facilabo.app
 DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300807
@@ -569,6 +635,17 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20310408
 DTEND;VALUE=DATE:20310409
 SUMMARY:Pessah (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-chavouot-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310528
+DTEND;VALUE=DATE:20310529
+SUMMARY:Chavouot
 DESCRIPTION:Fete juive importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
