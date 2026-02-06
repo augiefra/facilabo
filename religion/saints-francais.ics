@@ -1,0 +1,2403 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Calendrier Saints Francais//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Saints Francais
+X-WR-CALDESC:Selection de saints et fetes catholiques majeurs en France (2025-2032).
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-genevieve-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250103
+DTEND;VALUE=DATE:20250104
+SUMMARY:Sainte Genevieve
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-remi-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:Saint Remi
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-jacqueline-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250208
+DTEND;VALUE=DATE:20250209
+SUMMARY:Sainte Jacqueline
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-notre-dame-de-lourdes-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250211
+DTEND;VALUE=DATE:20250212
+SUMMARY:Notre-Dame de Lourdes
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-bernadette-de-lourdes-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250218
+DTEND;VALUE=DATE:20250219
+SUMMARY:Sainte Bernadette de Lourdes
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-joseph-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250319
+DTEND;VALUE=DATE:20250320
+SUMMARY:Saint Joseph
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-robert-de-molesme-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:Saint Robert de Molesme
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-joseph-travailleur-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250501
+DTEND;VALUE=DATE:20250502
+SUMMARY:Saint Joseph travailleur
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-jeanne-darc-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250531
+SUMMARY:Sainte Jeanne d'Arc
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-romuald-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250619
+DTEND;VALUE=DATE:20250620
+SUMMARY:Saint Romuald
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-jean-baptiste-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250624
+DTEND;VALUE=DATE:20250625
+SUMMARY:Saint Jean-Baptiste
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-thierry-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250701
+DTEND;VALUE=DATE:20250702
+SUMMARY:Saint Thierry
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-marie-madeleine-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250722
+DTEND;VALUE=DATE:20250723
+SUMMARY:Sainte Marie-Madeleine
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-anne-et-saint-joachim-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250726
+DTEND;VALUE=DATE:20250727
+SUMMARY:Sainte Anne et Saint Joachim
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-jean-marie-vianney-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250805
+SUMMARY:Saint Jean-Marie Vianney
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-assomption-de-marie-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250816
+SUMMARY:Assomption de Marie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-louis-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250826
+SUMMARY:Saint Louis
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-nativite-de-marie-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20250909
+SUMMARY:Nativite de Marie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-vincent-de-paul-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20250928
+SUMMARY:Saint Vincent de Paul
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-therese-de-lisieux-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20251001
+DTEND;VALUE=DATE:20251002
+SUMMARY:Sainte Therese de Lisieux
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-denis-de-paris-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20251009
+DTEND;VALUE=DATE:20251010
+SUMMARY:Saint Denis de Paris
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-luc-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20251018
+DTEND;VALUE=DATE:20251019
+SUMMARY:Saint Luc
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-toussaint-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251102
+SUMMARY:Toussaint
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-martin-de-tours-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20251111
+DTEND;VALUE=DATE:20251112
+SUMMARY:Saint Martin de Tours
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-immaculee-conception-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20251208
+DTEND;VALUE=DATE:20251209
+SUMMARY:Immaculee Conception
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-lucie-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251214
+SUMMARY:Sainte Lucie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-noel-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20251225
+DTEND;VALUE=DATE:20251226
+SUMMARY:Noel
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-genevieve-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260103
+DTEND;VALUE=DATE:20260104
+SUMMARY:Sainte Genevieve
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-remi-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:Saint Remi
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-jacqueline-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:Sainte Jacqueline
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-notre-dame-de-lourdes-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260212
+SUMMARY:Notre-Dame de Lourdes
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-bernadette-de-lourdes-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:Sainte Bernadette de Lourdes
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-joseph-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:Saint Joseph
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-robert-de-molesme-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Saint Robert de Molesme
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-joseph-travailleur-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Saint Joseph travailleur
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-jeanne-darc-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Sainte Jeanne d'Arc
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-romuald-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Saint Romuald
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-jean-baptiste-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Saint Jean-Baptiste
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-thierry-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Saint Thierry
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-marie-madeleine-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:Sainte Marie-Madeleine
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-anne-et-saint-joachim-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:Sainte Anne et Saint Joachim
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-jean-marie-vianney-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:Saint Jean-Marie Vianney
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-assomption-de-marie-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Assomption de Marie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-louis-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Saint Louis
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-nativite-de-marie-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Nativite de Marie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-vincent-de-paul-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Saint Vincent de Paul
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-therese-de-lisieux-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Sainte Therese de Lisieux
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-denis-de-paris-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Saint Denis de Paris
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-luc-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Saint Luc
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-toussaint-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Toussaint
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-martin-de-tours-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Saint Martin de Tours
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-immaculee-conception-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Immaculee Conception
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-lucie-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Sainte Lucie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-noel-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Noel
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-genevieve-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Sainte Genevieve
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-remi-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Saint Remi
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-jacqueline-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Sainte Jacqueline
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-notre-dame-de-lourdes-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Notre-Dame de Lourdes
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-bernadette-de-lourdes-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Sainte Bernadette de Lourdes
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-joseph-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:Saint Joseph
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-robert-de-molesme-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Saint Robert de Molesme
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-joseph-travailleur-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Saint Joseph travailleur
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-jeanne-darc-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Sainte Jeanne d'Arc
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-romuald-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Saint Romuald
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-jean-baptiste-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Saint Jean-Baptiste
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-thierry-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Saint Thierry
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-marie-madeleine-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:Sainte Marie-Madeleine
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-anne-et-saint-joachim-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:Sainte Anne et Saint Joachim
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-jean-marie-vianney-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:Saint Jean-Marie Vianney
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-assomption-de-marie-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Assomption de Marie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-louis-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Saint Louis
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-nativite-de-marie-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Nativite de Marie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-vincent-de-paul-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270927
+DTEND;VALUE=DATE:20270928
+SUMMARY:Saint Vincent de Paul
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-therese-de-lisieux-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:Sainte Therese de Lisieux
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-denis-de-paris-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:Saint Denis de Paris
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-luc-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271019
+SUMMARY:Saint Luc
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-toussaint-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:Toussaint
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-martin-de-tours-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+SUMMARY:Saint Martin de Tours
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-immaculee-conception-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271208
+DTEND;VALUE=DATE:20271209
+SUMMARY:Immaculee Conception
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-lucie-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271213
+DTEND;VALUE=DATE:20271214
+SUMMARY:Sainte Lucie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-noel-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:Noel
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-genevieve-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280103
+DTEND;VALUE=DATE:20280104
+SUMMARY:Sainte Genevieve
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-remi-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280115
+DTEND;VALUE=DATE:20280116
+SUMMARY:Saint Remi
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-jacqueline-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280208
+DTEND;VALUE=DATE:20280209
+SUMMARY:Sainte Jacqueline
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-notre-dame-de-lourdes-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280211
+DTEND;VALUE=DATE:20280212
+SUMMARY:Notre-Dame de Lourdes
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-bernadette-de-lourdes-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280218
+DTEND;VALUE=DATE:20280219
+SUMMARY:Sainte Bernadette de Lourdes
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-joseph-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280319
+DTEND;VALUE=DATE:20280320
+SUMMARY:Saint Joseph
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-robert-de-molesme-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+SUMMARY:Saint Robert de Molesme
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-joseph-travailleur-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:Saint Joseph travailleur
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-jeanne-darc-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280530
+DTEND;VALUE=DATE:20280531
+SUMMARY:Sainte Jeanne d'Arc
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-romuald-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280619
+DTEND;VALUE=DATE:20280620
+SUMMARY:Saint Romuald
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-jean-baptiste-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280624
+DTEND;VALUE=DATE:20280625
+SUMMARY:Saint Jean-Baptiste
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-thierry-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280701
+DTEND;VALUE=DATE:20280702
+SUMMARY:Saint Thierry
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-marie-madeleine-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Sainte Marie-Madeleine
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-anne-et-saint-joachim-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280726
+DTEND;VALUE=DATE:20280727
+SUMMARY:Sainte Anne et Saint Joachim
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-jean-marie-vianney-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280804
+DTEND;VALUE=DATE:20280805
+SUMMARY:Saint Jean-Marie Vianney
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-assomption-de-marie-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280815
+DTEND;VALUE=DATE:20280816
+SUMMARY:Assomption de Marie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-louis-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280825
+DTEND;VALUE=DATE:20280826
+SUMMARY:Saint Louis
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-nativite-de-marie-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280908
+DTEND;VALUE=DATE:20280909
+SUMMARY:Nativite de Marie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-vincent-de-paul-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280927
+DTEND;VALUE=DATE:20280928
+SUMMARY:Saint Vincent de Paul
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-therese-de-lisieux-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20281001
+DTEND;VALUE=DATE:20281002
+SUMMARY:Sainte Therese de Lisieux
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-denis-de-paris-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20281009
+DTEND;VALUE=DATE:20281010
+SUMMARY:Saint Denis de Paris
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-luc-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20281018
+DTEND;VALUE=DATE:20281019
+SUMMARY:Saint Luc
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-toussaint-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20281101
+DTEND;VALUE=DATE:20281102
+SUMMARY:Toussaint
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-martin-de-tours-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20281111
+DTEND;VALUE=DATE:20281112
+SUMMARY:Saint Martin de Tours
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-immaculee-conception-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20281208
+DTEND;VALUE=DATE:20281209
+SUMMARY:Immaculee Conception
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-lucie-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20281213
+DTEND;VALUE=DATE:20281214
+SUMMARY:Sainte Lucie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-noel-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:Noel
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-genevieve-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290103
+DTEND;VALUE=DATE:20290104
+SUMMARY:Sainte Genevieve
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-remi-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290115
+DTEND;VALUE=DATE:20290116
+SUMMARY:Saint Remi
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-jacqueline-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290208
+DTEND;VALUE=DATE:20290209
+SUMMARY:Sainte Jacqueline
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-notre-dame-de-lourdes-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290211
+DTEND;VALUE=DATE:20290212
+SUMMARY:Notre-Dame de Lourdes
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-bernadette-de-lourdes-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290218
+DTEND;VALUE=DATE:20290219
+SUMMARY:Sainte Bernadette de Lourdes
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-joseph-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290319
+DTEND;VALUE=DATE:20290320
+SUMMARY:Saint Joseph
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-robert-de-molesme-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:Saint Robert de Molesme
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-joseph-travailleur-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290501
+DTEND;VALUE=DATE:20290502
+SUMMARY:Saint Joseph travailleur
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-jeanne-darc-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290530
+DTEND;VALUE=DATE:20290531
+SUMMARY:Sainte Jeanne d'Arc
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-romuald-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290619
+DTEND;VALUE=DATE:20290620
+SUMMARY:Saint Romuald
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-jean-baptiste-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290624
+DTEND;VALUE=DATE:20290625
+SUMMARY:Saint Jean-Baptiste
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-thierry-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290701
+DTEND;VALUE=DATE:20290702
+SUMMARY:Saint Thierry
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-marie-madeleine-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290722
+DTEND;VALUE=DATE:20290723
+SUMMARY:Sainte Marie-Madeleine
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-anne-et-saint-joachim-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290726
+DTEND;VALUE=DATE:20290727
+SUMMARY:Sainte Anne et Saint Joachim
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-jean-marie-vianney-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290804
+DTEND;VALUE=DATE:20290805
+SUMMARY:Saint Jean-Marie Vianney
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-assomption-de-marie-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290815
+DTEND;VALUE=DATE:20290816
+SUMMARY:Assomption de Marie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-louis-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290825
+DTEND;VALUE=DATE:20290826
+SUMMARY:Saint Louis
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-nativite-de-marie-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290908
+DTEND;VALUE=DATE:20290909
+SUMMARY:Nativite de Marie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-vincent-de-paul-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290927
+DTEND;VALUE=DATE:20290928
+SUMMARY:Saint Vincent de Paul
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-therese-de-lisieux-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20291001
+DTEND;VALUE=DATE:20291002
+SUMMARY:Sainte Therese de Lisieux
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-denis-de-paris-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20291009
+DTEND;VALUE=DATE:20291010
+SUMMARY:Saint Denis de Paris
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-luc-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20291018
+DTEND;VALUE=DATE:20291019
+SUMMARY:Saint Luc
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-toussaint-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20291101
+DTEND;VALUE=DATE:20291102
+SUMMARY:Toussaint
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-martin-de-tours-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20291111
+DTEND;VALUE=DATE:20291112
+SUMMARY:Saint Martin de Tours
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-immaculee-conception-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20291208
+DTEND;VALUE=DATE:20291209
+SUMMARY:Immaculee Conception
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-lucie-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20291213
+DTEND;VALUE=DATE:20291214
+SUMMARY:Sainte Lucie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-noel-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20291225
+DTEND;VALUE=DATE:20291226
+SUMMARY:Noel
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-genevieve-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300103
+DTEND;VALUE=DATE:20300104
+SUMMARY:Sainte Genevieve
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-remi-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300115
+DTEND;VALUE=DATE:20300116
+SUMMARY:Saint Remi
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-jacqueline-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300208
+DTEND;VALUE=DATE:20300209
+SUMMARY:Sainte Jacqueline
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-notre-dame-de-lourdes-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300211
+DTEND;VALUE=DATE:20300212
+SUMMARY:Notre-Dame de Lourdes
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-bernadette-de-lourdes-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300218
+DTEND;VALUE=DATE:20300219
+SUMMARY:Sainte Bernadette de Lourdes
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-joseph-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300319
+DTEND;VALUE=DATE:20300320
+SUMMARY:Saint Joseph
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-robert-de-molesme-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300430
+DTEND;VALUE=DATE:20300501
+SUMMARY:Saint Robert de Molesme
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-joseph-travailleur-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300501
+DTEND;VALUE=DATE:20300502
+SUMMARY:Saint Joseph travailleur
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-jeanne-darc-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300530
+DTEND;VALUE=DATE:20300531
+SUMMARY:Sainte Jeanne d'Arc
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-romuald-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300619
+DTEND;VALUE=DATE:20300620
+SUMMARY:Saint Romuald
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-jean-baptiste-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300624
+DTEND;VALUE=DATE:20300625
+SUMMARY:Saint Jean-Baptiste
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-thierry-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300702
+SUMMARY:Saint Thierry
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-marie-madeleine-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300722
+DTEND;VALUE=DATE:20300723
+SUMMARY:Sainte Marie-Madeleine
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-anne-et-saint-joachim-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300726
+DTEND;VALUE=DATE:20300727
+SUMMARY:Sainte Anne et Saint Joachim
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-jean-marie-vianney-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300804
+DTEND;VALUE=DATE:20300805
+SUMMARY:Saint Jean-Marie Vianney
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-assomption-de-marie-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300815
+DTEND;VALUE=DATE:20300816
+SUMMARY:Assomption de Marie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-louis-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300825
+DTEND;VALUE=DATE:20300826
+SUMMARY:Saint Louis
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-nativite-de-marie-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300908
+DTEND;VALUE=DATE:20300909
+SUMMARY:Nativite de Marie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-vincent-de-paul-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300927
+DTEND;VALUE=DATE:20300928
+SUMMARY:Saint Vincent de Paul
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-therese-de-lisieux-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301001
+DTEND;VALUE=DATE:20301002
+SUMMARY:Sainte Therese de Lisieux
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-denis-de-paris-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301009
+DTEND;VALUE=DATE:20301010
+SUMMARY:Saint Denis de Paris
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-luc-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301018
+DTEND;VALUE=DATE:20301019
+SUMMARY:Saint Luc
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-toussaint-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301101
+DTEND;VALUE=DATE:20301102
+SUMMARY:Toussaint
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-martin-de-tours-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301111
+DTEND;VALUE=DATE:20301112
+SUMMARY:Saint Martin de Tours
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-immaculee-conception-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301208
+DTEND;VALUE=DATE:20301209
+SUMMARY:Immaculee Conception
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-lucie-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301213
+DTEND;VALUE=DATE:20301214
+SUMMARY:Sainte Lucie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-noel-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301225
+DTEND;VALUE=DATE:20301226
+SUMMARY:Noel
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-genevieve-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310103
+DTEND;VALUE=DATE:20310104
+SUMMARY:Sainte Genevieve
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-remi-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310115
+DTEND;VALUE=DATE:20310116
+SUMMARY:Saint Remi
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-jacqueline-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310208
+DTEND;VALUE=DATE:20310209
+SUMMARY:Sainte Jacqueline
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-notre-dame-de-lourdes-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310211
+DTEND;VALUE=DATE:20310212
+SUMMARY:Notre-Dame de Lourdes
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-bernadette-de-lourdes-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310218
+DTEND;VALUE=DATE:20310219
+SUMMARY:Sainte Bernadette de Lourdes
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-joseph-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310319
+DTEND;VALUE=DATE:20310320
+SUMMARY:Saint Joseph
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-robert-de-molesme-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310430
+DTEND;VALUE=DATE:20310501
+SUMMARY:Saint Robert de Molesme
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-joseph-travailleur-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310501
+DTEND;VALUE=DATE:20310502
+SUMMARY:Saint Joseph travailleur
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-jeanne-darc-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310530
+DTEND;VALUE=DATE:20310531
+SUMMARY:Sainte Jeanne d'Arc
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-romuald-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310619
+DTEND;VALUE=DATE:20310620
+SUMMARY:Saint Romuald
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-jean-baptiste-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310624
+DTEND;VALUE=DATE:20310625
+SUMMARY:Saint Jean-Baptiste
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-thierry-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310701
+DTEND;VALUE=DATE:20310702
+SUMMARY:Saint Thierry
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-marie-madeleine-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310722
+DTEND;VALUE=DATE:20310723
+SUMMARY:Sainte Marie-Madeleine
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-anne-et-saint-joachim-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310726
+DTEND;VALUE=DATE:20310727
+SUMMARY:Sainte Anne et Saint Joachim
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-jean-marie-vianney-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310804
+DTEND;VALUE=DATE:20310805
+SUMMARY:Saint Jean-Marie Vianney
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-assomption-de-marie-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310815
+DTEND;VALUE=DATE:20310816
+SUMMARY:Assomption de Marie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-louis-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310825
+DTEND;VALUE=DATE:20310826
+SUMMARY:Saint Louis
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-nativite-de-marie-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310908
+DTEND;VALUE=DATE:20310909
+SUMMARY:Nativite de Marie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-vincent-de-paul-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310927
+DTEND;VALUE=DATE:20310928
+SUMMARY:Saint Vincent de Paul
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-therese-de-lisieux-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311001
+DTEND;VALUE=DATE:20311002
+SUMMARY:Sainte Therese de Lisieux
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-denis-de-paris-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311009
+DTEND;VALUE=DATE:20311010
+SUMMARY:Saint Denis de Paris
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-luc-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311018
+DTEND;VALUE=DATE:20311019
+SUMMARY:Saint Luc
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-toussaint-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311101
+DTEND;VALUE=DATE:20311102
+SUMMARY:Toussaint
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-martin-de-tours-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311111
+DTEND;VALUE=DATE:20311112
+SUMMARY:Saint Martin de Tours
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-immaculee-conception-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311208
+DTEND;VALUE=DATE:20311209
+SUMMARY:Immaculee Conception
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-lucie-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311213
+DTEND;VALUE=DATE:20311214
+SUMMARY:Sainte Lucie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-noel-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311225
+DTEND;VALUE=DATE:20311226
+SUMMARY:Noel
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-genevieve-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20320103
+DTEND;VALUE=DATE:20320104
+SUMMARY:Sainte Genevieve
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-remi-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20320115
+DTEND;VALUE=DATE:20320116
+SUMMARY:Saint Remi
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-jacqueline-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20320208
+DTEND;VALUE=DATE:20320209
+SUMMARY:Sainte Jacqueline
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-notre-dame-de-lourdes-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20320211
+DTEND;VALUE=DATE:20320212
+SUMMARY:Notre-Dame de Lourdes
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-bernadette-de-lourdes-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20320218
+DTEND;VALUE=DATE:20320219
+SUMMARY:Sainte Bernadette de Lourdes
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-joseph-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20320319
+DTEND;VALUE=DATE:20320320
+SUMMARY:Saint Joseph
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-robert-de-molesme-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20320430
+DTEND;VALUE=DATE:20320501
+SUMMARY:Saint Robert de Molesme
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-joseph-travailleur-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20320501
+DTEND;VALUE=DATE:20320502
+SUMMARY:Saint Joseph travailleur
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-jeanne-darc-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20320530
+DTEND;VALUE=DATE:20320531
+SUMMARY:Sainte Jeanne d'Arc
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-romuald-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20320619
+DTEND;VALUE=DATE:20320620
+SUMMARY:Saint Romuald
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-jean-baptiste-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20320624
+DTEND;VALUE=DATE:20320625
+SUMMARY:Saint Jean-Baptiste
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-thierry-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20320701
+DTEND;VALUE=DATE:20320702
+SUMMARY:Saint Thierry
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-marie-madeleine-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20320722
+DTEND;VALUE=DATE:20320723
+SUMMARY:Sainte Marie-Madeleine
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-anne-et-saint-joachim-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20320726
+DTEND;VALUE=DATE:20320727
+SUMMARY:Sainte Anne et Saint Joachim
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-jean-marie-vianney-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20320804
+DTEND;VALUE=DATE:20320805
+SUMMARY:Saint Jean-Marie Vianney
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-assomption-de-marie-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20320815
+DTEND;VALUE=DATE:20320816
+SUMMARY:Assomption de Marie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-louis-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20320825
+DTEND;VALUE=DATE:20320826
+SUMMARY:Saint Louis
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-nativite-de-marie-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20320908
+DTEND;VALUE=DATE:20320909
+SUMMARY:Nativite de Marie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-vincent-de-paul-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20320927
+DTEND;VALUE=DATE:20320928
+SUMMARY:Saint Vincent de Paul
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-therese-de-lisieux-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20321001
+DTEND;VALUE=DATE:20321002
+SUMMARY:Sainte Therese de Lisieux
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-denis-de-paris-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20321009
+DTEND;VALUE=DATE:20321010
+SUMMARY:Saint Denis de Paris
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-luc-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20321018
+DTEND;VALUE=DATE:20321019
+SUMMARY:Saint Luc
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-toussaint-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20321101
+DTEND;VALUE=DATE:20321102
+SUMMARY:Toussaint
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-saint-martin-de-tours-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20321111
+DTEND;VALUE=DATE:20321112
+SUMMARY:Saint Martin de Tours
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-immaculee-conception-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20321208
+DTEND;VALUE=DATE:20321209
+SUMMARY:Immaculee Conception
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-sainte-lucie-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20321213
+DTEND;VALUE=DATE:20321214
+SUMMARY:Sainte Lucie
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-saints-francais-noel-2032@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20321225
+DTEND;VALUE=DATE:20321226
+SUMMARY:Noel
+DESCRIPTION:Selection de saints et fetes majeurs du calendrier catholique en France (sources publiques: AELF/Nominis).
+URL:https://www.aelf.org/calendrier/france
+CATEGORIES:Religion,Saints
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

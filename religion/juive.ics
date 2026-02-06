@@ -1,10 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FacilAbo//Calendrier Religion Fetes Juives//FR
+PRODID:-//FacilAbo//Calendrier Fetes Juives//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Fetes Juives
-X-WR-CALDESC:Fetes majeures du judaisme (Rosh Hashanah, Yom Kippour).
+X-WR-CALDESC:Fetes juives importantes (2025-2031) basees sur des calendriers publics.
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -25,134 +25,618 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:religion-juive-rosh-hashanah-2025@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20250923
-DTEND;VALUE=DATE:20250924
-SUMMARY:Rosh Hashanah (Judaisme)
-DESCRIPTION:Nouvel an hebraique
-URL:https://www.hebcal.com/holidays
+UID:religion-juive-pourim-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250313
+DTEND;VALUE=DATE:20250314
+SUMMARY:Pourim
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-pessah-(jour-1)-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250413
+DTEND;VALUE=DATE:20250414
+SUMMARY:Pessah (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-tisha-beav-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250802
+DTEND;VALUE=DATE:20250803
+SUMMARY:Tisha Beav
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-roch-hachana-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250923
+SUMMARY:Roch Hachana
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-juive-yom-kippour-2025@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20251002
-DTEND;VALUE=DATE:20251003
-SUMMARY:Yom Kippour (Judaisme)
-DESCRIPTION:Jour du Grand Pardon
-URL:https://www.hebcal.com/holidays
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20251001
+DTEND;VALUE=DATE:20251002
+SUMMARY:Yom Kippour
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-juive-rosh-hashanah-2026@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:Rosh Hashanah (Judaisme)
-DESCRIPTION:Nouvel an hebraique
-URL:https://www.hebcal.com/holidays
+UID:religion-juive-souccot-(jour-1)-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20251007
+DTEND;VALUE=DATE:20251008
+SUMMARY:Souccot (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-chemini-atseret-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20251014
+DTEND;VALUE=DATE:20251015
+SUMMARY:Chemini Atseret
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-hanoucca-(jour-1)-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20251215
+DTEND;VALUE=DATE:20251216
+SUMMARY:Hanoucca (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-pourim-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:Pourim
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-pessah-(jour-1)-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Pessah (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-tisha-beav-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:Tisha Beav
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-roch-hachana-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Roch Hachana
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-juive-yom-kippour-2026@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:Yom Kippour (Judaisme)
-DESCRIPTION:Jour du Grand Pardon
-URL:https://www.hebcal.com/holidays
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Yom Kippour
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-juive-rosh-hashanah-2027@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20271002
-DTEND;VALUE=DATE:20271003
-SUMMARY:Rosh Hashanah (Judaisme)
-DESCRIPTION:Nouvel an hebraique
-URL:https://www.hebcal.com/holidays
+UID:religion-juive-souccot-(jour-1)-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Souccot (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-chemini-atseret-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Chemini Atseret
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-hanoucca-(jour-1)-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Hanoucca (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-pourim-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Pourim
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-pessah-(jour-1)-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Pessah (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-tisha-beav-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Tisha Beav
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-roch-hachana-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:Roch Hachana
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-juive-yom-kippour-2027@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20271011
-DTEND;VALUE=DATE:20271012
-SUMMARY:Yom Kippour (Judaisme)
-DESCRIPTION:Jour du Grand Pardon
-URL:https://www.hebcal.com/holidays
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:Yom Kippour
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-juive-rosh-hashanah-2028@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20280921
-DTEND;VALUE=DATE:20280922
-SUMMARY:Rosh Hashanah (Judaisme)
-DESCRIPTION:Nouvel an hebraique
-URL:https://www.hebcal.com/holidays
+UID:religion-juive-souccot-(jour-1)-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:Souccot (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-chemini-atseret-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+SUMMARY:Chemini Atseret
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-hanoucca-(jour-1)-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:Hanoucca (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-pourim-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280311
+DTEND;VALUE=DATE:20280312
+SUMMARY:Pourim
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-pessah-(jour-1)-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280411
+DTEND;VALUE=DATE:20280412
+SUMMARY:Pessah (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-tisha-beav-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:Tisha Beav
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-roch-hachana-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280920
+DTEND;VALUE=DATE:20280921
+SUMMARY:Roch Hachana
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-juive-yom-kippour-2028@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20280930
-DTEND;VALUE=DATE:20281001
-SUMMARY:Yom Kippour (Judaisme)
-DESCRIPTION:Jour du Grand Pardon
-URL:https://www.hebcal.com/holidays
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280929
+DTEND;VALUE=DATE:20280930
+SUMMARY:Yom Kippour
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-juive-rosh-hashanah-2029@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20290910
-DTEND;VALUE=DATE:20290911
-SUMMARY:Rosh Hashanah (Judaisme)
-DESCRIPTION:Nouvel an hebraique
-URL:https://www.hebcal.com/holidays
+UID:religion-juive-souccot-(jour-1)-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20281005
+DTEND;VALUE=DATE:20281006
+SUMMARY:Souccot (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-chemini-atseret-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20281012
+DTEND;VALUE=DATE:20281013
+SUMMARY:Chemini Atseret
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-hanoucca-(jour-1)-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20281213
+DTEND;VALUE=DATE:20281214
+SUMMARY:Hanoucca (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-pourim-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290228
+DTEND;VALUE=DATE:20290301
+SUMMARY:Pourim
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-pessah-(jour-1)-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290331
+DTEND;VALUE=DATE:20290401
+SUMMARY:Pessah (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-tisha-beav-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290721
+DTEND;VALUE=DATE:20290722
+SUMMARY:Tisha Beav
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-roch-hachana-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290909
+DTEND;VALUE=DATE:20290910
+SUMMARY:Roch Hachana
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-juive-yom-kippour-2029@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20290919
-DTEND;VALUE=DATE:20290920
-SUMMARY:Yom Kippour (Judaisme)
-DESCRIPTION:Jour du Grand Pardon
-URL:https://www.hebcal.com/holidays
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290918
+DTEND;VALUE=DATE:20290919
+SUMMARY:Yom Kippour
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-juive-rosh-hashanah-2030@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20300928
-DTEND;VALUE=DATE:20300929
-SUMMARY:Rosh Hashanah (Judaisme)
-DESCRIPTION:Nouvel an hebraique
-URL:https://www.hebcal.com/holidays
+UID:religion-juive-souccot-(jour-1)-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290924
+DTEND;VALUE=DATE:20290925
+SUMMARY:Souccot (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-chemini-atseret-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20291001
+DTEND;VALUE=DATE:20291002
+SUMMARY:Chemini Atseret
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-hanoucca-(jour-1)-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20291202
+DTEND;VALUE=DATE:20291203
+SUMMARY:Hanoucca (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-pourim-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300318
+DTEND;VALUE=DATE:20300319
+SUMMARY:Pourim
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-pessah-(jour-1)-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300418
+DTEND;VALUE=DATE:20300419
+SUMMARY:Pessah (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-tisha-beav-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300807
+DTEND;VALUE=DATE:20300808
+SUMMARY:Tisha Beav
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-roch-hachana-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300927
+DTEND;VALUE=DATE:20300928
+SUMMARY:Roch Hachana
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-juive-yom-kippour-2030@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20301007
-DTEND;VALUE=DATE:20301008
-SUMMARY:Yom Kippour (Judaisme)
-DESCRIPTION:Jour du Grand Pardon
-URL:https://www.hebcal.com/holidays
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301006
+DTEND;VALUE=DATE:20301007
+SUMMARY:Yom Kippour
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-souccot-(jour-1)-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301012
+DTEND;VALUE=DATE:20301013
+SUMMARY:Souccot (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-chemini-atseret-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301019
+DTEND;VALUE=DATE:20301020
+SUMMARY:Chemini Atseret
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-hanoucca-(jour-1)-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301221
+DTEND;VALUE=DATE:20301222
+SUMMARY:Hanoucca (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-pourim-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310308
+DTEND;VALUE=DATE:20310309
+SUMMARY:Pourim
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-pessah-(jour-1)-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310408
+DTEND;VALUE=DATE:20310409
+SUMMARY:Pessah (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-tisha-beav-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310728
+DTEND;VALUE=DATE:20310729
+SUMMARY:Tisha Beav
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-roch-hachana-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310917
+DTEND;VALUE=DATE:20310918
+SUMMARY:Roch Hachana
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-yom-kippour-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310926
+DTEND;VALUE=DATE:20310927
+SUMMARY:Yom Kippour
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-souccot-(jour-1)-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311002
+DTEND;VALUE=DATE:20311003
+SUMMARY:Souccot (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-chemini-atseret-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311009
+DTEND;VALUE=DATE:20311010
+SUMMARY:Chemini Atseret
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-juive-hanoucca-(jour-1)-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311210
+DTEND;VALUE=DATE:20311211
+SUMMARY:Hanoucca (jour 1)
+DESCRIPTION:Fete juive importante (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT

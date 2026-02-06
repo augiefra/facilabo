@@ -1,10 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FacilAbo//Calendrier Religion Fetes Musulmanes//FR
+PRODID:-//FacilAbo//Calendrier Fetes Musulmanes//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Fetes Musulmanes
-X-WR-CALDESC:Fetes majeures musulmanes (Aid al-Fitr, Aid al-Adha). Les dates peuvent varier de J+/-1 selon l'observation lunaire locale.
+X-WR-CALDESC:Fetes musulmanes importantes (2025-2031) basees sur des calendriers publics. Les dates lunaires peuvent varier (J+/-1).
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -25,135 +25,619 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:religion-musulmane-al-isra-wal-miraj-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250128
+DTEND;VALUE=DATE:20250129
+SUMMARY:Al-Isra wal-Mi'raj
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-debut-du-ramadan-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250301
+DTEND;VALUE=DATE:20250302
+SUMMARY:Debut du Ramadan
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-nuit-du-destin-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250326
+DTEND;VALUE=DATE:20250327
+SUMMARY:Nuit du Destin
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:religion-musulmane-aid-al-fitr-2025@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250330
 DTEND;VALUE=DATE:20250331
-SUMMARY:Aid al-Fitr (Islam)
-DESCRIPTION:Fin du Ramadan (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+SUMMARY:Aid al-Fitr
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-musulmane-aid-al-adha-2025@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250606
 DTEND;VALUE=DATE:20250607
-SUMMARY:Aid al-Adha (Islam)
-DESCRIPTION:Fete du sacrifice (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+SUMMARY:Aid al-Adha
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-nouvel-an-hegire-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250627
+DTEND;VALUE=DATE:20250628
+SUMMARY:Nouvel An hegire
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-achoura-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250706
+DTEND;VALUE=DATE:20250707
+SUMMARY:Achoura
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-mawlid-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250906
+SUMMARY:Mawlid
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-al-isra-wal-miraj-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:Al-Isra wal-Mi'raj
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-debut-du-ramadan-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:Debut du Ramadan
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-nuit-du-destin-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:Nuit du Destin
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-musulmane-aid-al-fitr-2026@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
-SUMMARY:Aid al-Fitr (Islam)
-DESCRIPTION:Fin du Ramadan (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+SUMMARY:Aid al-Fitr
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-musulmane-aid-al-adha-2026@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
-SUMMARY:Aid al-Adha (Islam)
-DESCRIPTION:Fete du sacrifice (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+SUMMARY:Aid al-Adha
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-nouvel-an-hegire-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:Nouvel An hegire
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-achoura-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Achoura
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-mawlid-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Mawlid
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-al-isra-wal-miraj-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Al-Isra wal-Mi'raj
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-debut-du-ramadan-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Debut du Ramadan
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-nuit-du-destin-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Nuit du Destin
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-musulmane-aid-al-fitr-2027@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
-SUMMARY:Aid al-Fitr (Islam)
-DESCRIPTION:Fin du Ramadan (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+SUMMARY:Aid al-Fitr
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-musulmane-aid-al-adha-2027@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
-SUMMARY:Aid al-Adha (Islam)
-DESCRIPTION:Fete du sacrifice (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+SUMMARY:Aid al-Adha
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-nouvel-an-hegire-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Nouvel An hegire
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-achoura-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Achoura
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-mawlid-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Mawlid
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-debut-du-ramadan-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280128
+DTEND;VALUE=DATE:20280129
+SUMMARY:Debut du Ramadan
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-nuit-du-destin-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280222
+DTEND;VALUE=DATE:20280223
+SUMMARY:Nuit du Destin
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-musulmane-aid-al-fitr-2028@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280227
 DTEND;VALUE=DATE:20280228
-SUMMARY:Aid al-Fitr (Islam)
-DESCRIPTION:Fin du Ramadan (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+SUMMARY:Aid al-Fitr
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-musulmane-aid-al-adha-2028@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280505
 DTEND;VALUE=DATE:20280506
-SUMMARY:Aid al-Adha (Islam)
-DESCRIPTION:Fete du sacrifice (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+SUMMARY:Aid al-Adha
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-nouvel-an-hegire-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:Nouvel An hegire
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-achoura-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280603
+DTEND;VALUE=DATE:20280604
+SUMMARY:Achoura
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-mawlid-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280803
+DTEND;VALUE=DATE:20280804
+SUMMARY:Mawlid
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-al-isra-wal-miraj-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20281214
+DTEND;VALUE=DATE:20281215
+SUMMARY:Al-Isra wal-Mi'raj
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-debut-du-ramadan-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290116
+DTEND;VALUE=DATE:20290117
+SUMMARY:Debut du Ramadan
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-nuit-du-destin-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290210
+DTEND;VALUE=DATE:20290211
+SUMMARY:Nuit du Destin
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-musulmane-aid-al-fitr-2029@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20290214
-DTEND;VALUE=DATE:20290215
-SUMMARY:Aid al-Fitr (Islam)
-DESCRIPTION:Fin du Ramadan (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290215
+DTEND;VALUE=DATE:20290216
+SUMMARY:Aid al-Fitr
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-musulmane-aid-al-adha-2029@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290424
 DTEND;VALUE=DATE:20290425
-SUMMARY:Aid al-Adha (Islam)
-DESCRIPTION:Fete du sacrifice (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+SUMMARY:Aid al-Adha
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-nouvel-an-hegire-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290515
+DTEND;VALUE=DATE:20290516
+SUMMARY:Nouvel An hegire
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-achoura-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290524
+DTEND;VALUE=DATE:20290525
+SUMMARY:Achoura
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-mawlid-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290724
+DTEND;VALUE=DATE:20290725
+SUMMARY:Mawlid
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-al-isra-wal-miraj-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20291204
+DTEND;VALUE=DATE:20291205
+SUMMARY:Al-Isra wal-Mi'raj
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-debut-du-ramadan-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300106
+DTEND;VALUE=DATE:20300107
+SUMMARY:Debut du Ramadan
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-nuit-du-destin-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:Nuit du Destin
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-musulmane-aid-al-fitr-2030@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20300204
-DTEND;VALUE=DATE:20300205
-SUMMARY:Aid al-Fitr (Islam)
-DESCRIPTION:Fin du Ramadan (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300205
+DTEND;VALUE=DATE:20300206
+SUMMARY:Aid al-Fitr
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-aid-al-adha-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300414
+DTEND;VALUE=DATE:20300415
+SUMMARY:Aid al-Adha
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-nouvel-an-hegire-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300504
+DTEND;VALUE=DATE:20300505
+SUMMARY:Nouvel An hegire
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-achoura-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300513
+DTEND;VALUE=DATE:20300514
+SUMMARY:Achoura
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-mawlid-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300713
+DTEND;VALUE=DATE:20300714
+SUMMARY:Mawlid
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-al-isra-wal-miraj-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301123
+DTEND;VALUE=DATE:20301124
+SUMMARY:Al-Isra wal-Mi'raj
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-nuit-du-destin-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310120
+DTEND;VALUE=DATE:20310121
+SUMMARY:Nuit du Destin
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-musulmane-aid-al-adha-2030@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20300413
-DTEND;VALUE=DATE:20300414
-SUMMARY:Aid al-Adha (Islam)
-DESCRIPTION:Fete du sacrifice (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+UID:religion-musulmane-aid-al-fitr-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310125
+DTEND;VALUE=DATE:20310126
+SUMMARY:Aid al-Fitr
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-aid-al-adha-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310403
+DTEND;VALUE=DATE:20310404
+SUMMARY:Aid al-Adha
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-nouvel-an-hegire-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310423
+DTEND;VALUE=DATE:20310424
+SUMMARY:Nouvel An hegire
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-achoura-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310502
+DTEND;VALUE=DATE:20310503
+SUMMARY:Achoura
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-mawlid-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310702
+DTEND;VALUE=DATE:20310703
+SUMMARY:Mawlid
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-al-isra-wal-miraj-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311112
+DTEND;VALUE=DATE:20311113
+SUMMARY:Al-Isra wal-Mi'raj
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-musulmane-debut-du-ramadan-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311215
+DTEND;VALUE=DATE:20311216
+SUMMARY:Debut du Ramadan
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR

@@ -18,12 +18,13 @@ Calendriers ICS personnalises pour l'application FacilAbo.
 │   ├── france.ics          # Evenements culturels France (2025-2030)
 │   └── ceremonies.ics      # Oscars, Cesars, Grammys, Emmy (2025-2030)
 ├── religion/
-│   ├── chretienne.ics      # Fetes chretiennes (2025-2030)
-│   ├── musulmane.ics       # Fetes musulmanes (2025-2030)
-│   ├── juive.ics           # Fetes juives (2025-2030)
-│   ├── hindoue.ics         # Fetes hindoues (2025-2030)
-│   ├── bouddhiste.ics      # Fetes bouddhistes (2025-2030)
-│   ├── sikhe.ics           # Fetes sikhes (2025-2030)
+│   ├── chretienne.ics      # Fetes chretiennes (2025-2031)
+│   ├── musulmane.ics       # Fetes musulmanes (2025-2031)
+│   ├── juive.ics           # Fetes juives (2025-2031)
+│   ├── hindoue.ics         # Fetes hindoues (2025-2031)
+│   ├── bouddhiste.ics      # Fetes bouddhistes (2025-2026)
+│   ├── sikhe.ics           # Fetes sikhes (2025-2031)
+│   ├── saints-francais.ics # Saints francais (2025-2032)
 │   └── multi-cultes.ics    # Compat legacy (deprecie)
 ├── ecommerce/
 │   ├── blackfriday.ics     # Black Friday & Cyber Monday (2025-2030)
@@ -79,6 +80,7 @@ Calendriers ICS personnalises pour l'application FacilAbo.
   - `Fetes Hindoues` (`religion/hindoue.ics`)
   - `Fetes Bouddhistes` (`religion/bouddhiste.ics`)
   - `Fetes Sikhes` (`religion/sikhe.ics`)
+  - `Saints Francais` (`religion/saints-francais.ics`)
 - Compatibilite:
   - `religion/multi-cultes.ics` reste disponible temporairement pour les anciennes integrations.
 - Note:
@@ -133,6 +135,7 @@ https://raw.githubusercontent.com/augiefra/facilabo/main/religion/juive.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/religion/hindoue.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/religion/bouddhiste.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/religion/sikhe.ics
+https://raw.githubusercontent.com/augiefra/facilabo/main/religion/saints-francais.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/religion/multi-cultes.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/jardin/lunaire.ics
 https://raw.githubusercontent.com/augiefra/facilabo/main/ecommerce/blackfriday.ics
@@ -143,7 +146,7 @@ https://raw.githubusercontent.com/augiefra/facilabo/main/ecommerce/fetes-commerc
 
 ## Mise a jour
 
-Les calendriers couvrent 2025-2030. Pour mettre a jour:
+Les calendriers couvrent 2025-2032 selon les flux (details dans la section Structure). Pour mettre a jour:
 1. Modifier les fichiers `.ics`
 2. Push sur `main`
 3. Les URLs raw sont immediatement accessibles
