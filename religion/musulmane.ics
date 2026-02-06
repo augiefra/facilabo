@@ -553,6 +553,17 @@ CATEGORIES:Religion,Islam
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:religion-musulmane-debut-du-ramadan-2030b@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301226
+DTEND;VALUE=DATE:20301227
+SUMMARY:Debut du Ramadan
+DESCRIPTION:Fete musulmane importante (source: Google Public Holidays). Les dates lunaires peuvent varier localement.
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:religion-musulmane-nuit-du-destin-2031@facilabo.app
 DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20310120

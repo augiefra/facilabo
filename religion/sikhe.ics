@@ -62,7 +62,7 @@ UID:religion-sikhe-martyrdom-day-of-guru-tegh-bahadur-2025@facilabo.app
 DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20251124
 DTEND;VALUE=DATE:20251125
-SUMMARY:Martyrdom Day of Guru Tegh Bahadur
+SUMMARY:Martyre de Guru Tegh Bahadur
 DESCRIPTION:Fete sikhe importante (source: Google Public Holidays - India).
 URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Sikhisme
@@ -95,7 +95,7 @@ UID:religion-sikhe-martyrdom-day-of-guru-tegh-bahadur-2026@facilabo.app
 DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:Martyrdom Day of Guru Tegh Bahadur
+SUMMARY:Martyre de Guru Tegh Bahadur
 DESCRIPTION:Fete sikhe importante (source: Google Public Holidays - India).
 URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Sikhisme
@@ -113,11 +113,55 @@ CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:religion-sikhe-vaisakhi-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Vaisakhi
+DESCRIPTION:Fete sikhe importante (source: Google Public Holidays - India).
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Sikhisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-sikhe-guru-nanak-jayanti-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+SUMMARY:Guru Nanak Jayanti
+DESCRIPTION:Fete sikhe importante (source: Google Public Holidays - India).
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Sikhisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:religion-sikhe-martyrdom-day-of-guru-tegh-bahadur-2027@facilabo.app
 DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20271124
 DTEND;VALUE=DATE:20271125
-SUMMARY:Martyrdom Day of Guru Tegh Bahadur
+SUMMARY:Martyre de Guru Tegh Bahadur
+DESCRIPTION:Fete sikhe importante (source: Google Public Holidays - India).
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Sikhisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-sikhe-vaisakhi-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280413
+DTEND;VALUE=DATE:20280414
+SUMMARY:Vaisakhi
+DESCRIPTION:Fete sikhe importante (source: Google Public Holidays - India).
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Sikhisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-sikhe-guru-nanak-jayanti-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20281102
+DTEND;VALUE=DATE:20281103
+SUMMARY:Guru Nanak Jayanti
 DESCRIPTION:Fete sikhe importante (source: Google Public Holidays - India).
 URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Sikhisme
@@ -128,7 +172,29 @@ UID:religion-sikhe-martyrdom-day-of-guru-tegh-bahadur-2028@facilabo.app
 DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20281124
 DTEND;VALUE=DATE:20281125
-SUMMARY:Martyrdom Day of Guru Tegh Bahadur
+SUMMARY:Martyre de Guru Tegh Bahadur
+DESCRIPTION:Fete sikhe importante (source: Google Public Holidays - India).
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Sikhisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-sikhe-vaisakhi-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290414
+DTEND;VALUE=DATE:20290415
+SUMMARY:Vaisakhi
+DESCRIPTION:Fete sikhe importante (source: Google Public Holidays - India).
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Sikhisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-sikhe-guru-nanak-jayanti-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20291121
+DTEND;VALUE=DATE:20291122
+SUMMARY:Guru Nanak Jayanti
 DESCRIPTION:Fete sikhe importante (source: Google Public Holidays - India).
 URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Sikhisme
@@ -139,7 +205,29 @@ UID:religion-sikhe-martyrdom-day-of-guru-tegh-bahadur-2029@facilabo.app
 DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20291124
 DTEND;VALUE=DATE:20291125
-SUMMARY:Martyrdom Day of Guru Tegh Bahadur
+SUMMARY:Martyre de Guru Tegh Bahadur
+DESCRIPTION:Fete sikhe importante (source: Google Public Holidays - India).
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Sikhisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-sikhe-vaisakhi-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300414
+DTEND;VALUE=DATE:20300415
+SUMMARY:Vaisakhi
+DESCRIPTION:Fete sikhe importante (source: Google Public Holidays - India).
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Sikhisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-sikhe-guru-nanak-jayanti-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301110
+DTEND;VALUE=DATE:20301111
+SUMMARY:Guru Nanak Jayanti
 DESCRIPTION:Fete sikhe importante (source: Google Public Holidays - India).
 URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Sikhisme
@@ -150,7 +238,18 @@ UID:religion-sikhe-martyrdom-day-of-guru-tegh-bahadur-2030@facilabo.app
 DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20301124
 DTEND;VALUE=DATE:20301125
-SUMMARY:Martyrdom Day of Guru Tegh Bahadur
+SUMMARY:Martyre de Guru Tegh Bahadur
+DESCRIPTION:Fete sikhe importante (source: Google Public Holidays - India).
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Sikhisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-sikhe-vaisakhi-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310414
+DTEND;VALUE=DATE:20310415
+SUMMARY:Vaisakhi
 DESCRIPTION:Fete sikhe importante (source: Google Public Holidays - India).
 URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Sikhisme
@@ -161,7 +260,18 @@ UID:religion-sikhe-martyrdom-day-of-guru-tegh-bahadur-2031@facilabo.app
 DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20311124
 DTEND;VALUE=DATE:20311125
-SUMMARY:Martyrdom Day of Guru Tegh Bahadur
+SUMMARY:Martyre de Guru Tegh Bahadur
+DESCRIPTION:Fete sikhe importante (source: Google Public Holidays - India).
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Sikhisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-sikhe-guru-nanak-jayanti-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311128
+DTEND;VALUE=DATE:20311129
+SUMMARY:Guru Nanak Jayanti
 DESCRIPTION:Fete sikhe importante (source: Google Public Holidays - India).
 URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Sikhisme

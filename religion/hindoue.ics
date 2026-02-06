@@ -137,8 +137,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:religion-hindoue-janmashtami-2025@facilabo.app
 DTSTAMP:20260206T081127Z
-DTSTART;VALUE=DATE:20250815
-DTEND;VALUE=DATE:20250816
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250817
 SUMMARY:Janmashtami
 DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
