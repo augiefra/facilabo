@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Conferences Tech-Gaming//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Conferences Tech/Gaming
+X-WR-CALDESC:Conferences Tech/Gaming officielles - MVP 2026
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:culture-tech-gaming-ces-2026@facilabo.app
+DTSTAMP:20260206T120000Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260110
+SUMMARY:CES 2026
+DESCRIPTION:Consumer Technology Association - dates officielles. Source officielle: https://www.ces.tech/media-and-press/ces-unveiled-news/ces-unveiled-news-2026/
+LOCATION:Las Vegas\, USA
+URL:https://www.ces.tech/media-and-press/ces-unveiled-news/ces-unveiled-news-2026/
+CATEGORIES:Culture,Tech,Gaming
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:culture-tech-gaming-nvidia-gtc-2026@facilabo.app
+DTSTAMP:20260206T120000Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260320
+SUMMARY:NVIDIA GTC 2026
+DESCRIPTION:Conference NVIDIA GTC - dates officielles. Source officielle: https://www.nvidia.com/gtc/
+LOCATION:San Jose\, USA
+URL:https://www.nvidia.com/gtc/
+CATEGORIES:Culture,Tech,Gaming
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:culture-tech-gaming-pax-east-2026@facilabo.app
+DTSTAMP:20260206T120000Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260330
+SUMMARY:PAX East 2026
+DESCRIPTION:Festival PAX East - dates officielles. Source officielle: https://www.paxsite.com/
+LOCATION:Boston\, USA
+URL:https://www.paxsite.com/
+CATEGORIES:Culture,Tech,Gaming
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:culture-tech-gaming-google-cloud-next-2026@facilabo.app
+DTSTAMP:20260206T120000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260425
+SUMMARY:Google Cloud Next 2026
+DESCRIPTION:Conference Google Cloud Next - dates officielles. Source officielle: https://cloud.google.com/blog/topics/google-cloud-next/registration-is-open-for-google-cloud-next
+LOCATION:Las Vegas\, USA
+URL:https://cloud.google.com/blog/topics/google-cloud-next/registration-is-open-for-google-cloud-next
+CATEGORIES:Culture,Tech,Gaming
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:culture-tech-gaming-computex-2026@facilabo.app
+DTSTAMP:20260206T120000Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260606
+SUMMARY:COMPUTEX 2026
+DESCRIPTION:Salon COMPUTEX - dates officielles. Source officielle: https://www.computextaipei.com.tw/en/menu/A546BFC6C2E2ED34D0636733C6861689/info.html
+LOCATION:Taipei\, Taiwan
+URL:https://www.computextaipei.com.tw/en/menu/A546BFC6C2E2ED34D0636733C6861689/info.html
+CATEGORIES:Culture,Tech,Gaming
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:culture-tech-gaming-summer-game-fest-2026@facilabo.app
+DTSTAMP:20260206T120000Z
+DTSTART;TZID=Europe/Paris:20260605T230000
+DTEND;TZID=Europe/Paris:20260606T010000
+SUMMARY:Summer Game Fest 2026
+DESCRIPTION:Showcase principal Summer Game Fest (heure officielle convertie Europe/Paris). Source officielle: https://www.summergamefest.com/events/summer-game-fest
+LOCATION:Los Angeles\, USA
+URL:https://www.summergamefest.com/events/summer-game-fest
+CATEGORIES:Culture,Tech,Gaming
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:culture-tech-gaming-siggraph-2026@facilabo.app
+DTSTAMP:20260206T120000Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260724
+SUMMARY:SIGGRAPH 2026
+DESCRIPTION:Conference ACM SIGGRAPH - dates officielles. Source officielle: https://s2026.siggraph.org/
+LOCATION:Vancouver\, Canada
+URL:https://s2026.siggraph.org/
+CATEGORIES:Culture,Tech,Gaming
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:culture-tech-gaming-gamescom-dev-2026@facilabo.app
+DTSTAMP:20260206T120000Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260826
+SUMMARY:gamescom dev 2026
+DESCRIPTION:Conference gamescom dev - dates officielles. Source officielle: https://dev.gamescom.global/conference/
+LOCATION:Cologne\, Germany
+URL:https://dev.gamescom.global/conference/
+CATEGORIES:Culture,Tech,Gaming
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:culture-tech-gaming-pax-west-2026@facilabo.app
+DTSTAMP:20260206T120000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260908
+SUMMARY:PAX West 2026
+DESCRIPTION:Festival PAX West - dates officielles. Source officielle: https://www.paxsite.com/
+LOCATION:Seattle\, USA
+URL:https://www.paxsite.com/
+CATEGORIES:Culture,Tech,Gaming
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:culture-tech-gaming-blizzcon-2026@facilabo.app
+DTSTAMP:20260206T120000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:BlizzCon 2026
+DESCRIPTION:BlizzCon - dates officielles. Source officielle: https://news.blizzard.com/en-us/article/24188065/blizzcon-returns-in-2026
+LOCATION:Anaheim\, USA
+URL:https://news.blizzard.com/en-us/article/24188065/blizzcon-returns-in-2026
+CATEGORIES:Culture,Tech,Gaming
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

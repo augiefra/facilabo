@@ -1,0 +1,69 @@
+name: Tech Gaming Watch
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: tech-gaming-watch
+  cancel-in-progress: false
+
+jobs:
+  watch-tech-gaming:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Validate source watchlist
+        run: node scripts/validate-tech-gaming-sources.ts --file sources/tech-gaming-watchlist.yaml
+
+      - name: Dry run update
+        run: node scripts/update-tech-gaming-calendar.ts --dry-run --file sources/tech-gaming-watchlist.yaml --output culture/tech-gaming.ics
+
+      - name: Apply update
+        run: node scripts/update-tech-gaming-calendar.ts --file sources/tech-gaming-watchlist.yaml --output culture/tech-gaming.ics
+
+      - name: Smoke check raw and API proxy
+        run: |
+          curl -sL "https://raw.githubusercontent.com/augiefra/facilabo/main/culture/tech-gaming.ics" | grep -E "BEGIN:VCALENDAR|X-WR-CALNAME"
+          curl -sL "https://facilabo-api.vercel.app/api/v1/calendars/culture-tech-gaming" | grep -E "BEGIN:VCALENDAR|X-WR-CALNAME|PRODID"
+
+      - name: Detect changes
+        id: changes
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create pull request
+        if: steps.changes.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: codex/tech-gaming-watch
+          delete-branch: true
+          title: "chore(calendars): refresh culture-tech-gaming ICS"
+          commit-message: "chore(calendars): refresh culture-tech-gaming ICS"
+          body: |
+            Automated update from `tech-gaming-watch`.
+
+            Included checks:
+            - watchlist validation
+            - dry-run generation
+            - raw/proxy smoke checks
+          labels: |
+            automation
+            calendars
