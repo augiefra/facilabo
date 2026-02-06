@@ -1,10 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FacilAbo//Calendrier Religion Multi Cultes//FR
+PRODID:-//FacilAbo//Calendrier Fetes Religieuses Multi-Cultes//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Fetes Religieuses Multi-Cultes
-X-WR-CALDESC:Fetes majeures chretiennes, musulmanes, juives, hindoues, bouddhistes et sikhes. Des variations locales (J+/-1) sont possibles selon les observations et autorites religieuses.
+X-WR-CALDESC:Selection multi-cultes des fetes religieuses majeures (2025-2031) basee sur des calendriers publics.
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -25,597 +25,1015 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:religion-multi-cultes-paques-2025@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20250420
-DTEND;VALUE=DATE:20250421
-SUMMARY:Paques (Christianisme)
-DESCRIPTION:Fete majeure chretienne
-URL:https://www.vatican.va/
-CATEGORIES:Religion,Christianisme
+UID:religion-multi-cultes-debut-du-ramadan-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250301
+DTEND;VALUE=DATE:20250302
+SUMMARY:Debut du Ramadan
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-noel-2025@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20251225
-DTEND;VALUE=DATE:20251226
-SUMMARY:Noel (Christianisme)
-DESCRIPTION:Nativite de Jesus-Christ
-URL:https://www.vatican.va/
-CATEGORIES:Religion,Christianisme
+UID:religion-multi-cultes-holi-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250314
+DTEND;VALUE=DATE:20250315
+SUMMARY:Holi
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-aid-al-fitr-2025@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250330
 DTEND;VALUE=DATE:20250331
-SUMMARY:Aid al-Fitr (Islam)
-DESCRIPTION:Fin du Ramadan (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+SUMMARY:Aid al-Fitr
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-pessah-(jour-1)-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250413
+DTEND;VALUE=DATE:20250414
+SUMMARY:Pessah (jour 1)
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-vaisakhi-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250413
+DTEND;VALUE=DATE:20250414
+SUMMARY:Vaisakhi
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Sikhisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-paques-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250420
+DTEND;VALUE=DATE:20250421
+SUMMARY:Paques
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-vesak-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250513
+SUMMARY:Vesak
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Bouddhisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-buddha-purnima-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250513
+SUMMARY:Buddha Purnima
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-aid-al-adha-2025@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250606
 DTEND;VALUE=DATE:20250607
-SUMMARY:Aid al-Adha (Islam)
-DESCRIPTION:Fete du sacrifice (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+SUMMARY:Aid al-Adha
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-rosh-hashanah-2025@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20250923
-DTEND;VALUE=DATE:20250924
-SUMMARY:Rosh Hashanah (Judaisme)
-DESCRIPTION:Nouvel an hebraique
-URL:https://www.hebcal.com/holidays
+UID:religion-multi-cultes-assomption-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250816
+SUMMARY:Assomption
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-mawlid-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250906
+SUMMARY:Mawlid
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-roch-hachana-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250923
+SUMMARY:Roch Hachana
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-yom-kippour-2025@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20251002
-DTEND;VALUE=DATE:20251003
-SUMMARY:Yom Kippour (Judaisme)
-DESCRIPTION:Jour du Grand Pardon
-URL:https://www.hebcal.com/holidays
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20251001
+DTEND;VALUE=DATE:20251002
+SUMMARY:Yom Kippour
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-diwali-2025@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251021
-SUMMARY:Diwali (Hindouisme)
-DESCRIPTION:Fete des lumieres
-URL:https://www.drikpanchang.com/
+SUMMARY:Diwali
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-vesak-2025@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20250512
-DTEND;VALUE=DATE:20250513
-SUMMARY:Vesak (Bouddhisme)
-DESCRIPTION:Commemoration de la naissance, eveil et parinirvana du Bouddha
-URL:https://www.un.org/en/observances/vesak-day
-CATEGORIES:Religion,Bouddhisme
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:religion-multi-cultes-vaisakhi-2025@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20250414
-DTEND;VALUE=DATE:20250415
-SUMMARY:Vaisakhi (Sikhisme)
-DESCRIPTION:Fete majeure sikh, creation du Khalsa
-URL:https://www.sgpc.net/
+UID:religion-multi-cultes-guru-nanak-jayanti-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20251105
+DTEND;VALUE=DATE:20251106
+SUMMARY:Guru Nanak Jayanti
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-paques-2026@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20260405
-DTEND;VALUE=DATE:20260406
-SUMMARY:Paques (Christianisme)
-DESCRIPTION:Fete majeure chretienne
-URL:https://www.vatican.va/
+UID:religion-multi-cultes-noel-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20251225
+DTEND;VALUE=DATE:20251226
+SUMMARY:Noel
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-noel-2026@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20261225
-DTEND;VALUE=DATE:20261226
-SUMMARY:Noel (Christianisme)
-DESCRIPTION:Nativite de Jesus-Christ
-URL:https://www.vatican.va/
-CATEGORIES:Religion,Christianisme
+UID:religion-multi-cultes-debut-du-ramadan-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:Debut du Ramadan
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-holi-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260305
+SUMMARY:Holi
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-aid-al-fitr-2026@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
-SUMMARY:Aid al-Fitr (Islam)
-DESCRIPTION:Fin du Ramadan (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+SUMMARY:Aid al-Fitr
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-pessah-(jour-1)-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Pessah (jour 1)
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-paques-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Paques
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-vaisakhi-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:Vaisakhi
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Sikhisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-vesak-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Vesak
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Bouddhisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-buddha-purnima-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Buddha Purnima
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-aid-al-adha-2026@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
-SUMMARY:Aid al-Adha (Islam)
-DESCRIPTION:Fete du sacrifice (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+SUMMARY:Aid al-Adha
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-assomption-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Assomption
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-rosh-hashanah-2026@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:Rosh Hashanah (Judaisme)
-DESCRIPTION:Nouvel an hebraique
-URL:https://www.hebcal.com/holidays
+UID:religion-multi-cultes-mawlid-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Mawlid
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-roch-hachana-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Roch Hachana
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-yom-kippour-2026@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:Yom Kippour (Judaisme)
-DESCRIPTION:Jour du Grand Pardon
-URL:https://www.hebcal.com/holidays
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Yom Kippour
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-diwali-2026@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-SUMMARY:Diwali (Hindouisme)
-DESCRIPTION:Fete des lumieres
-URL:https://www.drikpanchang.com/
+SUMMARY:Diwali
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-vesak-2026@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
-SUMMARY:Vesak (Bouddhisme)
-DESCRIPTION:Commemoration de la naissance, eveil et parinirvana du Bouddha
-URL:https://www.un.org/en/observances/vesak-day
-CATEGORIES:Religion,Bouddhisme
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:religion-multi-cultes-vaisakhi-2026@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20260414
-DTEND;VALUE=DATE:20260415
-SUMMARY:Vaisakhi (Sikhisme)
-DESCRIPTION:Fete majeure sikh, creation du Khalsa
-URL:https://www.sgpc.net/
+UID:religion-multi-cultes-guru-nanak-jayanti-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Guru Nanak Jayanti
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-paques-2027@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20270328
-DTEND;VALUE=DATE:20270329
-SUMMARY:Paques (Christianisme)
-DESCRIPTION:Fete majeure chretienne
-URL:https://www.vatican.va/
+UID:religion-multi-cultes-noel-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Noel
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-noel-2027@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20271225
-DTEND;VALUE=DATE:20271226
-SUMMARY:Noel (Christianisme)
-DESCRIPTION:Nativite de Jesus-Christ
-URL:https://www.vatican.va/
-CATEGORIES:Religion,Christianisme
-STATUS:CONFIRMED
+UID:religion-multi-cultes-debut-du-ramadan-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Debut du Ramadan
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-aid-al-fitr-2027@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
-SUMMARY:Aid al-Fitr (Islam)
-DESCRIPTION:Fin du Ramadan (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+SUMMARY:Aid al-Fitr
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-holi-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Holi
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Hindouisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-paques-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Paques
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-pessah-(jour-1)-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Pessah (jour 1)
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-aid-al-adha-2027@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
-SUMMARY:Aid al-Adha (Islam)
-DESCRIPTION:Fete du sacrifice (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+SUMMARY:Aid al-Adha
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-assomption-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Assomption
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-rosh-hashanah-2027@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20271002
-DTEND;VALUE=DATE:20271003
-SUMMARY:Rosh Hashanah (Judaisme)
-DESCRIPTION:Nouvel an hebraique
-URL:https://www.hebcal.com/holidays
+UID:religion-multi-cultes-mawlid-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Mawlid
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-roch-hachana-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:Roch Hachana
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-yom-kippour-2027@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20271011
-DTEND;VALUE=DATE:20271012
-SUMMARY:Yom Kippour (Judaisme)
-DESCRIPTION:Jour du Grand Pardon
-URL:https://www.hebcal.com/holidays
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:Yom Kippour
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-diwali-2027@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20271029
 DTEND;VALUE=DATE:20271030
-SUMMARY:Diwali (Hindouisme)
-DESCRIPTION:Fete des lumieres
-URL:https://www.drikpanchang.com/
+SUMMARY:Diwali
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-vesak-2027@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20270520
-DTEND;VALUE=DATE:20270521
-SUMMARY:Vesak (Bouddhisme)
-DESCRIPTION:Commemoration de la naissance, eveil et parinirvana du Bouddha
-URL:https://www.un.org/en/observances/vesak-day
-CATEGORIES:Religion,Bouddhisme
+UID:religion-multi-cultes-noel-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+SUMMARY:Noel
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-vaisakhi-2027@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20270414
-DTEND;VALUE=DATE:20270415
-SUMMARY:Vaisakhi (Sikhisme)
-DESCRIPTION:Fete majeure sikh, creation du Khalsa
-URL:https://www.sgpc.net/
-CATEGORIES:Religion,Sikhisme
+UID:religion-multi-cultes-debut-du-ramadan-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280128
+DTEND;VALUE=DATE:20280129
+SUMMARY:Debut du Ramadan
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-aid-al-fitr-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280227
+DTEND;VALUE=DATE:20280228
+SUMMARY:Aid al-Fitr
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-holi-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280311
+DTEND;VALUE=DATE:20280312
+SUMMARY:Holi
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Hindouisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-pessah-(jour-1)-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280411
+DTEND;VALUE=DATE:20280412
+SUMMARY:Pessah (jour 1)
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-paques-2028@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280416
 DTEND;VALUE=DATE:20280417
-SUMMARY:Paques (Christianisme)
-DESCRIPTION:Fete majeure chretienne
-URL:https://www.vatican.va/
+SUMMARY:Paques
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Christianisme
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:religion-multi-cultes-noel-2028@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20281225
-DTEND;VALUE=DATE:20281226
-SUMMARY:Noel (Christianisme)
-DESCRIPTION:Nativite de Jesus-Christ
-URL:https://www.vatican.va/
-CATEGORIES:Religion,Christianisme
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:religion-multi-cultes-aid-al-fitr-2028@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20280227
-DTEND;VALUE=DATE:20280228
-SUMMARY:Aid al-Fitr (Islam)
-DESCRIPTION:Fin du Ramadan (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
-CATEGORIES:Religion,Islam
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-aid-al-adha-2028@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280505
 DTEND;VALUE=DATE:20280506
-SUMMARY:Aid al-Adha (Islam)
-DESCRIPTION:Fete du sacrifice (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+SUMMARY:Aid al-Adha
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-mawlid-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280803
+DTEND;VALUE=DATE:20280804
+SUMMARY:Mawlid
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-assomption-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280815
+DTEND;VALUE=DATE:20280816
+SUMMARY:Assomption
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-rosh-hashanah-2028@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20280921
-DTEND;VALUE=DATE:20280922
-SUMMARY:Rosh Hashanah (Judaisme)
-DESCRIPTION:Nouvel an hebraique
-URL:https://www.hebcal.com/holidays
+UID:religion-multi-cultes-roch-hachana-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280920
+DTEND;VALUE=DATE:20280921
+SUMMARY:Roch Hachana
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-yom-kippour-2028@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20280930
-DTEND;VALUE=DATE:20281001
-SUMMARY:Yom Kippour (Judaisme)
-DESCRIPTION:Jour du Grand Pardon
-URL:https://www.hebcal.com/holidays
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280929
+DTEND;VALUE=DATE:20280930
+SUMMARY:Yom Kippour
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-diwali-2028@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20281017
 DTEND;VALUE=DATE:20281018
-SUMMARY:Diwali (Hindouisme)
-DESCRIPTION:Fete des lumieres
-URL:https://www.drikpanchang.com/
+SUMMARY:Diwali
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-vesak-2028@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20280508
-DTEND;VALUE=DATE:20280509
-SUMMARY:Vesak (Bouddhisme)
-DESCRIPTION:Commemoration de la naissance, eveil et parinirvana du Bouddha
-URL:https://www.un.org/en/observances/vesak-day
-CATEGORIES:Religion,Bouddhisme
+UID:religion-multi-cultes-noel-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:Noel
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-vaisakhi-2028@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20280414
-DTEND;VALUE=DATE:20280415
-SUMMARY:Vaisakhi (Sikhisme)
-DESCRIPTION:Fete majeure sikh, creation du Khalsa
-URL:https://www.sgpc.net/
-CATEGORIES:Religion,Sikhisme
+UID:religion-multi-cultes-debut-du-ramadan-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290116
+DTEND;VALUE=DATE:20290117
+SUMMARY:Debut du Ramadan
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-aid-al-fitr-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290215
+DTEND;VALUE=DATE:20290216
+SUMMARY:Aid al-Fitr
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-holi-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290301
+DTEND;VALUE=DATE:20290302
+SUMMARY:Holi
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Hindouisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-pessah-(jour-1)-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290331
+DTEND;VALUE=DATE:20290401
+SUMMARY:Pessah (jour 1)
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-paques-2029@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290401
 DTEND;VALUE=DATE:20290402
-SUMMARY:Paques (Christianisme)
-DESCRIPTION:Fete majeure chretienne
-URL:https://www.vatican.va/
+SUMMARY:Paques
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Christianisme
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:religion-multi-cultes-noel-2029@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20291225
-DTEND;VALUE=DATE:20291226
-SUMMARY:Noel (Christianisme)
-DESCRIPTION:Nativite de Jesus-Christ
-URL:https://www.vatican.va/
-CATEGORIES:Religion,Christianisme
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:religion-multi-cultes-aid-al-fitr-2029@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20290214
-DTEND;VALUE=DATE:20290215
-SUMMARY:Aid al-Fitr (Islam)
-DESCRIPTION:Fin du Ramadan (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
-CATEGORIES:Religion,Islam
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-aid-al-adha-2029@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290424
 DTEND;VALUE=DATE:20290425
-SUMMARY:Aid al-Adha (Islam)
-DESCRIPTION:Fete du sacrifice (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+SUMMARY:Aid al-Adha
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-mawlid-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290724
+DTEND;VALUE=DATE:20290725
+SUMMARY:Mawlid
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-assomption-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290815
+DTEND;VALUE=DATE:20290816
+SUMMARY:Assomption
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-rosh-hashanah-2029@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20290910
-DTEND;VALUE=DATE:20290911
-SUMMARY:Rosh Hashanah (Judaisme)
-DESCRIPTION:Nouvel an hebraique
-URL:https://www.hebcal.com/holidays
+UID:religion-multi-cultes-roch-hachana-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290909
+DTEND;VALUE=DATE:20290910
+SUMMARY:Roch Hachana
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-yom-kippour-2029@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20290919
-DTEND;VALUE=DATE:20290920
-SUMMARY:Yom Kippour (Judaisme)
-DESCRIPTION:Jour du Grand Pardon
-URL:https://www.hebcal.com/holidays
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290918
+DTEND;VALUE=DATE:20290919
+SUMMARY:Yom Kippour
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-diwali-2029@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20291105
 DTEND;VALUE=DATE:20291106
-SUMMARY:Diwali (Hindouisme)
-DESCRIPTION:Fete des lumieres
-URL:https://www.drikpanchang.com/
+SUMMARY:Diwali
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-vesak-2029@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20290527
-DTEND;VALUE=DATE:20290528
-SUMMARY:Vesak (Bouddhisme)
-DESCRIPTION:Commemoration de la naissance, eveil et parinirvana du Bouddha
-URL:https://www.un.org/en/observances/vesak-day
-CATEGORIES:Religion,Bouddhisme
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:religion-multi-cultes-vaisakhi-2029@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20290414
-DTEND;VALUE=DATE:20290415
-SUMMARY:Vaisakhi (Sikhisme)
-DESCRIPTION:Fete majeure sikh, creation du Khalsa
-URL:https://www.sgpc.net/
-CATEGORIES:Religion,Sikhisme
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:religion-multi-cultes-paques-2030@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20300421
-DTEND;VALUE=DATE:20300422
-SUMMARY:Paques (Christianisme)
-DESCRIPTION:Fete majeure chretienne
-URL:https://www.vatican.va/
+UID:religion-multi-cultes-noel-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20291225
+DTEND;VALUE=DATE:20291226
+SUMMARY:Noel
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-noel-2030@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20301225
-DTEND;VALUE=DATE:20301226
-SUMMARY:Noel (Christianisme)
-DESCRIPTION:Nativite de Jesus-Christ
-URL:https://www.vatican.va/
-CATEGORIES:Religion,Christianisme
-STATUS:CONFIRMED
+UID:religion-multi-cultes-debut-du-ramadan-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300106
+DTEND;VALUE=DATE:20300107
+SUMMARY:Debut du Ramadan
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-aid-al-fitr-2030@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20300204
-DTEND;VALUE=DATE:20300205
-SUMMARY:Aid al-Fitr (Islam)
-DESCRIPTION:Fin du Ramadan (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300205
+DTEND;VALUE=DATE:20300206
+SUMMARY:Aid al-Fitr
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-holi-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300320
+DTEND;VALUE=DATE:20300321
+SUMMARY:Holi
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-aid-al-adha-2030@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20300413
-DTEND;VALUE=DATE:20300414
-SUMMARY:Aid al-Adha (Islam)
-DESCRIPTION:Fete du sacrifice (date susceptible de varier selon observation lunaire)
-URL:https://www.islamicfinder.org/islamic-calendar/
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300414
+DTEND;VALUE=DATE:20300415
+SUMMARY:Aid al-Adha
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-pessah-(jour-1)-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300418
+DTEND;VALUE=DATE:20300419
+SUMMARY:Pessah (jour 1)
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-rosh-hashanah-2030@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20300928
-DTEND;VALUE=DATE:20300929
-SUMMARY:Rosh Hashanah (Judaisme)
-DESCRIPTION:Nouvel an hebraique
-URL:https://www.hebcal.com/holidays
+UID:religion-multi-cultes-paques-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300421
+DTEND;VALUE=DATE:20300422
+SUMMARY:Paques
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-mawlid-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300713
+DTEND;VALUE=DATE:20300714
+SUMMARY:Mawlid
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-assomption-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300815
+DTEND;VALUE=DATE:20300816
+SUMMARY:Assomption
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-roch-hachana-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300927
+DTEND;VALUE=DATE:20300928
+SUMMARY:Roch Hachana
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-yom-kippour-2030@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20301007
-DTEND;VALUE=DATE:20301008
-SUMMARY:Yom Kippour (Judaisme)
-DESCRIPTION:Jour du Grand Pardon
-URL:https://www.hebcal.com/holidays
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301006
+DTEND;VALUE=DATE:20301007
+SUMMARY:Yom Kippour
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-diwali-2030@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20301025
-DTEND;VALUE=DATE:20301026
-SUMMARY:Diwali (Hindouisme)
-DESCRIPTION:Fete des lumieres
-URL:https://www.drikpanchang.com/
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301026
+DTEND;VALUE=DATE:20301027
+SUMMARY:Diwali
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-vesak-2030@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20300516
-DTEND;VALUE=DATE:20300517
-SUMMARY:Vesak (Bouddhisme)
-DESCRIPTION:Commemoration de la naissance, eveil et parinirvana du Bouddha
-URL:https://www.un.org/en/observances/vesak-day
-CATEGORIES:Religion,Bouddhisme
+UID:religion-multi-cultes-noel-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301225
+DTEND;VALUE=DATE:20301226
+SUMMARY:Noel
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:religion-multi-cultes-vaisakhi-2030@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20300414
-DTEND;VALUE=DATE:20300415
-SUMMARY:Vaisakhi (Sikhisme)
-DESCRIPTION:Fete majeure sikh, creation du Khalsa
-URL:https://www.sgpc.net/
-CATEGORIES:Religion,Sikhisme
+UID:religion-multi-cultes-aid-al-fitr-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310125
+DTEND;VALUE=DATE:20310126
+SUMMARY:Aid al-Fitr
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-holi-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310309
+DTEND;VALUE=DATE:20310310
+SUMMARY:Holi
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Hindouisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-aid-al-adha-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310403
+DTEND;VALUE=DATE:20310404
+SUMMARY:Aid al-Adha
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-pessah-(jour-1)-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310408
+DTEND;VALUE=DATE:20310409
+SUMMARY:Pessah (jour 1)
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-paques-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310413
+DTEND;VALUE=DATE:20310414
+SUMMARY:Paques
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-mawlid-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310702
+DTEND;VALUE=DATE:20310703
+SUMMARY:Mawlid
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-assomption-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310815
+DTEND;VALUE=DATE:20310816
+SUMMARY:Assomption
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-roch-hachana-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310917
+DTEND;VALUE=DATE:20310918
+SUMMARY:Roch Hachana
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-yom-kippour-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310926
+DTEND;VALUE=DATE:20310927
+SUMMARY:Yom Kippour
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Judaisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-diwali-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311114
+DTEND;VALUE=DATE:20311115
+SUMMARY:Diwali
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Hindouisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-debut-du-ramadan-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311215
+DTEND;VALUE=DATE:20311216
+SUMMARY:Debut du Ramadan
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Islam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-multi-cultes-noel-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311225
+DTEND;VALUE=DATE:20311226
+SUMMARY:Noel
+DESCRIPTION:Fete religieuse multi-cultes (selection d'evenements majeurs, sources publiques).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

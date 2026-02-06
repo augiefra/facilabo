@@ -1,10 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FacilAbo//Calendrier Religion Fetes Chretiennes//FR
+PRODID:-//FacilAbo//Calendrier Fetes Chretiennes//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Fetes Chretiennes
-X-WR-CALDESC:Fetes majeures du christianisme (Paques, Noel).
+X-WR-CALDESC:Fetes chretiennes importantes (2025-2031) basees sur des calendriers publics.
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -25,134 +25,1465 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:religion-chretienne-epiphanie-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250106
+DTEND;VALUE=DATE:20250107
+SUMMARY:Epiphanie
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-mardi-gras-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250304
+DTEND;VALUE=DATE:20250305
+SUMMARY:Mardi gras
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-mercredi-des-cendres-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250305
+DTEND;VALUE=DATE:20250306
+SUMMARY:Mercredi des Cendres
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-dimanche-des-rameaux-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250413
+DTEND;VALUE=DATE:20250414
+SUMMARY:Dimanche des Rameaux
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-jeudi-saint-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250417
+DTEND;VALUE=DATE:20250418
+SUMMARY:Jeudi saint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-vendredi-saint-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250418
+DTEND;VALUE=DATE:20250419
+SUMMARY:Vendredi saint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:religion-chretienne-paques-2025@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250420
 DTEND;VALUE=DATE:20250421
-SUMMARY:Paques (Christianisme)
-DESCRIPTION:Fete majeure chretienne
-URL:https://www.vatican.va/
+SUMMARY:Paques
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-lundi-de-paques-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250422
+SUMMARY:Lundi de Paques
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-ascension-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250529
+DTEND;VALUE=DATE:20250530
+SUMMARY:Ascension
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-pentecote-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250608
+DTEND;VALUE=DATE:20250609
+SUMMARY:Pentecote
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-lundi-de-pentecote-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250610
+SUMMARY:Lundi de Pentecote
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-sainte-trinite-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250615
+DTEND;VALUE=DATE:20250616
+SUMMARY:Sainte Trinite
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-fete-dieu-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250619
+DTEND;VALUE=DATE:20250620
+SUMMARY:Fete-Dieu
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-assomption-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250816
+SUMMARY:Assomption
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-toussaint-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251102
+SUMMARY:Toussaint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-commemoration-des-fideles-defunts-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20251102
+DTEND;VALUE=DATE:20251103
+SUMMARY:Commemoration des fideles defunts
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-immaculee-conception-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20251208
+DTEND;VALUE=DATE:20251209
+SUMMARY:Immaculee Conception
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-veille-de-noel-2025@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20251224
+DTEND;VALUE=DATE:20251225
+SUMMARY:Veille de Noel
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-chretienne-noel-2025@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20251225
 DTEND;VALUE=DATE:20251226
-SUMMARY:Noel (Christianisme)
-DESCRIPTION:Nativite de Jesus-Christ
-URL:https://www.vatican.va/
+SUMMARY:Noel
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-epiphanie-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+SUMMARY:Epiphanie
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-mardi-gras-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:Mardi gras
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-mercredi-des-cendres-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:Mercredi des Cendres
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-dimanche-des-rameaux-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:Dimanche des Rameaux
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-jeudi-saint-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Jeudi saint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-vendredi-saint-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Vendredi saint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-chretienne-paques-2026@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260405
 DTEND;VALUE=DATE:20260406
-SUMMARY:Paques (Christianisme)
-DESCRIPTION:Fete majeure chretienne
-URL:https://www.vatican.va/
+SUMMARY:Paques
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-lundi-de-paques-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:Lundi de Paques
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-ascension-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Ascension
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-pentecote-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:Pentecote
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-lundi-de-pentecote-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Lundi de Pentecote
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-sainte-trinite-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Sainte Trinite
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-fete-dieu-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Fete-Dieu
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-assomption-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Assomption
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-toussaint-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Toussaint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-commemoration-des-fideles-defunts-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Commemoration des fideles defunts
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-immaculee-conception-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Immaculee Conception
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-veille-de-noel-2026@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Veille de Noel
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-chretienne-noel-2026@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
-SUMMARY:Noel (Christianisme)
-DESCRIPTION:Nativite de Jesus-Christ
-URL:https://www.vatican.va/
+SUMMARY:Noel
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-epiphanie-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Epiphanie
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-mardi-gras-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Mardi gras
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-mercredi-des-cendres-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Mercredi des Cendres
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-dimanche-des-rameaux-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Dimanche des Rameaux
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-jeudi-saint-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Jeudi saint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-vendredi-saint-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Vendredi saint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-chretienne-paques-2027@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-SUMMARY:Paques (Christianisme)
-DESCRIPTION:Fete majeure chretienne
-URL:https://www.vatican.va/
+SUMMARY:Paques
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-lundi-de-paques-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Lundi de Paques
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-ascension-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Ascension
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-pentecote-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Pentecote
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-lundi-de-pentecote-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Lundi de Pentecote
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-sainte-trinite-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Sainte Trinite
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-fete-dieu-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Fete-Dieu
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-assomption-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Assomption
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-toussaint-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:Toussaint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-commemoration-des-fideles-defunts-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271102
+DTEND;VALUE=DATE:20271103
+SUMMARY:Commemoration des fideles defunts
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-immaculee-conception-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271208
+DTEND;VALUE=DATE:20271209
+SUMMARY:Immaculee Conception
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-chretienne-noel-2027@facilabo.app
-DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20271225
-DTEND;VALUE=DATE:20271226
-SUMMARY:Noel (Christianisme)
-DESCRIPTION:Nativite de Jesus-Christ
-URL:https://www.vatican.va/
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+SUMMARY:Noel
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-veille-de-noel-2027@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+SUMMARY:Veille de Noel
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-epiphanie-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20280107
+SUMMARY:Epiphanie
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-mardi-gras-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280229
+DTEND;VALUE=DATE:20280301
+SUMMARY:Mardi gras
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-mercredi-des-cendres-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280301
+DTEND;VALUE=DATE:20280302
+SUMMARY:Mercredi des Cendres
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-dimanche-des-rameaux-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280409
+DTEND;VALUE=DATE:20280410
+SUMMARY:Dimanche des Rameaux
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-jeudi-saint-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280413
+DTEND;VALUE=DATE:20280414
+SUMMARY:Jeudi saint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-vendredi-saint-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+SUMMARY:Vendredi saint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-chretienne-paques-2028@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280416
 DTEND;VALUE=DATE:20280417
-SUMMARY:Paques (Christianisme)
-DESCRIPTION:Fete majeure chretienne
-URL:https://www.vatican.va/
+SUMMARY:Paques
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-lundi-de-paques-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Lundi de Paques
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-ascension-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:Ascension
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-pentecote-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280604
+DTEND;VALUE=DATE:20280605
+SUMMARY:Pentecote
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-lundi-de-pentecote-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280605
+DTEND;VALUE=DATE:20280606
+SUMMARY:Lundi de Pentecote
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-sainte-trinite-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280611
+DTEND;VALUE=DATE:20280612
+SUMMARY:Sainte Trinite
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-fete-dieu-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:Fete-Dieu
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-assomption-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20280815
+DTEND;VALUE=DATE:20280816
+SUMMARY:Assomption
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-toussaint-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20281101
+DTEND;VALUE=DATE:20281102
+SUMMARY:Toussaint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-commemoration-des-fideles-defunts-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20281102
+DTEND;VALUE=DATE:20281103
+SUMMARY:Commemoration des fideles defunts
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-immaculee-conception-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20281208
+DTEND;VALUE=DATE:20281209
+SUMMARY:Immaculee Conception
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-veille-de-noel-2028@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20281224
+DTEND;VALUE=DATE:20281225
+SUMMARY:Veille de Noel
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-chretienne-noel-2028@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20281225
 DTEND;VALUE=DATE:20281226
-SUMMARY:Noel (Christianisme)
-DESCRIPTION:Nativite de Jesus-Christ
-URL:https://www.vatican.va/
+SUMMARY:Noel
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-epiphanie-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290106
+DTEND;VALUE=DATE:20290107
+SUMMARY:Epiphanie
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-mardi-gras-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290213
+DTEND;VALUE=DATE:20290214
+SUMMARY:Mardi gras
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-mercredi-des-cendres-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290214
+DTEND;VALUE=DATE:20290215
+SUMMARY:Mercredi des Cendres
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-dimanche-des-rameaux-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290325
+DTEND;VALUE=DATE:20290326
+SUMMARY:Dimanche des Rameaux
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-jeudi-saint-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290329
+DTEND;VALUE=DATE:20290330
+SUMMARY:Jeudi saint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-vendredi-saint-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290330
+DTEND;VALUE=DATE:20290331
+SUMMARY:Vendredi saint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-chretienne-paques-2029@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290401
 DTEND;VALUE=DATE:20290402
-SUMMARY:Paques (Christianisme)
-DESCRIPTION:Fete majeure chretienne
-URL:https://www.vatican.va/
+SUMMARY:Paques
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-lundi-de-paques-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290402
+DTEND;VALUE=DATE:20290403
+SUMMARY:Lundi de Paques
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-ascension-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290510
+DTEND;VALUE=DATE:20290511
+SUMMARY:Ascension
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-pentecote-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290520
+DTEND;VALUE=DATE:20290521
+SUMMARY:Pentecote
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-lundi-de-pentecote-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290521
+DTEND;VALUE=DATE:20290522
+SUMMARY:Lundi de Pentecote
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-sainte-trinite-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290527
+DTEND;VALUE=DATE:20290528
+SUMMARY:Sainte Trinite
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-fete-dieu-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290531
+DTEND;VALUE=DATE:20290601
+SUMMARY:Fete-Dieu
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-assomption-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20290815
+DTEND;VALUE=DATE:20290816
+SUMMARY:Assomption
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-toussaint-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20291101
+DTEND;VALUE=DATE:20291102
+SUMMARY:Toussaint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-commemoration-des-fideles-defunts-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20291102
+DTEND;VALUE=DATE:20291103
+SUMMARY:Commemoration des fideles defunts
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-immaculee-conception-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20291208
+DTEND;VALUE=DATE:20291209
+SUMMARY:Immaculee Conception
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-veille-de-noel-2029@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20291224
+DTEND;VALUE=DATE:20291225
+SUMMARY:Veille de Noel
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-chretienne-noel-2029@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20291225
 DTEND;VALUE=DATE:20291226
-SUMMARY:Noel (Christianisme)
-DESCRIPTION:Nativite de Jesus-Christ
-URL:https://www.vatican.va/
+SUMMARY:Noel
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-epiphanie-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300106
+DTEND;VALUE=DATE:20300107
+SUMMARY:Epiphanie
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-mardi-gras-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300305
+DTEND;VALUE=DATE:20300306
+SUMMARY:Mardi gras
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-mercredi-des-cendres-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300306
+DTEND;VALUE=DATE:20300307
+SUMMARY:Mercredi des Cendres
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-dimanche-des-rameaux-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300414
+DTEND;VALUE=DATE:20300415
+SUMMARY:Dimanche des Rameaux
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-jeudi-saint-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300418
+DTEND;VALUE=DATE:20300419
+SUMMARY:Jeudi saint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-vendredi-saint-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300419
+DTEND;VALUE=DATE:20300420
+SUMMARY:Vendredi saint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-chretienne-paques-2030@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300421
 DTEND;VALUE=DATE:20300422
-SUMMARY:Paques (Christianisme)
-DESCRIPTION:Fete majeure chretienne
-URL:https://www.vatican.va/
+SUMMARY:Paques
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-lundi-de-paques-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300422
+DTEND;VALUE=DATE:20300423
+SUMMARY:Lundi de Paques
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-ascension-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300530
+DTEND;VALUE=DATE:20300531
+SUMMARY:Ascension
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-pentecote-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300609
+DTEND;VALUE=DATE:20300610
+SUMMARY:Pentecote
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-lundi-de-pentecote-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300610
+DTEND;VALUE=DATE:20300611
+SUMMARY:Lundi de Pentecote
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-sainte-trinite-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300616
+DTEND;VALUE=DATE:20300617
+SUMMARY:Sainte Trinite
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-fete-dieu-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300620
+DTEND;VALUE=DATE:20300621
+SUMMARY:Fete-Dieu
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-assomption-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20300815
+DTEND;VALUE=DATE:20300816
+SUMMARY:Assomption
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-toussaint-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301101
+DTEND;VALUE=DATE:20301102
+SUMMARY:Toussaint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-commemoration-des-fideles-defunts-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301102
+DTEND;VALUE=DATE:20301103
+SUMMARY:Commemoration des fideles defunts
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-immaculee-conception-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301209
+DTEND;VALUE=DATE:20301210
+SUMMARY:Immaculee Conception
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-veille-de-noel-2030@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20301224
+DTEND;VALUE=DATE:20301225
+SUMMARY:Veille de Noel
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-chretienne-noel-2030@facilabo.app
-DTSTAMP:20260205T120000Z
+DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20301225
 DTEND;VALUE=DATE:20301226
-SUMMARY:Noel (Christianisme)
-DESCRIPTION:Nativite de Jesus-Christ
-URL:https://www.vatican.va/
+SUMMARY:Noel
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-epiphanie-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310106
+DTEND;VALUE=DATE:20310107
+SUMMARY:Epiphanie
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-mardi-gras-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310225
+DTEND;VALUE=DATE:20310226
+SUMMARY:Mardi gras
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-mercredi-des-cendres-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310226
+DTEND;VALUE=DATE:20310227
+SUMMARY:Mercredi des Cendres
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-dimanche-des-rameaux-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310406
+DTEND;VALUE=DATE:20310407
+SUMMARY:Dimanche des Rameaux
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-jeudi-saint-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310410
+DTEND;VALUE=DATE:20310411
+SUMMARY:Jeudi saint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-vendredi-saint-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310411
+DTEND;VALUE=DATE:20310412
+SUMMARY:Vendredi saint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-paques-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310413
+DTEND;VALUE=DATE:20310414
+SUMMARY:Paques
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-lundi-de-paques-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310414
+DTEND;VALUE=DATE:20310415
+SUMMARY:Lundi de Paques
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-ascension-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310522
+DTEND;VALUE=DATE:20310523
+SUMMARY:Ascension
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-pentecote-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310601
+DTEND;VALUE=DATE:20310602
+SUMMARY:Pentecote
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-lundi-de-pentecote-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310602
+DTEND;VALUE=DATE:20310603
+SUMMARY:Lundi de Pentecote
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-sainte-trinite-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310608
+DTEND;VALUE=DATE:20310609
+SUMMARY:Sainte Trinite
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-fete-dieu-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310612
+DTEND;VALUE=DATE:20310613
+SUMMARY:Fete-Dieu
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-assomption-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20310815
+DTEND;VALUE=DATE:20310816
+SUMMARY:Assomption
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-toussaint-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311101
+DTEND;VALUE=DATE:20311102
+SUMMARY:Toussaint
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-commemoration-des-fideles-defunts-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311102
+DTEND;VALUE=DATE:20311103
+SUMMARY:Commemoration des fideles defunts
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-immaculee-conception-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311208
+DTEND;VALUE=DATE:20311209
+SUMMARY:Immaculee Conception
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-veille-de-noel-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311224
+DTEND;VALUE=DATE:20311225
+SUMMARY:Veille de Noel
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
+CATEGORIES:Religion,Christianisme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:religion-chretienne-noel-2031@facilabo.app
+DTSTAMP:20260206T081127Z
+DTSTART;VALUE=DATE:20311225
+DTEND;VALUE=DATE:20311226
+SUMMARY:Noel
+DESCRIPTION:Fete chretienne (source: Google Public Holidays).
+URL:https://calendar.google.com/calendar/ical/en.christian%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Christianisme
 STATUS:CONFIRMED
 END:VEVENT
