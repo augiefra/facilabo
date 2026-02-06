@@ -22,7 +22,7 @@ Calendriers ICS personnalises pour l'application FacilAbo.
 │   ├── musulmane.ics       # Fetes musulmanes (2025-2031)
 │   ├── juive.ics           # Fetes juives (2025-2031)
 │   ├── hindoue.ics         # Fetes hindoues (2025-2031)
-│   ├── bouddhiste.ics      # Fetes bouddhistes (2025-2026)
+│   ├── bouddhiste.ics      # Fetes bouddhistes (2025-2031)
 │   ├── sikhe.ics           # Fetes sikhes (2025-2031)
 │   ├── saints-francais.ics # Saints francais (2025-2032)
 │   └── multi-cultes.ics    # Compat legacy (deprecie)
@@ -80,7 +80,7 @@ Calendriers ICS personnalises pour l'application FacilAbo.
   - `Fetes Hindoues` (`religion/hindoue.ics`)
   - `Fetes Bouddhistes` (`religion/bouddhiste.ics`)
   - `Fetes Sikhes` (`religion/sikhe.ics`)
-  - `Saints Francais` (`religion/saints-francais.ics`)
+  - `Saints Francais` (`religion/saints-francais.ics`) - calendrier quotidien (saint/fete du jour)
 - Compatibilite:
   - `religion/multi-cultes.ics` reste disponible temporairement pour les anciennes integrations.
 - Note:
