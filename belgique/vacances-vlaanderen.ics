@@ -1,0 +1,357 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Belgique Vacances Vlaanderen//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Belgique - Vacances scolaires Vlaanderen
+X-WR-CALDESC:Periodes de conges scolaires Vlaanderen (2026-2031) avec note de fiabilite
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-krokusvakantie-2026@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260309
+SUMMARY:Krokusvakantie Vlaanderen
+DESCRIPTION:Periode indicative (conge de carnaval) en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-paasvakantie-2026@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260420
+SUMMARY:Paasvakantie Vlaanderen
+DESCRIPTION:Periode indicative des vacances de printemps en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-zomervakantie-2026@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260901
+SUMMARY:Zomervakantie Vlaanderen
+DESCRIPTION:Periode estivale des ecoles en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: haute pour cadre general\, details a confirmer annuellement.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-herfstvakantie-2026@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261102
+SUMMARY:Herfstvakantie Vlaanderen
+DESCRIPTION:Periode indicative autour de la Toussaint en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-kerstvakantie-2026@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20270105
+SUMMARY:Kerstvakantie Vlaanderen
+DESCRIPTION:Periode indicative de vacances scolaires en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne pour annees non publiees.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-krokusvakantie-2027@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270308
+SUMMARY:Krokusvakantie Vlaanderen
+DESCRIPTION:Periode indicative (conge de carnaval) en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-paasvakantie-2027@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270419
+SUMMARY:Paasvakantie Vlaanderen
+DESCRIPTION:Periode indicative des vacances de printemps en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-zomervakantie-2027@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270901
+SUMMARY:Zomervakantie Vlaanderen
+DESCRIPTION:Periode estivale des ecoles en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: haute pour cadre general\, details a confirmer annuellement.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-herfstvakantie-2027@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271101
+SUMMARY:Herfstvakantie Vlaanderen
+DESCRIPTION:Periode indicative autour de la Toussaint en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-kerstvakantie-2027@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20271222
+DTEND;VALUE=DATE:20280105
+SUMMARY:Kerstvakantie Vlaanderen
+DESCRIPTION:Periode indicative de vacances scolaires en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne pour annees non publiees.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-krokusvakantie-2028@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20280306
+DTEND;VALUE=DATE:20280313
+SUMMARY:Krokusvakantie Vlaanderen
+DESCRIPTION:Periode indicative (conge de carnaval) en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-paasvakantie-2028@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20280403
+DTEND;VALUE=DATE:20280417
+SUMMARY:Paasvakantie Vlaanderen
+DESCRIPTION:Periode indicative des vacances de printemps en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-zomervakantie-2028@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20280701
+DTEND;VALUE=DATE:20280901
+SUMMARY:Zomervakantie Vlaanderen
+DESCRIPTION:Periode estivale des ecoles en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: haute pour cadre general\, details a confirmer annuellement.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-herfstvakantie-2028@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20281030
+DTEND;VALUE=DATE:20281106
+SUMMARY:Herfstvakantie Vlaanderen
+DESCRIPTION:Periode indicative autour de la Toussaint en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-kerstvakantie-2028@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20281222
+DTEND;VALUE=DATE:20290105
+SUMMARY:Kerstvakantie Vlaanderen
+DESCRIPTION:Periode indicative de vacances scolaires en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne pour annees non publiees.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-krokusvakantie-2029@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20290305
+DTEND;VALUE=DATE:20290312
+SUMMARY:Krokusvakantie Vlaanderen
+DESCRIPTION:Periode indicative (conge de carnaval) en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-paasvakantie-2029@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20290402
+DTEND;VALUE=DATE:20290416
+SUMMARY:Paasvakantie Vlaanderen
+DESCRIPTION:Periode indicative des vacances de printemps en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-zomervakantie-2029@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20290701
+DTEND;VALUE=DATE:20290901
+SUMMARY:Zomervakantie Vlaanderen
+DESCRIPTION:Periode estivale des ecoles en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: haute pour cadre general\, details a confirmer annuellement.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-herfstvakantie-2029@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20291029
+DTEND;VALUE=DATE:20291105
+SUMMARY:Herfstvakantie Vlaanderen
+DESCRIPTION:Periode indicative autour de la Toussaint en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-kerstvakantie-2029@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20291222
+DTEND;VALUE=DATE:20300105
+SUMMARY:Kerstvakantie Vlaanderen
+DESCRIPTION:Periode indicative de vacances scolaires en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne pour annees non publiees.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-krokusvakantie-2030@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20300304
+DTEND;VALUE=DATE:20300311
+SUMMARY:Krokusvakantie Vlaanderen
+DESCRIPTION:Periode indicative (conge de carnaval) en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-paasvakantie-2030@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20300401
+DTEND;VALUE=DATE:20300415
+SUMMARY:Paasvakantie Vlaanderen
+DESCRIPTION:Periode indicative des vacances de printemps en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-zomervakantie-2030@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300901
+SUMMARY:Zomervakantie Vlaanderen
+DESCRIPTION:Periode estivale des ecoles en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: haute pour cadre general\, details a confirmer annuellement.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-herfstvakantie-2030@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20301028
+DTEND;VALUE=DATE:20301104
+SUMMARY:Herfstvakantie Vlaanderen
+DESCRIPTION:Periode indicative autour de la Toussaint en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-kerstvakantie-2030@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20301222
+DTEND;VALUE=DATE:20310105
+SUMMARY:Kerstvakantie Vlaanderen
+DESCRIPTION:Periode indicative de vacances scolaires en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne pour annees non publiees.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-krokusvakantie-2031@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20310303
+DTEND;VALUE=DATE:20310310
+SUMMARY:Krokusvakantie Vlaanderen
+DESCRIPTION:Periode indicative (conge de carnaval) en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-paasvakantie-2031@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20310407
+DTEND;VALUE=DATE:20310421
+SUMMARY:Paasvakantie Vlaanderen
+DESCRIPTION:Periode indicative des vacances de printemps en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-zomervakantie-2031@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20310701
+DTEND;VALUE=DATE:20310901
+SUMMARY:Zomervakantie Vlaanderen
+DESCRIPTION:Periode estivale des ecoles en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: haute pour cadre general\, details a confirmer annuellement.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-herfstvakantie-2031@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20311027
+DTEND;VALUE=DATE:20311103
+SUMMARY:Herfstvakantie Vlaanderen
+DESCRIPTION:Periode indicative autour de la Toussaint en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-vacances-vlaanderen-kerstvakantie-2031@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20311222
+DTEND;VALUE=DATE:20320105
+SUMMARY:Kerstvakantie Vlaanderen
+DESCRIPTION:Periode indicative de vacances scolaires en Flandre. Source: https://www.onderwijs.vlaanderen.be. Fiabilite: moyenne pour annees non publiees.
+URL:https://www.onderwijs.vlaanderen.be
+CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
