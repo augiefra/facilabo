@@ -28,9 +28,9 @@ BEGIN:VEVENT
 UID:belgique-vacances-fwb-conge-detente-2026@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260216
-DTEND;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260302
 SUMMARY:Conge de detente (Carnaval) FWB
-DESCRIPTION:Dates officielles 2025-2026 (16-27 fev). Source: gouvernement.cfwb.be. Fiabilite: haute (publiee).
+DESCRIPTION:Dates officielles 2025-2026 (16 fev - 1 mars). Source: gouvernement.cfwb.be. Fiabilite: haute (publiee).
 URL:https://www.enseignement.be
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
 STATUS:CONFIRMED
@@ -39,9 +39,9 @@ BEGIN:VEVENT
 UID:belgique-vacances-fwb-vacances-printemps-2026@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260427
-DTEND;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260511
 SUMMARY:Vacances de printemps FWB
-DESCRIPTION:Dates officielles 2025-2026 (27 avr - 8 mai). Source: gouvernement.cfwb.be. Fiabilite: haute (publiee).
+DESCRIPTION:Dates officielles 2025-2026 (27 avr - 10 mai). Source: gouvernement.cfwb.be. Fiabilite: haute (publiee).
 URL:https://www.enseignement.be
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
 STATUS:CONFIRMED
@@ -49,10 +49,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-vacances-ete-2026@facilabo.app
 DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260826
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260824
 SUMMARY:Vacances d ete FWB
-DESCRIPTION:Debut officiel 2025-2026 (3 juil). Fin indicative. Source: gouvernement.cfwb.be. Fiabilite: haute pour debut\, moyenne pour fin.
+DESCRIPTION:Debut officiel 2025-2026 (4 juil). Fin derivee de la rentree 2026-2027 (24 aout). Source: gouvernement.cfwb.be. Fiabilite: haute.
 URL:https://www.enseignement.be
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
 STATUS:CONFIRMED
@@ -60,10 +60,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-conge-automne-2026@facilabo.app
 DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261109
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261102
 SUMMARY:Conge d automne FWB
-DESCRIPTION:Periode indicative autour de la Toussaint en FWB. Source: https://www.enseignement.be. Fiabilite: moyenne pour annees non publiees.
+DESCRIPTION:Dates officielles 2026-2027 (19 oct - 1 nov). Source: gouvernement.cfwb.be. Fiabilite: haute (publiee).
 URL:https://www.enseignement.be
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
 STATUS:CONFIRMED
@@ -71,10 +71,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-conge-hiver-2026@facilabo.app
 DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20261222
-DTEND;VALUE=DATE:20270105
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20270104
 SUMMARY:Conge d hiver FWB
-DESCRIPTION:Periode indicative des conges scolaires FWB. Source: https://www.enseignement.be (calendrier des conges). Fiabilite: moyenne pour annees non publiees\; confirmer chaque annee scolaire.
+DESCRIPTION:Dates officielles 2026-2027 (21 dec - 3 jan). Source: gouvernement.cfwb.be. Fiabilite: haute (publiee).
 URL:https://www.enseignement.be
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
 STATUS:CONFIRMED
@@ -82,10 +82,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-conge-detente-2027@facilabo.app
 DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20270208
-DTEND;VALUE=DATE:20270222
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270308
 SUMMARY:Conge de detente (Carnaval) FWB
-DESCRIPTION:Periode indicative selon rythme scolaire FWB. Source: https://www.enseignement.be. Fiabilite: moyenne tant que publication definitive absente.
+DESCRIPTION:Dates officielles 2026-2027 (22 fev - 7 mars). Source: gouvernement.cfwb.be. Fiabilite: haute (publiee).
 URL:https://www.enseignement.be
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
 STATUS:CONFIRMED
@@ -93,10 +93,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-vacances-printemps-2027@facilabo.app
 DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20270412
-DTEND;VALUE=DATE:20270426
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270510
 SUMMARY:Vacances de printemps FWB
-DESCRIPTION:Periode indicative des vacances de printemps FWB. Source: https://www.enseignement.be. Fiabilite: moyenne pour horizon lointain.
+DESCRIPTION:Dates officielles 2026-2027 (26 avr - 9 mai). Source: gouvernement.cfwb.be. Fiabilite: haute (publiee).
 URL:https://www.enseignement.be
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
 STATUS:CONFIRMED
@@ -104,10 +104,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-vacances-ete-2027@facilabo.app
 DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20270705
+DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270826
 SUMMARY:Vacances d ete FWB
-DESCRIPTION:Periode indicative de fermeture estivale des ecoles FWB. Source: https://www.enseignement.be. Fiabilite: moyenne.
+DESCRIPTION:Debut officiel 2026-2027 (3 juil). Fin indicative en attente publication 2027-2028. Source: gouvernement.cfwb.be. Fiabilite: haute pour debut\, moyenne pour fin.
 URL:https://www.enseignement.be
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
 STATUS:CONFIRMED
