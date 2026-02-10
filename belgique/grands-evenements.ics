@@ -1,0 +1,489 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Belgique Grands Evenements//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Belgique - Grands evenements
+X-WR-CALDESC:Selection de festivals\, traditions et sport en Belgique (2026-2031)
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:belgique-grands-evenements-carnaval-binche-2026@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:Carnaval de Binche - Mardi gras
+DESCRIPTION:Tradition majeure belge (UNESCO). Source: carnavaldebinche.be. Fiabilite: moyenne a haute\; verifier agenda officiel annuel.
+URL:https://www.carnavaldebinche.be
+CATEGORIES:Belgique\,Traditions\,Carnaval
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-ommegang-bruxelles-2026@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Ommegang de Bruxelles
+DESCRIPTION:Grand evenement historique au centre de Bruxelles. Source: ommegang.be. Fiabilite: moyenne a haute selon programmation annuelle.
+URL:https://www.ommegang.be
+CATEGORIES:Belgique\,Traditions\,Festival
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-gentse-feesten-2026@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260727
+SUMMARY:Gentse Feesten
+DESCRIPTION:Grand festival urbain a Gand. Source: gentsefeesten.stad.gent. Fiabilite: moyenne a haute selon programmation.
+URL:https://gentsefeesten.stad.gent
+CATEGORIES:Belgique\,Festival\,Culture
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-tomorrowland-weekend-1-2026@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260720
+SUMMARY:Tomorrowland (week-end 1)
+DESCRIPTION:Festival international en Belgique. Source: tomorrowland.com. Fiabilite: moyenne a haute apres annonce officielle.
+URL:https://www.tomorrowland.com
+CATEGORIES:Belgique\,Festival\,Musique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-grand-prix-spa-2026@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:Grand Prix de Belgique (Spa-Francorchamps)
+DESCRIPTION:Repere sport automobile Belgique. Source: formula1.com. Fiabilite: moyenne a haute apres publication du calendrier F1.
+URL:https://www.formula1.com
+CATEGORIES:Belgique\,Sport\,Automobile
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-brussels-beer-weekend-2026@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260907
+SUMMARY:Brussels Beer Weekend
+DESCRIPTION:Evenement brassicole national a Bruxelles. Source: belgianbrewers.be. Fiabilite: moyenne a haute selon edition.
+URL:https://belgianbrewers.be
+CATEGORIES:Belgique\,Traditions\,Gastronomie
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-plaisirs-hiver-bruxelles-2026@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20270103
+SUMMARY:Plaisirs d Hiver - Bruxelles
+DESCRIPTION:Marche et animations de fin d annee a Bruxelles. Source: winterwonders.be. Fiabilite: moyenne a haute selon edition.
+URL:https://www.winterwonders.be
+CATEGORIES:Belgique\,Festival\,Hiver
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-carnaval-binche-2027@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Carnaval de Binche - Mardi gras
+DESCRIPTION:Tradition majeure belge (UNESCO). Source: carnavaldebinche.be. Fiabilite: moyenne a haute\; verifier agenda officiel annuel.
+URL:https://www.carnavaldebinche.be
+CATEGORIES:Belgique\,Traditions\,Carnaval
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-ommegang-bruxelles-2027@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Ommegang de Bruxelles
+DESCRIPTION:Grand evenement historique au centre de Bruxelles. Source: ommegang.be. Fiabilite: moyenne a haute selon programmation annuelle.
+URL:https://www.ommegang.be
+CATEGORIES:Belgique\,Traditions\,Festival
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-gentse-feesten-2027@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270726
+SUMMARY:Gentse Feesten
+DESCRIPTION:Grand festival urbain a Gand. Source: gentsefeesten.stad.gent. Fiabilite: moyenne a haute selon programmation.
+URL:https://gentsefeesten.stad.gent
+CATEGORIES:Belgique\,Festival\,Culture
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-tomorrowland-weekend-1-2027@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270719
+SUMMARY:Tomorrowland (week-end 1)
+DESCRIPTION:Festival international en Belgique. Source: tomorrowland.com. Fiabilite: moyenne a haute apres annonce officielle.
+URL:https://www.tomorrowland.com
+CATEGORIES:Belgique\,Festival\,Musique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-grand-prix-spa-2027@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Grand Prix de Belgique (Spa-Francorchamps)
+DESCRIPTION:Repere sport automobile Belgique. Source: formula1.com. Fiabilite: moyenne a haute apres publication du calendrier F1.
+URL:https://www.formula1.com
+CATEGORIES:Belgique\,Sport\,Automobile
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-brussels-beer-weekend-2027@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270906
+SUMMARY:Brussels Beer Weekend
+DESCRIPTION:Evenement brassicole national a Bruxelles. Source: belgianbrewers.be. Fiabilite: moyenne a haute selon edition.
+URL:https://belgianbrewers.be
+CATEGORIES:Belgique\,Traditions\,Gastronomie
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-plaisirs-hiver-bruxelles-2027@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20271126
+DTEND;VALUE=DATE:20280103
+SUMMARY:Plaisirs d Hiver - Bruxelles
+DESCRIPTION:Marche et animations de fin d annee a Bruxelles. Source: winterwonders.be. Fiabilite: moyenne a haute selon edition.
+URL:https://www.winterwonders.be
+CATEGORIES:Belgique\,Festival\,Hiver
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-carnaval-binche-2028@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20280229
+DTEND;VALUE=DATE:20280301
+SUMMARY:Carnaval de Binche - Mardi gras
+DESCRIPTION:Tradition majeure belge (UNESCO). Source: carnavaldebinche.be. Fiabilite: moyenne a haute\; verifier agenda officiel annuel.
+URL:https://www.carnavaldebinche.be
+CATEGORIES:Belgique\,Traditions\,Carnaval
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-ommegang-bruxelles-2028@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20280705
+DTEND;VALUE=DATE:20280706
+SUMMARY:Ommegang de Bruxelles
+DESCRIPTION:Grand evenement historique au centre de Bruxelles. Source: ommegang.be. Fiabilite: moyenne a haute selon programmation annuelle.
+URL:https://www.ommegang.be
+CATEGORIES:Belgique\,Traditions\,Festival
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-gentse-feesten-2028@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280731
+SUMMARY:Gentse Feesten
+DESCRIPTION:Grand festival urbain a Gand. Source: gentsefeesten.stad.gent. Fiabilite: moyenne a haute selon programmation.
+URL:https://gentsefeesten.stad.gent
+CATEGORIES:Belgique\,Festival\,Culture
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-tomorrowland-weekend-1-2028@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280724
+SUMMARY:Tomorrowland (week-end 1)
+DESCRIPTION:Festival international en Belgique. Source: tomorrowland.com. Fiabilite: moyenne a haute apres annonce officielle.
+URL:https://www.tomorrowland.com
+CATEGORIES:Belgique\,Festival\,Musique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-grand-prix-spa-2028@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20280730
+DTEND;VALUE=DATE:20280731
+SUMMARY:Grand Prix de Belgique (Spa-Francorchamps)
+DESCRIPTION:Repere sport automobile Belgique. Source: formula1.com. Fiabilite: moyenne a haute apres publication du calendrier F1.
+URL:https://www.formula1.com
+CATEGORIES:Belgique\,Sport\,Automobile
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-brussels-beer-weekend-2028@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20280901
+DTEND;VALUE=DATE:20280904
+SUMMARY:Brussels Beer Weekend
+DESCRIPTION:Evenement brassicole national a Bruxelles. Source: belgianbrewers.be. Fiabilite: moyenne a haute selon edition.
+URL:https://belgianbrewers.be
+CATEGORIES:Belgique\,Traditions\,Gastronomie
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-plaisirs-hiver-bruxelles-2028@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20281124
+DTEND;VALUE=DATE:20290103
+SUMMARY:Plaisirs d Hiver - Bruxelles
+DESCRIPTION:Marche et animations de fin d annee a Bruxelles. Source: winterwonders.be. Fiabilite: moyenne a haute selon edition.
+URL:https://www.winterwonders.be
+CATEGORIES:Belgique\,Festival\,Hiver
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-carnaval-binche-2029@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20290213
+DTEND;VALUE=DATE:20290214
+SUMMARY:Carnaval de Binche - Mardi gras
+DESCRIPTION:Tradition majeure belge (UNESCO). Source: carnavaldebinche.be. Fiabilite: moyenne a haute\; verifier agenda officiel annuel.
+URL:https://www.carnavaldebinche.be
+CATEGORIES:Belgique\,Traditions\,Carnaval
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-ommegang-bruxelles-2029@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20290704
+DTEND;VALUE=DATE:20290705
+SUMMARY:Ommegang de Bruxelles
+DESCRIPTION:Grand evenement historique au centre de Bruxelles. Source: ommegang.be. Fiabilite: moyenne a haute selon programmation annuelle.
+URL:https://www.ommegang.be
+CATEGORIES:Belgique\,Traditions\,Festival
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-gentse-feesten-2029@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20290720
+DTEND;VALUE=DATE:20290730
+SUMMARY:Gentse Feesten
+DESCRIPTION:Grand festival urbain a Gand. Source: gentsefeesten.stad.gent. Fiabilite: moyenne a haute selon programmation.
+URL:https://gentsefeesten.stad.gent
+CATEGORIES:Belgique\,Festival\,Culture
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-tomorrowland-weekend-1-2029@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20290720
+DTEND;VALUE=DATE:20290723
+SUMMARY:Tomorrowland (week-end 1)
+DESCRIPTION:Festival international en Belgique. Source: tomorrowland.com. Fiabilite: moyenne a haute apres annonce officielle.
+URL:https://www.tomorrowland.com
+CATEGORIES:Belgique\,Festival\,Musique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-grand-prix-spa-2029@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20290729
+DTEND;VALUE=DATE:20290730
+SUMMARY:Grand Prix de Belgique (Spa-Francorchamps)
+DESCRIPTION:Repere sport automobile Belgique. Source: formula1.com. Fiabilite: moyenne a haute apres publication du calendrier F1.
+URL:https://www.formula1.com
+CATEGORIES:Belgique\,Sport\,Automobile
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-brussels-beer-weekend-2029@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20290907
+DTEND;VALUE=DATE:20290910
+SUMMARY:Brussels Beer Weekend
+DESCRIPTION:Evenement brassicole national a Bruxelles. Source: belgianbrewers.be. Fiabilite: moyenne a haute selon edition.
+URL:https://belgianbrewers.be
+CATEGORIES:Belgique\,Traditions\,Gastronomie
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-plaisirs-hiver-bruxelles-2029@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20291130
+DTEND;VALUE=DATE:20300103
+SUMMARY:Plaisirs d Hiver - Bruxelles
+DESCRIPTION:Marche et animations de fin d annee a Bruxelles. Source: winterwonders.be. Fiabilite: moyenne a haute selon edition.
+URL:https://www.winterwonders.be
+CATEGORIES:Belgique\,Festival\,Hiver
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-carnaval-binche-2030@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20300305
+DTEND;VALUE=DATE:20300306
+SUMMARY:Carnaval de Binche - Mardi gras
+DESCRIPTION:Tradition majeure belge (UNESCO). Source: carnavaldebinche.be. Fiabilite: moyenne a haute\; verifier agenda officiel annuel.
+URL:https://www.carnavaldebinche.be
+CATEGORIES:Belgique\,Traditions\,Carnaval
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-ommegang-bruxelles-2030@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20300703
+DTEND;VALUE=DATE:20300704
+SUMMARY:Ommegang de Bruxelles
+DESCRIPTION:Grand evenement historique au centre de Bruxelles. Source: ommegang.be. Fiabilite: moyenne a haute selon programmation annuelle.
+URL:https://www.ommegang.be
+CATEGORIES:Belgique\,Traditions\,Festival
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-gentse-feesten-2030@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20300719
+DTEND;VALUE=DATE:20300729
+SUMMARY:Gentse Feesten
+DESCRIPTION:Grand festival urbain a Gand. Source: gentsefeesten.stad.gent. Fiabilite: moyenne a haute selon programmation.
+URL:https://gentsefeesten.stad.gent
+CATEGORIES:Belgique\,Festival\,Culture
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-tomorrowland-weekend-1-2030@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20300719
+DTEND;VALUE=DATE:20300722
+SUMMARY:Tomorrowland (week-end 1)
+DESCRIPTION:Festival international en Belgique. Source: tomorrowland.com. Fiabilite: moyenne a haute apres annonce officielle.
+URL:https://www.tomorrowland.com
+CATEGORIES:Belgique\,Festival\,Musique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-grand-prix-spa-2030@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20300728
+DTEND;VALUE=DATE:20300729
+SUMMARY:Grand Prix de Belgique (Spa-Francorchamps)
+DESCRIPTION:Repere sport automobile Belgique. Source: formula1.com. Fiabilite: moyenne a haute apres publication du calendrier F1.
+URL:https://www.formula1.com
+CATEGORIES:Belgique\,Sport\,Automobile
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-brussels-beer-weekend-2030@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20300906
+DTEND;VALUE=DATE:20300909
+SUMMARY:Brussels Beer Weekend
+DESCRIPTION:Evenement brassicole national a Bruxelles. Source: belgianbrewers.be. Fiabilite: moyenne a haute selon edition.
+URL:https://belgianbrewers.be
+CATEGORIES:Belgique\,Traditions\,Gastronomie
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-plaisirs-hiver-bruxelles-2030@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20301129
+DTEND;VALUE=DATE:20310103
+SUMMARY:Plaisirs d Hiver - Bruxelles
+DESCRIPTION:Marche et animations de fin d annee a Bruxelles. Source: winterwonders.be. Fiabilite: moyenne a haute selon edition.
+URL:https://www.winterwonders.be
+CATEGORIES:Belgique\,Festival\,Hiver
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-carnaval-binche-2031@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20310225
+DTEND;VALUE=DATE:20310226
+SUMMARY:Carnaval de Binche - Mardi gras
+DESCRIPTION:Tradition majeure belge (UNESCO). Source: carnavaldebinche.be. Fiabilite: moyenne a haute\; verifier agenda officiel annuel.
+URL:https://www.carnavaldebinche.be
+CATEGORIES:Belgique\,Traditions\,Carnaval
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-ommegang-bruxelles-2031@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20310702
+DTEND;VALUE=DATE:20310703
+SUMMARY:Ommegang de Bruxelles
+DESCRIPTION:Grand evenement historique au centre de Bruxelles. Source: ommegang.be. Fiabilite: moyenne a haute selon programmation annuelle.
+URL:https://www.ommegang.be
+CATEGORIES:Belgique\,Traditions\,Festival
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-gentse-feesten-2031@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20310718
+DTEND;VALUE=DATE:20310728
+SUMMARY:Gentse Feesten
+DESCRIPTION:Grand festival urbain a Gand. Source: gentsefeesten.stad.gent. Fiabilite: moyenne a haute selon programmation.
+URL:https://gentsefeesten.stad.gent
+CATEGORIES:Belgique\,Festival\,Culture
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-tomorrowland-weekend-1-2031@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20310718
+DTEND;VALUE=DATE:20310721
+SUMMARY:Tomorrowland (week-end 1)
+DESCRIPTION:Festival international en Belgique. Source: tomorrowland.com. Fiabilite: moyenne a haute apres annonce officielle.
+URL:https://www.tomorrowland.com
+CATEGORIES:Belgique\,Festival\,Musique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-grand-prix-spa-2031@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20310727
+DTEND;VALUE=DATE:20310728
+SUMMARY:Grand Prix de Belgique (Spa-Francorchamps)
+DESCRIPTION:Repere sport automobile Belgique. Source: formula1.com. Fiabilite: moyenne a haute apres publication du calendrier F1.
+URL:https://www.formula1.com
+CATEGORIES:Belgique\,Sport\,Automobile
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-brussels-beer-weekend-2031@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20310905
+DTEND;VALUE=DATE:20310908
+SUMMARY:Brussels Beer Weekend
+DESCRIPTION:Evenement brassicole national a Bruxelles. Source: belgianbrewers.be. Fiabilite: moyenne a haute selon edition.
+URL:https://belgianbrewers.be
+CATEGORIES:Belgique\,Traditions\,Gastronomie
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-grands-evenements-plaisirs-hiver-bruxelles-2031@facilabo.app
+DTSTAMP:20260210T120000Z
+DTSTART;VALUE=DATE:20311128
+DTEND;VALUE=DATE:20320103
+SUMMARY:Plaisirs d Hiver - Bruxelles
+DESCRIPTION:Marche et animations de fin d annee a Bruxelles. Source: winterwonders.be. Fiabilite: moyenne a haute selon edition.
+URL:https://www.winterwonders.be
+CATEGORIES:Belgique\,Festival\,Hiver
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
