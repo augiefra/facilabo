@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:belgique-soldes-attente-periode-attente-hiver-2026@facilabo.app
 DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20261201
+DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20270102
 SUMMARY:Periode d attente avant soldes d hiver - Belgique
 DESCRIPTION:Periode legale d attente pre-soldes d hiver. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilite: haute. Note: en 2027 les soldes avancent au 2 jan (le 3 tombe un dimanche).
@@ -104,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:belgique-soldes-attente-periode-attente-hiver-2027@facilabo.app
 DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20271201
+DTSTART;VALUE=DATE:20271203
 DTEND;VALUE=DATE:20280103
 SUMMARY:Periode d attente avant soldes d hiver - Belgique
 DESCRIPTION:Periode legale d attente pre-soldes d hiver. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilite: haute.
@@ -148,7 +148,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:belgique-soldes-attente-periode-attente-hiver-2028@facilabo.app
 DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20281201
+DTSTART;VALUE=DATE:20281203
 DTEND;VALUE=DATE:20290103
 SUMMARY:Periode d attente avant soldes d hiver - Belgique
 DESCRIPTION:Periode legale d attente pre-soldes d hiver. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilite: haute.
@@ -170,10 +170,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:belgique-soldes-attente-periode-attente-ete-2029@facilabo.app
 DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20290601
-DTEND;VALUE=DATE:20290701
+DTSTART;VALUE=DATE:20290531
+DTEND;VALUE=DATE:20290630
 SUMMARY:Periode d attente avant soldes d ete - Belgique
-DESCRIPTION:Periode legale d attente pre-soldes d ete. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilite: haute.
+DESCRIPTION:Periode legale d attente pre-soldes d ete. En 2029, le 1er juillet tombe un dimanche et l ouverture des soldes est avancee au 30 juin. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilite: haute.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -181,10 +181,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:belgique-soldes-attente-soldes-ete-2029@facilabo.app
 DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20290701
+DTSTART;VALUE=DATE:20290630
 DTEND;VALUE=DATE:20290801
 SUMMARY:Soldes d ete - Belgique
-DESCRIPTION:Periode legale des soldes d ete. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilite: haute sauf adaptation legislative.
+DESCRIPTION:Periode legale des soldes d ete (debut avance au 30 juin en 2029 car le 1er juillet tombe un dimanche). Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilite: haute sauf adaptation legislative.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -192,7 +192,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:belgique-soldes-attente-periode-attente-hiver-2029@facilabo.app
 DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20291201
+DTSTART;VALUE=DATE:20291203
 DTEND;VALUE=DATE:20300103
 SUMMARY:Periode d attente avant soldes d hiver - Belgique
 DESCRIPTION:Periode legale d attente pre-soldes d hiver. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilite: haute.
@@ -236,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:belgique-soldes-attente-periode-attente-hiver-2030@facilabo.app
 DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20301201
+DTSTART;VALUE=DATE:20301203
 DTEND;VALUE=DATE:20310103
 SUMMARY:Periode d attente avant soldes d hiver - Belgique
 DESCRIPTION:Periode legale d attente pre-soldes d hiver. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilite: haute.
@@ -280,7 +280,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:belgique-soldes-attente-periode-attente-hiver-2031@facilabo.app
 DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20311201
+DTSTART;VALUE=DATE:20311203
 DTEND;VALUE=DATE:20320103
 SUMMARY:Periode d attente avant soldes d hiver - Belgique
 DESCRIPTION:Periode legale d attente pre-soldes d hiver. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilite: haute.

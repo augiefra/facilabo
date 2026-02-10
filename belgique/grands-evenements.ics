@@ -71,8 +71,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:belgique-grands-evenements-grand-prix-spa-2026@facilabo.app
 DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20260726
-DTEND;VALUE=DATE:20260727
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
 SUMMARY:Grand Prix de Belgique (Spa-Francorchamps)
 DESCRIPTION:Repere sport automobile Belgique. Source: formula1.com. Fiabilite: moyenne a haute apres publication du calendrier F1.
 URL:https://www.formula1.com
