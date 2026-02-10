@@ -1,0 +1,39 @@
+Business Source License 1.1
+
+Parameters
+
+Licensor:             FacilAbo (Auguste Ecologni)
+Licensed Work:        FacilAbo calendar data files, scripts, and documentation in this repository.
+Additional Use Grant: Non-production, non-commercial use is permitted for evaluation, testing,
+                      educational, and personal use only.
+Change Date:          2029-02-10
+Change License:       GNU General Public License v3.0 or later
+
+Terms
+
+The Licensor hereby grants you the right to copy, modify, create derivative works, redistribute,
+and make non-production use of the Licensed Work. The Licensor may make an Additional Use Grant,
+as stated above, which must be read together with this License.
+
+Effective on the Change Date, or the fourth anniversary of the first public distribution of a
+specific version of the Licensed Work under this License, whichever comes first, this License
+will convert to the Change License.
+
+If your use does not qualify under the Additional Use Grant, then your use is not licensed under
+this License.
+
+You must retain all copyright, trademark, and attribution notices in source and distribution.
+
+This License does not grant any rights in trademarks, logos, brand assets, names, or other brand
+identifiers associated with the Licensor.
+
+This License is not a trademark license.
+
+The full text and FAQ for BUSL-1.1 are available at:
+https://mariadb.com/bsl11/
+
+Notice
+
+This repository may include multiple versions of files. The terms above apply per-version.
+The Licensor may publish updates under new parameters, and Additional Use Grants
+and the Change Date may vary for each version of the Licensed Work released by Licensor.
