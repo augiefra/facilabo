@@ -25,40 +25,64 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sport-france-foot-equipe-nationale-france-foot-2026-03-24-friendly@facilabo.app
-DTSTAMP:20260324T000000Z
-DTSTART;TZID=Europe/Paris:20260324T204500
-DTEND;TZID=Europe/Paris:20260324T224500
-SUMMARY:Equipe de France - Match amical (date sujette a confirmation)
-DESCRIPTION:Competition: International - Friendly | Source: https://www.fff.fr/equipe-nationale/ | Provenance: fallback:football-france-uefa-qualifiers
-LOCATION:France
-URL:https://www.fff.fr/equipe-nationale/
+UID:sport-france-foot-equipe-nationale-france-foot-2026-03-26-bresil-friendly@facilabo.app
+DTSTAMP:20260326T000000Z
+DTSTART;TZID=Europe/Paris:20260326T210000
+DTEND;TZID=Europe/Paris:20260326T230000
+SUMMARY:Bresil - France
+DESCRIPTION:Competition: International - Friendly | Source: https://www.equipe-france.fr/football/masculin/calendrier | Provenance: fallback:football-france-uefa-qualifiers
+LOCATION:Bresil
+URL:https://www.equipe-france.fr/football/masculin/calendrier
+CATEGORIES:Sport,Football,Equipe de France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-france-foot-equipe-nationale-france-foot-2026-03-29-colombie-friendly@facilabo.app
+DTSTAMP:20260329T000000Z
+DTSTART;TZID=Europe/Paris:20260329T210000
+DTEND;TZID=Europe/Paris:20260329T230000
+SUMMARY:Colombie - France
+DESCRIPTION:Competition: International - Friendly | Source: https://www.equipe-france.fr/football/masculin/calendrier | Provenance: fallback:football-france-uefa-qualifiers
+LOCATION:Colombie
+URL:https://www.equipe-france.fr/football/masculin/calendrier
+CATEGORIES:Sport,Football,Equipe de France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-france-foot-equipe-nationale-france-foot-2026-06-16-senegal-world-cup@facilabo.app
+DTSTAMP:20260616T000000Z
+DTSTART;TZID=Europe/Paris:20260616T210000
+DTEND;TZID=Europe/Paris:20260616T230000
+SUMMARY:France - Senegal
+DESCRIPTION:Competition: Coupe du monde - Groupe I | Source: https://www.equipe-france.fr/football/masculin/calendrier | Provenance: fallback:football-france-uefa-qualifiers
+LOCATION:Etats-Unis
+URL:https://www.equipe-france.fr/football/masculin/calendrier
+CATEGORIES:Sport,Football,Equipe de France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-france-foot-equipe-nationale-france-foot-2026-06-22-group-i-tbd@facilabo.app
+DTSTAMP:20260622T000000Z
+DTSTART;TZID=Europe/Paris:20260622T230000
+DTEND;TZID=Europe/Paris:20260623T010000
+SUMMARY:France - Adversaire a confirmer
+DESCRIPTION:Competition: Coupe du monde - Groupe I | Source: https://www.equipe-france.fr/football/masculin/calendrier | Provenance: fallback:football-france-uefa-qualifiers
+LOCATION:Etats-Unis
+URL:https://www.equipe-france.fr/football/masculin/calendrier
 CATEGORIES:Sport,Football,Equipe de France
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-foot-equipe-nationale-france-foot-2026-06-09-friendly@facilabo.app
-DTSTAMP:20260609T000000Z
-DTSTART;TZID=Europe/Paris:20260609T204500
-DTEND;TZID=Europe/Paris:20260609T224500
-SUMMARY:Equipe de France - Match amical (date sujette a confirmation)
-DESCRIPTION:Competition: International - Friendly | Source: https://www.fff.fr/equipe-nationale/ | Provenance: fallback:football-france-uefa-qualifiers
-LOCATION:France
-URL:https://www.fff.fr/equipe-nationale/
+UID:sport-france-foot-equipe-nationale-france-foot-2026-06-26-norvege-world-cup@facilabo.app
+DTSTAMP:20260626T000000Z
+DTSTART;TZID=Europe/Paris:20260626T210000
+DTEND;TZID=Europe/Paris:20260626T230000
+SUMMARY:Norvege - France
+DESCRIPTION:Competition: Coupe du monde - Groupe I | Source: https://www.equipe-france.fr/football/masculin/calendrier | Provenance: fallback:football-france-uefa-qualifiers
+LOCATION:Etats-Unis
+URL:https://www.equipe-france.fr/football/masculin/calendrier
 CATEGORIES:Sport,Football,Equipe de France
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:sport-france-foot-equipe-nationale-france-foot-2026-09-07-qualifiers@facilabo.app
-DTSTAMP:20260907T000000Z
-DTSTART;TZID=Europe/Paris:20260907T204500
-DTEND;TZID=Europe/Paris:20260907T224500
-SUMMARY:Equipe de France - Qualifications (date sujette a confirmation)
-DESCRIPTION:Competition: Qualifications UEFA/FIFA | Source: https://www.fff.fr/equipe-nationale/ | Provenance: fallback:football-france-uefa-qualifiers
-LOCATION:Europe
-URL:https://www.fff.fr/equipe-nationale/
-CATEGORIES:Sport,Football,Equipe de France
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-france-foot-equipe-nationale-football-france-uefa-nations-league-2048011@facilabo.app
@@ -125,17 +149,5 @@ DESCRIPTION:Competition: UEFA Nations League | External Match ID: 2047898 | Sour
 URL:https://www.uefa.com/uefanationsleague/match/2047898--france-vs-turkiye/
 CATEGORIES:Sport,Football,Equipe de France
 STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sport-france-foot-equipe-nationale-france-foot-2027-03-26-friendly@facilabo.app
-DTSTAMP:20270326T000000Z
-DTSTART;TZID=Europe/Paris:20270326T204500
-DTEND;TZID=Europe/Paris:20270326T224500
-SUMMARY:Equipe de France - Match amical (date sujette a confirmation)
-DESCRIPTION:Competition: International - Friendly | Source: https://www.fff.fr/equipe-nationale/ | Provenance: fallback:football-france-uefa-qualifiers
-LOCATION:France
-URL:https://www.fff.fr/equipe-nationale/
-CATEGORIES:Sport,Football,Equipe de France
-STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR

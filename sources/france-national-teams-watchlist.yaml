@@ -23,48 +23,59 @@
       "categories": ["Sport", "Football", "Equipe de France"],
       "fallback_events": [
         {
-          "uid_key": "france-foot-2026-03-24-friendly",
-          "summary": "Equipe de France - Match amical (date sujette a confirmation)",
+          "uid_key": "france-foot-2026-03-26-bresil-friendly",
+          "summary": "Bresil - France",
           "timed": true,
-          "start_datetime": "2026-03-24T20:45:00",
-          "end_datetime": "2026-03-24T22:45:00",
-          "location": "France",
+          "start_datetime": "2026-03-26T21:00:00",
+          "end_datetime": "2026-03-26T23:00:00",
+          "location": "Bresil",
           "competition": "International - Friendly",
-          "source_url": "https://www.fff.fr/equipe-nationale/",
+          "source_url": "https://www.equipe-france.fr/football/masculin/calendrier",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "france-foot-2026-03-29-colombie-friendly",
+          "summary": "Colombie - France",
+          "timed": true,
+          "start_datetime": "2026-03-29T21:00:00",
+          "end_datetime": "2026-03-29T23:00:00",
+          "location": "Colombie",
+          "competition": "International - Friendly",
+          "source_url": "https://www.equipe-france.fr/football/masculin/calendrier",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "france-foot-2026-06-16-senegal-world-cup",
+          "summary": "France - Senegal",
+          "timed": true,
+          "start_datetime": "2026-06-16T21:00:00",
+          "end_datetime": "2026-06-16T23:00:00",
+          "location": "Etats-Unis",
+          "competition": "Coupe du monde - Groupe I",
+          "source_url": "https://www.equipe-france.fr/football/masculin/calendrier",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "france-foot-2026-06-22-group-i-tbd",
+          "summary": "France - Adversaire a confirmer",
+          "timed": true,
+          "start_datetime": "2026-06-22T23:00:00",
+          "end_datetime": "2026-06-23T01:00:00",
+          "location": "Etats-Unis",
+          "competition": "Coupe du monde - Groupe I",
+          "source_url": "https://www.equipe-france.fr/football/masculin/calendrier",
           "status": "TENTATIVE"
         },
         {
-          "uid_key": "france-foot-2026-06-09-friendly",
-          "summary": "Equipe de France - Match amical (date sujette a confirmation)",
+          "uid_key": "france-foot-2026-06-26-norvege-world-cup",
+          "summary": "Norvege - France",
           "timed": true,
-          "start_datetime": "2026-06-09T20:45:00",
-          "end_datetime": "2026-06-09T22:45:00",
-          "location": "France",
-          "competition": "International - Friendly",
-          "source_url": "https://www.fff.fr/equipe-nationale/",
-          "status": "TENTATIVE"
-        },
-        {
-          "uid_key": "france-foot-2026-09-07-qualifiers",
-          "summary": "Equipe de France - Qualifications (date sujette a confirmation)",
-          "timed": true,
-          "start_datetime": "2026-09-07T20:45:00",
-          "end_datetime": "2026-09-07T22:45:00",
-          "location": "Europe",
-          "competition": "Qualifications UEFA/FIFA",
-          "source_url": "https://www.fff.fr/equipe-nationale/",
-          "status": "TENTATIVE"
-        },
-        {
-          "uid_key": "france-foot-2027-03-26-friendly",
-          "summary": "Equipe de France - Match amical (date sujette a confirmation)",
-          "timed": true,
-          "start_datetime": "2027-03-26T20:45:00",
-          "end_datetime": "2027-03-26T22:45:00",
-          "location": "France",
-          "competition": "International - Friendly",
-          "source_url": "https://www.fff.fr/equipe-nationale/",
-          "status": "TENTATIVE"
+          "start_datetime": "2026-06-26T21:00:00",
+          "end_datetime": "2026-06-26T23:00:00",
+          "location": "Etats-Unis",
+          "competition": "Coupe du monde - Groupe I",
+          "source_url": "https://www.equipe-france.fr/football/masculin/calendrier",
+          "status": "CONFIRMED"
         }
       ]
     },
