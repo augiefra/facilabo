@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Equipe de France Rugby//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Equipe de France Rugby
+X-WR-CALDESC:Matchs de l equipe de France de rugby - fenetre glissante 24 mois
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202600-france-v-ireland@facilabo.app
+DTSTAMP:20260205T000000Z
+DTSTART;TZID=Europe/Paris:20260205T211000
+DTEND;TZID=Europe/Paris:20260205T231000
+SUMMARY:France - Irlande
+DESCRIPTION:Competition: Six Nations | External Match ID: 202600-france-v-ireland | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-ireland-05022026-2110 | Provenance: crawl:rugby-france-sixnations-m6n
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-ireland-05022026-2110
+CATEGORIES:Sport,Rugby,Equipe de France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202600-wales-v-france@facilabo.app
+DTSTAMP:20260215T000000Z
+DTSTART;TZID=Europe/Paris:20260215T151000
+DTEND;TZID=Europe/Paris:20260215T171000
+SUMMARY:Pays de Galles - France
+DESCRIPTION:Competition: Six Nations | External Match ID: 202600-wales-v-france | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/wales-v-france-15022026-1510 | Provenance: crawl:rugby-france-sixnations-m6n
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/wales-v-france-15022026-1510
+CATEGORIES:Sport,Rugby,Equipe de France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202600-france-v-italy@facilabo.app
+DTSTAMP:20260222T000000Z
+DTSTART;TZID=Europe/Paris:20260222T161000
+DTEND;TZID=Europe/Paris:20260222T181000
+SUMMARY:France - Italie
+DESCRIPTION:Competition: Six Nations | External Match ID: 202600-france-v-italy | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-italy-22022026-1610 | Provenance: crawl:rugby-france-sixnations-m6n
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-italy-22022026-1610
+CATEGORIES:Sport,Rugby,Equipe de France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202600-scotland-v-france@facilabo.app
+DTSTAMP:20260307T000000Z
+DTSTART;TZID=Europe/Paris:20260307T141000
+DTEND;TZID=Europe/Paris:20260307T161000
+SUMMARY:Ecosse - France
+DESCRIPTION:Competition: Six Nations | External Match ID: 202600-scotland-v-france | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/scotland-v-france-07032026-1410 | Provenance: crawl:rugby-france-sixnations-m6n
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/scotland-v-france-07032026-1410
+CATEGORIES:Sport,Rugby,Equipe de France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202600-france-v-england@facilabo.app
+DTSTAMP:20260314T000000Z
+DTSTART;TZID=Europe/Paris:20260314T211000
+DTEND;TZID=Europe/Paris:20260314T231000
+SUMMARY:France - Angleterre
+DESCRIPTION:Competition: Six Nations | External Match ID: 202600-france-v-england | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-england-14032026-2110 | Provenance: crawl:rugby-france-sixnations-m6n
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-england-14032026-2110
+CATEGORIES:Sport,Rugby,Equipe de France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-france-rugby-equipe-nationale-france-rugby-2026-11-14-autumn@facilabo.app
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Paris:20261114T211000
+DTEND;TZID=Europe/Paris:20261114T231000
+SUMMARY:Equipe de France Rugby - Autumn Nations Series (date sujette a confirmation)
+DESCRIPTION:Competition: Autumn Nations Series | Source: https://www.sixnationsrugby.com/en/autumn-nations-series/fixtures | Provenance: fallback:rugby-france-sixnations-m6n
+LOCATION:France
+URL:https://www.sixnationsrugby.com/en/autumn-nations-series/fixtures
+CATEGORIES:Sport,Rugby,Equipe de France
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

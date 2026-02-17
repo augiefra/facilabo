@@ -1,0 +1,93 @@
+name: France National Teams Watch
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: france-national-teams-watch
+  cancel-in-progress: false
+
+jobs:
+  watch-france-national-teams:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Validate source watchlist
+        run: node facilabo-calendars/scripts/validate-france-national-teams-sources.ts --file facilabo-calendars/sources/france-national-teams-watchlist.yaml
+
+      - name: Dry run update
+        run: |
+          node facilabo-calendars/scripts/update-france-national-teams-calendars.ts \
+            --dry-run \
+            --file facilabo-calendars/sources/france-national-teams-watchlist.yaml \
+            --output-foot facilabo-calendars/sport/france-foot-equipe-nationale.ics \
+            --output-rugby facilabo-calendars/sport/france-rugby-equipe-nationale.ics \
+            --mirror-foot calendars/sport/france-foot-equipe-nationale.ics \
+            --mirror-rugby calendars/sport/france-rugby-equipe-nationale.ics
+
+      - name: Apply update
+        run: |
+          node facilabo-calendars/scripts/update-france-national-teams-calendars.ts \
+            --file facilabo-calendars/sources/france-national-teams-watchlist.yaml \
+            --output-foot facilabo-calendars/sport/france-foot-equipe-nationale.ics \
+            --output-rugby facilabo-calendars/sport/france-rugby-equipe-nationale.ics \
+            --mirror-foot calendars/sport/france-foot-equipe-nationale.ics \
+            --mirror-rugby calendars/sport/france-rugby-equipe-nationale.ics
+
+      - name: Smoke check generated ICS
+        run: |
+          grep -E "BEGIN:VCALENDAR|X-WR-CALNAME" facilabo-calendars/sport/france-foot-equipe-nationale.ics
+          grep -E "BEGIN:VCALENDAR|X-WR-CALNAME" facilabo-calendars/sport/france-rugby-equipe-nationale.ics
+
+      - name: Smoke check proxy (best effort)
+        run: |
+          if ! curl -sL "https://facilabo-api.vercel.app/api/v1/calendars/sport-france-foot-equipe-nationale" | grep -q "BEGIN:VCALENDAR"; then
+            echo "WARN: proxy football not reachable yet"
+          fi
+          if ! curl -sL "https://facilabo-api.vercel.app/api/v1/calendars/sport-france-rugby-equipe-nationale" | grep -q "BEGIN:VCALENDAR"; then
+            echo "WARN: proxy rugby not reachable yet"
+          fi
+
+      - name: Detect changes
+        id: changes
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create pull request
+        if: steps.changes.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: codex/france-national-teams-watch
+          delete-branch: true
+          title: "chore(calendars): refresh france national teams ICS"
+          commit-message: "chore(calendars): refresh france national teams ICS"
+          body: |
+            Automated update from `france-national-teams-watch`.
+
+            Included checks:
+            - watchlist validation
+            - dry-run generation
+            - mirror sync
+            - generated ICS smoke checks
+          labels: |
+            automation
+            calendars
+            sports

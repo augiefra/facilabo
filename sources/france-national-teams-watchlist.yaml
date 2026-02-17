@@ -1,0 +1,189 @@
+{
+  "version": 1,
+  "generated_at": "2026-02-17",
+  "timezone_default": "Europe/Paris",
+  "cadence_hours": 3,
+  "window_days_past": 30,
+  "window_days_future": 730,
+  "conflict_resolution": "prefer_first_source_then_merge_missing",
+  "sources": [
+    {
+      "slug": "football-france-uefa-qualifiers",
+      "sport": "football",
+      "source_url": "https://www.uefa.com/european-qualifiers/teams/43--france/matches/",
+      "parser": "uefa_jsonld",
+      "selector_rule": "Parse SportsEvent JSON-LD blocks and keep France senior fixtures in the rolling window",
+      "timezone_source": "Europe/Paris",
+      "confidence_rule": "high_if_jsonld_contains_teams_and_start_date",
+      "enabled": true,
+      "watch_only": false,
+      "crawl_enabled": true,
+      "include_keywords": ["france"],
+      "exclude_keywords": ["u17", "u18", "u19", "u20", "u21", "women", "feminine", "feminin", "futsal", "espoirs"],
+      "categories": ["Sport", "Football", "Equipe de France"],
+      "fallback_events": [
+        {
+          "uid_key": "france-foot-2026-03-24-friendly",
+          "summary": "Equipe de France - Match amical (date sujette a confirmation)",
+          "timed": true,
+          "start_datetime": "2026-03-24T20:45:00",
+          "end_datetime": "2026-03-24T22:45:00",
+          "location": "France",
+          "competition": "International - Friendly",
+          "source_url": "https://www.fff.fr/equipe-nationale/",
+          "status": "TENTATIVE"
+        },
+        {
+          "uid_key": "france-foot-2026-06-09-friendly",
+          "summary": "Equipe de France - Match amical (date sujette a confirmation)",
+          "timed": true,
+          "start_datetime": "2026-06-09T20:45:00",
+          "end_datetime": "2026-06-09T22:45:00",
+          "location": "France",
+          "competition": "International - Friendly",
+          "source_url": "https://www.fff.fr/equipe-nationale/",
+          "status": "TENTATIVE"
+        },
+        {
+          "uid_key": "france-foot-2026-09-07-qualifiers",
+          "summary": "Equipe de France - Qualifications (date sujette a confirmation)",
+          "timed": true,
+          "start_datetime": "2026-09-07T20:45:00",
+          "end_datetime": "2026-09-07T22:45:00",
+          "location": "Europe",
+          "competition": "Qualifications UEFA/FIFA",
+          "source_url": "https://www.fff.fr/equipe-nationale/",
+          "status": "TENTATIVE"
+        },
+        {
+          "uid_key": "france-foot-2027-03-26-friendly",
+          "summary": "Equipe de France - Match amical (date sujette a confirmation)",
+          "timed": true,
+          "start_datetime": "2027-03-26T20:45:00",
+          "end_datetime": "2027-03-26T22:45:00",
+          "location": "France",
+          "competition": "International - Friendly",
+          "source_url": "https://www.fff.fr/equipe-nationale/",
+          "status": "TENTATIVE"
+        }
+      ]
+    },
+    {
+      "slug": "football-france-uefa-nations-league",
+      "sport": "football",
+      "source_url": "https://www.uefa.com/uefanationsleague/teams/43--france/matches/",
+      "parser": "uefa_jsonld",
+      "selector_rule": "Parse SportsEvent JSON-LD blocks and keep France senior fixtures in the rolling window",
+      "timezone_source": "Europe/Paris",
+      "confidence_rule": "high_if_jsonld_contains_teams_and_start_date",
+      "enabled": true,
+      "watch_only": false,
+      "crawl_enabled": true,
+      "include_keywords": ["france"],
+      "exclude_keywords": ["u17", "u18", "u19", "u20", "u21", "women", "feminine", "feminin", "futsal", "espoirs"],
+      "categories": ["Sport", "Football", "Equipe de France"]
+    },
+    {
+      "slug": "football-france-fff-watch",
+      "sport": "football",
+      "source_url": "https://www.fff.fr/equipe-nationale/",
+      "parser": "watch",
+      "selector_rule": "Watch official publication updates from FFF for manual conflict review",
+      "timezone_source": "Europe/Paris",
+      "confidence_rule": "manual_review_required",
+      "enabled": true,
+      "watch_only": true,
+      "crawl_enabled": false,
+      "include_keywords": ["equipe de france"]
+    },
+    {
+      "slug": "rugby-france-sixnations-m6n",
+      "sport": "rugby",
+      "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures",
+      "parser": "sixnations_fixture_links",
+      "selector_rule": "Parse fixtures links and extract France XV match slugs with date/time",
+      "timezone_source": "Europe/Paris",
+      "confidence_rule": "high_if_fixture_slug_and_datetime_present",
+      "enabled": true,
+      "watch_only": false,
+      "crawl_enabled": true,
+      "include_keywords": ["france"],
+      "exclude_keywords": ["u20", "women", "feminine", "feminin", "sevens", "7s"],
+      "categories": ["Sport", "Rugby", "Equipe de France"],
+      "fallback_events": [
+        {
+          "uid_key": "france-rugby-2026-02-22-six-nations",
+          "summary": "France - Italie (date sujette a confirmation)",
+          "timed": true,
+          "start_datetime": "2026-02-22T16:10:00",
+          "end_datetime": "2026-02-22T18:10:00",
+          "location": "France",
+          "competition": "Six Nations",
+          "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures",
+          "status": "TENTATIVE"
+        },
+        {
+          "uid_key": "france-rugby-2026-03-07-six-nations",
+          "summary": "Ecosse - France (date sujette a confirmation)",
+          "timed": true,
+          "start_datetime": "2026-03-07T15:10:00",
+          "end_datetime": "2026-03-07T17:10:00",
+          "location": "Ecosse",
+          "competition": "Six Nations",
+          "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures",
+          "status": "TENTATIVE"
+        },
+        {
+          "uid_key": "france-rugby-2026-03-14-six-nations",
+          "summary": "France - Angleterre (date sujette a confirmation)",
+          "timed": true,
+          "start_datetime": "2026-03-14T21:10:00",
+          "end_datetime": "2026-03-14T23:10:00",
+          "location": "France",
+          "competition": "Six Nations",
+          "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures",
+          "status": "TENTATIVE"
+        },
+        {
+          "uid_key": "france-rugby-2026-11-14-autumn",
+          "summary": "Equipe de France Rugby - Autumn Nations Series (date sujette a confirmation)",
+          "timed": true,
+          "start_datetime": "2026-11-14T21:10:00",
+          "end_datetime": "2026-11-14T23:10:00",
+          "location": "France",
+          "competition": "Autumn Nations Series",
+          "source_url": "https://www.sixnationsrugby.com/en/autumn-nations-series/fixtures",
+          "status": "TENTATIVE"
+        }
+      ]
+    },
+    {
+      "slug": "rugby-france-autumn-nations-series",
+      "sport": "rugby",
+      "source_url": "https://www.sixnationsrugby.com/en/autumn-nations-series/fixtures",
+      "parser": "sixnations_fixture_links",
+      "selector_rule": "Parse fixtures links and extract France XV match slugs with date/time",
+      "timezone_source": "Europe/Paris",
+      "confidence_rule": "high_if_fixture_slug_and_datetime_present",
+      "enabled": true,
+      "watch_only": false,
+      "crawl_enabled": true,
+      "include_keywords": ["france"],
+      "exclude_keywords": ["u20", "women", "feminine", "feminin", "sevens", "7s"],
+      "categories": ["Sport", "Rugby", "Equipe de France"]
+    },
+    {
+      "slug": "rugby-france-ffr-watch",
+      "sport": "rugby",
+      "source_url": "https://www.ffr.fr/equipes-de-france/",
+      "parser": "watch",
+      "selector_rule": "Watch official publication updates from FFR for manual conflict review",
+      "timezone_source": "Europe/Paris",
+      "confidence_rule": "manual_review_required",
+      "enabled": true,
+      "watch_only": true,
+      "crawl_enabled": false,
+      "include_keywords": ["xv de france"]
+    }
+  ]
+}

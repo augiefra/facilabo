@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Equipe de France Football//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Equipe de France Football
+X-WR-CALDESC:Matchs de l equipe de France de football - fenetre glissante 24 mois
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sport-france-foot-equipe-nationale-france-foot-2026-03-24-friendly@facilabo.app
+DTSTAMP:20260324T000000Z
+DTSTART;TZID=Europe/Paris:20260324T204500
+DTEND;TZID=Europe/Paris:20260324T224500
+SUMMARY:Equipe de France - Match amical (date sujette a confirmation)
+DESCRIPTION:Competition: International - Friendly | Source: https://www.fff.fr/equipe-nationale/ | Provenance: fallback:football-france-uefa-qualifiers
+LOCATION:France
+URL:https://www.fff.fr/equipe-nationale/
+CATEGORIES:Sport,Football,Equipe de France
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-france-foot-equipe-nationale-france-foot-2026-06-09-friendly@facilabo.app
+DTSTAMP:20260609T000000Z
+DTSTART;TZID=Europe/Paris:20260609T204500
+DTEND;TZID=Europe/Paris:20260609T224500
+SUMMARY:Equipe de France - Match amical (date sujette a confirmation)
+DESCRIPTION:Competition: International - Friendly | Source: https://www.fff.fr/equipe-nationale/ | Provenance: fallback:football-france-uefa-qualifiers
+LOCATION:France
+URL:https://www.fff.fr/equipe-nationale/
+CATEGORIES:Sport,Football,Equipe de France
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-france-foot-equipe-nationale-france-foot-2026-09-07-qualifiers@facilabo.app
+DTSTAMP:20260907T000000Z
+DTSTART;TZID=Europe/Paris:20260907T204500
+DTEND;TZID=Europe/Paris:20260907T224500
+SUMMARY:Equipe de France - Qualifications (date sujette a confirmation)
+DESCRIPTION:Competition: Qualifications UEFA/FIFA | Source: https://www.fff.fr/equipe-nationale/ | Provenance: fallback:football-france-uefa-qualifiers
+LOCATION:Europe
+URL:https://www.fff.fr/equipe-nationale/
+CATEGORIES:Sport,Football,Equipe de France
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-france-foot-equipe-nationale-football-france-uefa-nations-league-2048011@facilabo.app
+DTSTAMP:20260925T000000Z
+DTSTART;TZID=Europe/Paris:20260925T204500
+DTEND;TZID=Europe/Paris:20260925T224500
+SUMMARY:Turquie - France
+DESCRIPTION:Competition: UEFA Nations League | External Match ID: 2048011 | Source: https://www.uefa.com/uefanationsleague/match/2048011--turkiye-vs-france/ | Provenance: crawl:football-france-uefa-nations-league
+URL:https://www.uefa.com/uefanationsleague/match/2048011--turkiye-vs-france/
+CATEGORIES:Sport,Football,Equipe de France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-france-foot-equipe-nationale-football-france-uefa-nations-league-2047989@facilabo.app
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Europe/Paris:20260928T204500
+DTEND;TZID=Europe/Paris:20260928T224500
+SUMMARY:Belgique - France
+DESCRIPTION:Competition: UEFA Nations League | External Match ID: 2047989 | Source: https://www.uefa.com/uefanationsleague/match/2047989--belgium-vs-france/ | Provenance: crawl:football-france-uefa-nations-league
+URL:https://www.uefa.com/uefanationsleague/match/2047989--belgium-vs-france/
+CATEGORIES:Sport,Football,Equipe de France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-france-foot-equipe-nationale-football-france-uefa-nations-league-2047960@facilabo.app
+DTSTAMP:20261002T000000Z
+DTSTART;TZID=Europe/Paris:20261002T204500
+DTEND;TZID=Europe/Paris:20261002T224500
+SUMMARY:France - Italie
+DESCRIPTION:Competition: UEFA Nations League | External Match ID: 2047960 | Source: https://www.uefa.com/uefanationsleague/match/2047960--france-vs-italy/ | Provenance: crawl:football-france-uefa-nations-league
+URL:https://www.uefa.com/uefanationsleague/match/2047960--france-vs-italy/
+CATEGORIES:Sport,Football,Equipe de France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-france-foot-equipe-nationale-football-france-uefa-nations-league-2047937@facilabo.app
+DTSTAMP:20261005T000000Z
+DTSTART;TZID=Europe/Paris:20261005T204500
+DTEND;TZID=Europe/Paris:20261005T224500
+SUMMARY:France - Belgique
+DESCRIPTION:Competition: UEFA Nations League | External Match ID: 2047937 | Source: https://www.uefa.com/uefanationsleague/match/2047937--france-vs-belgium/ | Provenance: crawl:football-france-uefa-nations-league
+URL:https://www.uefa.com/uefanationsleague/match/2047937--france-vs-belgium/
+CATEGORIES:Sport,Football,Equipe de France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-france-foot-equipe-nationale-football-france-uefa-nations-league-2047878@facilabo.app
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=Europe/Paris:20261112T204500
+DTEND;TZID=Europe/Paris:20261112T224500
+SUMMARY:Italie - France
+DESCRIPTION:Competition: UEFA Nations League | External Match ID: 2047878 | Source: https://www.uefa.com/uefanationsleague/match/2047878--italy-vs-france/ | Provenance: crawl:football-france-uefa-nations-league
+URL:https://www.uefa.com/uefanationsleague/match/2047878--italy-vs-france/
+CATEGORIES:Sport,Football,Equipe de France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-france-foot-equipe-nationale-football-france-uefa-nations-league-2047898@facilabo.app
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Paris:20261115T204500
+DTEND;TZID=Europe/Paris:20261115T224500
+SUMMARY:France - Turquie
+DESCRIPTION:Competition: UEFA Nations League | External Match ID: 2047898 | Source: https://www.uefa.com/uefanationsleague/match/2047898--france-vs-turkiye/ | Provenance: crawl:football-france-uefa-nations-league
+URL:https://www.uefa.com/uefanationsleague/match/2047898--france-vs-turkiye/
+CATEGORIES:Sport,Football,Equipe de France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-france-foot-equipe-nationale-france-foot-2027-03-26-friendly@facilabo.app
+DTSTAMP:20270326T000000Z
+DTSTART;TZID=Europe/Paris:20270326T204500
+DTEND;TZID=Europe/Paris:20270326T224500
+SUMMARY:Equipe de France - Match amical (date sujette a confirmation)
+DESCRIPTION:Competition: International - Friendly | Source: https://www.fff.fr/equipe-nationale/ | Provenance: fallback:football-france-uefa-qualifiers
+LOCATION:France
+URL:https://www.fff.fr/equipe-nationale/
+CATEGORIES:Sport,Football,Equipe de France
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
