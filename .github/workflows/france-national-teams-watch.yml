@@ -27,34 +27,32 @@ jobs:
           node-version: '22'
 
       - name: Validate source watchlist
-        run: node facilabo-calendars/scripts/validate-france-national-teams-sources.ts --file facilabo-calendars/sources/france-national-teams-watchlist.yaml
+        run: node scripts/validate-france-national-teams-sources.ts --file sources/france-national-teams-watchlist.yaml
 
       - name: Dry run update
         run: |
-          node facilabo-calendars/scripts/update-france-national-teams-calendars.ts \
+          node scripts/update-france-national-teams-calendars.ts \
             --dry-run \
-            --file facilabo-calendars/sources/france-national-teams-watchlist.yaml \
-            --output-foot facilabo-calendars/sport/france-foot-equipe-nationale.ics \
-            --output-rugby facilabo-calendars/sport/france-rugby-equipe-nationale.ics \
-            --mirror-foot calendars/sport/france-foot-equipe-nationale.ics \
-            --mirror-rugby calendars/sport/france-rugby-equipe-nationale.ics
+            --file sources/france-national-teams-watchlist.yaml \
+            --output-foot sport/france-foot-equipe-nationale.ics \
+            --output-rugby sport/france-rugby-equipe-nationale.ics
 
       - name: Apply update
         run: |
-          node facilabo-calendars/scripts/update-france-national-teams-calendars.ts \
-            --file facilabo-calendars/sources/france-national-teams-watchlist.yaml \
-            --output-foot facilabo-calendars/sport/france-foot-equipe-nationale.ics \
-            --output-rugby facilabo-calendars/sport/france-rugby-equipe-nationale.ics \
-            --mirror-foot calendars/sport/france-foot-equipe-nationale.ics \
-            --mirror-rugby calendars/sport/france-rugby-equipe-nationale.ics
+          node scripts/update-france-national-teams-calendars.ts \
+            --file sources/france-national-teams-watchlist.yaml \
+            --output-foot sport/france-foot-equipe-nationale.ics \
+            --output-rugby sport/france-rugby-equipe-nationale.ics
 
       - name: Smoke check generated ICS
         run: |
-          grep -E "BEGIN:VCALENDAR|X-WR-CALNAME" facilabo-calendars/sport/france-foot-equipe-nationale.ics
-          grep -E "BEGIN:VCALENDAR|X-WR-CALNAME" facilabo-calendars/sport/france-rugby-equipe-nationale.ics
+          grep -E "BEGIN:VCALENDAR|X-WR-CALNAME" sport/france-foot-equipe-nationale.ics
+          grep -E "BEGIN:VCALENDAR|X-WR-CALNAME" sport/france-rugby-equipe-nationale.ics
 
-      - name: Smoke check proxy (best effort)
+      - name: Smoke check raw and API proxy
         run: |
+          curl -sL "https://raw.githubusercontent.com/augiefra/facilabo/main/sport/france-foot-equipe-nationale.ics" | grep -E "BEGIN:VCALENDAR|X-WR-CALNAME"
+          curl -sL "https://raw.githubusercontent.com/augiefra/facilabo/main/sport/france-rugby-equipe-nationale.ics" | grep -E "BEGIN:VCALENDAR|X-WR-CALNAME"
           if ! curl -sL "https://facilabo-api.vercel.app/api/v1/calendars/sport-france-foot-equipe-nationale" | grep -q "BEGIN:VCALENDAR"; then
             echo "WARN: proxy football not reachable yet"
           fi
@@ -85,8 +83,7 @@ jobs:
             Included checks:
             - watchlist validation
             - dry-run generation
-            - mirror sync
-            - generated ICS smoke checks
+            - raw/proxy smoke checks
           labels: |
             automation
             calendars
