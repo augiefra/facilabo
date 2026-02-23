@@ -14,6 +14,19 @@
 - https://www.onderwijs.vlaanderen.be
 - https://economie.fgov.be
 
+## Societe (France)
+
+- https://www.unwomen.org
+- https://www.un.org/fr/observances/happiness-day
+- https://www.cancerdusein.org
+
+## Cyclisme
+
+- https://www.uci.org
+- https://www.letour.fr
+- https://www.giroditalia.it
+- https://www.lavuelta.es
+
 ## Religion and observances
 
 - https://www.vatican.va

@@ -9,7 +9,9 @@
 - `fiscal`
 - `jardin`
 - `religion`
+- `societe`
 - `soldes`
+- `sport`
 - `tennis`
 
 ## Canonical raw URL format

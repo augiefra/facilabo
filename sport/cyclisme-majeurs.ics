@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Cyclisme Majeurs//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Cyclisme - Grandes courses
+X-WR-CALDESC:Monuments, Grands Tours et Mondiaux route. Fenetre glissante 24 mois (J-30 -> J+730).
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-milan-san-remo-2026@facilabo.app
+DTSTAMP:20260223T120000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:Milan-San Remo (Monument)
+DESCRIPTION:Monument #1 - Source: uci.org / milanosanremo.it
+CATEGORIES:Sport,Cyclisme,Monument
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-tour-flandres-2026@facilabo.app
+DTSTAMP:20260223T120000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Tour des Flandres (Monument)
+DESCRIPTION:Monument #2 - Source: uci.org / rondevanvlaanderen.be
+CATEGORIES:Sport,Cyclisme,Monument
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-paris-roubaix-2026@facilabo.app
+DTSTAMP:20260223T120000Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:Paris-Roubaix (Monument)
+DESCRIPTION:Monument #3 - Source: uci.org / paris-roubaix.fr
+CATEGORIES:Sport,Cyclisme,Monument
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-liege-bastogne-liege-2026@facilabo.app
+DTSTAMP:20260223T120000Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:Liege-Bastogne-Liege (Monument)
+DESCRIPTION:Monument #4 - Source: uci.org / liege-bastogne-liege.be
+CATEGORIES:Sport,Cyclisme,Monument
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-giro-ditalia-2026@facilabo.app
+DTSTAMP:20260223T120000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260602
+SUMMARY:Giro d Italia (Grand Tour)
+DESCRIPTION:Grand Tour #1 - Source: uci.org / giroditalia.it
+CATEGORIES:Sport,Cyclisme,Grand Tour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-tour-de-france-2026@facilabo.app
+DTSTAMP:20260223T120000Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260727
+SUMMARY:Tour de France (Grand Tour)
+DESCRIPTION:Grand Tour #2 - Source: uci.org / letour.fr
+CATEGORIES:Sport,Cyclisme,Grand Tour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-vuelta-2026@facilabo.app
+DTSTAMP:20260223T120000Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260914
+SUMMARY:La Vuelta (Grand Tour)
+DESCRIPTION:Grand Tour #3 - Source: uci.org / lavuelta.es
+CATEGORIES:Sport,Cyclisme,Grand Tour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-uci-worlds-women-road-2026@facilabo.app
+DTSTAMP:20260223T120000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Championnats du monde UCI - Course en ligne femmes
+DESCRIPTION:Mondiaux route - epreuve elite.
+CATEGORIES:Sport,Cyclisme,Mondiaux
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-uci-worlds-men-road-2026@facilabo.app
+DTSTAMP:20260223T120000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Championnats du monde UCI - Course en ligne hommes
+DESCRIPTION:Mondiaux route - epreuve elite.
+CATEGORIES:Sport,Cyclisme,Mondiaux
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-il-lombardia-2026@facilabo.app
+DTSTAMP:20260223T120000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Il Lombardia (Monument)
+DESCRIPTION:Monument #5 - Source: uci.org / ilombardia.it
+CATEGORIES:Sport,Cyclisme,Monument
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-milan-san-remo-2027@facilabo.app
+DTSTAMP:20260223T120000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Milan-San Remo (Monument)
+DESCRIPTION:Monument #1 - date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Monument
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-tour-flandres-2027@facilabo.app
+DTSTAMP:20260223T120000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Tour des Flandres (Monument)
+DESCRIPTION:Monument #2 - date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Monument
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-paris-roubaix-2027@facilabo.app
+DTSTAMP:20260223T120000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Paris-Roubaix (Monument)
+DESCRIPTION:Monument #3 - date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Monument
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-liege-bastogne-liege-2027@facilabo.app
+DTSTAMP:20260223T120000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Liege-Bastogne-Liege (Monument)
+DESCRIPTION:Monument #4 - date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Monument
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-giro-ditalia-2027@facilabo.app
+DTSTAMP:20260223T120000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270531
+SUMMARY:Giro d Italia (Grand Tour)
+DESCRIPTION:Grand Tour #1 - date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Grand Tour
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-tour-de-france-2027@facilabo.app
+DTSTAMP:20260223T120000Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270726
+SUMMARY:Tour de France (Grand Tour)
+DESCRIPTION:Grand Tour #2 - date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Grand Tour
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-vuelta-2027@facilabo.app
+DTSTAMP:20260223T120000Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270913
+SUMMARY:La Vuelta (Grand Tour)
+DESCRIPTION:Grand Tour #3 - date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Grand Tour
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-uci-worlds-women-road-2027@facilabo.app
+DTSTAMP:20260223T120000Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:Championnats du monde UCI - Course en ligne femmes
+DESCRIPTION:Mondiaux route - epreuve elite (date a confirmer).
+CATEGORIES:Sport,Cyclisme,Mondiaux
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-uci-worlds-men-road-2027@facilabo.app
+DTSTAMP:20260223T120000Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:Championnats du monde UCI - Course en ligne hommes
+DESCRIPTION:Mondiaux route - epreuve elite (date a confirmer).
+CATEGORIES:Sport,Cyclisme,Mondiaux
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-il-lombardia-2027@facilabo.app
+DTSTAMP:20260223T120000Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:Il Lombardia (Monument)
+DESCRIPTION:Monument #5 - date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Monument
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
