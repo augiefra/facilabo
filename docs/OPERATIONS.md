@@ -20,3 +20,8 @@ Allowed:
 
 Forbidden:
 - Duplicate event in the same feed/year.
+
+## Specific notes for new feeds
+
+- `societe/reperes-france.ics`: keep deterministic FR rules (mothers/fathers/grandparents days) and preserve overlap rationale with `ecommerce/fetes-commerciales.ics`.
+- `sport/cyclisme-majeurs.ics`: keep strict scope (Monuments + Grands Tours + Mondiaux route), and maintain rolling window target `J-30 -> J+730`.
