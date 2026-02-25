@@ -3,6 +3,7 @@
 ## France
 
 - Fiscal: https://www.impots.gouv.fr
+- Paye fonction publique: https://www.education.gouv.fr/la-paye-des-agents-du-ministere-378286 (consulte le 2026-02-25)
 - Soldes: https://www.economie.gouv.fr/dgccrf/soldes
 - Culture: https://www.culture.gouv.fr
 

@@ -18,6 +18,11 @@
 
 `https://raw.githubusercontent.com/augiefra/facilabo/main/<category>/<file>.ics`
 
+## Fiscal feeds
+
+- `fiscal/france.ics` (slug: `fiscal-france`)
+- `fiscal/paye-fonction-publique.ics` (slug: `fiscal-paye-fonction-publique`)
+
 ## Stability contract (critical for app continuity)
 
 - Existing file paths and slugs are treated as stable.
