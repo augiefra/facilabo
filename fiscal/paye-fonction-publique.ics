@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Paye Fonction publique//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Paye Fonction publique
+X-WR-CALDESC:Dates officielles de virement des agents publics (source ministerielle)
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:fiscal-paye-fonction-publique-202601@facilabo.app
+DTSTAMP:20260225T120000Z
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+SUMMARY:Paye fonction publique - virement
+DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
+CATEGORIES:Fiscalite,Paye
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-paye-fonction-publique-202602@facilabo.app
+DTSTAMP:20260225T120000Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260226
+SUMMARY:Paye fonction publique - virement
+DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
+CATEGORIES:Fiscalite,Paye
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-paye-fonction-publique-202603@facilabo.app
+DTSTAMP:20260225T120000Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:Paye fonction publique - virement
+DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
+CATEGORIES:Fiscalite,Paye
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-paye-fonction-publique-202604@facilabo.app
+DTSTAMP:20260225T120000Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:Paye fonction publique - virement
+DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
+CATEGORIES:Fiscalite,Paye
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-paye-fonction-publique-202605@facilabo.app
+DTSTAMP:20260225T120000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:Paye fonction publique - virement
+DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
+CATEGORIES:Fiscalite,Paye
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-paye-fonction-publique-202606@facilabo.app
+DTSTAMP:20260225T120000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Paye fonction publique - virement
+DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
+CATEGORIES:Fiscalite,Paye
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-paye-fonction-publique-202607@facilabo.app
+DTSTAMP:20260225T120000Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:Paye fonction publique - virement
+DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
+CATEGORIES:Fiscalite,Paye
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-paye-fonction-publique-202608@facilabo.app
+DTSTAMP:20260225T120000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Paye fonction publique - virement
+DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
+CATEGORIES:Fiscalite,Paye
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-paye-fonction-publique-202609@facilabo.app
+DTSTAMP:20260225T120000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Paye fonction publique - virement
+DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
+CATEGORIES:Fiscalite,Paye
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-paye-fonction-publique-202610@facilabo.app
+DTSTAMP:20260225T120000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Paye fonction publique - virement
+DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
+CATEGORIES:Fiscalite,Paye
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-paye-fonction-publique-202611@facilabo.app
+DTSTAMP:20260225T120000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Paye fonction publique - virement
+DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
+CATEGORIES:Fiscalite,Paye
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fiscal-paye-fonction-publique-202612@facilabo.app
+DTSTAMP:20260225T120000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Paye fonction publique - virement
+DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
+CATEGORIES:Fiscalite,Paye
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

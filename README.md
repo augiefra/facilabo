@@ -10,6 +10,7 @@ Canonical raw URL format:
 Examples:
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/belgique/feries-remplacement.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/fiscal/france.ics`
+- `https://raw.githubusercontent.com/augiefra/facilabo/main/fiscal/paye-fonction-publique.ics`
 
 ## Covered categories
 
