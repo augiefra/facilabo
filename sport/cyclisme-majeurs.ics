@@ -4,7 +4,7 @@ PRODID:-//FacilAbo//Cyclisme Majeurs//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Cyclisme - Grandes courses
-X-WR-CALDESC:Monuments, Grands Tours et Mondiaux route. Fenetre glissante 24 mois (J-30 -> J+730).
+X-WR-CALDESC:Monuments, Grands Tours, Mondiaux route, classiques WorldTour et championnats FR/Europe. Fenetre glissante 24 mois (J-30 -> J+730).
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -25,6 +25,26 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-omloop-het-nieuwsblad-2026@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:Omloop Het Nieuwsblad
+DESCRIPTION:Classique WorldTour - Source: uci.org / omloophetnieuwsblad.be
+CATEGORIES:Sport,Cyclisme,Classique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-strade-bianche-2026@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+SUMMARY:Strade Bianche
+DESCRIPTION:Classique WorldTour - Source: uci.org / strade-bianche.it
+CATEGORIES:Sport,Cyclisme,Classique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:sport-cyclisme-majeurs-milan-san-remo-2026@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20260321
@@ -32,6 +52,36 @@ DTEND;VALUE=DATE:20260322
 SUMMARY:Milan-San Remo (Monument)
 DESCRIPTION:Monument #1 - Source: uci.org / milanosanremo.it
 CATEGORIES:Sport,Cyclisme,Monument
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-e3-saxo-classic-2026@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:E3 Saxo Classic
+DESCRIPTION:Classique WorldTour - Source: uci.org / e3saxoclassic.be
+CATEGORIES:Sport,Cyclisme,Classique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-gent-wevelgem-2026@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:Gent-Wevelgem
+DESCRIPTION:Classique WorldTour - Source: uci.org / gent-wevelgem.be
+CATEGORIES:Sport,Cyclisme,Classique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-a-travers-la-flandre-2026@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:A Travers la Flandre (Dwars door Vlaanderen)
+DESCRIPTION:Classique WorldTour - Source: uci.org / dwarsdoorvlaanderen.be
+CATEGORIES:Sport,Cyclisme,Classique
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -55,6 +105,26 @@ CATEGORIES:Sport,Cyclisme,Monument
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-amstel-gold-race-2026@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:Amstel Gold Race
+DESCRIPTION:Classique WorldTour - Source: uci.org / amstelgoldrace.com
+CATEGORIES:Sport,Cyclisme,Classique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-fleche-wallonne-2026@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:Fleche Wallonne
+DESCRIPTION:Classique WorldTour - Source: uci.org / fleche-wallonne.be
+CATEGORIES:Sport,Cyclisme,Classique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:sport-cyclisme-majeurs-liege-bastogne-liege-2026@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20260426
@@ -75,6 +145,16 @@ CATEGORIES:Sport,Cyclisme,Grand Tour
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-championnats-france-route-2026@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260629
+SUMMARY:Championnats de France sur route
+DESCRIPTION:Championnat national - programme officiel du 25 au 28 juin 2026 (source: ffc.fr)
+CATEGORIES:Sport,Cyclisme,Championnat
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:sport-cyclisme-majeurs-tour-de-france-2026@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20260704
@@ -85,6 +165,16 @@ CATEGORIES:Sport,Cyclisme,Grand Tour
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-classique-saint-sebastien-2026@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:Classique de Saint-Sebastien
+DESCRIPTION:Classique WorldTour - Source: uci.org / clasica-san-sebastian.com
+CATEGORIES:Sport,Cyclisme,Classique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:sport-cyclisme-majeurs-vuelta-2026@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20260822
@@ -92,6 +182,46 @@ DTEND;VALUE=DATE:20260914
 SUMMARY:La Vuelta (Grand Tour)
 DESCRIPTION:Grand Tour #3 - Source: uci.org / lavuelta.es
 CATEGORIES:Sport,Cyclisme,Grand Tour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-bretagne-classic-2026@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Bretagne Classic
+DESCRIPTION:Classique WorldTour - Source: uci.org / bretagne-classic.bzh
+CATEGORIES:Sport,Cyclisme,Classique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-grand-prix-quebec-2026@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Grand Prix de Quebec
+DESCRIPTION:Classique WorldTour - Source: uci.org / gpcqm.ca
+CATEGORIES:Sport,Cyclisme,Classique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-grand-prix-montreal-2026@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Grand Prix de Montreal
+DESCRIPTION:Classique WorldTour - Source: uci.org / gpcqm.ca
+CATEGORIES:Sport,Cyclisme,Classique
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-championnats-europe-route-2026@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261008
+SUMMARY:Championnats d Europe sur route
+DESCRIPTION:Championnat continental - programme officiel du 3 au 7 octobre 2026 (source: uec.ch)
+CATEGORIES:Sport,Cyclisme,Championnat
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -125,6 +255,26 @@ CATEGORIES:Sport,Cyclisme,Monument
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-omloop-het-nieuwsblad-2027@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Omloop Het Nieuwsblad
+DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Classique
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-strade-bianche-2027@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Strade Bianche
+DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Classique
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:sport-cyclisme-majeurs-milan-san-remo-2027@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20270320
@@ -132,6 +282,36 @@ DTEND;VALUE=DATE:20270321
 SUMMARY:Milan-San Remo (Monument)
 DESCRIPTION:Monument #1 - date a confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Monument
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-e3-saxo-classic-2027@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:E3 Saxo Classic
+DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Classique
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-gent-wevelgem-2027@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Gent-Wevelgem
+DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Classique
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-a-travers-la-flandre-2027@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:A Travers la Flandre (Dwars door Vlaanderen)
+DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Classique
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -155,6 +335,26 @@ CATEGORIES:Sport,Cyclisme,Monument
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-amstel-gold-race-2027@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Amstel Gold Race
+DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Classique
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-fleche-wallonne-2027@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Fleche Wallonne
+DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Classique
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:sport-cyclisme-majeurs-liege-bastogne-liege-2027@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20270425
@@ -175,6 +375,16 @@ CATEGORIES:Sport,Cyclisme,Grand Tour
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-championnats-france-route-2027@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Championnats de France sur route
+DESCRIPTION:Championnat national - date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Championnat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:sport-cyclisme-majeurs-tour-de-france-2027@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20270703
@@ -182,6 +392,16 @@ DTEND;VALUE=DATE:20270726
 SUMMARY:Tour de France (Grand Tour)
 DESCRIPTION:Grand Tour #2 - date a confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Grand Tour
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-classique-saint-sebastien-2027@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Classique de Saint-Sebastien
+DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Classique
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -197,21 +417,61 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sport-cyclisme-majeurs-uci-worlds-women-road-2027@facilabo.app
 DTSTAMP:20260223T120000Z
-DTSTART;VALUE=DATE:20270925
-DTEND;VALUE=DATE:20270926
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
 SUMMARY:Championnats du monde UCI - Course en ligne femmes
-DESCRIPTION:Mondiaux route - epreuve elite (date a confirmer).
+DESCRIPTION:Mondiaux route - epreuve elite (placeholder neutralise; dates detaillees UCI 2027 non finalisees).
 CATEGORIES:Sport,Cyclisme,Mondiaux
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-cyclisme-majeurs-uci-worlds-men-road-2027@facilabo.app
 DTSTAMP:20260223T120000Z
-DTSTART;VALUE=DATE:20270926
-DTEND;VALUE=DATE:20270927
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
 SUMMARY:Championnats du monde UCI - Course en ligne hommes
-DESCRIPTION:Mondiaux route - epreuve elite (date a confirmer).
+DESCRIPTION:Mondiaux route - epreuve elite (placeholder neutralise; dates detaillees UCI 2027 non finalisees).
 CATEGORIES:Sport,Cyclisme,Mondiaux
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-bretagne-classic-2027@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Bretagne Classic
+DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Classique
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-grand-prix-quebec-2027@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Grand Prix de Quebec
+DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Classique
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-grand-prix-montreal-2027@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:Grand Prix de Montreal
+DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Classique
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-cyclisme-majeurs-championnats-europe-route-2027@facilabo.app
+DTSTAMP:20260226T120000Z
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271008
+SUMMARY:Championnats d Europe sur route
+DESCRIPTION:Championnat continental - fenetre indicative automnale, date a confirmer par l organisateur.
+CATEGORIES:Sport,Cyclisme,Championnat
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
