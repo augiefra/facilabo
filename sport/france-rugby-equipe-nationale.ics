@@ -25,70 +25,63 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202600-france-v-ireland@facilabo.app
+UID:sport-france-rugby-equipe-nationale-rugby-france-ffr-api-france-irlande@facilabo.app
 DTSTAMP:20260205T000000Z
 DTSTART;TZID=Europe/Paris:20260205T211000
 DTEND;TZID=Europe/Paris:20260205T231000
 SUMMARY:France - Irlande
-DESCRIPTION:Competition: Six Nations | External Match ID: 202600-france-v-ireland | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-ireland-05022026-2110 | Provenance: crawl:rugby-france-sixnations-m6n
-URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-ireland-05022026-2110
+DESCRIPTION:Competition: Six Nations | External Match ID: 626296 | Source: https://www.ffr.fr/equipe-de-france/rugby-a-xv/xv-de-france-masculin/rencontres/tournoi-des-six-nations-2026/france-irlande | Provenance: crawl:rugby-france-ffr-api
+LOCATION:Saint-denis (stade de france)
+URL:https://www.ffr.fr/equipe-de-france/rugby-a-xv/xv-de-france-masculin/rencontres/tournoi-des-six-nations-2026/france-irlande
 CATEGORIES:Sport,Rugby,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202600-wales-v-france@facilabo.app
+UID:sport-france-rugby-equipe-nationale-rugby-france-ffr-api-pays-de-galles-france-15-fevrier-2026@facilabo.app
 DTSTAMP:20260215T000000Z
-DTSTART;TZID=Europe/Paris:20260215T151000
-DTEND;TZID=Europe/Paris:20260215T171000
+DTSTART;TZID=Europe/Paris:20260215T161000
+DTEND;TZID=Europe/Paris:20260215T181000
 SUMMARY:Pays de Galles - France
-DESCRIPTION:Competition: Six Nations | External Match ID: 202600-wales-v-france | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/wales-v-france-15022026-1510 | Provenance: crawl:rugby-france-sixnations-m6n
-URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/wales-v-france-15022026-1510
+DESCRIPTION:Competition: Six Nations | External Match ID: 626302 | Source: https://www.ffr.fr/equipe-de-france/rugby-a-xv/xv-de-france-masculin/rencontres/tournoi-des-six-nations-2026/pays-de-galles-france-15-fevrier-2026 | Provenance: crawl:rugby-france-ffr-api
+LOCATION:Cardiff (Principality stadium)
+URL:https://www.ffr.fr/equipe-de-france/rugby-a-xv/xv-de-france-masculin/rencontres/tournoi-des-six-nations-2026/pays-de-galles-france-15-fevrier-2026
 CATEGORIES:Sport,Rugby,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202600-france-v-italy@facilabo.app
+UID:sport-france-rugby-equipe-nationale-rugby-france-ffr-api-france-italie-22-fevrier-2026@facilabo.app
 DTSTAMP:20260222T000000Z
 DTSTART;TZID=Europe/Paris:20260222T161000
 DTEND;TZID=Europe/Paris:20260222T181000
 SUMMARY:France - Italie
-DESCRIPTION:Competition: Six Nations | External Match ID: 202600-france-v-italy | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-italy-22022026-1610 | Provenance: crawl:rugby-france-sixnations-m6n
-URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-italy-22022026-1610
+DESCRIPTION:Competition: Six Nations | External Match ID: 626305 | Source: https://www.ffr.fr/equipe-de-france/rugby-a-xv/xv-de-france-masculin/rencontres/tournoi-des-six-nations-2026/france-italie-22-fevrier-2026 | Provenance: crawl:rugby-france-ffr-api
+LOCATION:Lille (STADE PIERRE MAUROY)
+URL:https://www.ffr.fr/equipe-de-france/rugby-a-xv/xv-de-france-masculin/rencontres/tournoi-des-six-nations-2026/france-italie-22-fevrier-2026
 CATEGORIES:Sport,Rugby,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202600-scotland-v-france@facilabo.app
+UID:sport-france-rugby-equipe-nationale-rugby-france-ffr-api-ecosse-france-07-mars-2026@facilabo.app
 DTSTAMP:20260307T000000Z
-DTSTART;TZID=Europe/Paris:20260307T141000
-DTEND;TZID=Europe/Paris:20260307T161000
+DTSTART;TZID=Europe/Paris:20260307T151000
+DTEND;TZID=Europe/Paris:20260307T171000
 SUMMARY:Ecosse - France
-DESCRIPTION:Competition: Six Nations | External Match ID: 202600-scotland-v-france | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/scotland-v-france-07032026-1410 | Provenance: crawl:rugby-france-sixnations-m6n
-URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/scotland-v-france-07032026-1410
+DESCRIPTION:Competition: Six Nations | External Match ID: 626311 | Source: https://www.ffr.fr/equipe-de-france/rugby-a-xv/xv-de-france-masculin/rencontres/tournoi-des-six-nations-2026/ecosse-france-07-mars-2026 | Provenance: crawl:rugby-france-ffr-api
+LOCATION:Edimbourg (murrayfield)
+URL:https://www.ffr.fr/equipe-de-france/rugby-a-xv/xv-de-france-masculin/rencontres/tournoi-des-six-nations-2026/ecosse-france-07-mars-2026
 CATEGORIES:Sport,Rugby,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202600-france-v-england@facilabo.app
+UID:sport-france-rugby-equipe-nationale-rugby-france-ffr-api-france-angleterre-14-mars-2026@facilabo.app
 DTSTAMP:20260314T000000Z
 DTSTART;TZID=Europe/Paris:20260314T211000
 DTEND;TZID=Europe/Paris:20260314T231000
 SUMMARY:France - Angleterre
-DESCRIPTION:Competition: Six Nations | External Match ID: 202600-france-v-england | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-england-14032026-2110 | Provenance: crawl:rugby-france-sixnations-m6n
-URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-england-14032026-2110
+DESCRIPTION:Competition: Six Nations | External Match ID: 626314 | Source: https://www.ffr.fr/equipe-de-france/rugby-a-xv/xv-de-france-masculin/rencontres/tournoi-des-six-nations-2026/france-angleterre-14-mars-2026 | Provenance: crawl:rugby-france-ffr-api
+LOCATION:Saint-denis (stade de france)
+URL:https://www.ffr.fr/equipe-de-france/rugby-a-xv/xv-de-france-masculin/rencontres/tournoi-des-six-nations-2026/france-angleterre-14-mars-2026
 CATEGORIES:Sport,Rugby,Equipe de France
 STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sport-france-rugby-equipe-nationale-france-rugby-2026-11-14-autumn@facilabo.app
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Paris:20261114T211000
-DTEND;TZID=Europe/Paris:20261114T231000
-SUMMARY:Equipe de France Rugby - Autumn Nations Series (date sujette a confirmation)
-DESCRIPTION:Competition: Autumn Nations Series | Source: https://www.sixnationsrugby.com/en/autumn-nations-series/fixtures | Provenance: fallback:rugby-france-sixnations-m6n
-LOCATION:France
-URL:https://www.sixnationsrugby.com/en/autumn-nations-series/fixtures
-CATEGORIES:Sport,Rugby,Equipe de France
-STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
