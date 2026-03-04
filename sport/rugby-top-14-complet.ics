@@ -1,0 +1,379 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Rugby Top 14 Complet//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Rugby - Top 14 complet
+X-WR-CALDESC:Tous les matchs du Top 14 dans un seul calendrier (fenetre glissante 24 mois)
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-lyon-toulon-20260228@facilabo.app
+DTSTAMP:20260228T000000Z
+DTSTART;TZID=Europe/Paris:20260228T163500
+DTEND;TZID=Europe/Paris:20260228T183500
+SUMMARY:Lyon - Toulon
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-toulouse-montauban-20260228@facilabo.app
+DTSTAMP:20260228T000000Z
+DTSTART;TZID=Europe/Paris:20260228T163500
+DTEND;TZID=Europe/Paris:20260228T183500
+SUMMARY:Toulouse - Montauban
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-castres-la-rochelle-20260228@facilabo.app
+DTSTAMP:20260228T000000Z
+DTSTART;TZID=Europe/Paris:20260228T210000
+DTEND;TZID=Europe/Paris:20260228T230000
+SUMMARY:Castres - La Rochelle
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-pau-bordeaux-20260301@facilabo.app
+DTSTAMP:20260301T000000Z
+DTSTART;TZID=Europe/Paris:20260301T210500
+DTEND;TZID=Europe/Paris:20260301T230500
+SUMMARY:Pau - Bordeaux
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-clermont-montpellier-20260321@facilabo.app
+DTSTAMP:20260321T000000Z
+DTSTART;TZID=Europe/Paris:20260321T160000
+DTEND;TZID=Europe/Paris:20260321T180000
+SUMMARY:Clermont - Montpellier
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-la-rochelle-pau-20260321@facilabo.app
+DTSTAMP:20260321T000000Z
+DTSTART;TZID=Europe/Paris:20260321T160000
+DTEND;TZID=Europe/Paris:20260321T180000
+SUMMARY:La Rochelle - Pau
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-montauban-bayonne-20260321@facilabo.app
+DTSTAMP:20260321T000000Z
+DTSTART;TZID=Europe/Paris:20260321T160000
+DTEND;TZID=Europe/Paris:20260321T180000
+SUMMARY:Montauban - Bayonne
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-perpignan-lyon-20260321@facilabo.app
+DTSTAMP:20260321T000000Z
+DTSTART;TZID=Europe/Paris:20260321T160000
+DTEND;TZID=Europe/Paris:20260321T180000
+SUMMARY:Perpignan - Lyon
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-racing-metro-castres-20260321@facilabo.app
+DTSTAMP:20260321T000000Z
+DTSTART;TZID=Europe/Paris:20260321T160000
+DTEND;TZID=Europe/Paris:20260321T180000
+SUMMARY:Racing Metro - Castres
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-toulon-stade-francais-20260321@facilabo.app
+DTSTAMP:20260321T000000Z
+DTSTART;TZID=Europe/Paris:20260321T160000
+DTEND;TZID=Europe/Paris:20260321T180000
+SUMMARY:Toulon - Stade Francais
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-bordeaux-toulouse-20260322@facilabo.app
+DTSTAMP:20260322T000000Z
+DTSTART;TZID=Europe/Paris:20260322T210500
+DTEND;TZID=Europe/Paris:20260322T230500
+SUMMARY:Bordeaux - Toulouse
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-bayonne-la-rochelle-20260328@facilabo.app
+DTSTAMP:20260328T000000Z
+DTSTART;TZID=Europe/Paris:20260328T160000
+DTEND;TZID=Europe/Paris:20260328T180000
+SUMMARY:Bayonne - La Rochelle
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-castres-montauban-20260328@facilabo.app
+DTSTAMP:20260328T000000Z
+DTSTART;TZID=Europe/Paris:20260328T160000
+DTEND;TZID=Europe/Paris:20260328T180000
+SUMMARY:Castres - Montauban
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-lyon-bordeaux-20260328@facilabo.app
+DTSTAMP:20260328T000000Z
+DTSTART;TZID=Europe/Paris:20260328T160000
+DTEND;TZID=Europe/Paris:20260328T180000
+SUMMARY:Lyon - Bordeaux
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-pau-racing-metro-20260328@facilabo.app
+DTSTAMP:20260328T000000Z
+DTSTART;TZID=Europe/Paris:20260328T160000
+DTEND;TZID=Europe/Paris:20260328T180000
+SUMMARY:Pau - Racing Metro
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-perpignan-toulon-20260328@facilabo.app
+DTSTAMP:20260328T000000Z
+DTSTART;TZID=Europe/Paris:20260328T160000
+DTEND;TZID=Europe/Paris:20260328T180000
+SUMMARY:Perpignan - Toulon
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-stade-francais-clermont-20260328@facilabo.app
+DTSTAMP:20260328T000000Z
+DTSTART;TZID=Europe/Paris:20260328T160000
+DTEND;TZID=Europe/Paris:20260328T180000
+SUMMARY:Stade Francais - Clermont
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-toulouse-montpellier-20260328@facilabo.app
+DTSTAMP:20260328T000000Z
+DTSTART;TZID=Europe/Paris:20260328T160000
+DTEND;TZID=Europe/Paris:20260328T180000
+SUMMARY:Toulouse - Montpellier
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-bayonne-pau-20260418@facilabo.app
+DTSTAMP:20260418T000000Z
+DTSTART;TZID=Europe/Paris:20260418T160000
+DTEND;TZID=Europe/Paris:20260418T180000
+SUMMARY:Bayonne - Pau
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-castres-toulouse-20260418@facilabo.app
+DTSTAMP:20260418T000000Z
+DTSTART;TZID=Europe/Paris:20260418T160000
+DTEND;TZID=Europe/Paris:20260418T180000
+SUMMARY:Castres - Toulouse
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-clermont-lyon-20260418@facilabo.app
+DTSTAMP:20260418T000000Z
+DTSTART;TZID=Europe/Paris:20260418T160000
+DTEND;TZID=Europe/Paris:20260418T180000
+SUMMARY:Clermont - Lyon
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-la-rochelle-bordeaux-20260418@facilabo.app
+DTSTAMP:20260418T000000Z
+DTSTART;TZID=Europe/Paris:20260418T160000
+DTEND;TZID=Europe/Paris:20260418T180000
+SUMMARY:La Rochelle - Bordeaux
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-montauban-toulon-20260418@facilabo.app
+DTSTAMP:20260418T000000Z
+DTSTART;TZID=Europe/Paris:20260418T160000
+DTEND;TZID=Europe/Paris:20260418T180000
+SUMMARY:Montauban - Toulon
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-montpellier-perpignan-20260418@facilabo.app
+DTSTAMP:20260418T000000Z
+DTSTART;TZID=Europe/Paris:20260418T160000
+DTEND;TZID=Europe/Paris:20260418T180000
+SUMMARY:Montpellier - Perpignan
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-racing-metro-stade-francais-20260418@facilabo.app
+DTSTAMP:20260418T000000Z
+DTSTART;TZID=Europe/Paris:20260418T160000
+DTEND;TZID=Europe/Paris:20260418T180000
+SUMMARY:Racing Metro - Stade Francais
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-bordeaux-montpellier-20260425@facilabo.app
+DTSTAMP:20260425T000000Z
+DTSTART;TZID=Europe/Paris:20260425T160000
+DTEND;TZID=Europe/Paris:20260425T180000
+SUMMARY:Bordeaux - Montpellier
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-lyon-castres-20260425@facilabo.app
+DTSTAMP:20260425T000000Z
+DTSTART;TZID=Europe/Paris:20260425T160000
+DTEND;TZID=Europe/Paris:20260425T180000
+SUMMARY:Lyon - Castres
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-montauban-racing-metro-20260425@facilabo.app
+DTSTAMP:20260425T000000Z
+DTSTART;TZID=Europe/Paris:20260425T160000
+DTEND;TZID=Europe/Paris:20260425T180000
+SUMMARY:Montauban - Racing Metro
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-perpignan-la-rochelle-20260425@facilabo.app
+DTSTAMP:20260425T000000Z
+DTSTART;TZID=Europe/Paris:20260425T160000
+DTEND;TZID=Europe/Paris:20260425T180000
+SUMMARY:Perpignan - La Rochelle
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-stade-francais-pau-20260425@facilabo.app
+DTSTAMP:20260425T000000Z
+DTSTART;TZID=Europe/Paris:20260425T160000
+DTEND;TZID=Europe/Paris:20260425T180000
+SUMMARY:Stade Francais - Pau
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-toulon-bayonne-20260425@facilabo.app
+DTSTAMP:20260425T000000Z
+DTSTART;TZID=Europe/Paris:20260425T160000
+DTEND;TZID=Europe/Paris:20260425T180000
+SUMMARY:Toulon - Bayonne
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-top-14-complet-top14-2026-toulouse-clermont-20260425@facilabo.app
+DTSTAMP:20260425T000000Z
+DTSTART;TZID=Europe/Paris:20260425T160000
+DTEND;TZID=Europe/Paris:20260425T180000
+SUMMARY:Toulouse - Clermont
+DESCRIPTION:Competition: Top 14 | Source: https://data.rugbyfixture.io/ical/v1/top14.ics | Provenance: fallback:rugby-top-14-complet-source
+URL:https://data.rugbyfixture.io/ical/v1/top14.ics
+CATEGORIES:Sport,Rugby,Competition,Top 14
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,91 @@
+name: Rugby Competitions Watch
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: rugby-competitions-watch
+  cancel-in-progress: false
+
+jobs:
+  watch-rugby-competitions:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Dry run update
+        run: |
+          node scripts/update-rugby-competition-calendars.ts \
+            --dry-run \
+            --file sources/rugby-competitions-watchlist.yaml \
+            --output-top14 sport/rugby-top-14-complet.ics \
+            --output-six-nations sport/rugby-six-nations-complet.ics
+
+      - name: Apply update
+        run: |
+          node scripts/update-rugby-competition-calendars.ts \
+            --file sources/rugby-competitions-watchlist.yaml \
+            --output-top14 sport/rugby-top-14-complet.ics \
+            --output-six-nations sport/rugby-six-nations-complet.ics
+
+      - name: Smoke check generated ICS
+        run: |
+          grep -E "BEGIN:VCALENDAR|X-WR-CALNAME" sport/rugby-top-14-complet.ics
+          grep -E "BEGIN:VCALENDAR|X-WR-CALNAME" sport/rugby-six-nations-complet.ics
+
+      - name: Smoke check raw and API proxy
+        run: |
+          if ! curl -sL "https://raw.githubusercontent.com/augiefra/facilabo/main/sport/rugby-top-14-complet.ics" | grep -q "BEGIN:VCALENDAR"; then
+            echo "WARN: raw top14 not reachable yet"
+          fi
+          if ! curl -sL "https://raw.githubusercontent.com/augiefra/facilabo/main/sport/rugby-six-nations-complet.ics" | grep -q "BEGIN:VCALENDAR"; then
+            echo "WARN: raw six nations not reachable yet"
+          fi
+          if ! curl -sL "https://facilabo-api.vercel.app/api/v1/calendars/sport-rugby-top-14-complet" | grep -q "BEGIN:VCALENDAR"; then
+            echo "WARN: proxy top14 not reachable yet"
+          fi
+          if ! curl -sL "https://facilabo-api.vercel.app/api/v1/calendars/sport-rugby-six-nations-complet" | grep -q "BEGIN:VCALENDAR"; then
+            echo "WARN: proxy six nations not reachable yet"
+          fi
+
+      - name: Detect changes
+        id: changes
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create pull request
+        if: steps.changes.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: codex/rugby-competitions-watch
+          delete-branch: true
+          title: "chore(calendars): refresh rugby competition ICS"
+          commit-message: "chore(calendars): refresh rugby competition ICS"
+          body: |
+            Automated update from `rugby-competitions-watch`.
+
+            Included checks:
+            - dry-run generation
+            - ICS smoke checks
+            - raw/proxy smoke checks (warn-only before publish)
+          labels: |
+            automation
+            calendars
+            sports

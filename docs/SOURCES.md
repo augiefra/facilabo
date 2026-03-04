@@ -28,6 +28,11 @@
 - https://www.giroditalia.it
 - https://www.lavuelta.es
 
+## Rugby
+
+- https://data.rugbyfixture.io/ical/v1/top14.ics
+- https://www.sixnationsrugby.com/en/m6n/fixtures/202600
+
 ## Religion and observances
 
 - https://www.vatican.va

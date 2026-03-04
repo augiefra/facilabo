@@ -11,6 +11,8 @@ Examples:
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/belgique/feries-remplacement.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/fiscal/france.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/fiscal/paye-fonction-publique.ics`
+- `https://raw.githubusercontent.com/augiefra/facilabo/main/sport/rugby-top-14-complet.ics`
+- `https://raw.githubusercontent.com/augiefra/facilabo/main/sport/rugby-six-nations-complet.ics`
 
 ## Covered categories
 
@@ -22,6 +24,7 @@ Examples:
 - `jardin`
 - `religion`
 - `soldes`
+- `sport`
 - `tennis`
 
 ## Legal

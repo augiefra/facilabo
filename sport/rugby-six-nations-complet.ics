@@ -1,0 +1,207 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Rugby Six Nations Complet//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Rugby - Six Nations complet
+X-WR-CALDESC:Tous les matchs du Tournoi des Six Nations dans un seul calendrier (fenetre glissante 24 mois)
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sport-rugby-six-nations-complet-six-nations-2026-france-ireland@facilabo.app
+DTSTAMP:20260205T000000Z
+DTSTART;TZID=Europe/Paris:20260205T211000
+DTEND;TZID=Europe/Paris:20260205T231000
+SUMMARY:France - Irlande
+DESCRIPTION:Competition: Six Nations | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-ireland-05022026-2010 | Provenance: fallback:rugby-six-nations-complet-source
+LOCATION:Saint-Denis\, France
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-ireland-05022026-2010
+CATEGORIES:Sport,Rugby,Competition,Six Nations
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-six-nations-complet-six-nations-2026-italie-ecosse@facilabo.app
+DTSTAMP:20260207T000000Z
+DTSTART;TZID=Europe/Paris:20260207T151000
+DTEND;TZID=Europe/Paris:20260207T171000
+SUMMARY:Italie - Ecosse
+DESCRIPTION:Competition: Six Nations | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/italy-v-scotland-07022026-1410 | Provenance: fallback:rugby-six-nations-complet-source
+LOCATION:Rome\, Italie
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/italy-v-scotland-07022026-1410
+CATEGORIES:Sport,Rugby,Competition,Six Nations
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-six-nations-complet-six-nations-2026-angleterre-pays-de-galles@facilabo.app
+DTSTAMP:20260207T000000Z
+DTSTART;TZID=Europe/Paris:20260207T174000
+DTEND;TZID=Europe/Paris:20260207T194000
+SUMMARY:Angleterre - Pays de Galles
+DESCRIPTION:Competition: Six Nations | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/england-v-wales-07022026-1640 | Provenance: fallback:rugby-six-nations-complet-source
+LOCATION:Londres\, Angleterre
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/england-v-wales-07022026-1640
+CATEGORIES:Sport,Rugby,Competition,Six Nations
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-six-nations-complet-six-nations-2026-irlande-italie@facilabo.app
+DTSTAMP:20260214T000000Z
+DTSTART;TZID=Europe/Paris:20260214T151000
+DTEND;TZID=Europe/Paris:20260214T171000
+SUMMARY:Irlande - Italie
+DESCRIPTION:Competition: Six Nations | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/ireland-v-italy-14022026-1410 | Provenance: fallback:rugby-six-nations-complet-source
+LOCATION:Dublin\, Irlande
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/ireland-v-italy-14022026-1410
+CATEGORIES:Sport,Rugby,Competition,Six Nations
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-six-nations-complet-six-nations-2026-pays-de-galles-france@facilabo.app
+DTSTAMP:20260215T000000Z
+DTSTART;TZID=Europe/Paris:20260215T161000
+DTEND;TZID=Europe/Paris:20260215T181000
+SUMMARY:Pays de Galles - France
+DESCRIPTION:Competition: Six Nations | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/wales-v-france-15022026-1510 | Provenance: fallback:rugby-six-nations-complet-source
+LOCATION:Cardiff\, Pays de Galles
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/wales-v-france-15022026-1510
+CATEGORIES:Sport,Rugby,Competition,Six Nations
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-six-nations-complet-six-nations-2026-ecosse-angleterre@facilabo.app
+DTSTAMP:20260215T000000Z
+DTSTART;TZID=Europe/Paris:20260215T181000
+DTEND;TZID=Europe/Paris:20260215T201000
+SUMMARY:Ecosse - Angleterre
+DESCRIPTION:Competition: Six Nations | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/scotland-v-england-15022026-1710 | Provenance: fallback:rugby-six-nations-complet-source
+LOCATION:Edimbourg\, Ecosse
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/scotland-v-england-15022026-1710
+CATEGORIES:Sport,Rugby,Competition,Six Nations
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-six-nations-complet-six-nations-2026-angleterre-irlande@facilabo.app
+DTSTAMP:20260221T000000Z
+DTSTART;TZID=Europe/Paris:20260221T151000
+DTEND;TZID=Europe/Paris:20260221T171000
+SUMMARY:Angleterre - Irlande
+DESCRIPTION:Competition: Six Nations | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/england-v-ireland-21022026-1410 | Provenance: fallback:rugby-six-nations-complet-source
+LOCATION:Londres\, Angleterre
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/england-v-ireland-21022026-1410
+CATEGORIES:Sport,Rugby,Competition,Six Nations
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-six-nations-complet-six-nations-2026-france-italie@facilabo.app
+DTSTAMP:20260222T000000Z
+DTSTART;TZID=Europe/Paris:20260222T161000
+DTEND;TZID=Europe/Paris:20260222T181000
+SUMMARY:France - Italie
+DESCRIPTION:Competition: Six Nations | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-italy-22022026-1510 | Provenance: fallback:rugby-six-nations-complet-source
+LOCATION:Lille\, France
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-italy-22022026-1510
+CATEGORIES:Sport,Rugby,Competition,Six Nations
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-six-nations-complet-six-nations-2026-pays-de-galles-ecosse@facilabo.app
+DTSTAMP:20260222T000000Z
+DTSTART;TZID=Europe/Paris:20260222T181000
+DTEND;TZID=Europe/Paris:20260222T201000
+SUMMARY:Pays de Galles - Ecosse
+DESCRIPTION:Competition: Six Nations | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/wales-v-scotland-22022026-1710 | Provenance: fallback:rugby-six-nations-complet-source
+LOCATION:Cardiff\, Pays de Galles
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/wales-v-scotland-22022026-1710
+CATEGORIES:Sport,Rugby,Competition,Six Nations
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-six-nations-complet-six-nations-2026-irlande-pays-de-galles@facilabo.app
+DTSTAMP:20260307T000000Z
+DTSTART;TZID=Europe/Paris:20260307T151000
+DTEND;TZID=Europe/Paris:20260307T171000
+SUMMARY:Irlande - Pays de Galles
+DESCRIPTION:Competition: Six Nations | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/ireland-v-wales-07032026-1410 | Provenance: fallback:rugby-six-nations-complet-source
+LOCATION:Dublin\, Irlande
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/ireland-v-wales-07032026-1410
+CATEGORIES:Sport,Rugby,Competition,Six Nations
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-six-nations-complet-six-nations-2026-ecosse-france@facilabo.app
+DTSTAMP:20260307T000000Z
+DTSTART;TZID=Europe/Paris:20260307T174000
+DTEND;TZID=Europe/Paris:20260307T194000
+SUMMARY:Ecosse - France
+DESCRIPTION:Competition: Six Nations | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/scotland-v-france-07032026-1640 | Provenance: fallback:rugby-six-nations-complet-source
+LOCATION:Edimbourg\, Ecosse
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/scotland-v-france-07032026-1640
+CATEGORIES:Sport,Rugby,Competition,Six Nations
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-six-nations-complet-six-nations-2026-italie-angleterre@facilabo.app
+DTSTAMP:20260308T000000Z
+DTSTART;TZID=Europe/Paris:20260308T160000
+DTEND;TZID=Europe/Paris:20260308T180000
+SUMMARY:Italie - Angleterre
+DESCRIPTION:Competition: Six Nations | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/italy-v-england-08032026-1500 | Provenance: fallback:rugby-six-nations-complet-source
+LOCATION:Rome\, Italie
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/italy-v-england-08032026-1500
+CATEGORIES:Sport,Rugby,Competition,Six Nations
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-six-nations-complet-six-nations-2026-irlande-ecosse@facilabo.app
+DTSTAMP:20260314T000000Z
+DTSTART;TZID=Europe/Paris:20260314T151000
+DTEND;TZID=Europe/Paris:20260314T171000
+SUMMARY:Irlande - Ecosse
+DESCRIPTION:Competition: Six Nations | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/ireland-v-scotland-14032026-1410 | Provenance: fallback:rugby-six-nations-complet-source
+LOCATION:Dublin\, Irlande
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/ireland-v-scotland-14032026-1410
+CATEGORIES:Sport,Rugby,Competition,Six Nations
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-six-nations-complet-six-nations-2026-pays-de-galles-italie@facilabo.app
+DTSTAMP:20260314T000000Z
+DTSTART;TZID=Europe/Paris:20260314T174000
+DTEND;TZID=Europe/Paris:20260314T194000
+SUMMARY:Pays de Galles - Italie
+DESCRIPTION:Competition: Six Nations | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/wales-v-italy-14032026-1640 | Provenance: fallback:rugby-six-nations-complet-source
+LOCATION:Cardiff\, Pays de Galles
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/wales-v-italy-14032026-1640
+CATEGORIES:Sport,Rugby,Competition,Six Nations
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-rugby-six-nations-complet-six-nations-2026-france-angleterre@facilabo.app
+DTSTAMP:20260314T000000Z
+DTSTART;TZID=Europe/Paris:20260314T211000
+DTEND;TZID=Europe/Paris:20260314T231000
+SUMMARY:France - Angleterre
+DESCRIPTION:Competition: Six Nations | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-england-14032026-2010 | Provenance: fallback:rugby-six-nations-complet-source
+LOCATION:Saint-Denis\, France
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-england-14032026-2010
+CATEGORIES:Sport,Rugby,Competition,Six Nations
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
