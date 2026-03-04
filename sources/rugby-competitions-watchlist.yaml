@@ -1,0 +1,529 @@
+{
+  "version": 1,
+  "generated_at": "2026-03-04",
+  "timezone_default": "Europe/Paris",
+  "cadence_hours": 6,
+  "window_days_past": 30,
+  "window_days_future": 730,
+  "sources": [
+    {
+      "slug": "rugby-top-14-complet-source",
+      "sport": "rugby",
+      "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+      "parser": "ics",
+      "selector_rule": "Proxy the published Top 14 ICS, normalize it into a FacilAbo-owned calendar, and keep only the rolling 24-month window.",
+      "timezone_source": "Europe/Paris",
+      "confidence_rule": "high_if_upstream_ics_is_valid_and_contains_multiple_top14_fixtures",
+      "enabled": true,
+      "watch_only": false,
+      "crawl_enabled": true,
+      "include_keywords": [],
+      "categories": ["Sport", "Rugby", "Competition", "Top 14"],
+      "default_competition": "Top 14",
+      "fallback_events": [
+        {
+          "uid_key": "top14-2026-toulouse-montauban-20260228",
+          "summary": "Toulouse - Montauban",
+          "timed": true,
+          "start_datetime": "2026-02-28T16:35:00",
+          "end_datetime": "2026-02-28T18:35:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-lyon-toulon-20260228",
+          "summary": "Lyon - Toulon",
+          "timed": true,
+          "start_datetime": "2026-02-28T16:35:00",
+          "end_datetime": "2026-02-28T18:35:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-castres-la-rochelle-20260228",
+          "summary": "Castres - La Rochelle",
+          "timed": true,
+          "start_datetime": "2026-02-28T21:00:00",
+          "end_datetime": "2026-02-28T23:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-pau-bordeaux-20260301",
+          "summary": "Pau - Bordeaux",
+          "timed": true,
+          "start_datetime": "2026-03-01T21:05:00",
+          "end_datetime": "2026-03-01T23:05:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-toulon-stade-francais-20260321",
+          "summary": "Toulon - Stade Francais",
+          "timed": true,
+          "start_datetime": "2026-03-21T16:00:00",
+          "end_datetime": "2026-03-21T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-perpignan-lyon-20260321",
+          "summary": "Perpignan - Lyon",
+          "timed": true,
+          "start_datetime": "2026-03-21T16:00:00",
+          "end_datetime": "2026-03-21T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-racing-metro-castres-20260321",
+          "summary": "Racing Metro - Castres",
+          "timed": true,
+          "start_datetime": "2026-03-21T16:00:00",
+          "end_datetime": "2026-03-21T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-montauban-bayonne-20260321",
+          "summary": "Montauban - Bayonne",
+          "timed": true,
+          "start_datetime": "2026-03-21T16:00:00",
+          "end_datetime": "2026-03-21T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-la-rochelle-pau-20260321",
+          "summary": "La Rochelle - Pau",
+          "timed": true,
+          "start_datetime": "2026-03-21T16:00:00",
+          "end_datetime": "2026-03-21T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-clermont-montpellier-20260321",
+          "summary": "Clermont - Montpellier",
+          "timed": true,
+          "start_datetime": "2026-03-21T16:00:00",
+          "end_datetime": "2026-03-21T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-bordeaux-toulouse-20260322",
+          "summary": "Bordeaux - Toulouse",
+          "timed": true,
+          "start_datetime": "2026-03-22T21:05:00",
+          "end_datetime": "2026-03-22T23:05:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-castres-montauban-20260328",
+          "summary": "Castres - Montauban",
+          "timed": true,
+          "start_datetime": "2026-03-28T16:00:00",
+          "end_datetime": "2026-03-28T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-pau-racing-metro-20260328",
+          "summary": "Pau - Racing Metro",
+          "timed": true,
+          "start_datetime": "2026-03-28T16:00:00",
+          "end_datetime": "2026-03-28T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-toulouse-montpellier-20260328",
+          "summary": "Toulouse - Montpellier",
+          "timed": true,
+          "start_datetime": "2026-03-28T16:00:00",
+          "end_datetime": "2026-03-28T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-bayonne-la-rochelle-20260328",
+          "summary": "Bayonne - La Rochelle",
+          "timed": true,
+          "start_datetime": "2026-03-28T16:00:00",
+          "end_datetime": "2026-03-28T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-perpignan-toulon-20260328",
+          "summary": "Perpignan - Toulon",
+          "timed": true,
+          "start_datetime": "2026-03-28T16:00:00",
+          "end_datetime": "2026-03-28T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-stade-francais-clermont-20260328",
+          "summary": "Stade Francais - Clermont",
+          "timed": true,
+          "start_datetime": "2026-03-28T16:00:00",
+          "end_datetime": "2026-03-28T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-lyon-bordeaux-20260328",
+          "summary": "Lyon - Bordeaux",
+          "timed": true,
+          "start_datetime": "2026-03-28T16:00:00",
+          "end_datetime": "2026-03-28T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-clermont-lyon-20260418",
+          "summary": "Clermont - Lyon",
+          "timed": true,
+          "start_datetime": "2026-04-18T16:00:00",
+          "end_datetime": "2026-04-18T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-bayonne-pau-20260418",
+          "summary": "Bayonne - Pau",
+          "timed": true,
+          "start_datetime": "2026-04-18T16:00:00",
+          "end_datetime": "2026-04-18T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-montauban-toulon-20260418",
+          "summary": "Montauban - Toulon",
+          "timed": true,
+          "start_datetime": "2026-04-18T16:00:00",
+          "end_datetime": "2026-04-18T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-racing-metro-stade-francais-20260418",
+          "summary": "Racing Metro - Stade Francais",
+          "timed": true,
+          "start_datetime": "2026-04-18T16:00:00",
+          "end_datetime": "2026-04-18T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-montpellier-perpignan-20260418",
+          "summary": "Montpellier - Perpignan",
+          "timed": true,
+          "start_datetime": "2026-04-18T16:00:00",
+          "end_datetime": "2026-04-18T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-castres-toulouse-20260418",
+          "summary": "Castres - Toulouse",
+          "timed": true,
+          "start_datetime": "2026-04-18T16:00:00",
+          "end_datetime": "2026-04-18T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-la-rochelle-bordeaux-20260418",
+          "summary": "La Rochelle - Bordeaux",
+          "timed": true,
+          "start_datetime": "2026-04-18T16:00:00",
+          "end_datetime": "2026-04-18T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-toulouse-clermont-20260425",
+          "summary": "Toulouse - Clermont",
+          "timed": true,
+          "start_datetime": "2026-04-25T16:00:00",
+          "end_datetime": "2026-04-25T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-perpignan-la-rochelle-20260425",
+          "summary": "Perpignan - La Rochelle",
+          "timed": true,
+          "start_datetime": "2026-04-25T16:00:00",
+          "end_datetime": "2026-04-25T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-toulon-bayonne-20260425",
+          "summary": "Toulon - Bayonne",
+          "timed": true,
+          "start_datetime": "2026-04-25T16:00:00",
+          "end_datetime": "2026-04-25T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-lyon-castres-20260425",
+          "summary": "Lyon - Castres",
+          "timed": true,
+          "start_datetime": "2026-04-25T16:00:00",
+          "end_datetime": "2026-04-25T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-bordeaux-montpellier-20260425",
+          "summary": "Bordeaux - Montpellier",
+          "timed": true,
+          "start_datetime": "2026-04-25T16:00:00",
+          "end_datetime": "2026-04-25T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-stade-francais-pau-20260425",
+          "summary": "Stade Francais - Pau",
+          "timed": true,
+          "start_datetime": "2026-04-25T16:00:00",
+          "end_datetime": "2026-04-25T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "top14-2026-montauban-racing-metro-20260425",
+          "summary": "Montauban - Racing Metro",
+          "timed": true,
+          "start_datetime": "2026-04-25T16:00:00",
+          "end_datetime": "2026-04-25T18:00:00",
+          "competition": "Top 14",
+          "source_url": "https://data.rugbyfixture.io/ical/v1/top14.ics",
+          "status": "CONFIRMED"
+        }
+      ]
+    },
+    {
+      "slug": "rugby-six-nations-complet-source",
+      "sport": "rugby",
+      "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures",
+      "parser": "sixnations_fixture_links",
+      "selector_rule": "Try the official Six Nations fixtures page first. If unavailable, publish the curated 2026 fallback schedule so the complete tournament remains available as one feed.",
+      "timezone_source": "Europe/Paris",
+      "confidence_rule": "high_if_fixture_pairs_and kickoff are published, fallback curated for 2026 when the source cannot be reached",
+      "enabled": true,
+      "watch_only": false,
+      "crawl_enabled": true,
+      "include_keywords": [],
+      "categories": ["Sport", "Rugby", "Competition", "Six Nations"],
+      "default_competition": "Six Nations",
+      "fallback_events": [
+        {
+          "uid_key": "six-nations-2026-france-ireland",
+          "summary": "France - Irlande",
+          "timed": true,
+          "start_datetime": "2026-02-05T21:10:00",
+          "end_datetime": "2026-02-05T23:10:00",
+          "location": "Saint-Denis, France",
+          "competition": "Six Nations",
+          "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-ireland-05022026-2010",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "six-nations-2026-italie-ecosse",
+          "summary": "Italie - Ecosse",
+          "timed": true,
+          "start_datetime": "2026-02-07T15:10:00",
+          "end_datetime": "2026-02-07T17:10:00",
+          "location": "Rome, Italie",
+          "competition": "Six Nations",
+          "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures/202600/italy-v-scotland-07022026-1410",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "six-nations-2026-angleterre-pays-de-galles",
+          "summary": "Angleterre - Pays de Galles",
+          "timed": true,
+          "start_datetime": "2026-02-07T17:40:00",
+          "end_datetime": "2026-02-07T19:40:00",
+          "location": "Londres, Angleterre",
+          "competition": "Six Nations",
+          "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures/202600/england-v-wales-07022026-1640",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "six-nations-2026-irlande-italie",
+          "summary": "Irlande - Italie",
+          "timed": true,
+          "start_datetime": "2026-02-14T15:10:00",
+          "end_datetime": "2026-02-14T17:10:00",
+          "location": "Dublin, Irlande",
+          "competition": "Six Nations",
+          "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures/202600/ireland-v-italy-14022026-1410",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "six-nations-2026-pays-de-galles-france",
+          "summary": "Pays de Galles - France",
+          "timed": true,
+          "start_datetime": "2026-02-15T16:10:00",
+          "end_datetime": "2026-02-15T18:10:00",
+          "location": "Cardiff, Pays de Galles",
+          "competition": "Six Nations",
+          "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures/202600/wales-v-france-15022026-1510",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "six-nations-2026-ecosse-angleterre",
+          "summary": "Ecosse - Angleterre",
+          "timed": true,
+          "start_datetime": "2026-02-15T18:10:00",
+          "end_datetime": "2026-02-15T20:10:00",
+          "location": "Edimbourg, Ecosse",
+          "competition": "Six Nations",
+          "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures/202600/scotland-v-england-15022026-1710",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "six-nations-2026-angleterre-irlande",
+          "summary": "Angleterre - Irlande",
+          "timed": true,
+          "start_datetime": "2026-02-21T15:10:00",
+          "end_datetime": "2026-02-21T17:10:00",
+          "location": "Londres, Angleterre",
+          "competition": "Six Nations",
+          "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures/202600/england-v-ireland-21022026-1410",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "six-nations-2026-france-italie",
+          "summary": "France - Italie",
+          "timed": true,
+          "start_datetime": "2026-02-22T16:10:00",
+          "end_datetime": "2026-02-22T18:10:00",
+          "location": "Lille, France",
+          "competition": "Six Nations",
+          "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-italy-22022026-1510",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "six-nations-2026-pays-de-galles-ecosse",
+          "summary": "Pays de Galles - Ecosse",
+          "timed": true,
+          "start_datetime": "2026-02-22T18:10:00",
+          "end_datetime": "2026-02-22T20:10:00",
+          "location": "Cardiff, Pays de Galles",
+          "competition": "Six Nations",
+          "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures/202600/wales-v-scotland-22022026-1710",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "six-nations-2026-irlande-pays-de-galles",
+          "summary": "Irlande - Pays de Galles",
+          "timed": true,
+          "start_datetime": "2026-03-07T15:10:00",
+          "end_datetime": "2026-03-07T17:10:00",
+          "location": "Dublin, Irlande",
+          "competition": "Six Nations",
+          "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures/202600/ireland-v-wales-07032026-1410",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "six-nations-2026-ecosse-france",
+          "summary": "Ecosse - France",
+          "timed": true,
+          "start_datetime": "2026-03-07T17:40:00",
+          "end_datetime": "2026-03-07T19:40:00",
+          "location": "Edimbourg, Ecosse",
+          "competition": "Six Nations",
+          "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures/202600/scotland-v-france-07032026-1640",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "six-nations-2026-italie-angleterre",
+          "summary": "Italie - Angleterre",
+          "timed": true,
+          "start_datetime": "2026-03-08T16:00:00",
+          "end_datetime": "2026-03-08T18:00:00",
+          "location": "Rome, Italie",
+          "competition": "Six Nations",
+          "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures/202600/italy-v-england-08032026-1500",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "six-nations-2026-irlande-ecosse",
+          "summary": "Irlande - Ecosse",
+          "timed": true,
+          "start_datetime": "2026-03-14T15:10:00",
+          "end_datetime": "2026-03-14T17:10:00",
+          "location": "Dublin, Irlande",
+          "competition": "Six Nations",
+          "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures/202600/ireland-v-scotland-14032026-1410",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "six-nations-2026-pays-de-galles-italie",
+          "summary": "Pays de Galles - Italie",
+          "timed": true,
+          "start_datetime": "2026-03-14T17:40:00",
+          "end_datetime": "2026-03-14T19:40:00",
+          "location": "Cardiff, Pays de Galles",
+          "competition": "Six Nations",
+          "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures/202600/wales-v-italy-14032026-1640",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "six-nations-2026-france-angleterre",
+          "summary": "France - Angleterre",
+          "timed": true,
+          "start_datetime": "2026-03-14T21:10:00",
+          "end_datetime": "2026-03-14T23:10:00",
+          "location": "Saint-Denis, France",
+          "competition": "Six Nations",
+          "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-england-14032026-2010",
+          "status": "CONFIRMED"
+        }
+      ]
+    }
+  ]
+}
