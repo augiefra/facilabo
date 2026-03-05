@@ -4,7 +4,7 @@ PRODID:-//FacilAbo//Prime Day & Singles Day//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Prime Day & Singles Day
-X-WR-CALDESC:Amazon Prime Day (juillet) et Singles Day Alibaba (11 novembre)
+X-WR-CALDESC:Amazon Prime Day (juillet), Ventes flash de printemps Amazon (mars) et Singles Day Alibaba (11 novembre)
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 UID:primeday-2025-1@facilabo.app
@@ -34,6 +34,16 @@ DTEND;VALUE=DATE:20251112
 SUMMARY:Singles Day (11.11)
 DESCRIPTION:Plus grande journee de shopping au monde - Alibaba/AliExpress
 CATEGORIES:E-commerce,Alibaba,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:amazon-spring-flash-2026@facilabo.app
+DTSTAMP:20250305T120000Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260317
+SUMMARY:Amazon - Ventes flash de printemps
+DESCRIPTION:Ventes flash de printemps Amazon (France)
+CATEGORIES:E-commerce,Amazon,Promotions
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
