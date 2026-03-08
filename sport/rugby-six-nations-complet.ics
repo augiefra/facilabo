@@ -25,18 +25,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sport-rugby-six-nations-complet-six-nations-2026-france-ireland@facilabo.app
-DTSTAMP:20260205T000000Z
-DTSTART;TZID=Europe/Paris:20260205T211000
-DTEND;TZID=Europe/Paris:20260205T231000
-SUMMARY:France - Irlande
-DESCRIPTION:Competition: Six Nations | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-ireland-05022026-2010 | Provenance: fallback:rugby-six-nations-complet-source
-LOCATION:Saint-Denis\, France
-URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-ireland-05022026-2010
-CATEGORIES:Sport,Rugby,Competition,Six Nations
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sport-rugby-six-nations-complet-six-nations-2026-italie-ecosse@facilabo.app
 DTSTAMP:20260207T000000Z
 DTSTART;TZID=Europe/Paris:20260207T151000
