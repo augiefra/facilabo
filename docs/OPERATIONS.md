@@ -25,3 +25,4 @@ Forbidden:
 
 - `societe/reperes-france.ics`: keep deterministic FR rules (mothers/fathers/grandparents days) and preserve overlap rationale with `ecommerce/fetes-commerciales.ics`.
 - `sport/cyclisme-majeurs.ics`: keep strict scope (Monuments + Grands Tours + Mondiaux route), and maintain rolling window target `J-30 -> J+730`.
+- `sport/wec.ics`: one event per official FIA WEC round, stable round keys (`imola`, `spa`, `lemans`, `saopaulo`, `austin`, `fuji`, `bahrain`), date-only until an official race start time is published, and no expected overlap with `f1`, `motogp` or `nascar`.

@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//WEC//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WEC - Championnat du monde d endurance
+X-WR-CALDESC:Agenda FIA WEC 2026. Un evenement par manche officielle. Representation date-only tant que l horaire de depart n est pas publie. Qatar 2026 reste hors flux tant qu aucune nouvelle date officielle n est annoncee.
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sport-wec-imola-2026@facilabo.app
+DTSTAMP:20260310T120000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260420
+SUMMARY:6 Heures d Imola
+DESCRIPTION:Round 1 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calendar + https://www.fiawec.com/en/race/show/4948 | Horaire de depart non publie au 2026-03-10, evenement maintenu en date-only.
+LOCATION:Imola, Italie
+URL:https://www.fiawec.com/en/race/show/4948
+CATEGORIES:Sport,Endurance,WEC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-wec-spa-2026@facilabo.app
+DTSTAMP:20260310T120000Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260510
+SUMMARY:6 Heures de Spa-Francorchamps
+DESCRIPTION:Round 2 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calendar + https://www.fiawec.com/en/race/show/4949 | Horaire de depart non publie au 2026-03-10, evenement maintenu en date-only.
+LOCATION:Spa-Francorchamps, Belgique
+URL:https://www.fiawec.com/en/race/show/4949
+CATEGORIES:Sport,Endurance,WEC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-wec-lemans-2026@facilabo.app
+DTSTAMP:20260310T120000Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260615
+SUMMARY:24 Heures du Mans
+DESCRIPTION:Round 3 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calendar + https://www.fiawec.com/en/race/show/4951 | Horaire de depart non publie au 2026-03-10, evenement maintenu en date-only.
+LOCATION:Le Mans, France
+URL:https://www.fiawec.com/en/race/show/4951
+CATEGORIES:Sport,Endurance,WEC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-wec-saopaulo-2026@facilabo.app
+DTSTAMP:20260310T120000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260713
+SUMMARY:6 Heures de Sao Paulo
+DESCRIPTION:Round 4 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calendar + https://www.fiawec.com/en/race/show/4952 | Horaire de depart non publie au 2026-03-10, evenement maintenu en date-only.
+LOCATION:Sao Paulo, Bresil
+URL:https://www.fiawec.com/en/race/show/4952
+CATEGORIES:Sport,Endurance,WEC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-wec-austin-2026@facilabo.app
+DTSTAMP:20260310T120000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260907
+SUMMARY:Lone Star Le Mans
+DESCRIPTION:Round 5 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calendar + https://www.fiawec.com/en/race/show/4953 | Horaire de depart non publie au 2026-03-10, evenement maintenu en date-only.
+LOCATION:Austin, Etats-Unis
+URL:https://www.fiawec.com/en/race/show/4953
+CATEGORIES:Sport,Endurance,WEC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-wec-fuji-2026@facilabo.app
+DTSTAMP:20260310T120000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260928
+SUMMARY:6 Heures de Fuji
+DESCRIPTION:Round 6 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calendar + https://www.fiawec.com/en/race/show/4954 | Horaire de depart non publie au 2026-03-10, evenement maintenu en date-only.
+LOCATION:Oyama, Japon
+URL:https://www.fiawec.com/en/race/show/4954
+CATEGORIES:Sport,Endurance,WEC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-wec-bahrain-2026@facilabo.app
+DTSTAMP:20260310T120000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261108
+SUMMARY:8 Heures de Bahrein
+DESCRIPTION:Round 7 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calendar + https://www.fiawec.com/en/race/show/4955 | Horaire de depart non publie au 2026-03-10, evenement maintenu en date-only.
+LOCATION:Sakhir, Bahrein
+URL:https://www.fiawec.com/en/race/show/4955
+CATEGORIES:Sport,Endurance,WEC
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

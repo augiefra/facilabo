@@ -28,6 +28,20 @@
 - https://www.giroditalia.it
 - https://www.lavuelta.es
 
+## WEC
+
+- https://www.fiawec.com/en/calendar
+- https://www.fiawec.com/en/news/qatar-1812-km-postponed
+- https://www.fiawec.com/en/race/show/4948
+- https://www.fiawec.com/en/race/show/4949
+- https://www.fiawec.com/en/race/show/4951
+- https://www.fiawec.com/en/race/show/4952
+- https://www.fiawec.com/en/race/show/4953
+- https://www.fiawec.com/en/race/show/4954
+- https://www.fiawec.com/en/race/show/4955
+- Regle editoriale: si seul le week-end officiel est publie, l evenement reste en date-only; l horaire de depart n est ajoute qu apres publication officielle.
+- Couverture 2026: 7 manches datees au 2026-03-10. Qatar 2026 est exclu tant qu aucune nouvelle date officielle n est annoncee.
+
 ## Rugby
 
 - https://data.rugbyfixture.io/ical/v1/top14.ics
