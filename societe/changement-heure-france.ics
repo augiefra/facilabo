@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Changement Heure France//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Changement d'heure France
+X-WR-CALDESC:Passages officiels à l'heure d'été et à l'heure d'hiver en France (occurrences explicites 2024-2032).
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:changement-heure-france-ete-2024@facilabo.app
+DTSTAMP:20260324T210000Z
+DTSTART;TZID=Europe/Paris:20240331T030000
+DTEND;TZID=Europe/Paris:20240331T030000
+SUMMARY:Passage à l'heure d'été : +1h
+DESCRIPTION:Heure d'été : +1h => à 02h00 il sera 03h00.\nPassage officiel à l'heure d'été en France (Europe/Paris).
+CATEGORIES:Societe,France,Changement d'heure
+LOCATION:France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:changement-heure-france-hiver-2024@facilabo.app
+DTSTAMP:20260324T210000Z
+DTSTART;TZID=Europe/Paris:20241027T030000
+DTEND;TZID=Europe/Paris:20241027T030000
+SUMMARY:Passage à l'heure d'hiver : -1h
+DESCRIPTION:Heure d'hiver : -1h => à 03h00 il sera 02h00.\nPassage officiel à l'heure d'hiver en France (Europe/Paris).
+CATEGORIES:Societe,France,Changement d'heure
+LOCATION:France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:changement-heure-france-ete-2025@facilabo.app
+DTSTAMP:20260324T210000Z
+DTSTART;TZID=Europe/Paris:20250330T030000
+DTEND;TZID=Europe/Paris:20250330T030000
+SUMMARY:Passage à l'heure d'été : +1h
+DESCRIPTION:Heure d'été : +1h => à 02h00 il sera 03h00.\nPassage officiel à l'heure d'été en France (Europe/Paris).
+CATEGORIES:Societe,France,Changement d'heure
+LOCATION:France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:changement-heure-france-hiver-2025@facilabo.app
+DTSTAMP:20260324T210000Z
+DTSTART;TZID=Europe/Paris:20251026T030000
+DTEND;TZID=Europe/Paris:20251026T030000
+SUMMARY:Passage à l'heure d'hiver : -1h
+DESCRIPTION:Heure d'hiver : -1h => à 03h00 il sera 02h00.\nPassage officiel à l'heure d'hiver en France (Europe/Paris).
+CATEGORIES:Societe,France,Changement d'heure
+LOCATION:France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:changement-heure-france-ete-2026@facilabo.app
+DTSTAMP:20260324T210000Z
+DTSTART;TZID=Europe/Paris:20260329T030000
+DTEND;TZID=Europe/Paris:20260329T030000
+SUMMARY:Passage à l'heure d'été : +1h
+DESCRIPTION:Heure d'été : +1h => à 02h00 il sera 03h00.\nPassage officiel à l'heure d'été en France (Europe/Paris).
+CATEGORIES:Societe,France,Changement d'heure
+LOCATION:France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:changement-heure-france-hiver-2026@facilabo.app
+DTSTAMP:20260324T210000Z
+DTSTART;TZID=Europe/Paris:20261025T030000
+DTEND;TZID=Europe/Paris:20261025T030000
+SUMMARY:Passage à l'heure d'hiver : -1h
+DESCRIPTION:Heure d'hiver : -1h => à 03h00 il sera 02h00.\nPassage officiel à l'heure d'hiver en France (Europe/Paris).
+CATEGORIES:Societe,France,Changement d'heure
+LOCATION:France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:changement-heure-france-ete-2027@facilabo.app
+DTSTAMP:20260324T210000Z
+DTSTART;TZID=Europe/Paris:20270328T030000
+DTEND;TZID=Europe/Paris:20270328T030000
+SUMMARY:Passage à l'heure d'été : +1h
+DESCRIPTION:Heure d'été : +1h => à 02h00 il sera 03h00.\nPassage officiel à l'heure d'été en France (Europe/Paris).
+CATEGORIES:Societe,France,Changement d'heure
+LOCATION:France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:changement-heure-france-hiver-2027@facilabo.app
+DTSTAMP:20260324T210000Z
+DTSTART;TZID=Europe/Paris:20271031T030000
+DTEND;TZID=Europe/Paris:20271031T030000
+SUMMARY:Passage à l'heure d'hiver : -1h
+DESCRIPTION:Heure d'hiver : -1h => à 03h00 il sera 02h00.\nPassage officiel à l'heure d'hiver en France (Europe/Paris).
+CATEGORIES:Societe,France,Changement d'heure
+LOCATION:France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:changement-heure-france-ete-2028@facilabo.app
+DTSTAMP:20260324T210000Z
+DTSTART;TZID=Europe/Paris:20280326T030000
+DTEND;TZID=Europe/Paris:20280326T030000
+SUMMARY:Passage à l'heure d'été : +1h
+DESCRIPTION:Heure d'été : +1h => à 02h00 il sera 03h00.\nPassage officiel à l'heure d'été en France (Europe/Paris).
+CATEGORIES:Societe,France,Changement d'heure
+LOCATION:France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:changement-heure-france-hiver-2028@facilabo.app
+DTSTAMP:20260324T210000Z
+DTSTART;TZID=Europe/Paris:20281029T030000
+DTEND;TZID=Europe/Paris:20281029T030000
+SUMMARY:Passage à l'heure d'hiver : -1h
+DESCRIPTION:Heure d'hiver : -1h => à 03h00 il sera 02h00.\nPassage officiel à l'heure d'hiver en France (Europe/Paris).
+CATEGORIES:Societe,France,Changement d'heure
+LOCATION:France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:changement-heure-france-ete-2029@facilabo.app
+DTSTAMP:20260324T210000Z
+DTSTART;TZID=Europe/Paris:20290325T030000
+DTEND;TZID=Europe/Paris:20290325T030000
+SUMMARY:Passage à l'heure d'été : +1h
+DESCRIPTION:Heure d'été : +1h => à 02h00 il sera 03h00.\nPassage officiel à l'heure d'été en France (Europe/Paris).
+CATEGORIES:Societe,France,Changement d'heure
+LOCATION:France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:changement-heure-france-hiver-2029@facilabo.app
+DTSTAMP:20260324T210000Z
+DTSTART;TZID=Europe/Paris:20291028T030000
+DTEND;TZID=Europe/Paris:20291028T030000
+SUMMARY:Passage à l'heure d'hiver : -1h
+DESCRIPTION:Heure d'hiver : -1h => à 03h00 il sera 02h00.\nPassage officiel à l'heure d'hiver en France (Europe/Paris).
+CATEGORIES:Societe,France,Changement d'heure
+LOCATION:France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:changement-heure-france-ete-2030@facilabo.app
+DTSTAMP:20260324T210000Z
+DTSTART;TZID=Europe/Paris:20300331T030000
+DTEND;TZID=Europe/Paris:20300331T030000
+SUMMARY:Passage à l'heure d'été : +1h
+DESCRIPTION:Heure d'été : +1h => à 02h00 il sera 03h00.\nPassage officiel à l'heure d'été en France (Europe/Paris).
+CATEGORIES:Societe,France,Changement d'heure
+LOCATION:France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:changement-heure-france-hiver-2030@facilabo.app
+DTSTAMP:20260324T210000Z
+DTSTART;TZID=Europe/Paris:20301027T030000
+DTEND;TZID=Europe/Paris:20301027T030000
+SUMMARY:Passage à l'heure d'hiver : -1h
+DESCRIPTION:Heure d'hiver : -1h => à 03h00 il sera 02h00.\nPassage officiel à l'heure d'hiver en France (Europe/Paris).
+CATEGORIES:Societe,France,Changement d'heure
+LOCATION:France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:changement-heure-france-ete-2031@facilabo.app
+DTSTAMP:20260324T210000Z
+DTSTART;TZID=Europe/Paris:20310330T030000
+DTEND;TZID=Europe/Paris:20310330T030000
+SUMMARY:Passage à l'heure d'été : +1h
+DESCRIPTION:Heure d'été : +1h => à 02h00 il sera 03h00.\nPassage officiel à l'heure d'été en France (Europe/Paris).
+CATEGORIES:Societe,France,Changement d'heure
+LOCATION:France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:changement-heure-france-hiver-2031@facilabo.app
+DTSTAMP:20260324T210000Z
+DTSTART;TZID=Europe/Paris:20311026T030000
+DTEND;TZID=Europe/Paris:20311026T030000
+SUMMARY:Passage à l'heure d'hiver : -1h
+DESCRIPTION:Heure d'hiver : -1h => à 03h00 il sera 02h00.\nPassage officiel à l'heure d'hiver en France (Europe/Paris).
+CATEGORIES:Societe,France,Changement d'heure
+LOCATION:France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:changement-heure-france-ete-2032@facilabo.app
+DTSTAMP:20260324T210000Z
+DTSTART;TZID=Europe/Paris:20320328T030000
+DTEND;TZID=Europe/Paris:20320328T030000
+SUMMARY:Passage à l'heure d'été : +1h
+DESCRIPTION:Heure d'été : +1h => à 02h00 il sera 03h00.\nPassage officiel à l'heure d'été en France (Europe/Paris).
+CATEGORIES:Societe,France,Changement d'heure
+LOCATION:France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:changement-heure-france-hiver-2032@facilabo.app
+DTSTAMP:20260324T210000Z
+DTSTART;TZID=Europe/Paris:20321031T030000
+DTEND;TZID=Europe/Paris:20321031T030000
+SUMMARY:Passage à l'heure d'hiver : -1h
+DESCRIPTION:Heure d'hiver : -1h => à 03h00 il sera 02h00.\nPassage officiel à l'heure d'hiver en France (Europe/Paris).
+CATEGORIES:Societe,France,Changement d'heure
+LOCATION:France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
