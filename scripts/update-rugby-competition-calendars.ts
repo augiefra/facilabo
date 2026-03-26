@@ -310,7 +310,7 @@ function addHoursToLocalDateTime(dateTimeString, hoursToAdd) {
 }
 
 function fetchText(url, acceptHeader) {
-  const args = ['-sS'];
+  const args = ['-sSL'];
   if (acceptHeader) {
     args.push('-H', `Accept: ${acceptHeader}`);
   }
@@ -334,7 +334,15 @@ function buildSixNationsDateTime(dateToken, timeToken) {
   const year = dateToken.slice(4, 8);
   const hour = timeToken.slice(0, 2);
   const minute = timeToken.slice(2, 4);
-  return `${year}-${month}-${day}T${hour}:${minute}:00`;
+  const utcDate = new Date(Date.UTC(
+    Number(year),
+    Number(month) - 1,
+    Number(day),
+    Number(hour),
+    Number(minute),
+    0
+  ));
+  return toParisDateTimeParts(utcDate).dateTime;
 }
 
 function humanizeTeamToken(token) {
@@ -374,6 +382,43 @@ function parseSixNationsLinks(html) {
   }
 
   return links;
+}
+
+function todayIsoDate() {
+  const now = new Date();
+  const year = now.getUTCFullYear();
+  const month = String(now.getUTCMonth() + 1).padStart(2, '0');
+  const day = String(now.getUTCDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+}
+
+function buildFixtureSeasonCandidates(sourceUrl, futureDays) {
+  const candidates = [sourceUrl];
+
+  try {
+    const parsed = new URL(sourceUrl);
+    const normalizedPath = parsed.pathname.replace(/\/+$/, '');
+    const match = normalizedPath.match(/^(.*\/fixtures)(?:\/[0-9]{6})?$/);
+    if (!match) {
+      return candidates;
+    }
+
+    const currentYear = new Date().getUTCFullYear();
+    const additionalYears = Math.max(2, Math.ceil(Number(futureDays || 0) / 365) + 1);
+    const seen = new Set(candidates);
+
+    for (let offset = -1; offset <= additionalYears; offset += 1) {
+      const seasonCode = `${currentYear + offset}00`;
+      const candidate = `${parsed.protocol}//${parsed.host}${match[1]}/${seasonCode}`;
+      if (seen.has(candidate)) continue;
+      seen.add(candidate);
+      candidates.push(candidate);
+    }
+  } catch {
+    return candidates;
+  }
+
+  return candidates;
 }
 
 function defaultCategoriesFor(source) {
@@ -497,25 +542,21 @@ function normalizeFallbackEvent(source, fallbackEvent, pastDays, futureDays) {
   );
 }
 
-async function fetchSourceEvents(source, pastDays, futureDays) {
-  if (!source.crawl_enabled) {
-    return [];
-  }
+async function collectSixNationsEvents(source, pastDays, futureDays) {
+  const events = [];
+  const seen = new Set();
+  const candidates = buildFixtureSeasonCandidates(source.source_url, futureDays);
+  const today = todayIsoDate();
 
-  try {
-    if (source.parser === 'ics') {
-      const body = await fetchText(source.source_url, 'text/calendar, text/plain, */*');
-      const rawEvents = parseIcsEvents(body);
-      return rawEvents
-        .map((rawEvent) => normalizeIcsEvent(source, rawEvent, pastDays, futureDays))
-        .filter(Boolean);
-    }
-
-    if (source.parser === 'sixnations_fixture_links') {
-      const html = await fetchText(source.source_url, 'text/html, application/xhtml+xml, */*');
+  for (const candidateUrl of candidates) {
+    try {
+      const html = await fetchText(candidateUrl, 'text/html, application/xhtml+xml, */*');
       const links = parseSixNationsLinks(html);
-      const baseUrl = new URL(source.source_url);
-      const events = [];
+      if (links.length === 0) continue;
+
+      const pageUrl = new URL(candidateUrl);
+      let addedCount = 0;
+      let futureCount = 0;
 
       for (const link of links) {
         const separator = link.matchupSlug.indexOf('-v-');
@@ -525,7 +566,7 @@ async function fetchSourceEvents(source, pastDays, futureDays) {
         const awayToken = link.matchupSlug.slice(separator + 3);
         const summary = `${humanizeTeamToken(homeToken)} - ${humanizeTeamToken(awayToken)}`;
         const startDateTime = buildSixNationsDateTime(link.dateToken, link.timeToken);
-        const sourceUrl = `${baseUrl.protocol}//${baseUrl.host}/en/m6n/fixtures/${link.seasonCode}/${link.matchupSlug}-${link.dateToken}-${link.timeToken}`;
+        const sourceUrl = `${pageUrl.protocol}//${pageUrl.host}/en/m6n/fixtures/${link.seasonCode}/${link.matchupSlug}-${link.dateToken}-${link.timeToken}`;
 
         const normalized = normalizeEvent(
           source,
@@ -544,10 +585,48 @@ async function fetchSourceEvents(source, pastDays, futureDays) {
           futureDays
         );
 
-        if (normalized) events.push(normalized);
+        if (!normalized) continue;
+
+        const key = buildUidKey(normalized);
+        if (seen.has(key)) continue;
+        seen.add(key);
+        events.push(normalized);
+        addedCount += 1;
+
+        if (normalized.startDate >= today) {
+          futureCount += 1;
+        }
       }
 
-      return events;
+      if (addedCount > 0 && candidateUrl !== source.source_url) {
+        console.log(
+          `[update-rugby-competition-calendars] INFO: merged ${addedCount} Six Nations fixture(s) from ${candidateUrl} (${futureCount} future)`
+        );
+      }
+    } catch (error) {
+      console.warn(`[update-rugby-competition-calendars] WARN: unable to crawl ${candidateUrl}: ${error.message}`);
+    }
+  }
+
+  return events;
+}
+
+async function fetchSourceEvents(source, pastDays, futureDays) {
+  if (!source.crawl_enabled) {
+    return [];
+  }
+
+  try {
+    if (source.parser === 'ics') {
+      const body = await fetchText(source.source_url, 'text/calendar, text/plain, */*');
+      const rawEvents = parseIcsEvents(body);
+      return rawEvents
+        .map((rawEvent) => normalizeIcsEvent(source, rawEvent, pastDays, futureDays))
+        .filter(Boolean);
+    }
+
+    if (source.parser === 'sixnations_fixture_links') {
+      return collectSixNationsEvents(source, pastDays, futureDays);
     }
 
     console.warn(`[update-rugby-competition-calendars] WARN: parser ${source.parser} is not supported for ${source.slug}`);
