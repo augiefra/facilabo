@@ -800,13 +800,58 @@ function parseSixNationsLinks(html) {
   return links;
 }
 
+function todayIsoDate() {
+  const now = new Date();
+  const year = now.getUTCFullYear();
+  const month = String(now.getUTCMonth() + 1).padStart(2, '0');
+  const day = String(now.getUTCDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+}
+
+function buildFixtureSeasonCandidates(sourceUrl, futureDays) {
+  const candidates = [sourceUrl];
+
+  try {
+    const parsed = new URL(sourceUrl);
+    const normalizedPath = parsed.pathname.replace(/\/+$/, '');
+    const match = normalizedPath.match(/^(.*\/fixtures)(?:\/[0-9]{6})?$/);
+    if (!match) {
+      return candidates;
+    }
+
+    const currentYear = new Date().getUTCFullYear();
+    const additionalYears = Math.max(2, Math.ceil(Number(futureDays || 0) / 365) + 1);
+    const seen = new Set(candidates);
+
+    for (let offset = -1; offset <= additionalYears; offset += 1) {
+      const seasonCode = `${currentYear + offset}00`;
+      const candidate = `${parsed.protocol}//${parsed.host}${match[1]}/${seasonCode}`;
+      if (seen.has(candidate)) continue;
+      seen.add(candidate);
+      candidates.push(candidate);
+    }
+  } catch {
+    return candidates;
+  }
+
+  return candidates;
+}
+
 function buildSixNationsDateTime(dateToken, timeToken) {
   const day = dateToken.slice(0, 2);
   const month = dateToken.slice(2, 4);
   const year = dateToken.slice(4, 8);
   const hour = timeToken.slice(0, 2);
   const minute = timeToken.slice(2, 4);
-  return `${year}-${month}-${day}T${hour}:${minute}:00`;
+  const utcDate = new Date(Date.UTC(
+    Number(year),
+    Number(month) - 1,
+    Number(day),
+    Number(hour),
+    Number(minute),
+    0
+  ));
+  return toParisDateTimeParts(utcDate).dateTime;
 }
 
 function normalizeSummaryForConflict(summary) {
@@ -870,6 +915,77 @@ function normalizeFallbackEvent(source, fallbackEvent, pastDays, futureDays) {
     externalMatchId: null,
     provenance: `fallback:${source.slug}`
   };
+}
+
+async function collectSixNationsEvents(source, pastDays, futureDays) {
+  const events = [];
+  const seen = new Set();
+  const candidates = buildFixtureSeasonCandidates(source.source_url, futureDays);
+  const today = todayIsoDate();
+
+  for (const candidateUrl of candidates) {
+    try {
+      const html = await fetchText(candidateUrl, 'text/html, application/xhtml+xml, */*');
+      const links = parseSixNationsLinks(html);
+      if (links.length === 0) continue;
+
+      const pageUrl = new URL(candidateUrl);
+      const competitionSegment = source.source_url.includes('autumn-nations-series') ? 'autumn-nations-series' : 'm6n';
+      const competitionLabel = competitionSegment === 'autumn-nations-series' ? 'Autumn Nations Series' : 'Six Nations';
+      let addedCount = 0;
+      let futureCount = 0;
+
+      for (const link of links) {
+        const separator = link.matchupSlug.indexOf('-v-');
+        if (separator <= 0) continue;
+
+        const homeToken = link.matchupSlug.slice(0, separator);
+        const awayToken = link.matchupSlug.slice(separator + 3);
+        const summary = `${humanizeTeamToken(homeToken)} - ${humanizeTeamToken(awayToken)}`;
+        const startDateTime = buildSixNationsDateTime(link.dateToken, link.timeToken);
+        const sourceUrl = `${pageUrl.protocol}//${pageUrl.host}/en/${competitionSegment}/fixtures/${link.seasonCode}/${link.matchupSlug}-${link.dateToken}-${link.timeToken}`;
+
+        const normalized = normalizeEvent(
+          source,
+          {
+            summary,
+            timed: true,
+            startDateTime,
+            competition: competitionLabel,
+            sourceUrl,
+            status: 'CONFIRMED',
+            uidKey: `${source.slug}-${link.seasonCode}-${homeToken}-v-${awayToken}`,
+            externalMatchId: `${link.seasonCode}-${homeToken}-v-${awayToken}`,
+            provenance: `crawl:${source.slug}`
+          },
+          pastDays,
+          futureDays
+        );
+
+        if (!normalized) continue;
+
+        const key = buildUidKey(normalized);
+        if (seen.has(key)) continue;
+        seen.add(key);
+        events.push(normalized);
+        addedCount += 1;
+
+        if (normalized.startDate >= today) {
+          futureCount += 1;
+        }
+      }
+
+      if (addedCount > 0 && candidateUrl !== source.source_url) {
+        console.log(
+          `[update-france-national-teams-calendars] INFO: merged ${addedCount} fixture(s) from ${candidateUrl} (${futureCount} future)`
+        );
+      }
+    } catch (error) {
+      console.warn(`[update-france-national-teams-calendars] WARN: unable to crawl ${candidateUrl}: ${error.message}`);
+    }
+  }
+
+  return events;
 }
 
 function buildUidKey(event) {
@@ -974,46 +1090,7 @@ async function fetchSourceEvents(source, pastDays, futureDays) {
     }
 
     if (source.parser === 'sixnations_fixture_links') {
-      const html = await fetchText(source.source_url, 'text/html, application/xhtml+xml, */*');
-      const links = parseSixNationsLinks(html);
-      const baseUrl = new URL(source.source_url);
-      const competitionLabel = source.source_url.includes('autumn-nations-series') ? 'Autumn Nations Series' : 'Six Nations';
-
-      const events = [];
-      for (const link of links) {
-        const separator = link.matchupSlug.indexOf('-v-');
-        if (separator <= 0) continue;
-
-        const homeToken = link.matchupSlug.slice(0, separator);
-        const awayToken = link.matchupSlug.slice(separator + 3);
-        const summary = `${humanizeTeamToken(homeToken)} - ${humanizeTeamToken(awayToken)}`;
-
-        const startDateTime = buildSixNationsDateTime(link.dateToken, link.timeToken);
-        const sourceUrl = `${baseUrl.protocol}//${baseUrl.host}/en/${source.source_url.includes('autumn-nations-series') ? 'autumn-nations-series' : 'm6n'}/fixtures/${link.seasonCode}/${link.matchupSlug}-${link.dateToken}-${link.timeToken}`;
-
-        const normalized = normalizeEvent(
-          source,
-          {
-            summary,
-            timed: true,
-            startDateTime,
-            competition: competitionLabel,
-            sourceUrl,
-            status: 'CONFIRMED',
-            uidKey: `${source.slug}-${link.seasonCode}-${homeToken}-v-${awayToken}`,
-            externalMatchId: `${link.seasonCode}-${homeToken}-v-${awayToken}`,
-            provenance: `crawl:${source.slug}`
-          },
-          pastDays,
-          futureDays
-        );
-
-        if (normalized) {
-          events.push(normalized);
-        }
-      }
-
-      return events;
+      return collectSixNationsEvents(source, pastDays, futureDays);
     }
 
     console.warn(`[update-france-national-teams-calendars] WARN: parser ${source.parser} is not supported for ${source.slug}`);
