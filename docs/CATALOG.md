@@ -25,7 +25,7 @@
 
 ## Sport feeds
 
-- `sport/wec.ics` (slug: `sport-wec`) - FIA WEC 2026, manches officielles datees uniquement; Qatar 2026 est corrige au 24 octobre 2026
+- `sport/wec.ics` (slug: `sport-wec`) - FIA WEC 2026, manches officielles datees uniquement; Qatar 2026 couvre le week-end officiel du 22 au 24 octobre 2026
 - `sport/france-foot-equipe-nationale.ics` (slug: `sport-france-foot-equipe-nationale`)
 - `sport/france-rugby-equipe-nationale.ics` (slug: `sport-france-rugby-equipe-nationale`)
 - `sport/rugby-top-14-complet.ics` (slug: `sport-rugby-top-14-complet`) - a privilegier si tu veux suivre tout le Top 14 sans doublons inter-clubs
