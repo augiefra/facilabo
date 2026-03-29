@@ -4,7 +4,7 @@ PRODID:-//FacilAbo//WEC//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WEC - Championnat du monde d endurance
-X-WR-CALDESC:Agenda FIA WEC 2026. Un evenement par manche officielle. Representation date-only tant que l horaire de depart n est pas publie. Saison 2026 complete avec 8 manches datees, dont Qatar le 24 octobre 2026.
+X-WR-CALDESC:Agenda FIA WEC 2026. Un evenement par manche officielle. Representation date-only tant que l horaire de depart n est pas publie. Saison 2026 complete avec 8 manches datees, dont Qatar du 22 au 24 octobre 2026.
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -98,11 +98,11 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-wec-qatar-2026@facilabo.app
-DTSTAMP:20260324T120000Z
-DTSTART;VALUE=DATE:20261024
+DTSTAMP:20260329T120000Z
+DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261025
 SUMMARY:Qatar 1812km
-DESCRIPTION:Round 7 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calendar + https://www.fiawec.com/en/news/dates-confirmed-for-rescheduled-qatar-1812km-and-fia-wec-prologue/13118 | Date de course officielle fixee au 2026-10-24, evenement maintenu en date-only.
+DESCRIPTION:Round 7 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calendar + https://www.fiawec.com/en/news/dates-confirmed-for-rescheduled-qatar-1812km-and-fia-wec-prologue/13118 | Week-end officiel confirme du 2026-10-22 au 2026-10-24, date de course le 2026-10-24. Evenement maintenu en date-only tant que l horaire de depart n est pas publie.
 LOCATION:Lusail, Qatar
 URL:https://www.fiawec.com/en/news/dates-confirmed-for-rescheduled-qatar-1812km-and-fia-wec-prologue/13118
 CATEGORIES:Sport,Endurance,WEC
