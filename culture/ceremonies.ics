@@ -104,10 +104,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:culture-ceremonies-emmy-2026@facilabo.app
 DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
 SUMMARY:Emmy Awards 2026
-DESCRIPTION:Primetime Emmy Awards (date previsionnelle, attente annonce)
+DESCRIPTION:Primetime Emmy Awards (date officielle)
 URL:https://www.emmys.com/
 CATEGORIES:Culture,Ceremonies
 STATUS:CONFIRMED
