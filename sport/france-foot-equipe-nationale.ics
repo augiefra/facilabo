@@ -62,15 +62,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-france-foot-equipe-nationale-france-foot-2026-06-22-group-i-tbd@facilabo.app
-DTSTAMP:20260622T000000Z
+DTSTAMP:20260410T062000Z
 DTSTART;TZID=Europe/Paris:20260622T230000
 DTEND;TZID=Europe/Paris:20260623T010000
-SUMMARY:France - Adversaire a confirmer
-DESCRIPTION:Competition: Coupe du monde - Groupe I | Source: https://www.equipe-france.fr/football/masculin/calendrier | Provenance: fallback:football-france-uefa-qualifiers
+SUMMARY:France - Irak
+DESCRIPTION:Competition: Coupe du monde - Groupe I | Source: https://www.equipe-france.fr/football/masculin/calendrier | Provenance: fallback:football-france-uefa-qualifiers | Adversaire officiel confirme
 LOCATION:Etats-Unis
 URL:https://www.equipe-france.fr/football/masculin/calendrier
 CATEGORIES:Sport,Football,Equipe de France
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-france-foot-equipe-nationale-france-foot-2026-06-26-norvege-world-cup@facilabo.app
