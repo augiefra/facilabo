@@ -99,7 +99,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sport-wec-qatar-2026@facilabo.app
 DTSTAMP:20260329T120000Z
-DTSTART;VALUE=DATE:20261022
+DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Qatar 1812km
 DESCRIPTION:Round 7 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calendar + https://www.fiawec.com/en/news/dates-confirmed-for-rescheduled-qatar-1812km-and-fia-wec-prologue/13118 | Week-end officiel confirme du 2026-10-22 au 2026-10-24, date de course le 2026-10-24. Evenement maintenu en date-only tant que l horaire de depart n est pas publie.
