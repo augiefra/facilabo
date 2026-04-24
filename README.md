@@ -14,6 +14,8 @@ Examples:
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/sport/wec.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/sport/rugby-top-14-complet.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/sport/rugby-six-nations-complet.ics`
+- `https://raw.githubusercontent.com/augiefra/facilabo/main/sport/worldcup-2026-all.ics`
+- `https://raw.githubusercontent.com/augiefra/facilabo/main/sport/worldcup-2026-france.ics`
 
 ## Covered categories
 
@@ -44,3 +46,4 @@ Examples:
 
 This repo keeps existing ICS paths stable for app compatibility.
 No existing feed path is changed by legal/documentation updates.
+World Cup 2026 feeds use stable match-number UIDs to avoid duplicate events when team placeholders are updated.
