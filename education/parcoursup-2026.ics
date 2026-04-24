@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Parcoursup 2026//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Parcoursup 2026
+X-WR-CALDESC:Grandes echeances Parcoursup 2026
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:parcoursup-2026-20251217-carte-formations@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20251217
+DTEND;VALUE=DATE:20251218
+SUMMARY:Parcoursup - carte des formations 2026
+DESCRIPTION:Ouverture de la carte des formations Parcoursup 2026.
+URL:https://www.parcoursup.gouv.fr/calendrier
+CATEGORIES:Education,Parcoursup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:parcoursup-2026-20260119-inscriptions-voeux@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:Parcoursup - inscriptions et voeux
+DESCRIPTION:Debut des inscriptions et de la formulation des voeux.
+URL:https://www.parcoursup.gouv.fr/calendrier
+CATEGORIES:Education,Parcoursup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:parcoursup-2026-20260312-limite-voeux@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+SUMMARY:Parcoursup - dernier jour pour formuler les voeux
+DESCRIPTION:Date limite nationale pour formuler ses voeux Parcoursup.
+URL:https://www.parcoursup.gouv.fr/calendrier
+CATEGORIES:Education,Parcoursup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:parcoursup-2026-20260401-confirmation-dossier@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Parcoursup - confirmer le dossier
+DESCRIPTION:Dernier jour pour completer son dossier et confirmer ses voeux.
+URL:https://www.parcoursup.gouv.fr/calendrier
+CATEGORIES:Education,Parcoursup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:parcoursup-2026-20260602-phase-principale@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Parcoursup - debut de la phase principale
+DESCRIPTION:Debut de la phase principale d'admission et premieres reponses des formations.
+URL:https://www.parcoursup.gouv.fr/calendrier
+CATEGORIES:Education,Parcoursup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:parcoursup-2026-20260605-classement-attente@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260609
+SUMMARY:Parcoursup - classer les voeux en attente
+DESCRIPTION:Classement des voeux en attente du vendredi 5 au lundi 8 juin 2026.
+URL:https://www.parcoursup.gouv.fr/calendrier
+CATEGORIES:Education,Parcoursup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:parcoursup-2026-20260611-phase-complementaire@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Parcoursup - debut de la phase complementaire
+DESCRIPTION:Possibilite de formuler jusqu'a 10 nouveaux voeux dans les formations disponibles.
+URL:https://www.parcoursup.gouv.fr/calendrier
+CATEGORIES:Education,Parcoursup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:parcoursup-2026-20260612-suspension-delais-bac@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260620
+SUMMARY:Parcoursup - delais suspendus pendant le bac
+DESCRIPTION:Delais de reponse suspendus pendant les epreuves ecrites du baccalaureat du 12 au 19 juin.
+URL:https://www.parcoursup.gouv.fr/calendrier
+CATEGORIES:Education,Parcoursup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:parcoursup-2026-20260701-accompagnement-caes@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Parcoursup - accompagnement CAES possible
+DESCRIPTION:A partir du 1er juillet, accompagnement possible par la commission d'acces a l'enseignement superieur si aucune proposition n'a ete recue.
+URL:https://www.parcoursup.gouv.fr/calendrier
+CATEGORIES:Education,Parcoursup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:parcoursup-2026-20260707-inscription-administrative@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:Parcoursup - inscription administrative apres resultats
+DESCRIPTION:Apres les resultats du baccalaureat, inscription administrative selon les modalites du dossier.
+URL:https://www.parcoursup.gouv.fr/calendrier
+CATEGORIES:Education,Parcoursup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:parcoursup-2026-20260711-fin-phase-principale@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Parcoursup - fin de la phase principale
+DESCRIPTION:Fin de la phase principale d'admission Parcoursup 2026.
+URL:https://www.parcoursup.gouv.fr/calendrier
+CATEGORIES:Education,Parcoursup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:parcoursup-2026-20260910-fin-phase-complementaire@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Parcoursup - fin de la phase complementaire
+DESCRIPTION:Dernier jour pour recevoir une proposition d'admission en phase complementaire.
+URL:https://www.parcoursup.gouv.fr/calendrier
+CATEGORIES:Education,Parcoursup
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

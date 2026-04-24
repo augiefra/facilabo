@@ -5,6 +5,7 @@
 - `astronomie`
 - `belgique`
 - `culture`
+- `education`
 - `ecommerce`
 - `fiscal`
 - `jardin`
@@ -22,6 +23,15 @@
 
 - `fiscal/france.ics` (slug: `fiscal-france`)
 - `fiscal/paye-fonction-publique.ics` (slug: `fiscal-paye-fonction-publique`)
+
+## Culture feeds
+
+- `culture/france.ics` (slug: `culture-france`) - sorties gratuites culture: Nuit des Musees, Fete de la Musique, Journees du Patrimoine
+
+## Education feeds
+
+- `education/examens-2026.ics` (slug: `education-examens-2026`) - reperes nationaux utiles des examens 2026: bac, brevet, CAP, BTS, BP et BMA
+- `education/parcoursup-2026.ics` (slug: `education-parcoursup-2026`) - grandes echeances Parcoursup 2026
 
 ## Sport feeds
 
@@ -41,5 +51,6 @@
 - Existing file paths and slugs are treated as stable.
 - Existing ICS files remain backward compatible unless explicitly deprecated.
 - UID stability per event/year must be preserved.
+- Examens / Parcoursup 2026: `UID = examens-2026-<date>-<type>@facilabo.app` ou `parcoursup-2026-<date>-<type>@facilabo.app`; corriger le contenu en place sans changer les UIDs.
 - Coupe du Monde 2026: `UID = worldcup-2026-match-<numero FIFA>@facilabo.app`; mettre a jour les affiches en place sans changer l'UID.
 - Apres qualification France/Belgique, ajouter les numeros de match FIFA correspondants dans `facilabo-api/lib/worldcup-2026-routes.ts`, puis redeployer l'API pour enrichir le slug existant sans recreer d'abonnement.

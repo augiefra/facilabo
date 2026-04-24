@@ -1,0 +1,284 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Examens 2026//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Examens 2026
+X-WR-CALDESC:Bac, brevet, CAP, BTS, BP et BMA - reperes nationaux utiles
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:examens-2026-20260511-bac-pro-maths-physique@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260523
+SUMMARY:Bac pro - maths / physique-chimie
+DESCRIPTION:Epreuves pratiques et ecrites sur support informatique du 11 au 22 mai 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260518-bts-epreuves-communes@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260522
+SUMMARY:BTS - epreuves ecrites communes
+DESCRIPTION:Epreuves ecrites communes du BTS du lundi 18 au jeudi 21 mai 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,BTS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260518-bp-expression-printemps@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:Brevet professionnel - session de printemps
+DESCRIPTION:Epreuve d'expression et connaissance du monde.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,BP
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260520-bac-pro-langues@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260522
+SUMMARY:Bac pro - langues vivantes
+DESCRIPTION:Langue vivante A le 20 mai, langue vivante B le 21 mai 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260528-bac-pro-francais-hg@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:Bac pro - francais et histoire-geographie
+DESCRIPTION:Epreuves de francais puis histoire-geographie / enseignement moral et civique.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260529-bac-pro-arts-eco@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:Bac pro - arts appliques et economie
+DESCRIPTION:Arts appliques, economie-droit et economie-gestion.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260601-bac-pro-pse@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Bac pro - prevention sante environnement
+DESCRIPTION:Epreuve de prevention, sante et environnement.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260608-cap-ecrits-generaux@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260610
+SUMMARY:CAP - epreuves ecrites generales
+DESCRIPTION:Epreuves ecrites d'enseignement general les 8 et 9 juin 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,CAP
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260611-bac-francais-anticipe@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Bac - francais anticipe
+DESCRIPTION:Epreuve ecrite anticipee de francais du bac general et technologique.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260612-bac-maths-anticipees@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Bac - mathematiques anticipees
+DESCRIPTION:Epreuve ecrite anticipee de mathematiques.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260615-bac-philosophie@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Bac general / techno - philosophie
+DESCRIPTION:Epreuve de philosophie du bac general et technologique.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260615-bma-enseignements-generaux@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260617
+SUMMARY:BMA - enseignements generaux
+DESCRIPTION:Francais, histoire-geographie EMC puis langues vivantes les 15 et 16 juin 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,BMA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260616-bac-specialites@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260619
+SUMMARY:Bac general / techno - specialites
+DESCRIPTION:Epreuves ecrites de specialites du mardi 16 au jeudi 18 juin 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260622-bac-grand-oral@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260702
+SUMMARY:Bac general / techno - Grand oral
+DESCRIPTION:Grand oral organise par les academies entre le 22 juin et le 1er juillet 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260624-bac-pro-oral-projet@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Bac pro - oral de projet
+DESCRIPTION:Epreuve orale de projet a compter du 24 juin 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260626-brevet-francais@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Brevet - francais
+DESCRIPTION:Premiere journee des epreuves ecrites communes du DNB.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,Brevet
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260629-brevet-hg-sciences@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:Brevet - histoire-geographie et sciences
+DESCRIPTION:Deuxieme journee des epreuves ecrites communes du DNB.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,Brevet
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260630-brevet-maths-langue@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Brevet - mathematiques et langue vivante
+DESCRIPTION:Troisieme journee des epreuves ecrites communes du DNB.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,Brevet
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260707-resultats-bac@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:Bac - resultats
+DESCRIPTION:Resultats du baccalaureat communiques a partir du 7 juillet 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260709-bac-rattrapage@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260711
+SUMMARY:Bac - rattrapage / second groupe
+DESCRIPTION:Epreuves du second groupe jusqu'au 9 juillet, au plus tard le 10 juillet midi selon les voies.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260907-bac-remplacement@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260911
+SUMMARY:Bac general / techno - remplacement
+DESCRIPTION:Epreuves ecrites de remplacement du lundi 7 au jeudi 10 septembre 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260910-brevet-remplacement@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260912
+SUMMARY:Brevet - session de remplacement
+DESCRIPTION:Epreuves communes de remplacement du DNB les 10 et 11 septembre 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,Brevet
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260914-cap-remplacement@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260916
+SUMMARY:CAP - remplacement enseignement general
+DESCRIPTION:Epreuves de remplacement des enseignements generaux les 14 et 15 septembre 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,CAP
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20261005-bp-remplacement-printemps@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Brevet professionnel - remplacement printemps / automne
+DESCRIPTION:Epreuve d'expression et connaissance du monde de remplacement printemps et session automne.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,BP
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20261125-bp-remplacement-automne@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Brevet professionnel - remplacement automne
+DESCRIPTION:Epreuve de remplacement de la session d'automne.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
+CATEGORIES:Education,Examens,BP
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
