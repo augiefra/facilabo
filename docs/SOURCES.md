@@ -2,6 +2,8 @@
 
 ## France
 
+- Education / examens: https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384 (verifie le 2026-04-24)
+- Parcoursup: https://www.parcoursup.gouv.fr/calendrier (verifie le 2026-04-24)
 - Fiscal: https://www.impots.gouv.fr
 - Paye fonction publique: https://www.education.gouv.fr/la-paye-des-agents-du-ministere-378286 (consulte le 2026-02-25)
 - Soldes: https://www.economie.gouv.fr/dgccrf/soldes

@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FacilAbo//Calendrier Culture France//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Evenements Culturels France
-X-WR-CALDESC:Nuit des Musees, Journees du Patrimoine, Fete de la Musique
+X-WR-CALNAME:Sorties gratuites culture
+X-WR-CALDESC:Nuit des Musees, Fete de la Musique, Journees du Patrimoine
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -60,8 +60,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nuit-musees-2026@facilabo.app
 DTSTAMP:20241212T120000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
 SUMMARY:Nuit europeenne des Musees
 DESCRIPTION:Entree gratuite dans les musees participants - Ouverture nocturne exceptionnelle
 URL:https://nuitdesmusees.culture.gouv.fr/
@@ -83,9 +83,9 @@ BEGIN:VEVENT
 UID:journees-patrimoine-2026@facilabo.app
 DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
 SUMMARY:Journees europeennes du Patrimoine
-DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre (samedi 19 et dimanche 20 septembre)
+DESCRIPTION:Portes ouvertes des monuments historiques - week-end public du samedi 19 et dimanche 20 septembre
 URL:https://journeesdupatrimoine.culture.gouv.fr/
 CATEGORIES:Culture,Patrimoine
 STATUS:CONFIRMED
