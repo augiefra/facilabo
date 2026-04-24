@@ -48,6 +48,15 @@
 - https://data.rugbyfixture.io/ical/v1/top14.ics
 - https://www.sixnationsrugby.com/en/m6n/fixtures/202600
 
+## Coupe du Monde 2026
+
+- PDF officiel FIFA: https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf (verifie le 2026-04-24, document date du 2026-04-10)
+- Page officielle FIFA fixtures/stades/resultats: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums (verifie le 2026-04-24)
+- Communique FIFA schedule update: https://tickets.fifa.com/organisation/media-releases/updated-world-cup-2026-match-schedule-venues-kick-off-times-104-matches (verifie le 2026-04-24)
+- Regle editoriale: les horaires source du PDF sont en Eastern Time; les ICS FacilAbo publient des timestamps UTC pour conserver l'affichage local correct dans Calendrier iOS.
+- Regle anti-doublons: chaque VEVENT garde un `UID` derive du numero de match FIFA, meme si une affiche ou un placeholder change.
+- Regle qualification: les slugs equipe (`worldcup-2026-france`, `worldcup-2026-belgium`) sont enrichis cote API via `facilabo-api/lib/worldcup-2026-routes.ts` quand les numeros de match post-poules sont connus; ne pas changer le slug ni l'UID.
+
 ## Religion and observances
 
 - https://www.vatican.va
