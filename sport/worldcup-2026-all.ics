@@ -1,0 +1,1888 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Coupe du Monde 2026//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Coupe du Monde 2026 - Tous les matchs
+X-WR-TIMEZONE:Europe/Paris
+X-FACILABO-SOURCE:FIFA World Cup 2026 Official Match Schedule
+X-FACILABO-SOURCE-VERIFIED:2026-04-24
+BEGIN:VEVENT
+UID:worldcup-2026-match-1@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260611T190000Z
+DTEND:20260611T210000Z
+SUMMARY:Coupe du Monde 2026 - Mexique - Afrique du Sud
+LOCATION:Mexico City Stadium\, Mexico City\, Mexique
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 1\nPhase de groupes\nGroupe A\nStade: Mexico City St
+ adium\nVille: Mexico City\nHoraire source: 15:00 ET (FIFA World Cup 2026 O
+ fficial Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.c
+ om/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stabl
+ e FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-2@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260612T020000Z
+DTEND:20260612T040000Z
+SUMMARY:Coupe du Monde 2026 - Coree du Sud - Tchequie
+LOCATION:Guadalajara Stadium\, Guadalajara\, Mexique
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 2\nPhase de groupes\nGroupe A\nStade: Guadalajara St
+ adium\nVille: Guadalajara\nHoraire source: 22:00 ET (FIFA World Cup 2026 O
+ fficial Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.c
+ om/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stabl
+ e FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-3@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260612T190000Z
+DTEND:20260612T210000Z
+SUMMARY:Coupe du Monde 2026 - Canada - Bosnie-Herzegovine
+LOCATION:Toronto Stadium\, Toronto\, Canada
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 3\nPhase de groupes\nGroupe B\nStade: Toronto Stadiu
+ m\nVille: Toronto\nHoraire source: 15:00 ET (FIFA World Cup 2026 Official 
+ Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be
+ 9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilA
+ bo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-4@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260613T010000Z
+DTEND:20260613T030000Z
+SUMMARY:Coupe du Monde 2026 - Etats-Unis - Paraguay
+LOCATION:Los Angeles Stadium\, Los Angeles\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 4\nPhase de groupes\nGroupe D\nStade: Los Angeles St
+ adium\nVille: Los Angeles\nHoraire source: 21:00 ET (FIFA World Cup 2026 O
+ fficial Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.c
+ om/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stabl
+ e FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-6@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260613T040000Z
+DTEND:20260613T060000Z
+SUMMARY:Coupe du Monde 2026 - Australie - Turquie
+LOCATION:BC Place\, Vancouver\, Canada
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 6\nPhase de groupes\nGroupe D\nStade: BC Place\nVill
+ e: Vancouver\nHoraire source: 00:00 ET (FIFA World Cup 2026 Official Match
+  Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37
+ eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo de
+ rive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-8@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260613T190000Z
+DTEND:20260613T210000Z
+SUMMARY:Coupe du Monde 2026 - Qatar - Suisse
+LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, Etats-Un
+ is
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 8\nPhase de groupes\nGroupe B\nStade: San Francisco 
+ Bay Area Stadium\nVille: San Francisco Bay Area\nHoraire source: 15:00 ET 
+ (FIFA World Cup 2026 Official Match Schedule\, 10 April 2026)\nSource: htt
+ ps://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_
+ English.pdf\nUID stable FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-7@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260613T220000Z
+DTEND:20260614T000000Z
+SUMMARY:Coupe du Monde 2026 - Bresil - Maroc
+LOCATION:New York New Jersey Stadium\, New York New Jersey\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 7\nPhase de groupes\nGroupe C\nStade: New York New J
+ ersey Stadium\nVille: New York New Jersey\nHoraire source: 18:00 ET (FIFA 
+ World Cup 2026 Official Match Schedule\, 10 April 2026)\nSource: https://d
+ igitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_Englis
+ h.pdf\nUID stable FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-5@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260614T010000Z
+DTEND:20260614T030000Z
+SUMMARY:Coupe du Monde 2026 - Haiti - Ecosse
+LOCATION:Boston Stadium\, Boston\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 5\nPhase de groupes\nGroupe C\nStade: Boston Stadium
+ \nVille: Boston\nHoraire source: 21:00 ET (FIFA World Cup 2026 Official Ma
+ tch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9c
+ e37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo
+  derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-10@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260614T170000Z
+DTEND:20260614T190000Z
+SUMMARY:Coupe du Monde 2026 - Allemagne - Curacao
+LOCATION:Houston Stadium\, Houston\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 10\nPhase de groupes\nGroupe E\nStade: Houston Stadi
+ um\nVille: Houston\nHoraire source: 13:00 ET (FIFA World Cup 2026 Official
+  Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1b
+ e9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable Facil
+ Abo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-11@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260614T200000Z
+DTEND:20260614T220000Z
+SUMMARY:Coupe du Monde 2026 - Pays-Bas - Japon
+LOCATION:Dallas Stadium\, Dallas\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 11\nPhase de groupes\nGroupe F\nStade: Dallas Stadiu
+ m\nVille: Dallas\nHoraire source: 16:00 ET (FIFA World Cup 2026 Official M
+ atch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9
+ ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAb
+ o derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-9@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260614T230000Z
+DTEND:20260615T010000Z
+SUMMARY:Coupe du Monde 2026 - Cote d'Ivoire - Equateur
+LOCATION:Philadelphia Stadium\, Philadelphia\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 9\nPhase de groupes\nGroupe E\nStade: Philadelphia S
+ tadium\nVille: Philadelphia\nHoraire source: 19:00 ET (FIFA World Cup 2026
+  Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa
+ .com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID sta
+ ble FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-12@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260615T020000Z
+DTEND:20260615T040000Z
+SUMMARY:Coupe du Monde 2026 - Suede - Tunisie
+LOCATION:Monterrey Stadium\, Monterrey\, Mexique
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 12\nPhase de groupes\nGroupe F\nStade: Monterrey Sta
+ dium\nVille: Monterrey\nHoraire source: 22:00 ET (FIFA World Cup 2026 Offi
+ cial Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/
+ m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable F
+ acilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-14@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260615T160000Z
+DTEND:20260615T180000Z
+SUMMARY:Coupe du Monde 2026 - Espagne - Cap-Vert
+LOCATION:Atlanta Stadium\, Atlanta\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 14\nPhase de groupes\nGroupe H\nStade: Atlanta Stadi
+ um\nVille: Atlanta\nHoraire source: 12:00 ET (FIFA World Cup 2026 Official
+  Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1b
+ e9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable Facil
+ Abo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-16@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260615T190000Z
+DTEND:20260615T210000Z
+SUMMARY:Coupe du Monde 2026 - Belgique - Egypte
+LOCATION:Seattle Stadium\, Seattle\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 16\nPhase de groupes\nGroupe G\nStade: Seattle Stadi
+ um\nVille: Seattle\nHoraire source: 15:00 ET (FIFA World Cup 2026 Official
+  Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1b
+ e9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable Facil
+ Abo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-13@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260615T220000Z
+DTEND:20260616T000000Z
+SUMMARY:Coupe du Monde 2026 - Arabie saoudite - Uruguay
+LOCATION:Miami Stadium\, Miami\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 13\nPhase de groupes\nGroupe H\nStade: Miami Stadium
+ \nVille: Miami\nHoraire source: 18:00 ET (FIFA World Cup 2026 Official Mat
+ ch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce
+ 37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo 
+ derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-15@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260616T010000Z
+DTEND:20260616T030000Z
+SUMMARY:Coupe du Monde 2026 - Iran - Nouvelle-Zelande
+LOCATION:Los Angeles Stadium\, Los Angeles\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 15\nPhase de groupes\nGroupe G\nStade: Los Angeles S
+ tadium\nVille: Los Angeles\nHoraire source: 21:00 ET (FIFA World Cup 2026 
+ Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.
+ com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stab
+ le FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-20@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260616T040000Z
+DTEND:20260616T060000Z
+SUMMARY:Coupe du Monde 2026 - Autriche - Jordanie
+LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, Etats-Un
+ is
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 20\nPhase de groupes\nGroupe J\nStade: San Francisco
+  Bay Area Stadium\nVille: San Francisco Bay Area\nHoraire source: 00:00 ET
+  (FIFA World Cup 2026 Official Match Schedule\, 10 April 2026)\nSource: ht
+ tps://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule
+ _English.pdf\nUID stable FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-17@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260616T190000Z
+DTEND:20260616T210000Z
+SUMMARY:Coupe du Monde 2026 - France - Senegal
+LOCATION:New York New Jersey Stadium\, New York New Jersey\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 17\nPhase de groupes\nGroupe I\nStade: New York New 
+ Jersey Stadium\nVille: New York New Jersey\nHoraire source: 15:00 ET (FIFA
+  World Cup 2026 Official Match Schedule\, 10 April 2026)\nSource: https://
+ digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_Engli
+ sh.pdf\nUID stable FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-18@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260616T220000Z
+DTEND:20260617T000000Z
+SUMMARY:Coupe du Monde 2026 - Irak - Norvege
+LOCATION:Boston Stadium\, Boston\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 18\nPhase de groupes\nGroupe I\nStade: Boston Stadiu
+ m\nVille: Boston\nHoraire source: 18:00 ET (FIFA World Cup 2026 Official M
+ atch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9
+ ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAb
+ o derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-19@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260617T010000Z
+DTEND:20260617T030000Z
+SUMMARY:Coupe du Monde 2026 - Argentine - Algerie
+LOCATION:Kansas City Stadium\, Kansas City\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 19\nPhase de groupes\nGroupe J\nStade: Kansas City S
+ tadium\nVille: Kansas City\nHoraire source: 21:00 ET (FIFA World Cup 2026 
+ Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.
+ com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stab
+ le FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-23@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260617T170000Z
+DTEND:20260617T190000Z
+SUMMARY:Coupe du Monde 2026 - Portugal - RD Congo
+LOCATION:Houston Stadium\, Houston\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 23\nPhase de groupes\nGroupe K\nStade: Houston Stadi
+ um\nVille: Houston\nHoraire source: 13:00 ET (FIFA World Cup 2026 Official
+  Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1b
+ e9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable Facil
+ Abo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-22@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260617T200000Z
+DTEND:20260617T220000Z
+SUMMARY:Coupe du Monde 2026 - Angleterre - Croatie
+LOCATION:Dallas Stadium\, Dallas\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 22\nPhase de groupes\nGroupe L\nStade: Dallas Stadiu
+ m\nVille: Dallas\nHoraire source: 16:00 ET (FIFA World Cup 2026 Official M
+ atch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9
+ ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAb
+ o derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-21@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260617T230000Z
+DTEND:20260618T010000Z
+SUMMARY:Coupe du Monde 2026 - Ghana - Panama
+LOCATION:Toronto Stadium\, Toronto\, Canada
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 21\nPhase de groupes\nGroupe L\nStade: Toronto Stadi
+ um\nVille: Toronto\nHoraire source: 19:00 ET (FIFA World Cup 2026 Official
+  Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1b
+ e9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable Facil
+ Abo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-24@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260618T020000Z
+DTEND:20260618T040000Z
+SUMMARY:Coupe du Monde 2026 - Ouzbekistan - Colombie
+LOCATION:Mexico City Stadium\, Mexico City\, Mexique
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 24\nPhase de groupes\nGroupe K\nStade: Mexico City S
+ tadium\nVille: Mexico City\nHoraire source: 22:00 ET (FIFA World Cup 2026 
+ Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.
+ com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stab
+ le FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-25@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260618T160000Z
+DTEND:20260618T180000Z
+SUMMARY:Coupe du Monde 2026 - Tchequie - Afrique du Sud
+LOCATION:Atlanta Stadium\, Atlanta\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 25\nPhase de groupes\nGroupe A\nStade: Atlanta Stadi
+ um\nVille: Atlanta\nHoraire source: 12:00 ET (FIFA World Cup 2026 Official
+  Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1b
+ e9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable Facil
+ Abo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-26@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260618T190000Z
+DTEND:20260618T210000Z
+SUMMARY:Coupe du Monde 2026 - Suisse - Bosnie-Herzegovine
+LOCATION:Los Angeles Stadium\, Los Angeles\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 26\nPhase de groupes\nGroupe B\nStade: Los Angeles S
+ tadium\nVille: Los Angeles\nHoraire source: 15:00 ET (FIFA World Cup 2026 
+ Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.
+ com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stab
+ le FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-27@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260618T220000Z
+DTEND:20260619T000000Z
+SUMMARY:Coupe du Monde 2026 - Canada - Qatar
+LOCATION:BC Place\, Vancouver\, Canada
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 27\nPhase de groupes\nGroupe B\nStade: BC Place\nVil
+ le: Vancouver\nHoraire source: 18:00 ET (FIFA World Cup 2026 Official Matc
+ h Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce3
+ 7eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo d
+ erive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-28@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260619T010000Z
+DTEND:20260619T030000Z
+SUMMARY:Coupe du Monde 2026 - Mexique - Coree du Sud
+LOCATION:Guadalajara Stadium\, Guadalajara\, Mexique
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 28\nPhase de groupes\nGroupe A\nStade: Guadalajara S
+ tadium\nVille: Guadalajara\nHoraire source: 21:00 ET (FIFA World Cup 2026 
+ Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.
+ com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stab
+ le FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-32@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260619T190000Z
+DTEND:20260619T210000Z
+SUMMARY:Coupe du Monde 2026 - Etats-Unis - Australie
+LOCATION:Seattle Stadium\, Seattle\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 32\nPhase de groupes\nGroupe D\nStade: Seattle Stadi
+ um\nVille: Seattle\nHoraire source: 15:00 ET (FIFA World Cup 2026 Official
+  Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1b
+ e9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable Facil
+ Abo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-30@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260619T220000Z
+DTEND:20260620T000000Z
+SUMMARY:Coupe du Monde 2026 - Ecosse - Maroc
+LOCATION:Boston Stadium\, Boston\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 30\nPhase de groupes\nGroupe C\nStade: Boston Stadiu
+ m\nVille: Boston\nHoraire source: 18:00 ET (FIFA World Cup 2026 Official M
+ atch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9
+ ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAb
+ o derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-29@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260620T003000Z
+DTEND:20260620T023000Z
+SUMMARY:Coupe du Monde 2026 - Bresil - Haiti
+LOCATION:Philadelphia Stadium\, Philadelphia\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 29\nPhase de groupes\nGroupe C\nStade: Philadelphia 
+ Stadium\nVille: Philadelphia\nHoraire source: 20:30 ET (FIFA World Cup 202
+ 6 Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fif
+ a.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID st
+ able FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-31@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260620T030000Z
+DTEND:20260620T050000Z
+SUMMARY:Coupe du Monde 2026 - Turquie - Paraguay
+LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, Etats-Un
+ is
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 31\nPhase de groupes\nGroupe D\nStade: San Francisco
+  Bay Area Stadium\nVille: San Francisco Bay Area\nHoraire source: 23:00 ET
+  (FIFA World Cup 2026 Official Match Schedule\, 10 April 2026)\nSource: ht
+ tps://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule
+ _English.pdf\nUID stable FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-36@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260620T040000Z
+DTEND:20260620T060000Z
+SUMMARY:Coupe du Monde 2026 - Tunisie - Japon
+LOCATION:Monterrey Stadium\, Monterrey\, Mexique
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 36\nPhase de groupes\nGroupe F\nStade: Monterrey Sta
+ dium\nVille: Monterrey\nHoraire source: 00:00 ET (FIFA World Cup 2026 Offi
+ cial Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/
+ m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable F
+ acilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-35@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260620T170000Z
+DTEND:20260620T190000Z
+SUMMARY:Coupe du Monde 2026 - Pays-Bas - Suede
+LOCATION:Houston Stadium\, Houston\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 35\nPhase de groupes\nGroupe F\nStade: Houston Stadi
+ um\nVille: Houston\nHoraire source: 13:00 ET (FIFA World Cup 2026 Official
+  Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1b
+ e9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable Facil
+ Abo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-33@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260620T200000Z
+DTEND:20260620T220000Z
+SUMMARY:Coupe du Monde 2026 - Allemagne - Cote d'Ivoire
+LOCATION:Toronto Stadium\, Toronto\, Canada
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 33\nPhase de groupes\nGroupe E\nStade: Toronto Stadi
+ um\nVille: Toronto\nHoraire source: 16:00 ET (FIFA World Cup 2026 Official
+  Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1b
+ e9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable Facil
+ Abo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-34@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260621T000000Z
+DTEND:20260621T020000Z
+SUMMARY:Coupe du Monde 2026 - Equateur - Curacao
+LOCATION:Kansas City Stadium\, Kansas City\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 34\nPhase de groupes\nGroupe E\nStade: Kansas City S
+ tadium\nVille: Kansas City\nHoraire source: 20:00 ET (FIFA World Cup 2026 
+ Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.
+ com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stab
+ le FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-38@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260621T160000Z
+DTEND:20260621T180000Z
+SUMMARY:Coupe du Monde 2026 - Espagne - Arabie saoudite
+LOCATION:Atlanta Stadium\, Atlanta\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 38\nPhase de groupes\nGroupe H\nStade: Atlanta Stadi
+ um\nVille: Atlanta\nHoraire source: 12:00 ET (FIFA World Cup 2026 Official
+  Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1b
+ e9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable Facil
+ Abo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-39@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260621T190000Z
+DTEND:20260621T210000Z
+SUMMARY:Coupe du Monde 2026 - Belgique - Iran
+LOCATION:Los Angeles Stadium\, Los Angeles\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 39\nPhase de groupes\nGroupe G\nStade: Los Angeles S
+ tadium\nVille: Los Angeles\nHoraire source: 15:00 ET (FIFA World Cup 2026 
+ Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.
+ com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stab
+ le FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-37@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260621T220000Z
+DTEND:20260622T000000Z
+SUMMARY:Coupe du Monde 2026 - Uruguay - Cap-Vert
+LOCATION:Miami Stadium\, Miami\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 37\nPhase de groupes\nGroupe H\nStade: Miami Stadium
+ \nVille: Miami\nHoraire source: 18:00 ET (FIFA World Cup 2026 Official Mat
+ ch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce
+ 37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo 
+ derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-40@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260622T010000Z
+DTEND:20260622T030000Z
+SUMMARY:Coupe du Monde 2026 - Nouvelle-Zelande - Egypte
+LOCATION:BC Place\, Vancouver\, Canada
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 40\nPhase de groupes\nGroupe G\nStade: BC Place\nVil
+ le: Vancouver\nHoraire source: 21:00 ET (FIFA World Cup 2026 Official Matc
+ h Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce3
+ 7eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo d
+ erive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-43@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260622T170000Z
+DTEND:20260622T190000Z
+SUMMARY:Coupe du Monde 2026 - Argentine - Autriche
+LOCATION:Dallas Stadium\, Dallas\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 43\nPhase de groupes\nGroupe J\nStade: Dallas Stadiu
+ m\nVille: Dallas\nHoraire source: 13:00 ET (FIFA World Cup 2026 Official M
+ atch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9
+ ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAb
+ o derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-42@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260622T210000Z
+DTEND:20260622T230000Z
+SUMMARY:Coupe du Monde 2026 - France - Irak
+LOCATION:Philadelphia Stadium\, Philadelphia\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 42\nPhase de groupes\nGroupe I\nStade: Philadelphia 
+ Stadium\nVille: Philadelphia\nHoraire source: 17:00 ET (FIFA World Cup 202
+ 6 Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fif
+ a.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID st
+ able FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-41@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260623T000000Z
+DTEND:20260623T020000Z
+SUMMARY:Coupe du Monde 2026 - Norvege - Senegal
+LOCATION:New York New Jersey Stadium\, New York New Jersey\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 41\nPhase de groupes\nGroupe I\nStade: New York New 
+ Jersey Stadium\nVille: New York New Jersey\nHoraire source: 20:00 ET (FIFA
+  World Cup 2026 Official Match Schedule\, 10 April 2026)\nSource: https://
+ digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_Engli
+ sh.pdf\nUID stable FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-44@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260623T030000Z
+DTEND:20260623T050000Z
+SUMMARY:Coupe du Monde 2026 - Jordanie - Algerie
+LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, Etats-Un
+ is
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 44\nPhase de groupes\nGroupe J\nStade: San Francisco
+  Bay Area Stadium\nVille: San Francisco Bay Area\nHoraire source: 23:00 ET
+  (FIFA World Cup 2026 Official Match Schedule\, 10 April 2026)\nSource: ht
+ tps://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule
+ _English.pdf\nUID stable FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-47@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260623T170000Z
+DTEND:20260623T190000Z
+SUMMARY:Coupe du Monde 2026 - Portugal - Ouzbekistan
+LOCATION:Houston Stadium\, Houston\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 47\nPhase de groupes\nGroupe K\nStade: Houston Stadi
+ um\nVille: Houston\nHoraire source: 13:00 ET (FIFA World Cup 2026 Official
+  Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1b
+ e9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable Facil
+ Abo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-45@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260623T200000Z
+DTEND:20260623T220000Z
+SUMMARY:Coupe du Monde 2026 - Angleterre - Ghana
+LOCATION:Boston Stadium\, Boston\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 45\nPhase de groupes\nGroupe L\nStade: Boston Stadiu
+ m\nVille: Boston\nHoraire source: 16:00 ET (FIFA World Cup 2026 Official M
+ atch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9
+ ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAb
+ o derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-46@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260623T230000Z
+DTEND:20260624T010000Z
+SUMMARY:Coupe du Monde 2026 - Panama - Croatie
+LOCATION:Toronto Stadium\, Toronto\, Canada
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 46\nPhase de groupes\nGroupe L\nStade: Toronto Stadi
+ um\nVille: Toronto\nHoraire source: 19:00 ET (FIFA World Cup 2026 Official
+  Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1b
+ e9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable Facil
+ Abo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-48@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260624T020000Z
+DTEND:20260624T040000Z
+SUMMARY:Coupe du Monde 2026 - Colombie - RD Congo
+LOCATION:Guadalajara Stadium\, Guadalajara\, Mexique
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 48\nPhase de groupes\nGroupe K\nStade: Guadalajara S
+ tadium\nVille: Guadalajara\nHoraire source: 22:00 ET (FIFA World Cup 2026 
+ Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.
+ com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stab
+ le FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-51@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:Coupe du Monde 2026 - Suisse - Canada
+LOCATION:BC Place\, Vancouver\, Canada
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 51\nPhase de groupes\nGroupe B\nStade: BC Place\nVil
+ le: Vancouver\nHoraire source: 15:00 ET (FIFA World Cup 2026 Official Matc
+ h Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce3
+ 7eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo d
+ erive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-52@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:Coupe du Monde 2026 - Bosnie-Herzegovine - Qatar
+LOCATION:Seattle Stadium\, Seattle\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 52\nPhase de groupes\nGroupe B\nStade: Seattle Stadi
+ um\nVille: Seattle\nHoraire source: 15:00 ET (FIFA World Cup 2026 Official
+  Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1b
+ e9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable Facil
+ Abo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-49@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+SUMMARY:Coupe du Monde 2026 - Ecosse - Bresil
+LOCATION:Miami Stadium\, Miami\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 49\nPhase de groupes\nGroupe C\nStade: Miami Stadium
+ \nVille: Miami\nHoraire source: 18:00 ET (FIFA World Cup 2026 Official Mat
+ ch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce
+ 37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo 
+ derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-50@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+SUMMARY:Coupe du Monde 2026 - Maroc - Haiti
+LOCATION:Atlanta Stadium\, Atlanta\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 50\nPhase de groupes\nGroupe C\nStade: Atlanta Stadi
+ um\nVille: Atlanta\nHoraire source: 18:00 ET (FIFA World Cup 2026 Official
+  Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1b
+ e9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable Facil
+ Abo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-53@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:Coupe du Monde 2026 - Tchequie - Mexique
+LOCATION:Mexico City Stadium\, Mexico City\, Mexique
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 53\nPhase de groupes\nGroupe A\nStade: Mexico City S
+ tadium\nVille: Mexico City\nHoraire source: 21:00 ET (FIFA World Cup 2026 
+ Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.
+ com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stab
+ le FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-54@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:Coupe du Monde 2026 - Afrique du Sud - Coree du Sud
+LOCATION:Monterrey Stadium\, Monterrey\, Mexique
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 54\nPhase de groupes\nGroupe A\nStade: Monterrey Sta
+ dium\nVille: Monterrey\nHoraire source: 21:00 ET (FIFA World Cup 2026 Offi
+ cial Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/
+ m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable F
+ acilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-55@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:Coupe du Monde 2026 - Curacao - Cote d'Ivoire
+LOCATION:Philadelphia Stadium\, Philadelphia\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 55\nPhase de groupes\nGroupe E\nStade: Philadelphia 
+ Stadium\nVille: Philadelphia\nHoraire source: 16:00 ET (FIFA World Cup 202
+ 6 Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fif
+ a.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID st
+ able FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-56@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:Coupe du Monde 2026 - Equateur - Allemagne
+LOCATION:New York New Jersey Stadium\, New York New Jersey\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 56\nPhase de groupes\nGroupe E\nStade: New York New 
+ Jersey Stadium\nVille: New York New Jersey\nHoraire source: 16:00 ET (FIFA
+  World Cup 2026 Official Match Schedule\, 10 April 2026)\nSource: https://
+ digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_Engli
+ sh.pdf\nUID stable FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-57@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260625T230000Z
+DTEND:20260626T010000Z
+SUMMARY:Coupe du Monde 2026 - Japon - Suede
+LOCATION:Dallas Stadium\, Dallas\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 57\nPhase de groupes\nGroupe F\nStade: Dallas Stadiu
+ m\nVille: Dallas\nHoraire source: 19:00 ET (FIFA World Cup 2026 Official M
+ atch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9
+ ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAb
+ o derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-58@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260625T230000Z
+DTEND:20260626T010000Z
+SUMMARY:Coupe du Monde 2026 - Tunisie - Pays-Bas
+LOCATION:Kansas City Stadium\, Kansas City\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 58\nPhase de groupes\nGroupe F\nStade: Kansas City S
+ tadium\nVille: Kansas City\nHoraire source: 19:00 ET (FIFA World Cup 2026 
+ Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.
+ com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stab
+ le FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-59@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:Coupe du Monde 2026 - Turquie - Etats-Unis
+LOCATION:Los Angeles Stadium\, Los Angeles\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 59\nPhase de groupes\nGroupe D\nStade: Los Angeles S
+ tadium\nVille: Los Angeles\nHoraire source: 22:00 ET (FIFA World Cup 2026 
+ Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.
+ com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stab
+ le FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-60@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:Coupe du Monde 2026 - Paraguay - Australie
+LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, Etats-Un
+ is
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 60\nPhase de groupes\nGroupe D\nStade: San Francisco
+  Bay Area Stadium\nVille: San Francisco Bay Area\nHoraire source: 22:00 ET
+  (FIFA World Cup 2026 Official Match Schedule\, 10 April 2026)\nSource: ht
+ tps://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule
+ _English.pdf\nUID stable FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-61@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:Coupe du Monde 2026 - Norvege - France
+LOCATION:Boston Stadium\, Boston\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 61\nPhase de groupes\nGroupe I\nStade: Boston Stadiu
+ m\nVille: Boston\nHoraire source: 15:00 ET (FIFA World Cup 2026 Official M
+ atch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9
+ ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAb
+ o derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-62@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:Coupe du Monde 2026 - Senegal - Irak
+LOCATION:Toronto Stadium\, Toronto\, Canada
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 62\nPhase de groupes\nGroupe I\nStade: Toronto Stadi
+ um\nVille: Toronto\nHoraire source: 15:00 ET (FIFA World Cup 2026 Official
+  Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1b
+ e9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable Facil
+ Abo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-65@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:Coupe du Monde 2026 - Cap-Vert - Arabie saoudite
+LOCATION:Houston Stadium\, Houston\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 65\nPhase de groupes\nGroupe H\nStade: Houston Stadi
+ um\nVille: Houston\nHoraire source: 20:00 ET (FIFA World Cup 2026 Official
+  Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1b
+ e9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable Facil
+ Abo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-66@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:Coupe du Monde 2026 - Uruguay - Espagne
+LOCATION:Guadalajara Stadium\, Guadalajara\, Mexique
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 66\nPhase de groupes\nGroupe H\nStade: Guadalajara S
+ tadium\nVille: Guadalajara\nHoraire source: 20:00 ET (FIFA World Cup 2026 
+ Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.
+ com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stab
+ le FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-63@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:Coupe du Monde 2026 - Egypte - Iran
+LOCATION:Seattle Stadium\, Seattle\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 63\nPhase de groupes\nGroupe G\nStade: Seattle Stadi
+ um\nVille: Seattle\nHoraire source: 23:00 ET (FIFA World Cup 2026 Official
+  Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1b
+ e9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable Facil
+ Abo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-64@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:Coupe du Monde 2026 - Nouvelle-Zelande - Belgique
+LOCATION:BC Place\, Vancouver\, Canada
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 64\nPhase de groupes\nGroupe G\nStade: BC Place\nVil
+ le: Vancouver\nHoraire source: 23:00 ET (FIFA World Cup 2026 Official Matc
+ h Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce3
+ 7eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo d
+ erive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-67@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260627T210000Z
+DTEND:20260627T230000Z
+SUMMARY:Coupe du Monde 2026 - Panama - Angleterre
+LOCATION:New York New Jersey Stadium\, New York New Jersey\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 67\nPhase de groupes\nGroupe L\nStade: New York New 
+ Jersey Stadium\nVille: New York New Jersey\nHoraire source: 17:00 ET (FIFA
+  World Cup 2026 Official Match Schedule\, 10 April 2026)\nSource: https://
+ digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_Engli
+ sh.pdf\nUID stable FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-68@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260627T210000Z
+DTEND:20260627T230000Z
+SUMMARY:Coupe du Monde 2026 - Croatie - Ghana
+LOCATION:Philadelphia Stadium\, Philadelphia\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 68\nPhase de groupes\nGroupe L\nStade: Philadelphia 
+ Stadium\nVille: Philadelphia\nHoraire source: 17:00 ET (FIFA World Cup 202
+ 6 Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fif
+ a.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID st
+ able FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-71@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:Coupe du Monde 2026 - Colombie - Portugal
+LOCATION:Miami Stadium\, Miami\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 71\nPhase de groupes\nGroupe K\nStade: Miami Stadium
+ \nVille: Miami\nHoraire source: 19:30 ET (FIFA World Cup 2026 Official Mat
+ ch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce
+ 37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo 
+ derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-72@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:Coupe du Monde 2026 - RD Congo - Ouzbekistan
+LOCATION:Atlanta Stadium\, Atlanta\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 72\nPhase de groupes\nGroupe K\nStade: Atlanta Stadi
+ um\nVille: Atlanta\nHoraire source: 19:30 ET (FIFA World Cup 2026 Official
+  Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1b
+ e9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable Facil
+ Abo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-69@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260628T020000Z
+DTEND:20260628T040000Z
+SUMMARY:Coupe du Monde 2026 - Algerie - Autriche
+LOCATION:Kansas City Stadium\, Kansas City\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 69\nPhase de groupes\nGroupe J\nStade: Kansas City S
+ tadium\nVille: Kansas City\nHoraire source: 22:00 ET (FIFA World Cup 2026 
+ Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.
+ com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stab
+ le FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-70@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260628T020000Z
+DTEND:20260628T040000Z
+SUMMARY:Coupe du Monde 2026 - Jordanie - Argentine
+LOCATION:Dallas Stadium\, Dallas\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 70\nPhase de groupes\nGroupe J\nStade: Dallas Stadiu
+ m\nVille: Dallas\nHoraire source: 22:00 ET (FIFA World Cup 2026 Official M
+ atch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9
+ ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAb
+ o derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-73@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260628T190000Z
+DTEND:20260628T210000Z
+SUMMARY:Coupe du Monde 2026 - 2e groupe A - 2e groupe B
+LOCATION:Los Angeles Stadium\, Los Angeles\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 73\n16es de finale\nStade: Los Angeles Stadium\nVill
+ e: Los Angeles\nHoraire source: 15:00 ET (FIFA World Cup 2026 Official Mat
+ ch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce
+ 37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo 
+ derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-76@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260629T170000Z
+DTEND:20260629T190000Z
+SUMMARY:Coupe du Monde 2026 - 1er groupe C - 2e groupe F
+LOCATION:Houston Stadium\, Houston\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 76\n16es de finale\nStade: Houston Stadium\nVille: H
+ ouston\nHoraire source: 13:00 ET (FIFA World Cup 2026 Official Match Sched
+ ule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37eb98fc
+ c5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo derive d
+ u numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-74@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260629T203000Z
+DTEND:20260629T223000Z
+SUMMARY:Coupe du Monde 2026 - 1er groupe E - 3e groupe A/B/C/D/F
+LOCATION:Boston Stadium\, Boston\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 74\n16es de finale\nStade: Boston Stadium\nVille: Bo
+ ston\nHoraire source: 16:30 ET (FIFA World Cup 2026 Official Match Schedul
+ e\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37eb98fcc5
+ /original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo derive du 
+ numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-75@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260630T010000Z
+DTEND:20260630T030000Z
+SUMMARY:Coupe du Monde 2026 - 1er groupe F - 2e groupe C
+LOCATION:Monterrey Stadium\, Monterrey\, Mexique
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 75\n16es de finale\nStade: Monterrey Stadium\nVille:
+  Monterrey\nHoraire source: 21:00 ET (FIFA World Cup 2026 Official Match S
+ chedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37eb
+ 98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo deri
+ ve du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-78@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260630T170000Z
+DTEND:20260630T190000Z
+SUMMARY:Coupe du Monde 2026 - 2e groupe E - 2e groupe I
+LOCATION:Dallas Stadium\, Dallas\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 78\n16es de finale\nStade: Dallas Stadium\nVille: Da
+ llas\nHoraire source: 13:00 ET (FIFA World Cup 2026 Official Match Schedul
+ e\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37eb98fcc5
+ /original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo derive du 
+ numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-77@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260630T210000Z
+DTEND:20260630T230000Z
+SUMMARY:Coupe du Monde 2026 - 1er groupe I - 3e groupe C/D/F/G/H
+LOCATION:New York New Jersey Stadium\, New York New Jersey\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 77\n16es de finale\nStade: New York New Jersey Stadi
+ um\nVille: New York New Jersey\nHoraire source: 17:00 ET (FIFA World Cup 2
+ 026 Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.f
+ ifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID 
+ stable FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-79@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260701T010000Z
+DTEND:20260701T030000Z
+SUMMARY:Coupe du Monde 2026 - 1er groupe A - 3e groupe C/E/F/H/I
+LOCATION:Mexico City Stadium\, Mexico City\, Mexique
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 79\n16es de finale\nStade: Mexico City Stadium\nVill
+ e: Mexico City\nHoraire source: 21:00 ET (FIFA World Cup 2026 Official Mat
+ ch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce
+ 37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo 
+ derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-80@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260701T160000Z
+DTEND:20260701T180000Z
+SUMMARY:Coupe du Monde 2026 - 1er groupe L - 3e groupe E/H/I/J/K
+LOCATION:Atlanta Stadium\, Atlanta\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 80\n16es de finale\nStade: Atlanta Stadium\nVille: A
+ tlanta\nHoraire source: 12:00 ET (FIFA World Cup 2026 Official Match Sched
+ ule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37eb98fc
+ c5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo derive d
+ u numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-82@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260701T200000Z
+DTEND:20260701T220000Z
+SUMMARY:Coupe du Monde 2026 - 1er groupe G - 3e groupe A/E/H/I/J
+LOCATION:Seattle Stadium\, Seattle\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 82\n16es de finale\nStade: Seattle Stadium\nVille: S
+ eattle\nHoraire source: 16:00 ET (FIFA World Cup 2026 Official Match Sched
+ ule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37eb98fc
+ c5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo derive d
+ u numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-81@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260702T000000Z
+DTEND:20260702T020000Z
+SUMMARY:Coupe du Monde 2026 - 1er groupe D - 3e groupe B/E/F/I/J
+LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, Etats-Un
+ is
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 81\n16es de finale\nStade: San Francisco Bay Area St
+ adium\nVille: San Francisco Bay Area\nHoraire source: 20:00 ET (FIFA World
+  Cup 2026 Official Match Schedule\, 10 April 2026)\nSource: https://digita
+ lhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf
+ \nUID stable FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-84@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260702T190000Z
+DTEND:20260702T210000Z
+SUMMARY:Coupe du Monde 2026 - 1er groupe H - 2e groupe J
+LOCATION:Los Angeles Stadium\, Los Angeles\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 84\n16es de finale\nStade: Los Angeles Stadium\nVill
+ e: Los Angeles\nHoraire source: 15:00 ET (FIFA World Cup 2026 Official Mat
+ ch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce
+ 37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo 
+ derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-83@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260702T230000Z
+DTEND:20260703T010000Z
+SUMMARY:Coupe du Monde 2026 - 2e groupe K - 2e groupe L
+LOCATION:Toronto Stadium\, Toronto\, Canada
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 83\n16es de finale\nStade: Toronto Stadium\nVille: T
+ oronto\nHoraire source: 19:00 ET (FIFA World Cup 2026 Official Match Sched
+ ule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37eb98fc
+ c5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo derive d
+ u numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-85@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260703T030000Z
+DTEND:20260703T050000Z
+SUMMARY:Coupe du Monde 2026 - 1er groupe B - 3e groupe E/F/G/I/J
+LOCATION:BC Place\, Vancouver\, Canada
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 85\n16es de finale\nStade: BC Place\nVille: Vancouve
+ r\nHoraire source: 23:00 ET (FIFA World Cup 2026 Official Match Schedule\,
+  10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/or
+ iginal/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo derive du num
+ ero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-88@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260703T180000Z
+DTEND:20260703T200000Z
+SUMMARY:Coupe du Monde 2026 - 2e groupe D - 2e groupe G
+LOCATION:Dallas Stadium\, Dallas\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 88\n16es de finale\nStade: Dallas Stadium\nVille: Da
+ llas\nHoraire source: 14:00 ET (FIFA World Cup 2026 Official Match Schedul
+ e\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37eb98fcc5
+ /original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo derive du 
+ numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-86@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260703T220000Z
+DTEND:20260704T000000Z
+SUMMARY:Coupe du Monde 2026 - 1er groupe J - 2e groupe H
+LOCATION:Miami Stadium\, Miami\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 86\n16es de finale\nStade: Miami Stadium\nVille: Mia
+ mi\nHoraire source: 18:00 ET (FIFA World Cup 2026 Official Match Schedule\
+ , 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/o
+ riginal/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo derive du nu
+ mero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-87@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260704T013000Z
+DTEND:20260704T033000Z
+SUMMARY:Coupe du Monde 2026 - 1er groupe K - 3e groupe D/E/I/J/L
+LOCATION:Kansas City Stadium\, Kansas City\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 87\n16es de finale\nStade: Kansas City Stadium\nVill
+ e: Kansas City\nHoraire source: 21:30 ET (FIFA World Cup 2026 Official Mat
+ ch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce
+ 37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo 
+ derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-90@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260704T170000Z
+DTEND:20260704T190000Z
+SUMMARY:Coupe du Monde 2026 - Vainqueur match 73 - Vainqueur match 75
+LOCATION:Houston Stadium\, Houston\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 90\n8es de finale\nStade: Houston Stadium\nVille: Ho
+ uston\nHoraire source: 13:00 ET (FIFA World Cup 2026 Official Match Schedu
+ le\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37eb98fcc
+ 5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo derive du
+  numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-89@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260704T210000Z
+DTEND:20260704T230000Z
+SUMMARY:Coupe du Monde 2026 - Vainqueur match 74 - Vainqueur match 77
+LOCATION:Philadelphia Stadium\, Philadelphia\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 89\n8es de finale\nStade: Philadelphia Stadium\nVill
+ e: Philadelphia\nHoraire source: 17:00 ET (FIFA World Cup 2026 Official Ma
+ tch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9c
+ e37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo
+  derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-91@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260705T200000Z
+DTEND:20260705T220000Z
+SUMMARY:Coupe du Monde 2026 - Vainqueur match 76 - Vainqueur match 78
+LOCATION:New York New Jersey Stadium\, New York New Jersey\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 91\n8es de finale\nStade: New York New Jersey Stadiu
+ m\nVille: New York New Jersey\nHoraire source: 16:00 ET (FIFA World Cup 20
+ 26 Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fi
+ fa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID s
+ table FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-92@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260706T000000Z
+DTEND:20260706T020000Z
+SUMMARY:Coupe du Monde 2026 - Vainqueur match 79 - Vainqueur match 80
+LOCATION:Mexico City Stadium\, Mexico City\, Mexique
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 92\n8es de finale\nStade: Mexico City Stadium\nVille
+ : Mexico City\nHoraire source: 20:00 ET (FIFA World Cup 2026 Official Matc
+ h Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce3
+ 7eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo d
+ erive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-93@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260706T190000Z
+DTEND:20260706T210000Z
+SUMMARY:Coupe du Monde 2026 - Vainqueur match 83 - Vainqueur match 84
+LOCATION:Dallas Stadium\, Dallas\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 93\n8es de finale\nStade: Dallas Stadium\nVille: Dal
+ las\nHoraire source: 15:00 ET (FIFA World Cup 2026 Official Match Schedule
+ \, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/
+ original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo derive du n
+ umero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-94@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260707T000000Z
+DTEND:20260707T020000Z
+SUMMARY:Coupe du Monde 2026 - Vainqueur match 81 - Vainqueur match 82
+LOCATION:Seattle Stadium\, Seattle\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 94\n8es de finale\nStade: Seattle Stadium\nVille: Se
+ attle\nHoraire source: 20:00 ET (FIFA World Cup 2026 Official Match Schedu
+ le\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37eb98fcc
+ 5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo derive du
+  numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-95@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260707T160000Z
+DTEND:20260707T180000Z
+SUMMARY:Coupe du Monde 2026 - Vainqueur match 86 - Vainqueur match 88
+LOCATION:Atlanta Stadium\, Atlanta\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 95\n8es de finale\nStade: Atlanta Stadium\nVille: At
+ lanta\nHoraire source: 12:00 ET (FIFA World Cup 2026 Official Match Schedu
+ le\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37eb98fcc
+ 5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo derive du
+  numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-96@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260707T200000Z
+DTEND:20260707T220000Z
+SUMMARY:Coupe du Monde 2026 - Vainqueur match 85 - Vainqueur match 87
+LOCATION:BC Place\, Vancouver\, Canada
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 96\n8es de finale\nStade: BC Place\nVille: Vancouver
+ \nHoraire source: 16:00 ET (FIFA World Cup 2026 Official Match Schedule\, 
+ 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/ori
+ ginal/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo derive du nume
+ ro de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-97@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260709T200000Z
+DTEND:20260709T220000Z
+SUMMARY:Coupe du Monde 2026 - Vainqueur match 89 - Vainqueur match 90
+LOCATION:Boston Stadium\, Boston\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 97\nQuarts de finale\nStade: Boston Stadium\nVille: 
+ Boston\nHoraire source: 16:00 ET (FIFA World Cup 2026 Official Match Sched
+ ule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37eb98fc
+ c5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo derive d
+ u numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-98@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260710T190000Z
+DTEND:20260710T210000Z
+SUMMARY:Coupe du Monde 2026 - Vainqueur match 93 - Vainqueur match 94
+LOCATION:Los Angeles Stadium\, Los Angeles\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 98\nQuarts de finale\nStade: Los Angeles Stadium\nVi
+ lle: Los Angeles\nHoraire source: 15:00 ET (FIFA World Cup 2026 Official M
+ atch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9
+ ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAb
+ o derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-99@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260711T210000Z
+DTEND:20260711T230000Z
+SUMMARY:Coupe du Monde 2026 - Vainqueur match 91 - Vainqueur match 92
+LOCATION:Miami Stadium\, Miami\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 99\nQuarts de finale\nStade: Miami Stadium\nVille: M
+ iami\nHoraire source: 17:00 ET (FIFA World Cup 2026 Official Match Schedul
+ e\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37eb98fcc5
+ /original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo derive du 
+ numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-100@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260712T010000Z
+DTEND:20260712T030000Z
+SUMMARY:Coupe du Monde 2026 - Vainqueur match 95 - Vainqueur match 96
+LOCATION:Kansas City Stadium\, Kansas City\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 100\nQuarts de finale\nStade: Kansas City Stadium\nV
+ ille: Kansas City\nHoraire source: 21:00 ET (FIFA World Cup 2026 Official 
+ Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be
+ 9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilA
+ bo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-101@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260714T190000Z
+DTEND:20260714T210000Z
+SUMMARY:Coupe du Monde 2026 - Vainqueur match 97 - Vainqueur match 98
+LOCATION:Dallas Stadium\, Dallas\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 101\nDemi-finales\nStade: Dallas Stadium\nVille: Dal
+ las\nHoraire source: 15:00 ET (FIFA World Cup 2026 Official Match Schedule
+ \, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/
+ original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo derive du n
+ umero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-102@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260715T190000Z
+DTEND:20260715T210000Z
+SUMMARY:Coupe du Monde 2026 - Vainqueur match 99 - Vainqueur match 100
+LOCATION:Atlanta Stadium\, Atlanta\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 102\nDemi-finales\nStade: Atlanta Stadium\nVille: At
+ lanta\nHoraire source: 15:00 ET (FIFA World Cup 2026 Official Match Schedu
+ le\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37eb98fcc
+ 5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo derive du
+  numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-103@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260718T210000Z
+DTEND:20260718T230000Z
+SUMMARY:Coupe du Monde 2026 - Petite finale
+LOCATION:Miami Stadium\, Miami\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 103\nPetite finale\nStade: Miami Stadium\nVille: Mia
+ mi\nHoraire source: 17:00 ET (FIFA World Cup 2026 Official Match Schedule\
+ , 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/o
+ riginal/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo derive du nu
+ mero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-104@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260719T190000Z
+DTEND:20260719T210000Z
+SUMMARY:Coupe du Monde 2026 - Finale
+LOCATION:New York New Jersey Stadium\, New York New Jersey\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 104\nFinale\nStade: New York New Jersey Stadium\nVil
+ le: New York New Jersey\nHoraire source: 15:00 ET (FIFA World Cup 2026 Off
+ icial Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com
+ /m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable 
+ FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+END:VCALENDAR

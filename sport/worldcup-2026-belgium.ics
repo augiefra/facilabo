@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Coupe du Monde 2026//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Coupe du Monde 2026 - Belgique
+X-WR-TIMEZONE:Europe/Paris
+X-FACILABO-SOURCE:FIFA World Cup 2026 Official Match Schedule
+X-FACILABO-SOURCE-VERIFIED:2026-04-24
+BEGIN:VEVENT
+UID:worldcup-2026-match-16@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260615T190000Z
+DTEND:20260615T210000Z
+SUMMARY:Coupe du Monde 2026 - Belgique - Egypte
+LOCATION:Seattle Stadium\, Seattle\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 16\nPhase de groupes\nGroupe G\nStade: Seattle Stadi
+ um\nVille: Seattle\nHoraire source: 15:00 ET (FIFA World Cup 2026 Official
+  Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1b
+ e9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable Facil
+ Abo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-39@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260621T190000Z
+DTEND:20260621T210000Z
+SUMMARY:Coupe du Monde 2026 - Belgique - Iran
+LOCATION:Los Angeles Stadium\, Los Angeles\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 39\nPhase de groupes\nGroupe G\nStade: Los Angeles S
+ tadium\nVille: Los Angeles\nHoraire source: 15:00 ET (FIFA World Cup 2026 
+ Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.
+ com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stab
+ le FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-64@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:Coupe du Monde 2026 - Nouvelle-Zelande - Belgique
+LOCATION:BC Place\, Vancouver\, Canada
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 64\nPhase de groupes\nGroupe G\nStade: BC Place\nVil
+ le: Vancouver\nHoraire source: 23:00 ET (FIFA World Cup 2026 Official Matc
+ h Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce3
+ 7eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo d
+ erive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+END:VCALENDAR
