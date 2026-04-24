@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Coupe du Monde 2026//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Coupe du Monde 2026 - France
+X-WR-TIMEZONE:Europe/Paris
+X-FACILABO-SOURCE:FIFA World Cup 2026 Official Match Schedule
+X-FACILABO-SOURCE-VERIFIED:2026-04-24
+BEGIN:VEVENT
+UID:worldcup-2026-match-17@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260616T190000Z
+DTEND:20260616T210000Z
+SUMMARY:Coupe du Monde 2026 - France - Senegal
+LOCATION:New York New Jersey Stadium\, New York New Jersey\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 17\nPhase de groupes\nGroupe I\nStade: New York New 
+ Jersey Stadium\nVille: New York New Jersey\nHoraire source: 15:00 ET (FIFA
+  World Cup 2026 Official Match Schedule\, 10 April 2026)\nSource: https://
+ digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_Engli
+ sh.pdf\nUID stable FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-42@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260622T210000Z
+DTEND:20260622T230000Z
+SUMMARY:Coupe du Monde 2026 - France - Irak
+LOCATION:Philadelphia Stadium\, Philadelphia\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 42\nPhase de groupes\nGroupe I\nStade: Philadelphia 
+ Stadium\nVille: Philadelphia\nHoraire source: 17:00 ET (FIFA World Cup 202
+ 6 Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fif
+ a.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID st
+ able FacilAbo derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-61@facilabo.app
+DTSTAMP:20260424T120000Z
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:Coupe du Monde 2026 - Norvege - France
+LOCATION:Boston Stadium\, Boston\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 61\nPhase de groupes\nGroupe I\nStade: Boston Stadiu
+ m\nVille: Boston\nHoraire source: 15:00 ET (FIFA World Cup 2026 Official M
+ atch Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9
+ ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAb
+ o derive du numero de match FIFA.
+URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
+ edule_English.pdf
+END:VEVENT
+END:VCALENDAR
