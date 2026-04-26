@@ -25,18 +25,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sport-france-foot-equipe-nationale-france-foot-2026-03-26-bresil-friendly@facilabo.app
-DTSTAMP:20260326T000000Z
-DTSTART;TZID=Europe/Paris:20260326T210000
-DTEND;TZID=Europe/Paris:20260326T230000
-SUMMARY:Bresil - France
-DESCRIPTION:Competition: International - Friendly | Source: https://www.equipe-france.fr/football/masculin/calendrier | Provenance: fallback:football-france-uefa-qualifiers
-LOCATION:Bresil
-URL:https://www.equipe-france.fr/football/masculin/calendrier
-CATEGORIES:Sport,Football,Equipe de France
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sport-france-foot-equipe-nationale-france-foot-2026-03-29-colombie-friendly@facilabo.app
 DTSTAMP:20260329T000000Z
 DTSTART;TZID=Europe/Paris:20260329T210000
@@ -62,15 +50,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-france-foot-equipe-nationale-france-foot-2026-06-22-group-i-tbd@facilabo.app
-DTSTAMP:20260410T062000Z
+DTSTAMP:20260622T000000Z
 DTSTART;TZID=Europe/Paris:20260622T230000
 DTEND;TZID=Europe/Paris:20260623T010000
-SUMMARY:France - Irak
-DESCRIPTION:Competition: Coupe du monde - Groupe I | Source: https://www.equipe-france.fr/football/masculin/calendrier | Provenance: fallback:football-france-uefa-qualifiers | Adversaire officiel confirme
+SUMMARY:France - Adversaire a confirmer
+DESCRIPTION:Competition: Coupe du monde - Groupe I | Source: https://www.equipe-france.fr/football/masculin/calendrier | Provenance: fallback:football-france-uefa-qualifiers
 LOCATION:Etats-Unis
 URL:https://www.equipe-france.fr/football/masculin/calendrier
 CATEGORIES:Sport,Football,Equipe de France
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-france-foot-equipe-nationale-france-foot-2026-06-26-norvege-world-cup@facilabo.app
