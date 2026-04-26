@@ -490,12 +490,19 @@ function normalizeIcsEvent(source, rawEvent, pastDays, futureDays) {
     endToken = normalizeIcsDateToken(rawEvent.dtEndValue, rawEvent.dtEndKey);
   }
 
+  const rawSummary = source.slug === 'rugby-top-14-complet-source'
+    ? cleanText(rawEvent.summary).replace(/\s+vs\s+/gi, ' - ')
+    : rawEvent.summary;
+  const uidKey = source.slug === 'rugby-top-14-complet-source'
+    ? `top14-${startToken.startDate.slice(0, 4)}-${slugify(rawSummary)}-${startToken.startDate.replace(/-/g, '')}`
+    : rawEvent.uid;
+
   return normalizeEvent(
     source,
     {
       summary: source.summary_replace && rawEvent.summary
-        ? String(rawEvent.summary).replaceAll(source.summary_replace.from || '', source.summary_replace.to || '')
-        : rawEvent.summary,
+        ? String(rawSummary).replaceAll(source.summary_replace.from || '', source.summary_replace.to || '')
+        : rawSummary,
       timed: Boolean(startToken.timed),
       startDate: startToken.startDate,
       startDateTime: startToken.startDateTime,
@@ -503,7 +510,7 @@ function normalizeIcsEvent(source, rawEvent, pastDays, futureDays) {
       endDateTime: endToken?.startDateTime || null,
       location: rawEvent.location,
       sourceUrl: rawEvent.url || source.source_url,
-      uidKey: rawEvent.uid || null,
+      uidKey: uidKey || null,
       provenance: `crawl:${source.slug}`
     },
     pastDays,
