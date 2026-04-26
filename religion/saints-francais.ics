@@ -29,7 +29,7 @@ UID:religion-saints-francais-20250101@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20250101
 DTEND;VALUE=DATE:20250102
-SUMMARY:Jour de l'An
+SUMMARY:Sainte Marie, mère de Dieu
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -293,7 +293,7 @@ UID:religion-saints-francais-20250125@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20250125
 DTEND;VALUE=DATE:20250126
-SUMMARY:Conversion de Paul
+SUMMARY:Conversion de Saint Paul
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -381,7 +381,7 @@ UID:religion-saints-francais-20250202@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20250202
 DTEND;VALUE=DATE:20250203
-SUMMARY:Fête de la Présention
+SUMMARY:Présentation de Jésus au Temple
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -590,7 +590,7 @@ UID:religion-saints-francais-20250221@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20250221
 DTEND;VALUE=DATE:20250222
-SUMMARY:Mercredi des Cendres
+SUMMARY:Saint Pierre Damien
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -1349,7 +1349,7 @@ UID:religion-saints-francais-20250501@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20250501
 DTEND;VALUE=DATE:20250502
-SUMMARY:Fête du travail
+SUMMARY:Saint Jérémie, le prophète
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -1426,7 +1426,7 @@ UID:religion-saints-francais-20250508@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20250508
 DTEND;VALUE=DATE:20250509
-SUMMARY:Armistice de 1945
+SUMMARY:Saint Désiré
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -1910,7 +1910,7 @@ UID:religion-saints-francais-20250621@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20250621
 DTEND;VALUE=DATE:20250622
-SUMMARY:Solstice d'été
+SUMMARY:Saint Louis de Gonzague
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -2163,7 +2163,7 @@ UID:religion-saints-francais-20250714@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20250714
 DTEND;VALUE=DATE:20250715
-SUMMARY:Fête Nationale
+SUMMARY:Saint Camille de Lellis
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -2768,7 +2768,7 @@ UID:religion-saints-francais-20250907@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20250907
 DTEND;VALUE=DATE:20250908
-SUMMARY:Sao,te Reine
+SUMMARY:Sainte Reine
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -2779,7 +2779,7 @@ UID:religion-saints-francais-20250908@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20250908
 DTEND;VALUE=DATE:20250909
-SUMMARY:Fête de la Nativité
+SUMMARY:Nativité de la Vierge Marie
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -2944,7 +2944,7 @@ UID:religion-saints-francais-20250923@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20250923
 DTEND;VALUE=DATE:20250924
-SUMMARY:Equinoxe d'Automne
+SUMMARY:Saint Constant
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -3483,7 +3483,7 @@ UID:religion-saints-francais-20251111@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20251111
 DTEND;VALUE=DATE:20251112
-SUMMARY:Armistice de 1918
+SUMMARY:Saint Martin de Tours
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -3593,7 +3593,7 @@ UID:religion-saints-francais-20251121@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251122
-SUMMARY:Présence de Marie
+SUMMARY:Présentation de la Vierge Marie
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -3923,7 +3923,7 @@ UID:religion-saints-francais-20251221@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20251221
 DTEND;VALUE=DATE:20251222
-SUMMARY:Solstice d'Hiver
+SUMMARY:Saint Pierre Canisius
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -4044,7 +4044,7 @@ UID:religion-saints-francais-20260101@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
-SUMMARY:Jour de l'An
+SUMMARY:Sainte Marie, mère de Dieu
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -4308,7 +4308,7 @@ UID:religion-saints-francais-20260125@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
-SUMMARY:Conversion de Paul
+SUMMARY:Conversion de Saint Paul
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -4396,7 +4396,7 @@ UID:religion-saints-francais-20260202@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20260202
 DTEND;VALUE=DATE:20260203
-SUMMARY:Fête de la Présention
+SUMMARY:Présentation de Jésus au Temple
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -4605,7 +4605,7 @@ UID:religion-saints-francais-20260221@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20260221
 DTEND;VALUE=DATE:20260222
-SUMMARY:Mercredi des Cendres
+SUMMARY:Saint Pierre Damien
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -5364,7 +5364,7 @@ UID:religion-saints-francais-20260501@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-SUMMARY:Fête du travail
+SUMMARY:Saint Jérémie, le prophète
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -5441,7 +5441,7 @@ UID:religion-saints-francais-20260508@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
-SUMMARY:Armistice de 1945
+SUMMARY:Saint Désiré
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -5925,7 +5925,7 @@ UID:religion-saints-francais-20260621@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-SUMMARY:Solstice d'été
+SUMMARY:Saint Louis de Gonzague
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -6178,7 +6178,7 @@ UID:religion-saints-francais-20260714@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
-SUMMARY:Fête Nationale
+SUMMARY:Saint Camille de Lellis
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -6783,7 +6783,7 @@ UID:religion-saints-francais-20260907@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-SUMMARY:Sao,te Reine
+SUMMARY:Sainte Reine
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -6794,7 +6794,7 @@ UID:religion-saints-francais-20260908@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-SUMMARY:Fête de la Nativité
+SUMMARY:Nativité de la Vierge Marie
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -6959,7 +6959,7 @@ UID:religion-saints-francais-20260923@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-SUMMARY:Equinoxe d'Automne
+SUMMARY:Saint Constant
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -7498,7 +7498,7 @@ UID:religion-saints-francais-20261111@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:Armistice de 1918
+SUMMARY:Saint Martin de Tours
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -7608,7 +7608,7 @@ UID:religion-saints-francais-20261121@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:Présence de Marie
+SUMMARY:Présentation de la Vierge Marie
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -7938,7 +7938,7 @@ UID:religion-saints-francais-20261221@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-SUMMARY:Solstice d'Hiver
+SUMMARY:Saint Pierre Canisius
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -8059,7 +8059,7 @@ UID:religion-saints-francais-20270101@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
-SUMMARY:Jour de l'An
+SUMMARY:Sainte Marie, mère de Dieu
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -8323,7 +8323,7 @@ UID:religion-saints-francais-20270125@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
-SUMMARY:Conversion de Paul
+SUMMARY:Conversion de Saint Paul
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -8411,7 +8411,7 @@ UID:religion-saints-francais-20270202@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
-SUMMARY:Fête de la Présention
+SUMMARY:Présentation de Jésus au Temple
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -8620,7 +8620,7 @@ UID:religion-saints-francais-20270221@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
-SUMMARY:Mercredi des Cendres
+SUMMARY:Saint Pierre Damien
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -9379,7 +9379,7 @@ UID:religion-saints-francais-20270501@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-SUMMARY:Fête du travail
+SUMMARY:Saint Jérémie, le prophète
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -9456,7 +9456,7 @@ UID:religion-saints-francais-20270508@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
-SUMMARY:Armistice de 1945
+SUMMARY:Saint Désiré
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -9940,7 +9940,7 @@ UID:religion-saints-francais-20270621@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270622
-SUMMARY:Solstice d'été
+SUMMARY:Saint Louis de Gonzague
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -10193,7 +10193,7 @@ UID:religion-saints-francais-20270714@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20270714
 DTEND;VALUE=DATE:20270715
-SUMMARY:Fête Nationale
+SUMMARY:Saint Camille de Lellis
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -10798,7 +10798,7 @@ UID:religion-saints-francais-20270907@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20270907
 DTEND;VALUE=DATE:20270908
-SUMMARY:Sao,te Reine
+SUMMARY:Sainte Reine
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -10809,7 +10809,7 @@ UID:religion-saints-francais-20270908@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270909
-SUMMARY:Fête de la Nativité
+SUMMARY:Nativité de la Vierge Marie
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -10974,7 +10974,7 @@ UID:religion-saints-francais-20270923@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20270923
 DTEND;VALUE=DATE:20270924
-SUMMARY:Equinoxe d'Automne
+SUMMARY:Saint Constant
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -11513,7 +11513,7 @@ UID:religion-saints-francais-20271111@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20271111
 DTEND;VALUE=DATE:20271112
-SUMMARY:Armistice de 1918
+SUMMARY:Saint Martin de Tours
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -11623,7 +11623,7 @@ UID:religion-saints-francais-20271121@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20271121
 DTEND;VALUE=DATE:20271122
-SUMMARY:Présence de Marie
+SUMMARY:Présentation de la Vierge Marie
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -11953,7 +11953,7 @@ UID:religion-saints-francais-20271221@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20271221
 DTEND;VALUE=DATE:20271222
-SUMMARY:Solstice d'Hiver
+SUMMARY:Saint Pierre Canisius
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -12074,7 +12074,7 @@ UID:religion-saints-francais-20280101@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20280101
 DTEND;VALUE=DATE:20280102
-SUMMARY:Jour de l'An
+SUMMARY:Sainte Marie, mère de Dieu
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -12338,7 +12338,7 @@ UID:religion-saints-francais-20280125@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20280125
 DTEND;VALUE=DATE:20280126
-SUMMARY:Conversion de Paul
+SUMMARY:Conversion de Saint Paul
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -12426,7 +12426,7 @@ UID:religion-saints-francais-20280202@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20280202
 DTEND;VALUE=DATE:20280203
-SUMMARY:Fête de la Présention
+SUMMARY:Présentation de Jésus au Temple
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -12635,7 +12635,7 @@ UID:religion-saints-francais-20280221@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20280221
 DTEND;VALUE=DATE:20280222
-SUMMARY:Mercredi des Cendres
+SUMMARY:Saint Pierre Damien
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -13405,7 +13405,7 @@ UID:religion-saints-francais-20280501@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20280501
 DTEND;VALUE=DATE:20280502
-SUMMARY:Fête du travail
+SUMMARY:Saint Jérémie, le prophète
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -13482,7 +13482,7 @@ UID:religion-saints-francais-20280508@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20280508
 DTEND;VALUE=DATE:20280509
-SUMMARY:Armistice de 1945
+SUMMARY:Saint Désiré
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -13966,7 +13966,7 @@ UID:religion-saints-francais-20280621@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20280621
 DTEND;VALUE=DATE:20280622
-SUMMARY:Solstice d'été
+SUMMARY:Saint Louis de Gonzague
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -14219,7 +14219,7 @@ UID:religion-saints-francais-20280714@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20280714
 DTEND;VALUE=DATE:20280715
-SUMMARY:Fête Nationale
+SUMMARY:Saint Camille de Lellis
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -14824,7 +14824,7 @@ UID:religion-saints-francais-20280907@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20280907
 DTEND;VALUE=DATE:20280908
-SUMMARY:Sao,te Reine
+SUMMARY:Sainte Reine
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -14835,7 +14835,7 @@ UID:religion-saints-francais-20280908@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20280908
 DTEND;VALUE=DATE:20280909
-SUMMARY:Fête de la Nativité
+SUMMARY:Nativité de la Vierge Marie
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -15000,7 +15000,7 @@ UID:religion-saints-francais-20280923@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20280923
 DTEND;VALUE=DATE:20280924
-SUMMARY:Equinoxe d'Automne
+SUMMARY:Saint Constant
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -15539,7 +15539,7 @@ UID:religion-saints-francais-20281111@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20281111
 DTEND;VALUE=DATE:20281112
-SUMMARY:Armistice de 1918
+SUMMARY:Saint Martin de Tours
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -15649,7 +15649,7 @@ UID:religion-saints-francais-20281121@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20281121
 DTEND;VALUE=DATE:20281122
-SUMMARY:Présence de Marie
+SUMMARY:Présentation de la Vierge Marie
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -15979,7 +15979,7 @@ UID:religion-saints-francais-20281221@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20281221
 DTEND;VALUE=DATE:20281222
-SUMMARY:Solstice d'Hiver
+SUMMARY:Saint Pierre Canisius
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -16100,7 +16100,7 @@ UID:religion-saints-francais-20290101@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20290101
 DTEND;VALUE=DATE:20290102
-SUMMARY:Jour de l'An
+SUMMARY:Sainte Marie, mère de Dieu
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -16364,7 +16364,7 @@ UID:religion-saints-francais-20290125@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20290125
 DTEND;VALUE=DATE:20290126
-SUMMARY:Conversion de Paul
+SUMMARY:Conversion de Saint Paul
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -16452,7 +16452,7 @@ UID:religion-saints-francais-20290202@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20290202
 DTEND;VALUE=DATE:20290203
-SUMMARY:Fête de la Présention
+SUMMARY:Présentation de Jésus au Temple
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -16661,7 +16661,7 @@ UID:religion-saints-francais-20290221@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20290221
 DTEND;VALUE=DATE:20290222
-SUMMARY:Mercredi des Cendres
+SUMMARY:Saint Pierre Damien
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -17420,7 +17420,7 @@ UID:religion-saints-francais-20290501@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20290501
 DTEND;VALUE=DATE:20290502
-SUMMARY:Fête du travail
+SUMMARY:Saint Jérémie, le prophète
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -17497,7 +17497,7 @@ UID:religion-saints-francais-20290508@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20290508
 DTEND;VALUE=DATE:20290509
-SUMMARY:Armistice de 1945
+SUMMARY:Saint Désiré
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -17981,7 +17981,7 @@ UID:religion-saints-francais-20290621@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20290621
 DTEND;VALUE=DATE:20290622
-SUMMARY:Solstice d'été
+SUMMARY:Saint Louis de Gonzague
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -18234,7 +18234,7 @@ UID:religion-saints-francais-20290714@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20290714
 DTEND;VALUE=DATE:20290715
-SUMMARY:Fête Nationale
+SUMMARY:Saint Camille de Lellis
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -18839,7 +18839,7 @@ UID:religion-saints-francais-20290907@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20290907
 DTEND;VALUE=DATE:20290908
-SUMMARY:Sao,te Reine
+SUMMARY:Sainte Reine
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -18850,7 +18850,7 @@ UID:religion-saints-francais-20290908@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20290908
 DTEND;VALUE=DATE:20290909
-SUMMARY:Fête de la Nativité
+SUMMARY:Nativité de la Vierge Marie
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -19015,7 +19015,7 @@ UID:religion-saints-francais-20290923@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20290923
 DTEND;VALUE=DATE:20290924
-SUMMARY:Equinoxe d'Automne
+SUMMARY:Saint Constant
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -19554,7 +19554,7 @@ UID:religion-saints-francais-20291111@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20291111
 DTEND;VALUE=DATE:20291112
-SUMMARY:Armistice de 1918
+SUMMARY:Saint Martin de Tours
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -19664,7 +19664,7 @@ UID:religion-saints-francais-20291121@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20291121
 DTEND;VALUE=DATE:20291122
-SUMMARY:Présence de Marie
+SUMMARY:Présentation de la Vierge Marie
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -19994,7 +19994,7 @@ UID:religion-saints-francais-20291221@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20291221
 DTEND;VALUE=DATE:20291222
-SUMMARY:Solstice d'Hiver
+SUMMARY:Saint Pierre Canisius
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -20115,7 +20115,7 @@ UID:religion-saints-francais-20300101@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20300101
 DTEND;VALUE=DATE:20300102
-SUMMARY:Jour de l'An
+SUMMARY:Sainte Marie, mère de Dieu
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -20379,7 +20379,7 @@ UID:religion-saints-francais-20300125@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20300125
 DTEND;VALUE=DATE:20300126
-SUMMARY:Conversion de Paul
+SUMMARY:Conversion de Saint Paul
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -20467,7 +20467,7 @@ UID:religion-saints-francais-20300202@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20300202
 DTEND;VALUE=DATE:20300203
-SUMMARY:Fête de la Présention
+SUMMARY:Présentation de Jésus au Temple
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -20676,7 +20676,7 @@ UID:religion-saints-francais-20300221@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20300221
 DTEND;VALUE=DATE:20300222
-SUMMARY:Mercredi des Cendres
+SUMMARY:Saint Pierre Damien
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -21435,7 +21435,7 @@ UID:religion-saints-francais-20300501@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20300501
 DTEND;VALUE=DATE:20300502
-SUMMARY:Fête du travail
+SUMMARY:Saint Jérémie, le prophète
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -21512,7 +21512,7 @@ UID:religion-saints-francais-20300508@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20300508
 DTEND;VALUE=DATE:20300509
-SUMMARY:Armistice de 1945
+SUMMARY:Saint Désiré
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -21996,7 +21996,7 @@ UID:religion-saints-francais-20300621@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20300621
 DTEND;VALUE=DATE:20300622
-SUMMARY:Solstice d'été
+SUMMARY:Saint Louis de Gonzague
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -22249,7 +22249,7 @@ UID:religion-saints-francais-20300714@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20300714
 DTEND;VALUE=DATE:20300715
-SUMMARY:Fête Nationale
+SUMMARY:Saint Camille de Lellis
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -22854,7 +22854,7 @@ UID:religion-saints-francais-20300907@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20300907
 DTEND;VALUE=DATE:20300908
-SUMMARY:Sao,te Reine
+SUMMARY:Sainte Reine
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -22865,7 +22865,7 @@ UID:religion-saints-francais-20300908@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20300908
 DTEND;VALUE=DATE:20300909
-SUMMARY:Fête de la Nativité
+SUMMARY:Nativité de la Vierge Marie
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -23030,7 +23030,7 @@ UID:religion-saints-francais-20300923@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20300923
 DTEND;VALUE=DATE:20300924
-SUMMARY:Equinoxe d'Automne
+SUMMARY:Saint Constant
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -23569,7 +23569,7 @@ UID:religion-saints-francais-20301111@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20301111
 DTEND;VALUE=DATE:20301112
-SUMMARY:Armistice de 1918
+SUMMARY:Saint Martin de Tours
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -23679,7 +23679,7 @@ UID:religion-saints-francais-20301121@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20301121
 DTEND;VALUE=DATE:20301122
-SUMMARY:Présence de Marie
+SUMMARY:Présentation de la Vierge Marie
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -24009,7 +24009,7 @@ UID:religion-saints-francais-20301221@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20301221
 DTEND;VALUE=DATE:20301222
-SUMMARY:Solstice d'Hiver
+SUMMARY:Saint Pierre Canisius
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -24130,7 +24130,7 @@ UID:religion-saints-francais-20310101@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20310101
 DTEND;VALUE=DATE:20310102
-SUMMARY:Jour de l'An
+SUMMARY:Sainte Marie, mère de Dieu
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -24394,7 +24394,7 @@ UID:religion-saints-francais-20310125@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20310125
 DTEND;VALUE=DATE:20310126
-SUMMARY:Conversion de Paul
+SUMMARY:Conversion de Saint Paul
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -24482,7 +24482,7 @@ UID:religion-saints-francais-20310202@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20310202
 DTEND;VALUE=DATE:20310203
-SUMMARY:Fête de la Présention
+SUMMARY:Présentation de Jésus au Temple
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -24691,7 +24691,7 @@ UID:religion-saints-francais-20310221@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20310221
 DTEND;VALUE=DATE:20310222
-SUMMARY:Mercredi des Cendres
+SUMMARY:Saint Pierre Damien
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -25450,7 +25450,7 @@ UID:religion-saints-francais-20310501@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20310501
 DTEND;VALUE=DATE:20310502
-SUMMARY:Fête du travail
+SUMMARY:Saint Jérémie, le prophète
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -25527,7 +25527,7 @@ UID:religion-saints-francais-20310508@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20310508
 DTEND;VALUE=DATE:20310509
-SUMMARY:Armistice de 1945
+SUMMARY:Saint Désiré
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -26011,7 +26011,7 @@ UID:religion-saints-francais-20310621@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20310621
 DTEND;VALUE=DATE:20310622
-SUMMARY:Solstice d'été
+SUMMARY:Saint Louis de Gonzague
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -26264,7 +26264,7 @@ UID:religion-saints-francais-20310714@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20310714
 DTEND;VALUE=DATE:20310715
-SUMMARY:Fête Nationale
+SUMMARY:Saint Camille de Lellis
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -26869,7 +26869,7 @@ UID:religion-saints-francais-20310907@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20310907
 DTEND;VALUE=DATE:20310908
-SUMMARY:Sao,te Reine
+SUMMARY:Sainte Reine
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -26880,7 +26880,7 @@ UID:religion-saints-francais-20310908@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20310908
 DTEND;VALUE=DATE:20310909
-SUMMARY:Fête de la Nativité
+SUMMARY:Nativité de la Vierge Marie
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -27045,7 +27045,7 @@ UID:religion-saints-francais-20310923@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20310923
 DTEND;VALUE=DATE:20310924
-SUMMARY:Equinoxe d'Automne
+SUMMARY:Saint Constant
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -27584,7 +27584,7 @@ UID:religion-saints-francais-20311111@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20311111
 DTEND;VALUE=DATE:20311112
-SUMMARY:Armistice de 1918
+SUMMARY:Saint Martin de Tours
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -27694,7 +27694,7 @@ UID:religion-saints-francais-20311121@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20311121
 DTEND;VALUE=DATE:20311122
-SUMMARY:Présence de Marie
+SUMMARY:Présentation de la Vierge Marie
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -28024,7 +28024,7 @@ UID:religion-saints-francais-20311221@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20311221
 DTEND;VALUE=DATE:20311222
-SUMMARY:Solstice d'Hiver
+SUMMARY:Saint Pierre Canisius
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -28145,7 +28145,7 @@ UID:religion-saints-francais-20320101@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20320101
 DTEND;VALUE=DATE:20320102
-SUMMARY:Jour de l'An
+SUMMARY:Sainte Marie, mère de Dieu
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -28409,7 +28409,7 @@ UID:religion-saints-francais-20320125@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20320125
 DTEND;VALUE=DATE:20320126
-SUMMARY:Conversion de Paul
+SUMMARY:Conversion de Saint Paul
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -28497,7 +28497,7 @@ UID:religion-saints-francais-20320202@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20320202
 DTEND;VALUE=DATE:20320203
-SUMMARY:Fête de la Présention
+SUMMARY:Présentation de Jésus au Temple
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -28706,7 +28706,7 @@ UID:religion-saints-francais-20320221@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20320221
 DTEND;VALUE=DATE:20320222
-SUMMARY:Mercredi des Cendres
+SUMMARY:Saint Pierre Damien
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -29476,7 +29476,7 @@ UID:religion-saints-francais-20320501@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20320501
 DTEND;VALUE=DATE:20320502
-SUMMARY:Fête du travail
+SUMMARY:Saint Jérémie, le prophète
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -29553,7 +29553,7 @@ UID:religion-saints-francais-20320508@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20320508
 DTEND;VALUE=DATE:20320509
-SUMMARY:Armistice de 1945
+SUMMARY:Saint Désiré
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -30037,7 +30037,7 @@ UID:religion-saints-francais-20320621@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20320621
 DTEND;VALUE=DATE:20320622
-SUMMARY:Solstice d'été
+SUMMARY:Saint Louis de Gonzague
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -30290,7 +30290,7 @@ UID:religion-saints-francais-20320714@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20320714
 DTEND;VALUE=DATE:20320715
-SUMMARY:Fête Nationale
+SUMMARY:Saint Camille de Lellis
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -30895,7 +30895,7 @@ UID:religion-saints-francais-20320907@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20320907
 DTEND;VALUE=DATE:20320908
-SUMMARY:Sao,te Reine
+SUMMARY:Sainte Reine
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -30906,7 +30906,7 @@ UID:religion-saints-francais-20320908@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20320908
 DTEND;VALUE=DATE:20320909
-SUMMARY:Fête de la Nativité
+SUMMARY:Nativité de la Vierge Marie
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -31071,7 +31071,7 @@ UID:religion-saints-francais-20320923@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20320923
 DTEND;VALUE=DATE:20320924
-SUMMARY:Equinoxe d'Automne
+SUMMARY:Saint Constant
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -31610,7 +31610,7 @@ UID:religion-saints-francais-20321111@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20321111
 DTEND;VALUE=DATE:20321112
-SUMMARY:Armistice de 1918
+SUMMARY:Saint Martin de Tours
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -31720,7 +31720,7 @@ UID:religion-saints-francais-20321121@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20321121
 DTEND;VALUE=DATE:20321122
-SUMMARY:Présence de Marie
+SUMMARY:Présentation de la Vierge Marie
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
@@ -32050,7 +32050,7 @@ UID:religion-saints-francais-20321221@facilabo.app
 DTSTAMP:20260206T134241Z
 DTSTART;VALUE=DATE:20321221
 DTEND;VALUE=DATE:20321222
-SUMMARY:Solstice d'Hiver
+SUMMARY:Saint Pierre Canisius
 DESCRIPTION:Calendrier quotidien du saint/fete du jour (referentiel public, edition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
