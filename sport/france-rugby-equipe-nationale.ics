@@ -25,28 +25,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202600-scotland-v-france@facilabo.app
-DTSTAMP:20260307T000000Z
-DTSTART;TZID=Europe/Paris:20260307T151000
-DTEND;TZID=Europe/Paris:20260307T171000
-SUMMARY:Ecosse - France
-DESCRIPTION:Competition: Six Nations | External Match ID: 202600-scotland-v-france | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/scotland-v-france-07032026-1410 | Provenance: crawl:rugby-france-sixnations-m6n
-URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/scotland-v-france-07032026-1410
-CATEGORIES:Sport,Rugby,Equipe de France
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202600-france-v-england@facilabo.app
-DTSTAMP:20260314T000000Z
-DTSTART;TZID=Europe/Paris:20260314T221000
-DTEND;TZID=Europe/Paris:20260315T001000
-SUMMARY:France - Angleterre
-DESCRIPTION:Competition: Six Nations | External Match ID: 202600-france-v-england | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-england-14032026-2110 | Provenance: crawl:rugby-france-sixnations-m6n
-URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-england-14032026-2110
-CATEGORIES:Sport,Rugby,Equipe de France
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sport-france-rugby-equipe-nationale-france-rugby-2026-11-14-autumn@facilabo.app
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Paris:20261114T211000
