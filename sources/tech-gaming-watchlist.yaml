@@ -135,7 +135,7 @@
       "event_name": "SIGGRAPH 2026",
       "source_url": "https://s2026.siggraph.org/",
       "selector_rule": "Find conference date range in official SIGGRAPH pages",
-      "timezone_source": "America/Vancouver",
+      "timezone_source": "America/Los_Angeles",
       "confidence_rule": "high_if_date_explicit",
       "enabled": true,
       "watch_only": false,
@@ -145,7 +145,7 @@
         "start_date": "2026-07-19",
         "end_date": "2026-07-23",
         "timed": false,
-        "location": "Vancouver, Canada",
+        "location": "Los Angeles, USA",
         "status": "CONFIRMED",
         "dtstamp": "20260206T120000Z",
         "categories": ["Culture", "Tech", "Gaming"]
