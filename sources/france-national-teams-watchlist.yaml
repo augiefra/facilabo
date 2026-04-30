@@ -154,17 +154,6 @@
           "competition": "Six Nations",
           "source_url": "https://www.sixnationsrugby.com/en/m6n/fixtures",
           "status": "TENTATIVE"
-        },
-        {
-          "uid_key": "france-rugby-2026-11-14-autumn",
-          "summary": "Equipe de France Rugby - Autumn Nations Series (date sujette a confirmation)",
-          "timed": true,
-          "start_datetime": "2026-11-14T21:10:00",
-          "end_datetime": "2026-11-14T23:10:00",
-          "location": "France",
-          "competition": "Autumn Nations Series",
-          "source_url": "https://www.sixnationsrugby.com/en/autumn-nations-series/fixtures",
-          "status": "TENTATIVE"
         }
       ]
     },
@@ -181,7 +170,42 @@
       "crawl_enabled": true,
       "include_keywords": ["france"],
       "exclude_keywords": ["u20", "women", "feminine", "feminin", "sevens", "7s"],
-      "categories": ["Sport", "Rugby", "Equipe de France"]
+      "categories": ["Sport", "Rugby", "Equipe de France"],
+      "fallback_events": [
+        {
+          "uid_key": "france-rugby-2026-11-07-fidji-nations-championship",
+          "summary": "France - Fidji",
+          "timed": true,
+          "start_datetime": "2026-11-07T21:10:00",
+          "end_datetime": "2026-11-07T23:10:00",
+          "location": "Groupama Stadium, Lyon",
+          "competition": "Championnat des Nations 2026",
+          "source_url": "https://billetterie.ffr.fr/",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "france-rugby-2026-11-13-afrique-du-sud-nations-championship",
+          "summary": "France - Afrique du Sud",
+          "timed": true,
+          "start_datetime": "2026-11-13T21:10:00",
+          "end_datetime": "2026-11-13T23:10:00",
+          "location": "Stade de France, Saint-Denis",
+          "competition": "Championnat des Nations 2026",
+          "source_url": "https://www.stadefrance.com/fr/billetterie/france-afrique-du-sud-2026",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "france-rugby-2026-11-21-argentine-nations-championship",
+          "summary": "France - Argentine",
+          "timed": true,
+          "start_datetime": "2026-11-21T21:10:00",
+          "end_datetime": "2026-11-21T23:10:00",
+          "location": "Stade de France, Saint-Denis",
+          "competition": "Championnat des Nations 2026",
+          "source_url": "https://billetterie.ffr.fr/",
+          "status": "CONFIRMED"
+        }
+      ]
     },
     {
       "slug": "rugby-france-ffr-watch",

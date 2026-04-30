@@ -25,38 +25,40 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202600-scotland-v-france@facilabo.app
-DTSTAMP:20260307T000000Z
-DTSTART;TZID=Europe/Paris:20260307T151000
-DTEND;TZID=Europe/Paris:20260307T171000
-SUMMARY:Ecosse - France
-DESCRIPTION:Competition: Six Nations | External Match ID: 202600-scotland-v-france | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/scotland-v-france-07032026-1410 | Provenance: crawl:rugby-france-sixnations-m6n
-URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/scotland-v-france-07032026-1410
+UID:sport-france-rugby-equipe-nationale-france-rugby-2026-11-07-fidji-nations-championship@facilabo.app
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Paris:20261107T211000
+DTEND;TZID=Europe/Paris:20261107T231000
+SUMMARY:France - Fidji
+DESCRIPTION:Competition: Championnat des Nations 2026 | Source: https://billetterie.ffr.fr/ | Provenance: fallback:rugby-france-autumn-nations-series
+LOCATION:Groupama Stadium\, Lyon
+URL:https://billetterie.ffr.fr/
 CATEGORIES:Sport,Rugby,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202600-france-v-england@facilabo.app
-DTSTAMP:20260314T000000Z
-DTSTART;TZID=Europe/Paris:20260314T221000
-DTEND;TZID=Europe/Paris:20260315T001000
-SUMMARY:France - Angleterre
-DESCRIPTION:Competition: Six Nations | External Match ID: 202600-france-v-england | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-england-14032026-2110 | Provenance: crawl:rugby-france-sixnations-m6n
-URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/france-v-england-14032026-2110
+UID:sport-france-rugby-equipe-nationale-france-rugby-2026-11-13-afrique-du-sud-nations-championship@facilabo.app
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Paris:20261113T211000
+DTEND;TZID=Europe/Paris:20261113T231000
+SUMMARY:France - Afrique du Sud
+DESCRIPTION:Competition: Championnat des Nations 2026 | Source: https://www.stadefrance.com/fr/billetterie/france-afrique-du-sud-2026 | Provenance: fallback:rugby-france-autumn-nations-series
+LOCATION:Stade de France\, Saint-Denis
+URL:https://www.stadefrance.com/fr/billetterie/france-afrique-du-sud-2026
 CATEGORIES:Sport,Rugby,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-rugby-equipe-nationale-france-rugby-2026-11-14-autumn@facilabo.app
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Paris:20261114T211000
-DTEND;TZID=Europe/Paris:20261114T231000
-SUMMARY:Equipe de France Rugby - Autumn Nations Series (date sujette a confirmation)
-DESCRIPTION:Competition: Autumn Nations Series | Source: https://www.sixnationsrugby.com/en/autumn-nations-series/fixtures | Provenance: fallback:rugby-france-sixnations-m6n
-LOCATION:France
-URL:https://www.sixnationsrugby.com/en/autumn-nations-series/fixtures
+UID:sport-france-rugby-equipe-nationale-france-rugby-2026-11-21-argentine-nations-championship@facilabo.app
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Paris:20261121T211000
+DTEND;TZID=Europe/Paris:20261121T231000
+SUMMARY:France - Argentine
+DESCRIPTION:Competition: Championnat des Nations 2026 | Source: https://billetterie.ffr.fr/ | Provenance: fallback:rugby-france-autumn-nations-series
+LOCATION:Stade de France\, Saint-Denis
+URL:https://billetterie.ffr.fr/
 CATEGORIES:Sport,Rugby,Equipe de France
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202700-france-v-wales@facilabo.app
