@@ -1,10 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FacilAbo//Calendrier Saints Francais Quotidien//FR
+PRODID:-//FacilAbo//Calendrier Saint du Jour//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Saints Francais (quotidien)
-X-WR-CALDESC:Un saint (ou fete) pour chaque jour (2025-2032). Calendrier editorial base sur un referentiel public.
+X-WR-CALNAME:Saint du jour
+X-WR-CALDESC:Un saint ou une fête pour chaque jour (2025-2032). Calendrier éditorial basé sur un référentiel public.
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
