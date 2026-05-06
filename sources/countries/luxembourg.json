@@ -1,0 +1,92 @@
+{
+  "country": "Luxembourg",
+  "verified_at": "2026-05-06",
+  "sources": [
+    {
+      "id": "luxembourg-public-holidays",
+      "title": "Jours feries legaux au Luxembourg",
+      "url": "https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html",
+      "confidence": "high",
+      "usage": "Liste officielle des jours feries legaux; la page publie 2026 et 2027, les annees suivantes sont calculees depuis la liste legale stable et les dates pascales."
+    },
+    {
+      "id": "luxembourg-school-holidays",
+      "title": "Vacances et conges scolaires",
+      "url": "https://men.public.lu/fr/vacances-scolaires.html",
+      "confidence": "high",
+      "usage": "Calendrier officiel MENJE publie pour 2025/2026, 2026/2027 et 2027/2028."
+    }
+  ],
+  "calendars": [
+    {
+      "slug": "luxembourg-feries-legaux",
+      "path": "luxembourg/feries-legaux.ics",
+      "name": "Luxembourg - Jours feries legaux",
+      "description": "Jours feries legaux nationaux du Luxembourg.",
+      "timezone": "Europe/Paris",
+      "categories": ["Pays", "Luxembourg", "Feries"],
+      "kind": "events",
+      "coverage": "2026-2031",
+      "events": [
+        { "key": "nouvel-an", "summary": "Nouvel An - Luxembourg", "date_rule": { "type": "fixed", "month": 1, "day": 1 }, "years": [2026, 2027, 2028, 2029, 2030, 2031], "type": "public_holiday", "source_id": "luxembourg-public-holidays", "confidence": "high" },
+        { "key": "lundi-paques", "summary": "Lundi de Paques - Luxembourg", "date_rule": { "type": "easter_offset", "days": 1 }, "years": [2026, 2027, 2028, 2029, 2030, 2031], "type": "public_holiday", "source_id": "luxembourg-public-holidays", "confidence": "high" },
+        { "key": "premier-mai", "summary": "Premier Mai - Luxembourg", "date_rule": { "type": "fixed", "month": 5, "day": 1 }, "years": [2026, 2027, 2028, 2029, 2030, 2031], "type": "public_holiday", "source_id": "luxembourg-public-holidays", "confidence": "high" },
+        { "key": "journee-europe", "summary": "Journee de l Europe - Luxembourg", "date_rule": { "type": "fixed", "month": 5, "day": 9 }, "years": [2026, 2027, 2028, 2029, 2030, 2031], "type": "public_holiday", "source_id": "luxembourg-public-holidays", "confidence": "high" },
+        { "key": "ascension", "summary": "Ascension - Luxembourg", "date_rule": { "type": "easter_offset", "days": 39 }, "years": [2026, 2027, 2028, 2029, 2030, 2031], "type": "public_holiday", "source_id": "luxembourg-public-holidays", "confidence": "high" },
+        { "key": "lundi-pentecote", "summary": "Lundi de Pentecote - Luxembourg", "date_rule": { "type": "easter_offset", "days": 50 }, "years": [2026, 2027, 2028, 2029, 2030, 2031], "type": "public_holiday", "source_id": "luxembourg-public-holidays", "confidence": "high" },
+        { "key": "fete-nationale", "summary": "Fete nationale - Luxembourg", "date_rule": { "type": "fixed", "month": 6, "day": 23 }, "years": [2026, 2027, 2028, 2029, 2030, 2031], "type": "public_holiday", "source_id": "luxembourg-public-holidays", "confidence": "high" },
+        { "key": "assomption", "summary": "Assomption - Luxembourg", "date_rule": { "type": "fixed", "month": 8, "day": 15 }, "years": [2026, 2027, 2028, 2029, 2030, 2031], "type": "public_holiday", "source_id": "luxembourg-public-holidays", "confidence": "high" },
+        { "key": "toussaint", "summary": "Toussaint - Luxembourg", "date_rule": { "type": "fixed", "month": 11, "day": 1 }, "years": [2026, 2027, 2028, 2029, 2030, 2031], "type": "public_holiday", "source_id": "luxembourg-public-holidays", "confidence": "high" },
+        { "key": "noel", "summary": "Noel - Luxembourg", "date_rule": { "type": "fixed", "month": 12, "day": 25 }, "years": [2026, 2027, 2028, 2029, 2030, 2031], "type": "public_holiday", "source_id": "luxembourg-public-holidays", "confidence": "high" },
+        { "key": "saint-etienne", "summary": "Saint Etienne - Luxembourg", "date_rule": { "type": "fixed", "month": 12, "day": 26 }, "years": [2026, 2027, 2028, 2029, 2030, 2031], "type": "public_holiday", "source_id": "luxembourg-public-holidays", "confidence": "high" }
+      ]
+    },
+    {
+      "slug": "luxembourg-vacances-scolaires",
+      "path": "luxembourg/vacances-scolaires.ics",
+      "name": "Luxembourg - Vacances scolaires",
+      "description": "Vacances et conges scolaires nationaux publies par le MENJE.",
+      "timezone": "Europe/Paris",
+      "categories": ["Pays", "Luxembourg", "Vacances scolaires"],
+      "kind": "events",
+      "coverage": "2025-2028",
+      "events": [
+        { "key": "noel-2025", "summary": "Vacances de Noel - Luxembourg", "start_date": "2025-12-20", "end_date": "2026-01-04", "type": "school_holiday", "source_id": "luxembourg-school-holidays", "confidence": "high" },
+        { "key": "carnaval-2026", "summary": "Conge de Carnaval - Luxembourg", "start_date": "2026-02-14", "end_date": "2026-02-22", "type": "school_holiday", "source_id": "luxembourg-school-holidays", "confidence": "high" },
+        { "key": "paques-2026", "summary": "Vacances de Paques - Luxembourg", "start_date": "2026-03-28", "end_date": "2026-04-12", "type": "school_holiday", "source_id": "luxembourg-school-holidays", "confidence": "high" },
+        { "key": "pentecote-2026", "summary": "Conge de Pentecote - Luxembourg", "start_date": "2026-05-23", "end_date": "2026-05-31", "type": "school_holiday", "source_id": "luxembourg-school-holidays", "confidence": "high" },
+        { "key": "ete-2026", "summary": "Vacances d ete - Luxembourg", "start_date": "2026-07-16", "end_date": "2026-09-14", "type": "school_holiday", "source_id": "luxembourg-school-holidays", "confidence": "high" },
+        { "key": "toussaint-2026", "summary": "Conge de la Toussaint - Luxembourg", "start_date": "2026-10-31", "end_date": "2026-11-08", "type": "school_holiday", "source_id": "luxembourg-school-holidays", "confidence": "high" },
+        { "key": "noel-2026", "summary": "Vacances de Noel - Luxembourg", "start_date": "2026-12-19", "end_date": "2027-01-03", "type": "school_holiday", "source_id": "luxembourg-school-holidays", "confidence": "high" },
+        { "key": "carnaval-2027", "summary": "Conge de Carnaval - Luxembourg", "start_date": "2027-02-06", "end_date": "2027-02-14", "type": "school_holiday", "source_id": "luxembourg-school-holidays", "confidence": "high" },
+        { "key": "paques-2027", "summary": "Vacances de Paques - Luxembourg", "start_date": "2027-03-27", "end_date": "2027-04-11", "type": "school_holiday", "source_id": "luxembourg-school-holidays", "confidence": "high" },
+        { "key": "pentecote-2027", "summary": "Conge de Pentecote - Luxembourg", "start_date": "2027-05-29", "end_date": "2027-06-06", "type": "school_holiday", "source_id": "luxembourg-school-holidays", "confidence": "high" },
+        { "key": "ete-2027", "summary": "Vacances d ete - Luxembourg", "start_date": "2027-07-16", "end_date": "2027-09-14", "type": "school_holiday", "source_id": "luxembourg-school-holidays", "confidence": "high" },
+        { "key": "toussaint-2027", "summary": "Conge de la Toussaint - Luxembourg", "start_date": "2027-10-30", "end_date": "2027-11-07", "type": "school_holiday", "source_id": "luxembourg-school-holidays", "confidence": "high" },
+        { "key": "saint-nicolas-2027", "summary": "Saint Nicolas - enseignement fondamental", "start_date": "2027-12-06", "end_date": "2027-12-06", "type": "school_holiday", "source_id": "luxembourg-school-holidays", "confidence": "high", "note": "Uniquement pour l enseignement fondamental." },
+        { "key": "noel-2027", "summary": "Vacances de Noel - Luxembourg", "start_date": "2027-12-18", "end_date": "2028-01-02", "type": "school_holiday", "source_id": "luxembourg-school-holidays", "confidence": "high" },
+        { "key": "carnaval-2028", "summary": "Conge de Carnaval - Luxembourg", "start_date": "2028-02-12", "end_date": "2028-02-20", "type": "school_holiday", "source_id": "luxembourg-school-holidays", "confidence": "high" },
+        { "key": "paques-2028", "summary": "Vacances de Paques - Luxembourg", "start_date": "2028-04-01", "end_date": "2028-04-16", "type": "school_holiday", "source_id": "luxembourg-school-holidays", "confidence": "high" },
+        { "key": "pentecote-2028", "summary": "Conge de Pentecote - Luxembourg", "start_date": "2028-05-27", "end_date": "2028-06-04", "type": "school_holiday", "source_id": "luxembourg-school-holidays", "confidence": "high" },
+        { "key": "ete-2028", "summary": "Vacances d ete - Luxembourg", "start_date": "2028-07-15", "end_date": "2028-09-14", "type": "school_holiday", "source_id": "luxembourg-school-holidays", "confidence": "high" }
+      ]
+    },
+    {
+      "slug": "luxembourg-ponts",
+      "path": "luxembourg/ponts.ics",
+      "name": "Luxembourg - Ponts utiles",
+      "description": "Opportunites de pont derivees des jours feries legaux luxembourgeois; a confirmer selon employeur.",
+      "timezone": "Europe/Paris",
+      "categories": ["Pays", "Luxembourg", "Ponts"],
+      "kind": "derived-bridges",
+      "source_slug": "luxembourg-feries-legaux",
+      "bridge_policy": {
+        "thursday": "next-friday",
+        "tuesday": "previous-monday",
+        "exclude_weekends": true,
+        "exclude_existing_public_holidays": true,
+        "wording": "Opportunite de pont, non feriee automatiquement."
+      }
+    }
+  ]
+}

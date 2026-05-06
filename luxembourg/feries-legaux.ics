@@ -1,0 +1,753 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//luxembourg-feries-legaux//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Luxembourg - Jours feries legaux
+X-WR-CALDESC:Jours feries legaux nationaux du Luxembourg.
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-nouvel-an-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Nouvel An - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-lundi-paques-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:Lundi de Paques - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-premier-mai-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Premier Mai - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-journee-europe-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Journee de l Europe - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-ascension-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Ascension - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-lundi-pentecote-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Lundi de Pentecote - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-fete-nationale-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:Fete nationale - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-assomption-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Assomption - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-toussaint-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Toussaint - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-noel-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Noel - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-saint-etienne-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Saint Etienne - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-nouvel-an-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Nouvel An - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-lundi-paques-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Lundi de Paques - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-premier-mai-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Premier Mai - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-ascension-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Ascension - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-journee-europe-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Journee de l Europe - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-lundi-pentecote-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Lundi de Pentecote - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-fete-nationale-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:Fete nationale - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-assomption-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Assomption - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-toussaint-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:Toussaint - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-noel-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:Noel - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-saint-etienne-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20271226
+DTEND;VALUE=DATE:20271227
+SUMMARY:Saint Etienne - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-nouvel-an-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Nouvel An - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-lundi-paques-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Lundi de Paques - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-premier-mai-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:Premier Mai - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-journee-europe-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280509
+DTEND;VALUE=DATE:20280510
+SUMMARY:Journee de l Europe - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-ascension-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:Ascension - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-lundi-pentecote-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280605
+DTEND;VALUE=DATE:20280606
+SUMMARY:Lundi de Pentecote - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-fete-nationale-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280623
+DTEND;VALUE=DATE:20280624
+SUMMARY:Fete nationale - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-assomption-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280815
+DTEND;VALUE=DATE:20280816
+SUMMARY:Assomption - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-toussaint-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20281101
+DTEND;VALUE=DATE:20281102
+SUMMARY:Toussaint - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-noel-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:Noel - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-saint-etienne-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20281226
+DTEND;VALUE=DATE:20281227
+SUMMARY:Saint Etienne - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-nouvel-an-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290101
+DTEND;VALUE=DATE:20290102
+SUMMARY:Nouvel An - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-lundi-paques-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290402
+DTEND;VALUE=DATE:20290403
+SUMMARY:Lundi de Paques - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-premier-mai-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290501
+DTEND;VALUE=DATE:20290502
+SUMMARY:Premier Mai - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-journee-europe-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290509
+DTEND;VALUE=DATE:20290510
+SUMMARY:Journee de l Europe - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-ascension-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290510
+DTEND;VALUE=DATE:20290511
+SUMMARY:Ascension - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-lundi-pentecote-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290521
+DTEND;VALUE=DATE:20290522
+SUMMARY:Lundi de Pentecote - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-fete-nationale-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290623
+DTEND;VALUE=DATE:20290624
+SUMMARY:Fete nationale - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-assomption-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290815
+DTEND;VALUE=DATE:20290816
+SUMMARY:Assomption - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-toussaint-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20291101
+DTEND;VALUE=DATE:20291102
+SUMMARY:Toussaint - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-noel-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20291225
+DTEND;VALUE=DATE:20291226
+SUMMARY:Noel - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-saint-etienne-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20291226
+DTEND;VALUE=DATE:20291227
+SUMMARY:Saint Etienne - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-nouvel-an-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:Nouvel An - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-lundi-paques-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300422
+DTEND;VALUE=DATE:20300423
+SUMMARY:Lundi de Paques - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-premier-mai-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300501
+DTEND;VALUE=DATE:20300502
+SUMMARY:Premier Mai - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-journee-europe-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300509
+DTEND;VALUE=DATE:20300510
+SUMMARY:Journee de l Europe - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-ascension-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300530
+DTEND;VALUE=DATE:20300531
+SUMMARY:Ascension - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-lundi-pentecote-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300610
+DTEND;VALUE=DATE:20300611
+SUMMARY:Lundi de Pentecote - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-fete-nationale-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300623
+DTEND;VALUE=DATE:20300624
+SUMMARY:Fete nationale - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-assomption-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300815
+DTEND;VALUE=DATE:20300816
+SUMMARY:Assomption - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-toussaint-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20301101
+DTEND;VALUE=DATE:20301102
+SUMMARY:Toussaint - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-noel-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20301225
+DTEND;VALUE=DATE:20301226
+SUMMARY:Noel - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-saint-etienne-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20301226
+DTEND;VALUE=DATE:20301227
+SUMMARY:Saint Etienne - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-nouvel-an-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310101
+DTEND;VALUE=DATE:20310102
+SUMMARY:Nouvel An - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-lundi-paques-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310414
+DTEND;VALUE=DATE:20310415
+SUMMARY:Lundi de Paques - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-premier-mai-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310501
+DTEND;VALUE=DATE:20310502
+SUMMARY:Premier Mai - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-journee-europe-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310509
+DTEND;VALUE=DATE:20310510
+SUMMARY:Journee de l Europe - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-ascension-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310522
+DTEND;VALUE=DATE:20310523
+SUMMARY:Ascension - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-lundi-pentecote-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310602
+DTEND;VALUE=DATE:20310603
+SUMMARY:Lundi de Pentecote - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-fete-nationale-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310623
+DTEND;VALUE=DATE:20310624
+SUMMARY:Fete nationale - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-assomption-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310815
+DTEND;VALUE=DATE:20310816
+SUMMARY:Assomption - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-toussaint-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20311101
+DTEND;VALUE=DATE:20311102
+SUMMARY:Toussaint - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-noel-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20311225
+DTEND;VALUE=DATE:20311226
+SUMMARY:Noel - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-feries-legaux-saint-etienne-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20311226
+DTEND;VALUE=DATE:20311227
+SUMMARY:Saint Etienne - Luxembourg
+DESCRIPTION:Jours feries legaux nationaux du Luxembourg. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: high
+URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
+CATEGORIES:Pays,Luxembourg,Feries
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

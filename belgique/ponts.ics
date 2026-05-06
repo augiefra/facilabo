@@ -1,0 +1,225 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//belgique-ponts//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Belgique - Ponts utiles
+X-WR-CALDESC:Opportunites de pont derivees des jours feries legaux belges; a confirmer selon employeur.
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:belgique-ponts-nouvel-an-2026-01-02-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:Pont possible - Jour de l An - Belgique
+DESCRIPTION:Opportunites de pont derivees des jours feries legaux belges\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://www.belgium.be/fr/la_belgique/jours_feries Fiabilite: medium
+URL:https://www.belgium.be/fr/la_belgique/jours_feries
+CATEGORIES:Pays,Belgique,Ponts
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-ponts-ascension-2026-05-15-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:Pont possible - Ascension - Belgique
+DESCRIPTION:Opportunites de pont derivees des jours feries legaux belges\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://www.belgium.be/fr/la_belgique/jours_feries Fiabilite: medium
+URL:https://www.belgium.be/fr/la_belgique/jours_feries
+CATEGORIES:Pays,Belgique,Ponts
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-ponts-fete-nationale-2026-07-20-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:Pont possible - Fete nationale belge
+DESCRIPTION:Opportunites de pont derivees des jours feries legaux belges\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: lundi precedent du jour ferie. Source: https://www.belgium.be/fr/la_belgique/jours_feries Fiabilite: medium
+URL:https://www.belgium.be/fr/la_belgique/jours_feries
+CATEGORIES:Pays,Belgique,Ponts
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-ponts-ascension-2027-05-07-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Pont possible - Ascension - Belgique
+DESCRIPTION:Opportunites de pont derivees des jours feries legaux belges\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://www.belgium.be/fr/la_belgique/jours_feries Fiabilite: medium
+URL:https://www.belgium.be/fr/la_belgique/jours_feries
+CATEGORIES:Pays,Belgique,Ponts
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-ponts-armistice-2027-11-12-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271113
+SUMMARY:Pont possible - Jour de l Armistice - Belgique
+DESCRIPTION:Opportunites de pont derivees des jours feries legaux belges\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://www.belgium.be/fr/la_belgique/jours_feries Fiabilite: medium
+URL:https://www.belgium.be/fr/la_belgique/jours_feries
+CATEGORIES:Pays,Belgique,Ponts
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-ponts-ascension-2028-05-26-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280526
+DTEND;VALUE=DATE:20280527
+SUMMARY:Pont possible - Ascension - Belgique
+DESCRIPTION:Opportunites de pont derivees des jours feries legaux belges\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://www.belgium.be/fr/la_belgique/jours_feries Fiabilite: medium
+URL:https://www.belgium.be/fr/la_belgique/jours_feries
+CATEGORIES:Pays,Belgique,Ponts
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-ponts-assomption-2028-08-14-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280814
+DTEND;VALUE=DATE:20280815
+SUMMARY:Pont possible - Assomption - Belgique
+DESCRIPTION:Opportunites de pont derivees des jours feries legaux belges\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: lundi precedent du jour ferie. Source: https://www.belgium.be/fr/la_belgique/jours_feries Fiabilite: medium
+URL:https://www.belgium.be/fr/la_belgique/jours_feries
+CATEGORIES:Pays,Belgique,Ponts
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-ponts-fete-travail-2029-04-30-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290501
+SUMMARY:Pont possible - Fete du Travail - Belgique
+DESCRIPTION:Opportunites de pont derivees des jours feries legaux belges\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: lundi precedent du jour ferie. Source: https://www.belgium.be/fr/la_belgique/jours_feries Fiabilite: medium
+URL:https://www.belgium.be/fr/la_belgique/jours_feries
+CATEGORIES:Pays,Belgique,Ponts
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-ponts-ascension-2029-05-11-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290511
+DTEND;VALUE=DATE:20290512
+SUMMARY:Pont possible - Ascension - Belgique
+DESCRIPTION:Opportunites de pont derivees des jours feries legaux belges\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://www.belgium.be/fr/la_belgique/jours_feries Fiabilite: medium
+URL:https://www.belgium.be/fr/la_belgique/jours_feries
+CATEGORIES:Pays,Belgique,Ponts
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-ponts-toussaint-2029-11-02-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20291102
+DTEND;VALUE=DATE:20291103
+SUMMARY:Pont possible - Toussaint - Belgique
+DESCRIPTION:Opportunites de pont derivees des jours feries legaux belges\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://www.belgium.be/fr/la_belgique/jours_feries Fiabilite: medium
+URL:https://www.belgium.be/fr/la_belgique/jours_feries
+CATEGORIES:Pays,Belgique,Ponts
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-ponts-noel-2029-12-24-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20291224
+DTEND;VALUE=DATE:20291225
+SUMMARY:Pont possible - Noel - Belgique
+DESCRIPTION:Opportunites de pont derivees des jours feries legaux belges\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: lundi precedent du jour ferie. Source: https://www.belgium.be/fr/la_belgique/jours_feries Fiabilite: medium
+URL:https://www.belgium.be/fr/la_belgique/jours_feries
+CATEGORIES:Pays,Belgique,Ponts
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-ponts-nouvel-an-2029-12-31-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:Pont possible - Jour de l An - Belgique
+DESCRIPTION:Opportunites de pont derivees des jours feries legaux belges\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: lundi precedent du jour ferie. Source: https://www.belgium.be/fr/la_belgique/jours_feries Fiabilite: medium
+URL:https://www.belgium.be/fr/la_belgique/jours_feries
+CATEGORIES:Pays,Belgique,Ponts
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-ponts-ascension-2030-05-31-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300531
+DTEND;VALUE=DATE:20300601
+SUMMARY:Pont possible - Ascension - Belgique
+DESCRIPTION:Opportunites de pont derivees des jours feries legaux belges\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://www.belgium.be/fr/la_belgique/jours_feries Fiabilite: medium
+URL:https://www.belgium.be/fr/la_belgique/jours_feries
+CATEGORIES:Pays,Belgique,Ponts
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-ponts-assomption-2030-08-16-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300816
+DTEND;VALUE=DATE:20300817
+SUMMARY:Pont possible - Assomption - Belgique
+DESCRIPTION:Opportunites de pont derivees des jours feries legaux belges\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://www.belgium.be/fr/la_belgique/jours_feries Fiabilite: medium
+URL:https://www.belgium.be/fr/la_belgique/jours_feries
+CATEGORIES:Pays,Belgique,Ponts
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-ponts-fete-travail-2031-05-02-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310502
+DTEND;VALUE=DATE:20310503
+SUMMARY:Pont possible - Fete du Travail - Belgique
+DESCRIPTION:Opportunites de pont derivees des jours feries legaux belges\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://www.belgium.be/fr/la_belgique/jours_feries Fiabilite: medium
+URL:https://www.belgium.be/fr/la_belgique/jours_feries
+CATEGORIES:Pays,Belgique,Ponts
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-ponts-ascension-2031-05-23-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310523
+DTEND;VALUE=DATE:20310524
+SUMMARY:Pont possible - Ascension - Belgique
+DESCRIPTION:Opportunites de pont derivees des jours feries legaux belges\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://www.belgium.be/fr/la_belgique/jours_feries Fiabilite: medium
+URL:https://www.belgium.be/fr/la_belgique/jours_feries
+CATEGORIES:Pays,Belgique,Ponts
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-ponts-armistice-2031-11-10-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20311110
+DTEND;VALUE=DATE:20311111
+SUMMARY:Pont possible - Jour de l Armistice - Belgique
+DESCRIPTION:Opportunites de pont derivees des jours feries legaux belges\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: lundi precedent du jour ferie. Source: https://www.belgium.be/fr/la_belgique/jours_feries Fiabilite: medium
+URL:https://www.belgium.be/fr/la_belgique/jours_feries
+CATEGORIES:Pays,Belgique,Ponts
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:belgique-ponts-noel-2031-12-26-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20311226
+DTEND;VALUE=DATE:20311227
+SUMMARY:Pont possible - Noel - Belgique
+DESCRIPTION:Opportunites de pont derivees des jours feries legaux belges\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://www.belgium.be/fr/la_belgique/jours_feries Fiabilite: medium
+URL:https://www.belgium.be/fr/la_belgique/jours_feries
+CATEGORIES:Pays,Belgique,Ponts
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -16,6 +16,14 @@
 - https://www.enseignement.be
 - https://www.onderwijs.vlaanderen.be
 - https://economie.fgov.be
+- Ponts Belgique: derives de `belgique/feries-remplacement.ics`; ce sont des opportunites de pose, pas des jours feries officiels.
+
+## Luxembourg
+
+- Jours feries legaux: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html (verifie le 2026-05-06)
+- Vacances et conges scolaires: https://men.public.lu/fr/vacances-scolaires.html (verifie le 2026-05-06)
+- Limite editoriale: les vacances scolaires sont publiees officiellement jusqu'a l'annee scolaire 2027/2028; le flux `luxembourg-vacances-scolaires` s'arrete donc a l'ete 2028 tant qu'une nouvelle source officielle n'est pas publiee.
+- Ponts Luxembourg: derives des jours feries legaux; ce sont des opportunites de pose, pas des jours feries officiels.
 
 ## Societe (France)
 

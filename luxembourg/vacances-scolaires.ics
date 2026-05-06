@@ -1,0 +1,225 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//luxembourg-vacances-scolaires//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Luxembourg - Vacances scolaires
+X-WR-CALDESC:Vacances et conges scolaires nationaux publies par le MENJE.
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:luxembourg-vacances-scolaires-noel-2025-2025@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20260105
+SUMMARY:Vacances de Noel - Luxembourg
+DESCRIPTION:Vacances et conges scolaires nationaux publies par le MENJE. Source: https://men.public.lu/fr/vacances-scolaires.html Fiabilite: high
+URL:https://men.public.lu/fr/vacances-scolaires.html
+CATEGORIES:Pays,Luxembourg,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-vacances-scolaires-carnaval-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260223
+SUMMARY:Conge de Carnaval - Luxembourg
+DESCRIPTION:Vacances et conges scolaires nationaux publies par le MENJE. Source: https://men.public.lu/fr/vacances-scolaires.html Fiabilite: high
+URL:https://men.public.lu/fr/vacances-scolaires.html
+CATEGORIES:Pays,Luxembourg,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-vacances-scolaires-paques-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260413
+SUMMARY:Vacances de Paques - Luxembourg
+DESCRIPTION:Vacances et conges scolaires nationaux publies par le MENJE. Source: https://men.public.lu/fr/vacances-scolaires.html Fiabilite: high
+URL:https://men.public.lu/fr/vacances-scolaires.html
+CATEGORIES:Pays,Luxembourg,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-vacances-scolaires-pentecote-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260601
+SUMMARY:Conge de Pentecote - Luxembourg
+DESCRIPTION:Vacances et conges scolaires nationaux publies par le MENJE. Source: https://men.public.lu/fr/vacances-scolaires.html Fiabilite: high
+URL:https://men.public.lu/fr/vacances-scolaires.html
+CATEGORIES:Pays,Luxembourg,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-vacances-scolaires-ete-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260915
+SUMMARY:Vacances d ete - Luxembourg
+DESCRIPTION:Vacances et conges scolaires nationaux publies par le MENJE. Source: https://men.public.lu/fr/vacances-scolaires.html Fiabilite: high
+URL:https://men.public.lu/fr/vacances-scolaires.html
+CATEGORIES:Pays,Luxembourg,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-vacances-scolaires-toussaint-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261109
+SUMMARY:Conge de la Toussaint - Luxembourg
+DESCRIPTION:Vacances et conges scolaires nationaux publies par le MENJE. Source: https://men.public.lu/fr/vacances-scolaires.html Fiabilite: high
+URL:https://men.public.lu/fr/vacances-scolaires.html
+CATEGORIES:Pays,Luxembourg,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-vacances-scolaires-noel-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20270104
+SUMMARY:Vacances de Noel - Luxembourg
+DESCRIPTION:Vacances et conges scolaires nationaux publies par le MENJE. Source: https://men.public.lu/fr/vacances-scolaires.html Fiabilite: high
+URL:https://men.public.lu/fr/vacances-scolaires.html
+CATEGORIES:Pays,Luxembourg,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-vacances-scolaires-carnaval-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270215
+SUMMARY:Conge de Carnaval - Luxembourg
+DESCRIPTION:Vacances et conges scolaires nationaux publies par le MENJE. Source: https://men.public.lu/fr/vacances-scolaires.html Fiabilite: high
+URL:https://men.public.lu/fr/vacances-scolaires.html
+CATEGORIES:Pays,Luxembourg,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-vacances-scolaires-paques-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270412
+SUMMARY:Vacances de Paques - Luxembourg
+DESCRIPTION:Vacances et conges scolaires nationaux publies par le MENJE. Source: https://men.public.lu/fr/vacances-scolaires.html Fiabilite: high
+URL:https://men.public.lu/fr/vacances-scolaires.html
+CATEGORIES:Pays,Luxembourg,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-vacances-scolaires-pentecote-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270607
+SUMMARY:Conge de Pentecote - Luxembourg
+DESCRIPTION:Vacances et conges scolaires nationaux publies par le MENJE. Source: https://men.public.lu/fr/vacances-scolaires.html Fiabilite: high
+URL:https://men.public.lu/fr/vacances-scolaires.html
+CATEGORIES:Pays,Luxembourg,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-vacances-scolaires-ete-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270915
+SUMMARY:Vacances d ete - Luxembourg
+DESCRIPTION:Vacances et conges scolaires nationaux publies par le MENJE. Source: https://men.public.lu/fr/vacances-scolaires.html Fiabilite: high
+URL:https://men.public.lu/fr/vacances-scolaires.html
+CATEGORIES:Pays,Luxembourg,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-vacances-scolaires-toussaint-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20271030
+DTEND;VALUE=DATE:20271108
+SUMMARY:Conge de la Toussaint - Luxembourg
+DESCRIPTION:Vacances et conges scolaires nationaux publies par le MENJE. Source: https://men.public.lu/fr/vacances-scolaires.html Fiabilite: high
+URL:https://men.public.lu/fr/vacances-scolaires.html
+CATEGORIES:Pays,Luxembourg,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-vacances-scolaires-saint-nicolas-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20271206
+DTEND;VALUE=DATE:20271207
+SUMMARY:Saint Nicolas - enseignement fondamental
+DESCRIPTION:Vacances et conges scolaires nationaux publies par le MENJE. Uniquement pour l enseignement fondamental. Source: https://men.public.lu/fr/vacances-scolaires.html Fiabilite: high
+URL:https://men.public.lu/fr/vacances-scolaires.html
+CATEGORIES:Pays,Luxembourg,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-vacances-scolaires-noel-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20271218
+DTEND;VALUE=DATE:20280103
+SUMMARY:Vacances de Noel - Luxembourg
+DESCRIPTION:Vacances et conges scolaires nationaux publies par le MENJE. Source: https://men.public.lu/fr/vacances-scolaires.html Fiabilite: high
+URL:https://men.public.lu/fr/vacances-scolaires.html
+CATEGORIES:Pays,Luxembourg,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-vacances-scolaires-carnaval-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280212
+DTEND;VALUE=DATE:20280221
+SUMMARY:Conge de Carnaval - Luxembourg
+DESCRIPTION:Vacances et conges scolaires nationaux publies par le MENJE. Source: https://men.public.lu/fr/vacances-scolaires.html Fiabilite: high
+URL:https://men.public.lu/fr/vacances-scolaires.html
+CATEGORIES:Pays,Luxembourg,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-vacances-scolaires-paques-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280401
+DTEND;VALUE=DATE:20280417
+SUMMARY:Vacances de Paques - Luxembourg
+DESCRIPTION:Vacances et conges scolaires nationaux publies par le MENJE. Source: https://men.public.lu/fr/vacances-scolaires.html Fiabilite: high
+URL:https://men.public.lu/fr/vacances-scolaires.html
+CATEGORIES:Pays,Luxembourg,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-vacances-scolaires-pentecote-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280527
+DTEND;VALUE=DATE:20280605
+SUMMARY:Conge de Pentecote - Luxembourg
+DESCRIPTION:Vacances et conges scolaires nationaux publies par le MENJE. Source: https://men.public.lu/fr/vacances-scolaires.html Fiabilite: high
+URL:https://men.public.lu/fr/vacances-scolaires.html
+CATEGORIES:Pays,Luxembourg,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luxembourg-vacances-scolaires-ete-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280915
+SUMMARY:Vacances d ete - Luxembourg
+DESCRIPTION:Vacances et conges scolaires nationaux publies par le MENJE. Source: https://men.public.lu/fr/vacances-scolaires.html Fiabilite: high
+URL:https://men.public.lu/fr/vacances-scolaires.html
+CATEGORIES:Pays,Luxembourg,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

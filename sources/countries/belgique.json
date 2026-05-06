@@ -1,0 +1,42 @@
+{
+  "country": "Belgique",
+  "verified_at": "2026-05-06",
+  "sources": [
+    {
+      "id": "belgium-public-holidays",
+      "title": "Jours feries legaux au niveau federal",
+      "url": "https://www.belgium.be/fr/la_belgique/connaitre_le_pays/la_belgique_en_bref/jours_feries",
+      "confidence": "high",
+      "usage": "Source officielle des jours feries servant deja le flux belgique-feries-remplacement."
+    },
+    {
+      "id": "spf-employment-replacement",
+      "title": "Jours feries et remplacement employeur",
+      "url": "https://emploi.belgique.be/fr/themes/jours-feries-et-conges/jours-feries",
+      "confidence": "high",
+      "usage": "Source officielle pour rappeler que les remplacements dependent des regles employeur."
+    }
+  ],
+  "calendars": [
+    {
+      "slug": "belgique-ponts",
+      "path": "belgique/ponts.ics",
+      "name": "Belgique - Ponts utiles",
+      "description": "Opportunites de pont derivees des jours feries legaux belges; a confirmer selon employeur.",
+      "timezone": "Europe/Paris",
+      "categories": ["Pays", "Belgique", "Ponts"],
+      "kind": "derived-bridges",
+      "source_calendar": {
+        "path": "belgique/feries-remplacement.ics",
+        "source_id": "belgium-public-holidays"
+      },
+      "bridge_policy": {
+        "thursday": "next-friday",
+        "tuesday": "previous-monday",
+        "exclude_weekends": true,
+        "exclude_existing_public_holidays": true,
+        "wording": "Opportunite de pont, non feriee automatiquement."
+      }
+    }
+  ]
+}
