@@ -2,7 +2,7 @@ name: France National Teams Watch
 
 on:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '17 */3 * * *'
   workflow_dispatch:
 
 permissions:

@@ -57,14 +57,14 @@
         },
         {
           "uid_key": "france-foot-2026-06-22-group-i-tbd",
-          "summary": "France - Adversaire a confirmer",
+          "summary": "France - Irak",
           "timed": true,
           "start_datetime": "2026-06-22T23:00:00",
           "end_datetime": "2026-06-23T01:00:00",
           "location": "Etats-Unis",
           "competition": "Coupe du monde - Groupe I",
           "source_url": "https://www.equipe-france.fr/football/masculin/calendrier",
-          "status": "TENTATIVE"
+          "status": "CONFIRMED"
         },
         {
           "uid_key": "france-foot-2026-06-26-norvege-world-cup",
