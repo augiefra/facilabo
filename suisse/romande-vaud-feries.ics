@@ -1,0 +1,621 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//suisse-romande-vaud-feries//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Suisse romande - Vaud - Jours feries
+X-WR-CALDESC:Jours feries officiels du canton de Vaud, sans couverture Suisse entiere.
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-nouvel-an-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Nouvel An - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-deux-janvier-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:2 janvier - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-vendredi-saint-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Vendredi Saint - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-lundi-paques-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:Lundi de Paques - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-ascension-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Jeudi de l Ascension - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-lundi-pentecote-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Lundi de Pentecote - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-fete-nationale-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:Fete nationale - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-lundi-jeune-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Lundi du Jeune federal - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-noel-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Noel - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-nouvel-an-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Nouvel An - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-deux-janvier-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:2 janvier - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-vendredi-saint-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Vendredi Saint - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-lundi-paques-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Lundi de Paques - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-ascension-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Jeudi de l Ascension - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-lundi-pentecote-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Lundi de Pentecote - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-fete-nationale-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Fete nationale - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-lundi-jeune-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270921
+SUMMARY:Lundi du Jeune federal - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-noel-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:Noel - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-nouvel-an-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Nouvel An - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-deux-janvier-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280102
+DTEND;VALUE=DATE:20280103
+SUMMARY:2 janvier - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-vendredi-saint-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+SUMMARY:Vendredi Saint - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-lundi-paques-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Lundi de Paques - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-ascension-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:Jeudi de l Ascension - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-lundi-pentecote-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280605
+DTEND;VALUE=DATE:20280606
+SUMMARY:Lundi de Pentecote - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-fete-nationale-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280801
+DTEND;VALUE=DATE:20280802
+SUMMARY:Fete nationale - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-lundi-jeune-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280918
+DTEND;VALUE=DATE:20280919
+SUMMARY:Lundi du Jeune federal - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-noel-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:Noel - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-nouvel-an-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290101
+DTEND;VALUE=DATE:20290102
+SUMMARY:Nouvel An - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-deux-janvier-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290102
+DTEND;VALUE=DATE:20290103
+SUMMARY:2 janvier - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-vendredi-saint-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290330
+DTEND;VALUE=DATE:20290331
+SUMMARY:Vendredi Saint - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-lundi-paques-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290402
+DTEND;VALUE=DATE:20290403
+SUMMARY:Lundi de Paques - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-ascension-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290510
+DTEND;VALUE=DATE:20290511
+SUMMARY:Jeudi de l Ascension - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-lundi-pentecote-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290521
+DTEND;VALUE=DATE:20290522
+SUMMARY:Lundi de Pentecote - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-fete-nationale-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290801
+DTEND;VALUE=DATE:20290802
+SUMMARY:Fete nationale - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-lundi-jeune-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+SUMMARY:Lundi du Jeune federal - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-noel-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20291225
+DTEND;VALUE=DATE:20291226
+SUMMARY:Noel - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-nouvel-an-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:Nouvel An - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-deux-janvier-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300102
+DTEND;VALUE=DATE:20300103
+SUMMARY:2 janvier - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-vendredi-saint-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300419
+DTEND;VALUE=DATE:20300420
+SUMMARY:Vendredi Saint - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-lundi-paques-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300422
+DTEND;VALUE=DATE:20300423
+SUMMARY:Lundi de Paques - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-ascension-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300530
+DTEND;VALUE=DATE:20300531
+SUMMARY:Jeudi de l Ascension - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-lundi-pentecote-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300610
+DTEND;VALUE=DATE:20300611
+SUMMARY:Lundi de Pentecote - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-fete-nationale-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300801
+DTEND;VALUE=DATE:20300802
+SUMMARY:Fete nationale - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-lundi-jeune-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300916
+DTEND;VALUE=DATE:20300917
+SUMMARY:Lundi du Jeune federal - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-noel-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20301225
+DTEND;VALUE=DATE:20301226
+SUMMARY:Noel - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-nouvel-an-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310101
+DTEND;VALUE=DATE:20310102
+SUMMARY:Nouvel An - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-deux-janvier-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310102
+DTEND;VALUE=DATE:20310103
+SUMMARY:2 janvier - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-vendredi-saint-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310411
+DTEND;VALUE=DATE:20310412
+SUMMARY:Vendredi Saint - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-lundi-paques-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310414
+DTEND;VALUE=DATE:20310415
+SUMMARY:Lundi de Paques - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-ascension-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310522
+DTEND;VALUE=DATE:20310523
+SUMMARY:Jeudi de l Ascension - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-lundi-pentecote-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310602
+DTEND;VALUE=DATE:20310603
+SUMMARY:Lundi de Pentecote - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-fete-nationale-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310801
+DTEND;VALUE=DATE:20310802
+SUMMARY:Fete nationale - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-lundi-jeune-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310922
+DTEND;VALUE=DATE:20310923
+SUMMARY:Lundi du Jeune federal - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-feries-noel-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20311225
+DTEND;VALUE=DATE:20311226
+SUMMARY:Noel - Vaud
+DESCRIPTION:Jours feries officiels du canton de Vaud\, sans couverture Suisse entiere. Source: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires Fiabilite: high
+URL:https://www.vd.ch/formation/jours-feries-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Feries
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

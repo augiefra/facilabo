@@ -102,6 +102,14 @@ function main() {
   assertCondition(knownSlugs.has('luxembourg-feries-legaux'), 'luxembourg-feries-legaux source required');
   assertCondition(knownSlugs.has('luxembourg-vacances-scolaires'), 'luxembourg-vacances-scolaires source required');
   assertCondition(knownSlugs.has('luxembourg-ponts'), 'luxembourg-ponts source required');
+  assertCondition(knownSlugs.has('suisse-romande-geneve-feries'), 'suisse-romande-geneve-feries source required');
+  assertCondition(knownSlugs.has('suisse-romande-geneve-vacances'), 'suisse-romande-geneve-vacances source required');
+  assertCondition(knownSlugs.has('suisse-romande-vaud-feries'), 'suisse-romande-vaud-feries source required');
+  assertCondition(knownSlugs.has('suisse-romande-vaud-vacances'), 'suisse-romande-vaud-vacances source required');
+  assertCondition(knownSlugs.has('suisse-romande-neuchatel-feries'), 'suisse-romande-neuchatel-feries source required');
+  assertCondition(knownSlugs.has('suisse-romande-neuchatel-vacances'), 'suisse-romande-neuchatel-vacances source required');
+  assertCondition(knownSlugs.has('suisse-romande-jura-feries'), 'suisse-romande-jura-feries source required');
+  assertCondition(knownSlugs.has('suisse-romande-jura-vacances'), 'suisse-romande-jura-vacances source required');
 
   console.log('[validate-country-sources] OK');
   console.log(`- directory: ${sourcesDir}`);

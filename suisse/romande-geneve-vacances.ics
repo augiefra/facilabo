@@ -1,0 +1,456 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//suisse-romande-geneve-vacances//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Suisse romande - Geneve - Vacances scolaires
+X-WR-CALDESC:Vacances et conges scolaires du canton de Geneve, canton par canton.
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-noel-2025-2025@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20260103
+SUMMARY:Vacances de Noel et Nouvel An - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-fevrier-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260228
+SUMMARY:Vacances de fevrier - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-paques-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260418
+SUMMARY:Vacances de Paques - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-fete-travail-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Fete du travail - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-ascension-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260516
+SUMMARY:Pont de l Ascension - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-pentecote-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Pentecote - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-ete-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260817
+SUMMARY:Vacances d ete - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Fin deduite de la rentree officielle 2026-2027 publiee le 17 aout 2026. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-jeune-genevois-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Jeune genevois - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-automne-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261024
+SUMMARY:Vacances d automne - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-noel-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20270109
+SUMMARY:Vacances de Noel et Nouvel An - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-fevrier-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270220
+SUMMARY:Vacances de fevrier - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-paques-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270410
+SUMMARY:Vacances de Paques - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-ascension-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270508
+SUMMARY:Pont de l Ascension - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-pentecote-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Pentecote - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-ete-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270826
+SUMMARY:Vacances d ete - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Fin deduite de la rentree officielle 2027-2028 publiee le 26 aout 2027. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-jeune-genevois-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270911
+SUMMARY:Pont du Jeune genevois - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-automne-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271030
+SUMMARY:Vacances d automne - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-noel-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20280108
+SUMMARY:Vacances de Noel et Nouvel An - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-fevrier-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280221
+DTEND;VALUE=DATE:20280226
+SUMMARY:Vacances de fevrier - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-paques-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280413
+DTEND;VALUE=DATE:20280422
+SUMMARY:Vacances de Paques - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-ascension-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280527
+SUMMARY:Pont de l Ascension - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-pentecote-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280605
+DTEND;VALUE=DATE:20280606
+SUMMARY:Pentecote - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-ete-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280703
+DTEND;VALUE=DATE:20280824
+SUMMARY:Vacances d ete - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-jeune-genevois-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280907
+DTEND;VALUE=DATE:20280909
+SUMMARY:Pont du Jeune genevois - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-automne-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20281023
+DTEND;VALUE=DATE:20281028
+SUMMARY:Vacances d automne - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-noel-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20290106
+SUMMARY:Vacances de Noel et Nouvel An - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-fevrier-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290219
+DTEND;VALUE=DATE:20290224
+SUMMARY:Vacances de fevrier - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-paques-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290329
+DTEND;VALUE=DATE:20290407
+SUMMARY:Vacances de Paques - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-ascension-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290510
+DTEND;VALUE=DATE:20290512
+SUMMARY:Pont de l Ascension - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-pentecote-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290521
+DTEND;VALUE=DATE:20290522
+SUMMARY:Pentecote - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-ete-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290702
+DTEND;VALUE=DATE:20290823
+SUMMARY:Vacances d ete - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-jeune-genevois-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290906
+DTEND;VALUE=DATE:20290908
+SUMMARY:Pont du Jeune genevois - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-automne-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20291022
+DTEND;VALUE=DATE:20291027
+SUMMARY:Vacances d automne - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-noel-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20291224
+DTEND;VALUE=DATE:20300105
+SUMMARY:Vacances de Noel et Nouvel An - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-fevrier-2030-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300225
+DTEND;VALUE=DATE:20300302
+SUMMARY:Vacances de fevrier - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-paques-2030-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300418
+DTEND;VALUE=DATE:20300427
+SUMMARY:Vacances de Paques - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-ascension-2030-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300530
+DTEND;VALUE=DATE:20300601
+SUMMARY:Pont de l Ascension - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-pentecote-2030-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300610
+DTEND;VALUE=DATE:20300611
+SUMMARY:Pentecote - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-vacances-ete-2030-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300822
+SUMMARY:Vacances d ete - Geneve
+DESCRIPTION:Vacances et conges scolaires du canton de Geneve\, canton par canton. Source: https://www.ge.ch/vacances-scolaires-jours-feries Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,500 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//suisse-romande-neuchatel-vacances//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Suisse romande - Neuchatel - Vacances scolaires
+X-WR-CALDESC:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel.
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-hiver-2025-2025@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20260103
+SUMMARY:Vacances d hiver - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-premier-mars-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260228
+SUMMARY:Vacances du 1er mars - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-printemps-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260418
+SUMMARY:Vacances de printemps - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-fete-travail-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Fete du travail - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-ascension-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260516
+SUMMARY:Pont de l Ascension - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-pentecote-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Lundi de Pentecote - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-ete-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260815
+SUMMARY:Vacances d ete - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-jeune-federal-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Lundi du Jeune federal - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-automne-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261017
+SUMMARY:Vacances d automne - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-hiver-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20270102
+SUMMARY:Vacances d hiver - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-premier-mars-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270306
+SUMMARY:Vacances du 1er mars - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-printemps-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270410
+SUMMARY:Vacances de printemps - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-fete-travail-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Fete du travail - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-ascension-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270508
+SUMMARY:Pont de l Ascension - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-pentecote-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Lundi de Pentecote - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-ete-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270814
+SUMMARY:Vacances d ete - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-jeune-federal-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270921
+SUMMARY:Lundi du Jeune federal - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-automne-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271016
+SUMMARY:Vacances d automne - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-hiver-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20271223
+DTEND;VALUE=DATE:20280108
+SUMMARY:Vacances d hiver - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-premier-mars-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280228
+DTEND;VALUE=DATE:20280304
+SUMMARY:Vacances du 1er mars - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-printemps-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280410
+DTEND;VALUE=DATE:20280422
+SUMMARY:Vacances de printemps - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-fete-travail-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:Fete du travail - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-ascension-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280527
+SUMMARY:Pont de l Ascension - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-pentecote-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280605
+DTEND;VALUE=DATE:20280606
+SUMMARY:Lundi de Pentecote - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-ete-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280710
+DTEND;VALUE=DATE:20280819
+SUMMARY:Vacances d ete - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-jeune-federal-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280918
+DTEND;VALUE=DATE:20280919
+SUMMARY:Lundi du Jeune federal - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-automne-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20281009
+DTEND;VALUE=DATE:20281021
+SUMMARY:Vacances d automne - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-hiver-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20290106
+SUMMARY:Vacances d hiver - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-premier-mars-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290226
+DTEND;VALUE=DATE:20290303
+SUMMARY:Vacances du 1er mars - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-printemps-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290330
+DTEND;VALUE=DATE:20290414
+SUMMARY:Vacances de printemps - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-fete-travail-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290501
+DTEND;VALUE=DATE:20290502
+SUMMARY:Fete du travail - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-ascension-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290510
+DTEND;VALUE=DATE:20290512
+SUMMARY:Pont de l Ascension - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-pentecote-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290521
+DTEND;VALUE=DATE:20290522
+SUMMARY:Lundi de Pentecote - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-ete-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290709
+DTEND;VALUE=DATE:20290818
+SUMMARY:Vacances d ete - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-jeune-federal-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+SUMMARY:Lundi du Jeune federal - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-automne-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20291008
+DTEND;VALUE=DATE:20291020
+SUMMARY:Vacances d automne - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-hiver-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20291224
+DTEND;VALUE=DATE:20300105
+SUMMARY:Vacances d hiver - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-premier-mars-2030-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300225
+DTEND;VALUE=DATE:20300302
+SUMMARY:Vacances du 1er mars - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-printemps-2030-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300427
+SUMMARY:Vacances de printemps - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-fete-travail-2030-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300501
+DTEND;VALUE=DATE:20300502
+SUMMARY:Fete du travail - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-ascension-2030-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300530
+DTEND;VALUE=DATE:20300601
+SUMMARY:Pont de l Ascension - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-pentecote-2030-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300610
+DTEND;VALUE=DATE:20300611
+SUMMARY:Lundi de Pentecote - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-neuchatel-vacances-ete-2030-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300708
+DTEND;VALUE=DATE:20300817
+SUMMARY:Vacances d ete - Neuchatel
+DESCRIPTION:Vacances et conges de l'enseignement obligatoire du canton de Neuchatel. Source: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires Fiabilite: high
+URL:https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires
+CATEGORIES:Pays,Suisse,Suisse romande,Neuchatel,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

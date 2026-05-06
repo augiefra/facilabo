@@ -1,0 +1,522 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//suisse-romande-vaud-vacances//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Suisse romande - Vaud - Vacances scolaires
+X-WR-CALDESC:Vacances et conges scolaires du canton de Vaud, depuis l'ICS officiel cantonal.
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-relaches-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260223
+SUMMARY:Relaches - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-paques-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260420
+SUMMARY:Vacances de Paques - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-ascension-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260516
+SUMMARY:Pont de l Ascension - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-pentecote-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Lundi de Pentecote - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-ete-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260817
+SUMMARY:Vacances d ete - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-jeune-federal-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Jeune federal - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-automne-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261026
+SUMMARY:Vacances d automne - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-hiver-2026-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20270111
+SUMMARY:Vacances d hiver - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-relaches-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270215
+SUMMARY:Relaches - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-paques-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270412
+SUMMARY:Vacances de Paques - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-ascension-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270508
+SUMMARY:Pont de l Ascension - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-pentecote-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Lundi de Pentecote - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-ete-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270823
+SUMMARY:Vacances d ete - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-jeune-federal-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270921
+SUMMARY:Jeune federal - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-automne-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271025
+SUMMARY:Vacances d automne - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-hiver-2027-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20280110
+SUMMARY:Vacances d hiver - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-relaches-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280212
+DTEND;VALUE=DATE:20280221
+SUMMARY:Relaches - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-paques-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280501
+SUMMARY:Vacances de Paques - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-ascension-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280527
+SUMMARY:Pont de l Ascension - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-pentecote-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280605
+DTEND;VALUE=DATE:20280606
+SUMMARY:Lundi de Pentecote - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-ete-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280701
+DTEND;VALUE=DATE:20280821
+SUMMARY:Vacances d ete - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-jeune-federal-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280918
+DTEND;VALUE=DATE:20280919
+SUMMARY:Jeune federal - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-automne-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20281014
+DTEND;VALUE=DATE:20281030
+SUMMARY:Vacances d automne - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-hiver-2028-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20281223
+DTEND;VALUE=DATE:20290108
+SUMMARY:Vacances d hiver - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-relaches-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290210
+DTEND;VALUE=DATE:20290219
+SUMMARY:Relaches - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-paques-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290330
+DTEND;VALUE=DATE:20290416
+SUMMARY:Vacances de Paques - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-ascension-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290510
+DTEND;VALUE=DATE:20290512
+SUMMARY:Pont de l Ascension - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-pentecote-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290521
+DTEND;VALUE=DATE:20290522
+SUMMARY:Lundi de Pentecote - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-ete-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290630
+DTEND;VALUE=DATE:20290820
+SUMMARY:Vacances d ete - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-jeune-federal-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290917
+DTEND;VALUE=DATE:20290918
+SUMMARY:Jeune federal - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-automne-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20291013
+DTEND;VALUE=DATE:20291029
+SUMMARY:Vacances d automne - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-hiver-2029-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20291222
+DTEND;VALUE=DATE:20300107
+SUMMARY:Vacances d hiver - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-relaches-2030-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300216
+DTEND;VALUE=DATE:20300225
+SUMMARY:Relaches - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-paques-2030-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300419
+DTEND;VALUE=DATE:20300506
+SUMMARY:Vacances de Paques - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-ascension-2030-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300530
+DTEND;VALUE=DATE:20300601
+SUMMARY:Pont de l Ascension - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-pentecote-2030-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300610
+DTEND;VALUE=DATE:20300611
+SUMMARY:Lundi de Pentecote - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-ete-2030-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300706
+DTEND;VALUE=DATE:20300826
+SUMMARY:Vacances d ete - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-jeune-federal-2030-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300916
+DTEND;VALUE=DATE:20300917
+SUMMARY:Jeune federal - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-automne-2030-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20301012
+DTEND;VALUE=DATE:20301028
+SUMMARY:Vacances d automne - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-hiver-2030-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20301221
+DTEND;VALUE=DATE:20310106
+SUMMARY:Vacances d hiver - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-relaches-2031-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310215
+DTEND;VALUE=DATE:20310224
+SUMMARY:Relaches - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-paques-2031-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310411
+DTEND;VALUE=DATE:20310428
+SUMMARY:Vacances de Paques - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-ascension-2031-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310522
+DTEND;VALUE=DATE:20310524
+SUMMARY:Pont de l Ascension - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-pentecote-2031-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310602
+DTEND;VALUE=DATE:20310603
+SUMMARY:Lundi de Pentecote - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-vaud-vacances-ete-2031-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310705
+DTEND;VALUE=DATE:20310825
+SUMMARY:Vacances d ete - Vaud
+DESCRIPTION:Vacances et conges scolaires du canton de Vaud\, depuis l'ICS officiel cantonal. Source: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics Fiabilite: high
+URL:https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics
+CATEGORIES:Pays,Suisse,Suisse romande,Vaud,Vacances scolaires
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

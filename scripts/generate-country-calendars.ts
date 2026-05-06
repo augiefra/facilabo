@@ -108,6 +108,26 @@ function dateFromRule(rule, year) {
   if (rule.type === 'easter_offset') {
     return addDays(easterSunday(year), rule.days);
   }
+  if (rule.type === 'geneva_fast') {
+    let date = `${year}-09-01`;
+    while (weekday(date) !== 0) {
+      date = addDays(date, 1);
+    }
+    return addDays(date, 4);
+  }
+  if (rule.type === 'federal_fast_monday') {
+    let date = `${year}-09-01`;
+    let sundayCount = 0;
+    while (true) {
+      if (weekday(date) === 0) {
+        sundayCount += 1;
+        if (sundayCount === 3) {
+          return addDays(date, 1);
+        }
+      }
+      date = addDays(date, 1);
+    }
+  }
   fail(`Unsupported date rule: ${JSON.stringify(rule)}`);
 }
 

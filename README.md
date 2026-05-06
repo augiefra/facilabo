@@ -13,6 +13,14 @@ Examples:
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/luxembourg/feries-legaux.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/luxembourg/vacances-scolaires.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/luxembourg/ponts.ics`
+- `https://raw.githubusercontent.com/augiefra/facilabo/main/suisse/romande-geneve-feries.ics`
+- `https://raw.githubusercontent.com/augiefra/facilabo/main/suisse/romande-geneve-vacances.ics`
+- `https://raw.githubusercontent.com/augiefra/facilabo/main/suisse/romande-vaud-feries.ics`
+- `https://raw.githubusercontent.com/augiefra/facilabo/main/suisse/romande-vaud-vacances.ics`
+- `https://raw.githubusercontent.com/augiefra/facilabo/main/suisse/romande-neuchatel-feries.ics`
+- `https://raw.githubusercontent.com/augiefra/facilabo/main/suisse/romande-neuchatel-vacances.ics`
+- `https://raw.githubusercontent.com/augiefra/facilabo/main/suisse/romande-jura-feries.ics`
+- `https://raw.githubusercontent.com/augiefra/facilabo/main/suisse/romande-jura-vacances.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/fiscal/france.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/fiscal/paye-fonction-publique.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/education/examens-2026.ics`
@@ -36,6 +44,7 @@ Examples:
 - `religion`
 - `soldes`
 - `sport`
+- `suisse`
 - `tennis`
 
 ## Legal
@@ -56,4 +65,5 @@ This repo keeps existing ICS paths stable for app compatibility.
 No existing feed path is changed by legal/documentation updates.
 Belgium existing slugs stay unchanged; `belgique/ponts.ics` is an additive derived feed.
 Luxembourg school holidays currently follow the official MENJE publication through summer 2028.
+Suisse romande feeds are canton-scoped only: Geneve, Vaud, Neuchatel and Jura MVP; Fribourg and Valais remain to study later.
 World Cup 2026 feeds use stable match-number UIDs to avoid duplicate events when team placeholders are updated.

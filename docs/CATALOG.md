@@ -14,6 +14,7 @@
 - `societe`
 - `soldes`
 - `sport`
+- `suisse`
 - `tennis`
 
 ## Canonical raw URL format
@@ -42,6 +43,17 @@
 - `luxembourg/feries-legaux.ics` (slug: `luxembourg-feries-legaux`) - jours feries legaux nationaux, couverture 2026-2031
 - `luxembourg/vacances-scolaires.ics` (slug: `luxembourg-vacances-scolaires`) - vacances et conges scolaires MENJE publies, couverture officielle disponible jusqu'a l'ete 2028
 - `luxembourg/ponts.ics` (slug: `luxembourg-ponts`) - opportunites de pont derivees des jours feries legaux, non feriees automatiquement
+
+### Suisse romande
+
+- `suisse/romande-geneve-feries.ics` (slug: `suisse-romande-geneve-feries`) - jours feries officiels du canton de Geneve, couverture 2026-2029
+- `suisse/romande-geneve-vacances.ics` (slug: `suisse-romande-geneve-vacances`) - vacances et conges scolaires du canton de Geneve, couverture officielle disponible jusqu'a l'ete 2030
+- `suisse/romande-vaud-feries.ics` (slug: `suisse-romande-vaud-feries`) - jours feries officiels du canton de Vaud, couverture 2026-2031
+- `suisse/romande-vaud-vacances.ics` (slug: `suisse-romande-vaud-vacances`) - vacances scolaires du canton de Vaud depuis l'ICS officiel, couverture jusqu'a l'ete 2031
+- `suisse/romande-neuchatel-feries.ics` (slug: `suisse-romande-neuchatel-feries`) - jours feries officiels du canton de Neuchatel, couverture 2026-2027
+- `suisse/romande-neuchatel-vacances.ics` (slug: `suisse-romande-neuchatel-vacances`) - vacances scolaires du canton de Neuchatel, couverture officielle disponible jusqu'a l'ete 2030
+- `suisse/romande-jura-feries.ics` (slug: `suisse-romande-jura-feries`) - jours feries officiels du canton du Jura, couverture 2026-2031
+- `suisse/romande-jura-vacances.ics` (slug: `suisse-romande-jura-vacances`) - vacances scolaires du canton du Jura, couverture HTML officielle 2026-2027
 
 ## Culture feeds
 
@@ -72,6 +84,7 @@
 - UID stability per event/year must be preserved.
 - Belgique: les 6 slugs historiques restent intouchables; `belgique-ponts` est uniquement additif.
 - Luxembourg: `UID = <slug>-<normalized-event-key>-<year>@facilabo.app`; les ponts restent des opportunites editoriales a confirmer selon employeur.
+- Suisse romande: `UID = suisse-romande-<canton>-<type>-<event-key>-<year>@facilabo.app`; chaque flux reste cantonal et ne doit jamais etre presente comme Suisse entiere.
 - Examens / Parcoursup 2026: `UID = examens-2026-<date>-<type>@facilabo.app` ou `parcoursup-2026-<date>-<type>@facilabo.app`; corriger le contenu en place sans changer les UIDs.
 - Coupe du Monde 2026: `UID = worldcup-2026-match-<numero FIFA>@facilabo.app`; mettre a jour les affiches en place sans changer l'UID.
 - Apres qualification France/Belgique, ajouter les numeros de match FIFA correspondants dans `facilabo-api/lib/worldcup-2026-routes.ts`, puis redeployer l'API pour enrichir le slug existant sans recreer d'abonnement.

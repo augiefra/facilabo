@@ -25,6 +25,18 @@
 - Limite editoriale: les vacances scolaires sont publiees officiellement jusqu'a l'annee scolaire 2027/2028; le flux `luxembourg-vacances-scolaires` s'arrete donc a l'ete 2028 tant qu'une nouvelle source officielle n'est pas publiee.
 - Ponts Luxembourg: derives des jours feries legaux; ce sont des opportunites de pose, pas des jours feries officiels.
 
+## Suisse romande
+
+- Geneve, jours feries officiels: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels (verifie le 2026-05-06). Couverture retenue: 2026-2029. Limite: flux cantonal Geneve uniquement.
+- Geneve, vacances scolaires: https://www.ge.ch/vacances-scolaires-jours-feries (verifie le 2026-05-06). Couverture retenue: annees scolaires publiees jusqu'a 2029/2030.
+- Vaud, jours feries et vacances scolaires: https://www.vd.ch/formation/jours-feries-et-vacances-scolaires (verifie le 2026-05-06). Couverture retenue: 2026-2031 pour les jours feries annuels publies.
+- Vaud, vacances scolaires ICS officiel: https://www.vd.ch/fileadmin/user_upload/themes/formation/Vacances_scolaires/vacances_scolaires_vd_2023_2031.ics (verifie le 2026-05-06). Couverture retenue: periodes 2026-2031 issues du fichier officiel.
+- Neuchatel, jours feries officiels: https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels (verifie le 2026-05-06). Couverture retenue: tableau officiel 2026-2027. Limite: les conges supplementaires propres a l'administration cantonale ne sont pas inclus.
+- Neuchatel, calendrier et vacances scolaires: https://www.ne.ch/themes/scolarite-et-formation/calendrier-et-vacances-scolaires (verifie le 2026-05-06). Couverture retenue: annees scolaires publiees jusqu'a 2029/2030.
+- Jura, jours feries officiels: https://www.jura.ch/fr/Autorites/Administration/DES/Economie-et-Emploi-SEE/Documentations-formulaires-et-bases-legales/Documentations-formulaires-et-bases-legales/Jours-feries-officiels-dans-le-Canton-du-Jura.html et base legale https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 (verifie le 2026-05-06). Couverture retenue: regle legale cantonale projetee 2026-2031.
+- Jura, vacances scolaires: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html (verifie le 2026-05-06). Couverture retenue: dates HTML officielles 2026-2027.
+- Exclusions MVP: Fribourg et Valais ne sont pas implementes dans ce lot et restent a etudier plus tard. Aucun flux Suisse romande global n'est cree pour eviter de melanger les cantons.
+
 ## Societe (France)
 
 - https://www.unwomen.org

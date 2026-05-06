@@ -1,0 +1,423 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//suisse-romande-geneve-feries//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Suisse romande - Geneve - Jours feries
+X-WR-CALDESC:Jours feries officiels du canton de Geneve, sans les presenter comme applicables a toute la Suisse.
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-nouvel-an-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Nouvel An - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-vendredi-saint-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Vendredi-Saint - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-lundi-paques-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:Lundi de Paques - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-ascension-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Jeudi de l Ascension - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-lundi-pentecote-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Lundi de Pentecote - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-fete-nationale-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:Fete nationale - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-jeune-genevois-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Jeune genevois - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-noel-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Noel - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-restauration-republique-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Restauration de la Republique - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-nouvel-an-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Nouvel An - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-vendredi-saint-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Vendredi-Saint - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-lundi-paques-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Lundi de Paques - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-ascension-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Jeudi de l Ascension - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-lundi-pentecote-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Lundi de Pentecote - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-fete-nationale-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Fete nationale - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-jeune-genevois-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:Jeune genevois - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-noel-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:Noel - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-restauration-republique-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Restauration de la Republique - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-nouvel-an-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Nouvel An - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-vendredi-saint-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+SUMMARY:Vendredi-Saint - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-lundi-paques-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Lundi de Paques - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-ascension-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:Jeudi de l Ascension - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-lundi-pentecote-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280605
+DTEND;VALUE=DATE:20280606
+SUMMARY:Lundi de Pentecote - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-fete-nationale-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280801
+DTEND;VALUE=DATE:20280802
+SUMMARY:Fete nationale - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-jeune-genevois-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280907
+DTEND;VALUE=DATE:20280908
+SUMMARY:Jeune genevois - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-noel-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:Noel - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-restauration-republique-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:Restauration de la Republique - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-nouvel-an-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290101
+DTEND;VALUE=DATE:20290102
+SUMMARY:Nouvel An - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-vendredi-saint-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290330
+DTEND;VALUE=DATE:20290331
+SUMMARY:Vendredi-Saint - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-lundi-paques-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290402
+DTEND;VALUE=DATE:20290403
+SUMMARY:Lundi de Paques - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-ascension-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290510
+DTEND;VALUE=DATE:20290511
+SUMMARY:Jeudi de l Ascension - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-lundi-pentecote-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290521
+DTEND;VALUE=DATE:20290522
+SUMMARY:Lundi de Pentecote - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-fete-nationale-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290801
+DTEND;VALUE=DATE:20290802
+SUMMARY:Fete nationale - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-jeune-genevois-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290906
+DTEND;VALUE=DATE:20290907
+SUMMARY:Jeune genevois - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-noel-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20291225
+DTEND;VALUE=DATE:20291226
+SUMMARY:Noel - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-geneve-feries-restauration-republique-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:Restauration de la Republique - Geneve
+DESCRIPTION:Jours feries officiels du canton de Geneve\, sans les presenter comme applicables a toute la Suisse. Source: https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels Fiabilite: high
+URL:https://www.ge.ch/vacances-scolaires-jours-feries/jours-feries-officiels
+CATEGORIES:Pays,Suisse,Suisse romande,Geneve,Feries
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
