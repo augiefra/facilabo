@@ -1,0 +1,621 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//canada-quebec-feries//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Quebec - Jours feries
+X-WR-CALDESC:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet.
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:canada-quebec-feries-jour-an-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Jour de l An - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-vendredi-saint-option-employeur-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Vendredi saint - Quebec (option employeur)
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST indique Vendredi saint ou lundi de Paques\, au choix de l employeur. Ce repere ne signifie pas que les deux jours s appliquent. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: medium
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-lundi-paques-option-employeur-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:Lundi de Paques - Quebec (option employeur)
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST indique Vendredi saint ou lundi de Paques\, au choix de l employeur. Ce repere ne signifie pas que les deux jours s appliquent. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: medium
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-journee-patriotes-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:Journee nationale des patriotes - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-fete-nationale-quebec-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Fete nationale du Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST signale des regles particulieres pour le 24 juin\, notamment lorsque la date tombe un dimanche. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-fete-canada-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Fete du Canada - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST indique le 1er juillet ou\, si cette date tombe un dimanche\, le 2 juillet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-fete-travail-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Fete du Travail - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-action-grace-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Action de graces - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-noel-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Noel - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-jour-an-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Jour de l An - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-vendredi-saint-option-employeur-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Vendredi saint - Quebec (option employeur)
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST indique Vendredi saint ou lundi de Paques\, au choix de l employeur. Ce repere ne signifie pas que les deux jours s appliquent. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: medium
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-lundi-paques-option-employeur-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Lundi de Paques - Quebec (option employeur)
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST indique Vendredi saint ou lundi de Paques\, au choix de l employeur. Ce repere ne signifie pas que les deux jours s appliquent. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: medium
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-journee-patriotes-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:Journee nationale des patriotes - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-fete-nationale-quebec-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Fete nationale du Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST signale des regles particulieres pour le 24 juin\, notamment lorsque la date tombe un dimanche. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-fete-canada-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Fete du Canada - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST indique le 1er juillet ou\, si cette date tombe un dimanche\, le 2 juillet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-fete-travail-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:Fete du Travail - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-action-grace-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+SUMMARY:Action de graces - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-noel-2027@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:Noel - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-jour-an-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Jour de l An - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-vendredi-saint-option-employeur-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+SUMMARY:Vendredi saint - Quebec (option employeur)
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST indique Vendredi saint ou lundi de Paques\, au choix de l employeur. Ce repere ne signifie pas que les deux jours s appliquent. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: medium
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-lundi-paques-option-employeur-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Lundi de Paques - Quebec (option employeur)
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST indique Vendredi saint ou lundi de Paques\, au choix de l employeur. Ce repere ne signifie pas que les deux jours s appliquent. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: medium
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-journee-patriotes-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280522
+DTEND;VALUE=DATE:20280523
+SUMMARY:Journee nationale des patriotes - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-fete-nationale-quebec-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280624
+DTEND;VALUE=DATE:20280625
+SUMMARY:Fete nationale du Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST signale des regles particulieres pour le 24 juin\, notamment lorsque la date tombe un dimanche. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-fete-canada-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280701
+DTEND;VALUE=DATE:20280702
+SUMMARY:Fete du Canada - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST indique le 1er juillet ou\, si cette date tombe un dimanche\, le 2 juillet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-fete-travail-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20280904
+DTEND;VALUE=DATE:20280905
+SUMMARY:Fete du Travail - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-action-grace-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20281009
+DTEND;VALUE=DATE:20281010
+SUMMARY:Action de graces - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-noel-2028@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:Noel - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-jour-an-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290101
+DTEND;VALUE=DATE:20290102
+SUMMARY:Jour de l An - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-vendredi-saint-option-employeur-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290330
+DTEND;VALUE=DATE:20290331
+SUMMARY:Vendredi saint - Quebec (option employeur)
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST indique Vendredi saint ou lundi de Paques\, au choix de l employeur. Ce repere ne signifie pas que les deux jours s appliquent. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: medium
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-lundi-paques-option-employeur-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290402
+DTEND;VALUE=DATE:20290403
+SUMMARY:Lundi de Paques - Quebec (option employeur)
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST indique Vendredi saint ou lundi de Paques\, au choix de l employeur. Ce repere ne signifie pas que les deux jours s appliquent. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: medium
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-journee-patriotes-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290521
+DTEND;VALUE=DATE:20290522
+SUMMARY:Journee nationale des patriotes - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-fete-nationale-quebec-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290624
+DTEND;VALUE=DATE:20290625
+SUMMARY:Fete nationale du Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST signale des regles particulieres pour le 24 juin\, notamment lorsque la date tombe un dimanche. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-fete-canada-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290702
+DTEND;VALUE=DATE:20290703
+SUMMARY:Fete du Canada - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST indique le 1er juillet ou\, si cette date tombe un dimanche\, le 2 juillet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-fete-travail-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20290903
+DTEND;VALUE=DATE:20290904
+SUMMARY:Fete du Travail - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-action-grace-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20291008
+DTEND;VALUE=DATE:20291009
+SUMMARY:Action de graces - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-noel-2029@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20291225
+DTEND;VALUE=DATE:20291226
+SUMMARY:Noel - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-jour-an-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:Jour de l An - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-vendredi-saint-option-employeur-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300419
+DTEND;VALUE=DATE:20300420
+SUMMARY:Vendredi saint - Quebec (option employeur)
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST indique Vendredi saint ou lundi de Paques\, au choix de l employeur. Ce repere ne signifie pas que les deux jours s appliquent. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: medium
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-lundi-paques-option-employeur-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300422
+DTEND;VALUE=DATE:20300423
+SUMMARY:Lundi de Paques - Quebec (option employeur)
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST indique Vendredi saint ou lundi de Paques\, au choix de l employeur. Ce repere ne signifie pas que les deux jours s appliquent. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: medium
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-journee-patriotes-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300520
+DTEND;VALUE=DATE:20300521
+SUMMARY:Journee nationale des patriotes - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-fete-nationale-quebec-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300624
+DTEND;VALUE=DATE:20300625
+SUMMARY:Fete nationale du Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST signale des regles particulieres pour le 24 juin\, notamment lorsque la date tombe un dimanche. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-fete-canada-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300702
+SUMMARY:Fete du Canada - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST indique le 1er juillet ou\, si cette date tombe un dimanche\, le 2 juillet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-fete-travail-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20300902
+DTEND;VALUE=DATE:20300903
+SUMMARY:Fete du Travail - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-action-grace-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20301014
+DTEND;VALUE=DATE:20301015
+SUMMARY:Action de graces - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-noel-2030@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20301225
+DTEND;VALUE=DATE:20301226
+SUMMARY:Noel - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-jour-an-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310101
+DTEND;VALUE=DATE:20310102
+SUMMARY:Jour de l An - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-vendredi-saint-option-employeur-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310411
+DTEND;VALUE=DATE:20310412
+SUMMARY:Vendredi saint - Quebec (option employeur)
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST indique Vendredi saint ou lundi de Paques\, au choix de l employeur. Ce repere ne signifie pas que les deux jours s appliquent. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: medium
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-lundi-paques-option-employeur-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310414
+DTEND;VALUE=DATE:20310415
+SUMMARY:Lundi de Paques - Quebec (option employeur)
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST indique Vendredi saint ou lundi de Paques\, au choix de l employeur. Ce repere ne signifie pas que les deux jours s appliquent. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: medium
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-journee-patriotes-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310519
+DTEND;VALUE=DATE:20310520
+SUMMARY:Journee nationale des patriotes - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-fete-nationale-quebec-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310624
+DTEND;VALUE=DATE:20310625
+SUMMARY:Fete nationale du Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST signale des regles particulieres pour le 24 juin\, notamment lorsque la date tombe un dimanche. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-fete-canada-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310701
+DTEND;VALUE=DATE:20310702
+SUMMARY:Fete du Canada - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. La CNESST indique le 1er juillet ou\, si cette date tombe un dimanche\, le 2 juillet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-fete-travail-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20310901
+DTEND;VALUE=DATE:20310902
+SUMMARY:Fete du Travail - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-action-grace-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20311013
+DTEND;VALUE=DATE:20311014
+SUMMARY:Action de graces - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-quebec-feries-noel-2031@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20311225
+DTEND;VALUE=DATE:20311226
+SUMMARY:Noel - Quebec
+DESCRIPTION:Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur\; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet. Source: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries Fiabilite: high
+URL:https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries
+CATEGORIES:Pays,Canada,Quebec,Feries
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

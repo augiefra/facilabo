@@ -1,0 +1,68 @@
+{
+  "country": "Canada et Quebec",
+  "verified_at": "2026-05-07",
+  "sources": [
+    {
+      "id": "canada-cra-public-holidays",
+      "title": "Canada - jours feries reconnus par l ARC",
+      "url": "https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html",
+      "confidence": "high",
+      "usage": "Page officielle de l Agence du revenu du Canada; le MVP retient uniquement la liste 2026 publiee par l ARC comme reperes publics pour les echeances administratives. La page rappelle que plusieurs provinces et territoires ont leurs propres conges."
+    },
+    {
+      "id": "quebec-cnesst-holidays",
+      "title": "Quebec - jours feries CNESST",
+      "url": "https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries",
+      "confidence": "high",
+      "usage": "Page officielle CNESST listant les jours feries au Quebec. Le flux ne couvre pas les vacances scolaires, ne remplace pas les regles employeur, et signale le choix Vendredi saint ou lundi de Paques comme deux reperes alternatifs."
+    }
+  ],
+  "calendars": [
+    {
+      "slug": "canada-feries-publics",
+      "path": "canada/feries-publics.ics",
+      "name": "Canada - Jours feries publics",
+      "description": "Reperes publics 2026 reconnus par l ARC pour les echeances administratives. Plusieurs provinces et territoires ont leurs propres conges; ce flux n est pas une couverture provinciale exhaustive.",
+      "timezone": "Europe/Paris",
+      "categories": ["Pays", "Canada", "Feries"],
+      "kind": "events",
+      "coverage": "2026",
+      "events": [
+        { "key": "jour-an", "summary": "Jour de l An - ARC", "start_date": "2026-01-01", "end_date": "2026-01-01", "type": "public_holiday", "source_id": "canada-cra-public-holidays", "confidence": "high" },
+        { "key": "vendredi-saint", "summary": "Vendredi saint - ARC", "start_date": "2026-04-03", "end_date": "2026-04-03", "type": "public_holiday", "source_id": "canada-cra-public-holidays", "confidence": "high" },
+        { "key": "lundi-paques", "summary": "Lundi de Paques - ARC", "start_date": "2026-04-06", "end_date": "2026-04-06", "type": "public_holiday", "source_id": "canada-cra-public-holidays", "confidence": "high" },
+        { "key": "fete-reine", "summary": "Fete de la Reine - ARC", "start_date": "2026-05-18", "end_date": "2026-05-18", "type": "public_holiday", "source_id": "canada-cra-public-holidays", "confidence": "high" },
+        { "key": "saint-jean-baptiste", "summary": "Saint-Jean-Baptiste - ARC (Quebec seulement)", "start_date": "2026-06-24", "end_date": "2026-06-24", "type": "public_holiday", "source_id": "canada-cra-public-holidays", "confidence": "high", "note": "Repere ARC indique comme seulement au Quebec." },
+        { "key": "fete-canada", "summary": "Fete du Canada - ARC", "start_date": "2026-07-01", "end_date": "2026-07-01", "type": "public_holiday", "source_id": "canada-cra-public-holidays", "confidence": "high" },
+        { "key": "conge-civique", "summary": "Conge civique - ARC (hors Quebec)", "start_date": "2026-08-03", "end_date": "2026-08-03", "type": "public_holiday", "source_id": "canada-cra-public-holidays", "confidence": "high", "note": "Repere ARC indique comme excluant le Quebec." },
+        { "key": "fete-travail", "summary": "Fete du Travail - ARC", "start_date": "2026-09-07", "end_date": "2026-09-07", "type": "public_holiday", "source_id": "canada-cra-public-holidays", "confidence": "high" },
+        { "key": "verite-reconciliation", "summary": "Journee nationale de la verite et de la reconciliation - ARC", "start_date": "2026-09-30", "end_date": "2026-09-30", "type": "public_holiday", "source_id": "canada-cra-public-holidays", "confidence": "high" },
+        { "key": "action-grace", "summary": "Action de grace - ARC", "start_date": "2026-10-12", "end_date": "2026-10-12", "type": "public_holiday", "source_id": "canada-cra-public-holidays", "confidence": "high" },
+        { "key": "jour-souvenir", "summary": "Jour du Souvenir - ARC", "start_date": "2026-11-11", "end_date": "2026-11-11", "type": "public_holiday", "source_id": "canada-cra-public-holidays", "confidence": "high" },
+        { "key": "noel", "summary": "Noel - ARC", "start_date": "2026-12-25", "end_date": "2026-12-25", "type": "public_holiday", "source_id": "canada-cra-public-holidays", "confidence": "high" },
+        { "key": "lendemain-noel", "summary": "Lendemain de Noel - ARC", "start_date": "2026-12-26", "end_date": "2026-12-26", "type": "public_holiday", "source_id": "canada-cra-public-holidays", "confidence": "high" }
+      ]
+    },
+    {
+      "slug": "canada-quebec-feries",
+      "path": "canada/quebec-feries.ics",
+      "name": "Quebec - Jours feries",
+      "description": "Jours feries du Quebec selon la CNESST. Le choix Vendredi saint ou lundi de Paques depend de l employeur; ce flux ne couvre pas les vacances scolaires ni un calendrier administratif complet.",
+      "timezone": "Europe/Paris",
+      "categories": ["Pays", "Canada", "Quebec", "Feries"],
+      "kind": "events",
+      "coverage": "2026-2031",
+      "events": [
+        { "key": "jour-an", "summary": "Jour de l An - Quebec", "date_rule": { "type": "fixed", "month": 1, "day": 1 }, "years": [2026, 2027, 2028, 2029, 2030, 2031], "type": "public_holiday", "source_id": "quebec-cnesst-holidays", "confidence": "high" },
+        { "key": "vendredi-saint-option-employeur", "summary": "Vendredi saint - Quebec (option employeur)", "date_rule": { "type": "easter_offset", "days": -2 }, "years": [2026, 2027, 2028, 2029, 2030, 2031], "type": "public_holiday", "source_id": "quebec-cnesst-holidays", "confidence": "medium", "note": "La CNESST indique Vendredi saint ou lundi de Paques, au choix de l employeur. Ce repere ne signifie pas que les deux jours s appliquent." },
+        { "key": "lundi-paques-option-employeur", "summary": "Lundi de Paques - Quebec (option employeur)", "date_rule": { "type": "easter_offset", "days": 1 }, "years": [2026, 2027, 2028, 2029, 2030, 2031], "type": "public_holiday", "source_id": "quebec-cnesst-holidays", "confidence": "medium", "note": "La CNESST indique Vendredi saint ou lundi de Paques, au choix de l employeur. Ce repere ne signifie pas que les deux jours s appliquent." },
+        { "key": "journee-patriotes", "summary": "Journee nationale des patriotes - Quebec", "date_rule": { "type": "weekday_before_fixed", "month": 5, "day": 25, "weekday": 1 }, "years": [2026, 2027, 2028, 2029, 2030, 2031], "type": "public_holiday", "source_id": "quebec-cnesst-holidays", "confidence": "high" },
+        { "key": "fete-nationale-quebec", "summary": "Fete nationale du Quebec", "date_rule": { "type": "fixed", "month": 6, "day": 24 }, "years": [2026, 2027, 2028, 2029, 2030, 2031], "type": "public_holiday", "source_id": "quebec-cnesst-holidays", "confidence": "high", "note": "La CNESST signale des regles particulieres pour le 24 juin, notamment lorsque la date tombe un dimanche." },
+        { "key": "fete-canada", "summary": "Fete du Canada - Quebec", "date_rule": { "type": "fixed_observed_if_sunday_next_day", "month": 7, "day": 1 }, "years": [2026, 2027, 2028, 2029, 2030, 2031], "type": "public_holiday", "source_id": "quebec-cnesst-holidays", "confidence": "high", "note": "La CNESST indique le 1er juillet ou, si cette date tombe un dimanche, le 2 juillet." },
+        { "key": "fete-travail", "summary": "Fete du Travail - Quebec", "date_rule": { "type": "nth_weekday", "month": 9, "weekday": 1, "nth": 1 }, "years": [2026, 2027, 2028, 2029, 2030, 2031], "type": "public_holiday", "source_id": "quebec-cnesst-holidays", "confidence": "high" },
+        { "key": "action-grace", "summary": "Action de graces - Quebec", "date_rule": { "type": "nth_weekday", "month": 10, "weekday": 1, "nth": 2 }, "years": [2026, 2027, 2028, 2029, 2030, 2031], "type": "public_holiday", "source_id": "quebec-cnesst-holidays", "confidence": "high" },
+        { "key": "noel", "summary": "Noel - Quebec", "date_rule": { "type": "fixed", "month": 12, "day": 25 }, "years": [2026, 2027, 2028, 2029, 2030, 2031], "type": "public_holiday", "source_id": "quebec-cnesst-holidays", "confidence": "high" }
+      ]
+    }
+  ]
+}

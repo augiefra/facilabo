@@ -1,0 +1,170 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//canada-feries-publics//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Canada - Jours feries publics
+X-WR-CALDESC:Reperes publics 2026 reconnus par l ARC pour les echeances administratives. Plusieurs provinces et territoires ont leurs propres conges; ce flux n est pas une couverture provinciale exhaustive.
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:canada-feries-publics-jour-an-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Jour de l An - ARC
+DESCRIPTION:Reperes publics 2026 reconnus par l ARC pour les echeances administratives. Plusieurs provinces et territoires ont leurs propres conges\; ce flux n est pas une couverture provinciale exhaustive. Source: https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html Fiabilite: high
+URL:https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html
+CATEGORIES:Pays,Canada,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-feries-publics-vendredi-saint-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Vendredi saint - ARC
+DESCRIPTION:Reperes publics 2026 reconnus par l ARC pour les echeances administratives. Plusieurs provinces et territoires ont leurs propres conges\; ce flux n est pas une couverture provinciale exhaustive. Source: https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html Fiabilite: high
+URL:https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html
+CATEGORIES:Pays,Canada,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-feries-publics-lundi-paques-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:Lundi de Paques - ARC
+DESCRIPTION:Reperes publics 2026 reconnus par l ARC pour les echeances administratives. Plusieurs provinces et territoires ont leurs propres conges\; ce flux n est pas une couverture provinciale exhaustive. Source: https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html Fiabilite: high
+URL:https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html
+CATEGORIES:Pays,Canada,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-feries-publics-fete-reine-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:Fete de la Reine - ARC
+DESCRIPTION:Reperes publics 2026 reconnus par l ARC pour les echeances administratives. Plusieurs provinces et territoires ont leurs propres conges\; ce flux n est pas une couverture provinciale exhaustive. Source: https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html Fiabilite: high
+URL:https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html
+CATEGORIES:Pays,Canada,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-feries-publics-saint-jean-baptiste-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Saint-Jean-Baptiste - ARC (Quebec seulement)
+DESCRIPTION:Reperes publics 2026 reconnus par l ARC pour les echeances administratives. Plusieurs provinces et territoires ont leurs propres conges\; ce flux n est pas une couverture provinciale exhaustive. Repere ARC indique comme seulement au Quebec. Source: https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html Fiabilite: high
+URL:https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html
+CATEGORIES:Pays,Canada,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-feries-publics-fete-canada-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Fete du Canada - ARC
+DESCRIPTION:Reperes publics 2026 reconnus par l ARC pour les echeances administratives. Plusieurs provinces et territoires ont leurs propres conges\; ce flux n est pas une couverture provinciale exhaustive. Source: https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html Fiabilite: high
+URL:https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html
+CATEGORIES:Pays,Canada,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-feries-publics-conge-civique-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:Conge civique - ARC (hors Quebec)
+DESCRIPTION:Reperes publics 2026 reconnus par l ARC pour les echeances administratives. Plusieurs provinces et territoires ont leurs propres conges\; ce flux n est pas une couverture provinciale exhaustive. Repere ARC indique comme excluant le Quebec. Source: https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html Fiabilite: high
+URL:https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html
+CATEGORIES:Pays,Canada,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-feries-publics-fete-travail-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Fete du Travail - ARC
+DESCRIPTION:Reperes publics 2026 reconnus par l ARC pour les echeances administratives. Plusieurs provinces et territoires ont leurs propres conges\; ce flux n est pas une couverture provinciale exhaustive. Source: https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html Fiabilite: high
+URL:https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html
+CATEGORIES:Pays,Canada,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-feries-publics-verite-reconciliation-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Journee nationale de la verite et de la reconciliation - ARC
+DESCRIPTION:Reperes publics 2026 reconnus par l ARC pour les echeances administratives. Plusieurs provinces et territoires ont leurs propres conges\; ce flux n est pas une couverture provinciale exhaustive. Source: https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html Fiabilite: high
+URL:https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html
+CATEGORIES:Pays,Canada,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-feries-publics-action-grace-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Action de grace - ARC
+DESCRIPTION:Reperes publics 2026 reconnus par l ARC pour les echeances administratives. Plusieurs provinces et territoires ont leurs propres conges\; ce flux n est pas une couverture provinciale exhaustive. Source: https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html Fiabilite: high
+URL:https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html
+CATEGORIES:Pays,Canada,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-feries-publics-jour-souvenir-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Jour du Souvenir - ARC
+DESCRIPTION:Reperes publics 2026 reconnus par l ARC pour les echeances administratives. Plusieurs provinces et territoires ont leurs propres conges\; ce flux n est pas une couverture provinciale exhaustive. Source: https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html Fiabilite: high
+URL:https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html
+CATEGORIES:Pays,Canada,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-feries-publics-noel-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Noel - ARC
+DESCRIPTION:Reperes publics 2026 reconnus par l ARC pour les echeances administratives. Plusieurs provinces et territoires ont leurs propres conges\; ce flux n est pas une couverture provinciale exhaustive. Source: https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html Fiabilite: high
+URL:https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html
+CATEGORIES:Pays,Canada,Feries
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canada-feries-publics-lendemain-noel-2026@facilabo.app
+DTSTAMP:20260506T120000Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Lendemain de Noel - ARC
+DESCRIPTION:Reperes publics 2026 reconnus par l ARC pour les echeances administratives. Plusieurs provinces et territoires ont leurs propres conges\; ce flux n est pas une couverture provinciale exhaustive. Source: https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html Fiabilite: high
+URL:https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html
+CATEGORIES:Pays,Canada,Feries
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

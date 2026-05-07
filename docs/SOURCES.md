@@ -37,6 +37,12 @@
 - Jura, vacances scolaires: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html (verifie le 2026-05-06). Couverture retenue: dates HTML officielles 2026-2027.
 - Exclusions MVP: Fribourg et Valais ne sont pas implementes dans ce lot et restent a etudier plus tard. Aucun flux Suisse romande global n'est cree pour eviter de melanger les cantons.
 
+## Canada & Quebec
+
+- Canada, jours feries reconnus par l'ARC: https://www.canada.ca/fr/agence-revenu/services/impot/jours-feries.html (verifie le 2026-05-07). Couverture retenue: liste 2026 publiee par l'ARC pour les echeances administratives. Limite: plusieurs provinces et territoires ont leurs propres conges; `canada-feries-publics` n'est pas un calendrier provincial exhaustif.
+- Quebec, jours feries CNESST: https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/jours-feries/liste-jours-feries (verifie le 2026-05-07). Couverture retenue: regles CNESST projetees 2026-2031. Limite: le choix Vendredi saint ou lundi de Paques depend de l'employeur; les deux dates sont publiees comme reperes alternatifs, pas comme deux jours automatiquement applicables.
+- Exclusions MVP: aucun calendrier scolaire Canada ou Quebec, aucun flux par province canadienne, aucun flux fiscal Canada/Quebec.
+
 ## Societe (France)
 
 - https://www.unwomen.org

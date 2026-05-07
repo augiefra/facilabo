@@ -4,6 +4,7 @@
 
 - `astronomie`
 - `belgique`
+- `canada`
 - `culture`
 - `education`
 - `ecommerce`
@@ -55,6 +56,11 @@
 - `suisse/romande-jura-feries.ics` (slug: `suisse-romande-jura-feries`) - jours feries officiels du canton du Jura, couverture 2026-2031
 - `suisse/romande-jura-vacances.ics` (slug: `suisse-romande-jura-vacances`) - vacances scolaires du canton du Jura, couverture HTML officielle 2026-2027
 
+### Canada & Quebec
+
+- `canada/feries-publics.ics` (slug: `canada-feries-publics`) - reperes publics 2026 reconnus par l'ARC pour les echeances administratives; ne couvre pas exhaustivement les regles provinciales
+- `canada/quebec-feries.ics` (slug: `canada-quebec-feries`) - jours feries du Quebec selon la CNESST, sans vacances scolaires ni calendrier administratif complet
+
 ## Culture feeds
 
 - `culture/france.ics` (slug: `culture-france`) - sorties gratuites culture: Nuit des Musees, Fete de la Musique, Journees du Patrimoine
@@ -85,6 +91,7 @@
 - Belgique: les 6 slugs historiques restent intouchables; `belgique-ponts` est uniquement additif.
 - Luxembourg: `UID = <slug>-<normalized-event-key>-<year>@facilabo.app`; les ponts restent des opportunites editoriales a confirmer selon employeur.
 - Suisse romande: `UID = suisse-romande-<canton>-<type>-<event-key>-<year>@facilabo.app`; chaque flux reste cantonal et ne doit jamais etre presente comme Suisse entiere.
+- Canada/Quebec: `UID = canada-feries-publics-<event-key>-<year>@facilabo.app` et `UID = canada-quebec-feries-<event-key>-<year>@facilabo.app`; ne jamais presenter `canada-feries-publics` comme une couverture provinciale exhaustive.
 - Examens / Parcoursup 2026: `UID = examens-2026-<date>-<type>@facilabo.app` ou `parcoursup-2026-<date>-<type>@facilabo.app`; corriger le contenu en place sans changer les UIDs.
 - Coupe du Monde 2026: `UID = worldcup-2026-match-<numero FIFA>@facilabo.app`; mettre a jour les affiches en place sans changer l'UID.
 - Apres qualification France/Belgique, ajouter les numeros de match FIFA correspondants dans `facilabo-api/lib/worldcup-2026-routes.ts`, puis redeployer l'API pour enrichir le slug existant sans recreer d'abonnement.

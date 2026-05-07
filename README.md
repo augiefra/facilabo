@@ -21,6 +21,8 @@ Examples:
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/suisse/romande-neuchatel-vacances.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/suisse/romande-jura-feries.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/suisse/romande-jura-vacances.ics`
+- `https://raw.githubusercontent.com/augiefra/facilabo/main/canada/feries-publics.ics`
+- `https://raw.githubusercontent.com/augiefra/facilabo/main/canada/quebec-feries.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/fiscal/france.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/fiscal/paye-fonction-publique.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/education/examens-2026.ics`
@@ -35,6 +37,7 @@ Examples:
 
 - `astronomie`
 - `belgique`
+- `canada`
 - `culture`
 - `education`
 - `ecommerce`
@@ -66,4 +69,5 @@ No existing feed path is changed by legal/documentation updates.
 Belgium existing slugs stay unchanged; `belgique/ponts.ics` is an additive derived feed.
 Luxembourg school holidays currently follow the official MENJE publication through summer 2028.
 Suisse romande feeds are canton-scoped only: Geneve, Vaud, Neuchatel and Jura MVP; Fribourg and Valais remain to study later.
+Canada/Quebec feeds stay deliberately narrow: ARC public-holiday markers for Canada 2026, and CNESST Quebec statutory-holiday markers only. No Canada/Quebec school feed is published here.
 World Cup 2026 feeds use stable match-number UIDs to avoid duplicate events when team placeholders are updated.

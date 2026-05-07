@@ -105,8 +105,32 @@ function dateFromRule(rule, year) {
   if (rule.type === 'fixed') {
     return `${year}-${String(rule.month).padStart(2, '0')}-${String(rule.day).padStart(2, '0')}`;
   }
+  if (rule.type === 'fixed_observed_if_sunday_next_day') {
+    const date = `${year}-${String(rule.month).padStart(2, '0')}-${String(rule.day).padStart(2, '0')}`;
+    return weekday(date) === 0 ? addDays(date, 1) : date;
+  }
   if (rule.type === 'easter_offset') {
     return addDays(easterSunday(year), rule.days);
+  }
+  if (rule.type === 'nth_weekday') {
+    let date = `${year}-${String(rule.month).padStart(2, '0')}-01`;
+    let count = 0;
+    while (date.slice(5, 7) === String(rule.month).padStart(2, '0')) {
+      if (weekday(date) === rule.weekday) {
+        count += 1;
+        if (count === rule.nth) {
+          return date;
+        }
+      }
+      date = addDays(date, 1);
+    }
+  }
+  if (rule.type === 'weekday_before_fixed') {
+    let date = addDays(`${year}-${String(rule.month).padStart(2, '0')}-${String(rule.day).padStart(2, '0')}`, -1);
+    while (weekday(date) !== rule.weekday) {
+      date = addDays(date, -1);
+    }
+    return date;
   }
   if (rule.type === 'geneva_fast') {
     let date = `${year}-09-01`;

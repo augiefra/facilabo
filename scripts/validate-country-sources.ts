@@ -37,6 +37,35 @@ function eachEvent(calendar) {
   return calendar.events;
 }
 
+function validateDateRule(rule, context) {
+  const supportedRules = new Set([
+    'fixed',
+    'fixed_observed_if_sunday_next_day',
+    'easter_offset',
+    'nth_weekday',
+    'weekday_before_fixed',
+    'geneva_fast',
+    'federal_fast_monday'
+  ]);
+  assertCondition(rule && supportedRules.has(rule.type), `${context}: unsupported date_rule`);
+
+  if (['fixed', 'fixed_observed_if_sunday_next_day', 'nth_weekday', 'weekday_before_fixed'].includes(rule.type)) {
+    assertCondition(Number.isInteger(rule.month) && rule.month >= 1 && rule.month <= 12, `${context}: date_rule.month invalid`);
+  }
+  if (['fixed', 'fixed_observed_if_sunday_next_day', 'weekday_before_fixed'].includes(rule.type)) {
+    assertCondition(Number.isInteger(rule.day) && rule.day >= 1 && rule.day <= 31, `${context}: date_rule.day invalid`);
+  }
+  if (['nth_weekday', 'weekday_before_fixed'].includes(rule.type)) {
+    assertCondition(Number.isInteger(rule.weekday) && rule.weekday >= 0 && rule.weekday <= 6, `${context}: date_rule.weekday invalid`);
+  }
+  if (rule.type === 'nth_weekday') {
+    assertCondition(Number.isInteger(rule.nth) && rule.nth >= 1 && rule.nth <= 5, `${context}: date_rule.nth invalid`);
+  }
+  if (rule.type === 'easter_offset') {
+    assertCondition(Number.isInteger(rule.days), `${context}: date_rule.days invalid`);
+  }
+}
+
 function main() {
   const sourcesDir = resolveSourcesDir();
   const files = fs.readdirSync(sourcesDir).filter((name) => name.endsWith('.json')).sort();
@@ -89,6 +118,7 @@ function main() {
         assertCondition(['high', 'medium', 'low'].includes(event.confidence), `${calendar.slug}/${event.key}: invalid confidence`);
 
         if (event.date_rule) {
+          validateDateRule(event.date_rule, `${calendar.slug}/${event.key}`);
           assertCondition(Array.isArray(event.years) && event.years.length > 0, `${calendar.slug}/${event.key}: years required for date_rule`);
         } else {
           assertCondition(isIsoDate(event.start_date), `${calendar.slug}/${event.key}: start_date required`);
@@ -110,6 +140,8 @@ function main() {
   assertCondition(knownSlugs.has('suisse-romande-neuchatel-vacances'), 'suisse-romande-neuchatel-vacances source required');
   assertCondition(knownSlugs.has('suisse-romande-jura-feries'), 'suisse-romande-jura-feries source required');
   assertCondition(knownSlugs.has('suisse-romande-jura-vacances'), 'suisse-romande-jura-vacances source required');
+  assertCondition(knownSlugs.has('canada-feries-publics'), 'canada-feries-publics source required');
+  assertCondition(knownSlugs.has('canada-quebec-feries'), 'canada-quebec-feries source required');
 
   console.log('[validate-country-sources] OK');
   console.log(`- directory: ${sourcesDir}`);
