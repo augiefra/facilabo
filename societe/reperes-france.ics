@@ -1,10 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FacilAbo//Societe Reperes France//FR
+PRODID:-//FacilAbo//Société Repères France//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Societe - Reperes France
-X-WR-CALDESC:Reperes societaux France (2025-2032). Chevauchements volontaires possibles avec ecommerce/fetes-commerciales.
+X-WR-CALNAME:Société - Repères France
+X-WR-CALDESC:Repères sociétaux France (2025-2032). Chevauchements volontaires possibles avec ecommerce/fetes-commerciales.
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -29,9 +29,9 @@ UID:societe-reperes-france-journee-droits-femmes-2025@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20250308
 DTEND;VALUE=DATE:20250309
-SUMMARY:Journee internationale des droits des femmes
-DESCRIPTION:Repere societal international observe en France (8 mars).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Journée internationale des droits des femmes
+DESCRIPTION:Repère sociétal international observe en France (8 mars).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -39,9 +39,9 @@ UID:societe-reperes-france-journee-mondiale-bonheur-2025@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20250320
 DTEND;VALUE=DATE:20250321
-SUMMARY:Journee mondiale du bonheur
-DESCRIPTION:Repere societal international observe en France (20 mars).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Journée mondiale du bonheur
+DESCRIPTION:Repère sociétal international observe en France (20 mars).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -49,9 +49,9 @@ UID:societe-reperes-france-fete-grands-meres-2025@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20250302
 DTEND;VALUE=DATE:20250303
-SUMMARY:Fete des grands-meres (France)
-DESCRIPTION:Repere France: 1er dimanche de mars.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des grands-mères (France)
+DESCRIPTION:Repère France: 1er dimanche de mars.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -59,9 +59,9 @@ UID:societe-reperes-france-fete-meres-france-2025@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20250525
 DTEND;VALUE=DATE:20250526
-SUMMARY:Fete des Meres (France)
-DESCRIPTION:Repere France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecote).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des Mères (France)
+DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecôte).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -69,9 +69,9 @@ UID:societe-reperes-france-fete-peres-france-2025@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
-SUMMARY:Fete des Peres (France)
-DESCRIPTION:Repere France: 3e dimanche de juin.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des Pères (France)
+DESCRIPTION:Repère France: 3e dimanche de juin.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -79,9 +79,9 @@ UID:societe-reperes-france-fete-grands-peres-2025@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20251005
 DTEND;VALUE=DATE:20251006
-SUMMARY:Fete des grands-peres (France)
-DESCRIPTION:Repere France: 1er dimanche d octobre.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des grands-pères (France)
+DESCRIPTION:Repère France: 1er dimanche d octobre.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -90,8 +90,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251002
 SUMMARY:Octobre Rose (France)
-DESCRIPTION:Lancement du mois de sensibilisation au depistage du cancer du sein (1er octobre).
-CATEGORIES:Societe,France,Repere
+DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du sein (1er octobre).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -99,9 +99,9 @@ UID:societe-reperes-france-journee-droits-femmes-2026@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20260308
 DTEND;VALUE=DATE:20260309
-SUMMARY:Journee internationale des droits des femmes
-DESCRIPTION:Repere societal international observe en France (8 mars).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Journée internationale des droits des femmes
+DESCRIPTION:Repère sociétal international observe en France (8 mars).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -109,9 +109,9 @@ UID:societe-reperes-france-journee-mondiale-bonheur-2026@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
-SUMMARY:Journee mondiale du bonheur
-DESCRIPTION:Repere societal international observe en France (20 mars).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Journée mondiale du bonheur
+DESCRIPTION:Repère sociétal international observe en France (20 mars).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -119,9 +119,9 @@ UID:societe-reperes-france-fete-grands-meres-2026@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260302
-SUMMARY:Fete des grands-meres (France)
-DESCRIPTION:Repere France: 1er dimanche de mars.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des grands-mères (France)
+DESCRIPTION:Repère France: 1er dimanche de mars.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -129,9 +129,9 @@ UID:societe-reperes-france-fete-meres-france-2026@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
-SUMMARY:Fete des Meres (France)
-DESCRIPTION:Repere France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecote).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des Mères (France)
+DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecôte).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -139,9 +139,9 @@ UID:societe-reperes-france-fete-peres-france-2026@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-SUMMARY:Fete des Peres (France)
-DESCRIPTION:Repere France: 3e dimanche de juin.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des Pères (France)
+DESCRIPTION:Repère France: 3e dimanche de juin.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -149,9 +149,9 @@ UID:societe-reperes-france-fete-grands-peres-2026@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-SUMMARY:Fete des grands-peres (France)
-DESCRIPTION:Repere France: 1er dimanche d octobre.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des grands-pères (France)
+DESCRIPTION:Repère France: 1er dimanche d octobre.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -160,8 +160,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Octobre Rose (France)
-DESCRIPTION:Lancement du mois de sensibilisation au depistage du cancer du sein (1er octobre).
-CATEGORIES:Societe,France,Repere
+DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du sein (1er octobre).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -169,9 +169,9 @@ UID:societe-reperes-france-journee-droits-femmes-2027@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
-SUMMARY:Journee internationale des droits des femmes
-DESCRIPTION:Repere societal international observe en France (8 mars).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Journée internationale des droits des femmes
+DESCRIPTION:Repère sociétal international observe en France (8 mars).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -179,9 +179,9 @@ UID:societe-reperes-france-journee-mondiale-bonheur-2027@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-SUMMARY:Journee mondiale du bonheur
-DESCRIPTION:Repere societal international observe en France (20 mars).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Journée mondiale du bonheur
+DESCRIPTION:Repère sociétal international observe en France (20 mars).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -189,9 +189,9 @@ UID:societe-reperes-france-fete-grands-meres-2027@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
-SUMMARY:Fete des grands-meres (France)
-DESCRIPTION:Repere France: 1er dimanche de mars.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des grands-mères (France)
+DESCRIPTION:Repère France: 1er dimanche de mars.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -199,9 +199,9 @@ UID:societe-reperes-france-fete-meres-france-2027@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
-SUMMARY:Fete des Meres (France)
-DESCRIPTION:Repere France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecote).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des Mères (France)
+DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecôte).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -209,9 +209,9 @@ UID:societe-reperes-france-fete-peres-france-2027@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
-SUMMARY:Fete des Peres (France)
-DESCRIPTION:Repere France: 3e dimanche de juin.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des Pères (France)
+DESCRIPTION:Repère France: 3e dimanche de juin.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -219,9 +219,9 @@ UID:societe-reperes-france-fete-grands-peres-2027@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20271003
 DTEND;VALUE=DATE:20271004
-SUMMARY:Fete des grands-peres (France)
-DESCRIPTION:Repere France: 1er dimanche d octobre.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des grands-pères (France)
+DESCRIPTION:Repère France: 1er dimanche d octobre.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -230,8 +230,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20271001
 DTEND;VALUE=DATE:20271002
 SUMMARY:Octobre Rose (France)
-DESCRIPTION:Lancement du mois de sensibilisation au depistage du cancer du sein (1er octobre).
-CATEGORIES:Societe,France,Repere
+DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du sein (1er octobre).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -239,9 +239,9 @@ UID:societe-reperes-france-journee-droits-femmes-2028@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20280308
 DTEND;VALUE=DATE:20280309
-SUMMARY:Journee internationale des droits des femmes
-DESCRIPTION:Repere societal international observe en France (8 mars).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Journée internationale des droits des femmes
+DESCRIPTION:Repère sociétal international observe en France (8 mars).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -249,9 +249,9 @@ UID:societe-reperes-france-journee-mondiale-bonheur-2028@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20280320
 DTEND;VALUE=DATE:20280321
-SUMMARY:Journee mondiale du bonheur
-DESCRIPTION:Repere societal international observe en France (20 mars).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Journée mondiale du bonheur
+DESCRIPTION:Repère sociétal international observe en France (20 mars).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -259,9 +259,9 @@ UID:societe-reperes-france-fete-grands-meres-2028@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20280305
 DTEND;VALUE=DATE:20280306
-SUMMARY:Fete des grands-meres (France)
-DESCRIPTION:Repere France: 1er dimanche de mars.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des grands-mères (France)
+DESCRIPTION:Repère France: 1er dimanche de mars.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -269,9 +269,9 @@ UID:societe-reperes-france-fete-meres-france-2028@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20280528
 DTEND;VALUE=DATE:20280529
-SUMMARY:Fete des Meres (France)
-DESCRIPTION:Repere France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecote).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des Mères (France)
+DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecôte).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -279,9 +279,9 @@ UID:societe-reperes-france-fete-peres-france-2028@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20280618
 DTEND;VALUE=DATE:20280619
-SUMMARY:Fete des Peres (France)
-DESCRIPTION:Repere France: 3e dimanche de juin.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des Pères (France)
+DESCRIPTION:Repère France: 3e dimanche de juin.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -289,9 +289,9 @@ UID:societe-reperes-france-fete-grands-peres-2028@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20281001
 DTEND;VALUE=DATE:20281002
-SUMMARY:Fete des grands-peres (France)
-DESCRIPTION:Repere France: 1er dimanche d octobre.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des grands-pères (France)
+DESCRIPTION:Repère France: 1er dimanche d octobre.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -300,8 +300,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20281001
 DTEND;VALUE=DATE:20281002
 SUMMARY:Octobre Rose (France)
-DESCRIPTION:Lancement du mois de sensibilisation au depistage du cancer du sein (1er octobre).
-CATEGORIES:Societe,France,Repere
+DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du sein (1er octobre).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -309,9 +309,9 @@ UID:societe-reperes-france-journee-droits-femmes-2029@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20290308
 DTEND;VALUE=DATE:20290309
-SUMMARY:Journee internationale des droits des femmes
-DESCRIPTION:Repere societal international observe en France (8 mars).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Journée internationale des droits des femmes
+DESCRIPTION:Repère sociétal international observe en France (8 mars).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -319,9 +319,9 @@ UID:societe-reperes-france-journee-mondiale-bonheur-2029@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20290320
 DTEND;VALUE=DATE:20290321
-SUMMARY:Journee mondiale du bonheur
-DESCRIPTION:Repere societal international observe en France (20 mars).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Journée mondiale du bonheur
+DESCRIPTION:Repère sociétal international observe en France (20 mars).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -329,9 +329,9 @@ UID:societe-reperes-france-fete-grands-meres-2029@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20290304
 DTEND;VALUE=DATE:20290305
-SUMMARY:Fete des grands-meres (France)
-DESCRIPTION:Repere France: 1er dimanche de mars.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des grands-mères (France)
+DESCRIPTION:Repère France: 1er dimanche de mars.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -339,9 +339,9 @@ UID:societe-reperes-france-fete-meres-france-2029@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20290527
 DTEND;VALUE=DATE:20290528
-SUMMARY:Fete des Meres (France)
-DESCRIPTION:Repere France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecote).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des Mères (France)
+DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecôte).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -349,9 +349,9 @@ UID:societe-reperes-france-fete-peres-france-2029@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20290617
 DTEND;VALUE=DATE:20290618
-SUMMARY:Fete des Peres (France)
-DESCRIPTION:Repere France: 3e dimanche de juin.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des Pères (France)
+DESCRIPTION:Repère France: 3e dimanche de juin.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -359,9 +359,9 @@ UID:societe-reperes-france-fete-grands-peres-2029@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20291007
 DTEND;VALUE=DATE:20291008
-SUMMARY:Fete des grands-peres (France)
-DESCRIPTION:Repere France: 1er dimanche d octobre.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des grands-pères (France)
+DESCRIPTION:Repère France: 1er dimanche d octobre.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -370,8 +370,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20291001
 DTEND;VALUE=DATE:20291002
 SUMMARY:Octobre Rose (France)
-DESCRIPTION:Lancement du mois de sensibilisation au depistage du cancer du sein (1er octobre).
-CATEGORIES:Societe,France,Repere
+DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du sein (1er octobre).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -379,9 +379,9 @@ UID:societe-reperes-france-journee-droits-femmes-2030@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20300308
 DTEND;VALUE=DATE:20300309
-SUMMARY:Journee internationale des droits des femmes
-DESCRIPTION:Repere societal international observe en France (8 mars).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Journée internationale des droits des femmes
+DESCRIPTION:Repère sociétal international observe en France (8 mars).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -389,9 +389,9 @@ UID:societe-reperes-france-journee-mondiale-bonheur-2030@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20300320
 DTEND;VALUE=DATE:20300321
-SUMMARY:Journee mondiale du bonheur
-DESCRIPTION:Repere societal international observe en France (20 mars).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Journée mondiale du bonheur
+DESCRIPTION:Repère sociétal international observe en France (20 mars).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -399,9 +399,9 @@ UID:societe-reperes-france-fete-grands-meres-2030@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20300303
 DTEND;VALUE=DATE:20300304
-SUMMARY:Fete des grands-meres (France)
-DESCRIPTION:Repere France: 1er dimanche de mars.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des grands-mères (France)
+DESCRIPTION:Repère France: 1er dimanche de mars.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -409,9 +409,9 @@ UID:societe-reperes-france-fete-meres-france-2030@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20300526
 DTEND;VALUE=DATE:20300527
-SUMMARY:Fete des Meres (France)
-DESCRIPTION:Repere France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecote).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des Mères (France)
+DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecôte).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -419,9 +419,9 @@ UID:societe-reperes-france-fete-peres-france-2030@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20300616
 DTEND;VALUE=DATE:20300617
-SUMMARY:Fete des Peres (France)
-DESCRIPTION:Repere France: 3e dimanche de juin.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des Pères (France)
+DESCRIPTION:Repère France: 3e dimanche de juin.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -429,9 +429,9 @@ UID:societe-reperes-france-fete-grands-peres-2030@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20301006
 DTEND;VALUE=DATE:20301007
-SUMMARY:Fete des grands-peres (France)
-DESCRIPTION:Repere France: 1er dimanche d octobre.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des grands-pères (France)
+DESCRIPTION:Repère France: 1er dimanche d octobre.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -440,8 +440,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20301001
 DTEND;VALUE=DATE:20301002
 SUMMARY:Octobre Rose (France)
-DESCRIPTION:Lancement du mois de sensibilisation au depistage du cancer du sein (1er octobre).
-CATEGORIES:Societe,France,Repere
+DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du sein (1er octobre).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -449,9 +449,9 @@ UID:societe-reperes-france-journee-droits-femmes-2031@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20310308
 DTEND;VALUE=DATE:20310309
-SUMMARY:Journee internationale des droits des femmes
-DESCRIPTION:Repere societal international observe en France (8 mars).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Journée internationale des droits des femmes
+DESCRIPTION:Repère sociétal international observe en France (8 mars).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -459,9 +459,9 @@ UID:societe-reperes-france-journee-mondiale-bonheur-2031@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20310320
 DTEND;VALUE=DATE:20310321
-SUMMARY:Journee mondiale du bonheur
-DESCRIPTION:Repere societal international observe en France (20 mars).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Journée mondiale du bonheur
+DESCRIPTION:Repère sociétal international observe en France (20 mars).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -469,9 +469,9 @@ UID:societe-reperes-france-fete-grands-meres-2031@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20310302
 DTEND;VALUE=DATE:20310303
-SUMMARY:Fete des grands-meres (France)
-DESCRIPTION:Repere France: 1er dimanche de mars.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des grands-mères (France)
+DESCRIPTION:Repère France: 1er dimanche de mars.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -479,9 +479,9 @@ UID:societe-reperes-france-fete-meres-france-2031@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20310525
 DTEND;VALUE=DATE:20310526
-SUMMARY:Fete des Meres (France)
-DESCRIPTION:Repere France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecote).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des Mères (France)
+DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecôte).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -489,9 +489,9 @@ UID:societe-reperes-france-fete-peres-france-2031@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20310615
 DTEND;VALUE=DATE:20310616
-SUMMARY:Fete des Peres (France)
-DESCRIPTION:Repere France: 3e dimanche de juin.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des Pères (France)
+DESCRIPTION:Repère France: 3e dimanche de juin.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -499,9 +499,9 @@ UID:societe-reperes-france-fete-grands-peres-2031@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20311005
 DTEND;VALUE=DATE:20311006
-SUMMARY:Fete des grands-peres (France)
-DESCRIPTION:Repere France: 1er dimanche d octobre.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des grands-pères (France)
+DESCRIPTION:Repère France: 1er dimanche d octobre.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -510,8 +510,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20311001
 DTEND;VALUE=DATE:20311002
 SUMMARY:Octobre Rose (France)
-DESCRIPTION:Lancement du mois de sensibilisation au depistage du cancer du sein (1er octobre).
-CATEGORIES:Societe,France,Repere
+DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du sein (1er octobre).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -519,9 +519,9 @@ UID:societe-reperes-france-journee-droits-femmes-2032@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20320308
 DTEND;VALUE=DATE:20320309
-SUMMARY:Journee internationale des droits des femmes
-DESCRIPTION:Repere societal international observe en France (8 mars).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Journée internationale des droits des femmes
+DESCRIPTION:Repère sociétal international observe en France (8 mars).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -529,9 +529,9 @@ UID:societe-reperes-france-journee-mondiale-bonheur-2032@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20320320
 DTEND;VALUE=DATE:20320321
-SUMMARY:Journee mondiale du bonheur
-DESCRIPTION:Repere societal international observe en France (20 mars).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Journée mondiale du bonheur
+DESCRIPTION:Repère sociétal international observe en France (20 mars).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -539,9 +539,9 @@ UID:societe-reperes-france-fete-grands-meres-2032@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20320307
 DTEND;VALUE=DATE:20320308
-SUMMARY:Fete des grands-meres (France)
-DESCRIPTION:Repere France: 1er dimanche de mars.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des grands-mères (France)
+DESCRIPTION:Repère France: 1er dimanche de mars.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -549,9 +549,9 @@ UID:societe-reperes-france-fete-meres-france-2032@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20320530
 DTEND;VALUE=DATE:20320531
-SUMMARY:Fete des Meres (France)
-DESCRIPTION:Repere France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecote).
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des Mères (France)
+DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecôte).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -559,9 +559,9 @@ UID:societe-reperes-france-fete-peres-france-2032@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20320620
 DTEND;VALUE=DATE:20320621
-SUMMARY:Fete des Peres (France)
-DESCRIPTION:Repere France: 3e dimanche de juin.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des Pères (France)
+DESCRIPTION:Repère France: 3e dimanche de juin.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -569,9 +569,9 @@ UID:societe-reperes-france-fete-grands-peres-2032@facilabo.app
 DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20321003
 DTEND;VALUE=DATE:20321004
-SUMMARY:Fete des grands-peres (France)
-DESCRIPTION:Repere France: 1er dimanche d octobre.
-CATEGORIES:Societe,France,Repere
+SUMMARY:Fête des grands-pères (France)
+DESCRIPTION:Repère France: 1er dimanche d octobre.
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -580,8 +580,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20321001
 DTEND;VALUE=DATE:20321002
 SUMMARY:Octobre Rose (France)
-DESCRIPTION:Lancement du mois de sensibilisation au depistage du cancer du sein (1er octobre).
-CATEGORIES:Societe,France,Repere
+DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du sein (1er octobre).
+CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
