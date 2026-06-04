@@ -4,7 +4,7 @@ PRODID:-//FacilAbo//Prime Day & Singles Day//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Prime Day & Singles Day
-X-WR-CALDESC:Amazon Prime Day (juillet), Ventes flash de printemps Amazon (mars) et Singles Day Alibaba (11 novembre)
+X-WR-CALDESC:Amazon Prime Day (dates variables), Ventes flash de printemps Amazon (mars) et Singles Day Alibaba (11 novembre)
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 UID:primeday-2025-1@facilabo.app
@@ -48,21 +48,41 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:primeday-2026-1@facilabo.app
-DTSTAMP:20241212T120000Z
-DTSTART;VALUE=DATE:20260714
-DTEND;VALUE=DATE:20260715
+DTSTAMP:20260604T100000Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
 SUMMARY:Amazon Prime Day - Jour 1
-DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+DESCRIPTION:Prime Day Amazon France 2026 - du 23 juin 00h01 au 26 juin 23h59. Source: About Amazon France.
 CATEGORIES:E-commerce,Amazon,Promotions
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:primeday-2026-2@facilabo.app
-DTSTAMP:20241212T120000Z
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260716
+DTSTAMP:20260604T100000Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
 SUMMARY:Amazon Prime Day - Jour 2
-DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+DESCRIPTION:Prime Day Amazon France 2026 - du 23 juin 00h01 au 26 juin 23h59. Source: About Amazon France.
+CATEGORIES:E-commerce,Amazon,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:primeday-2026-3@facilabo.app
+DTSTAMP:20260604T100000Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Amazon Prime Day - Jour 3
+DESCRIPTION:Prime Day Amazon France 2026 - du 23 juin 00h01 au 26 juin 23h59. Source: About Amazon France.
+CATEGORIES:E-commerce,Amazon,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:primeday-2026-4@facilabo.app
+DTSTAMP:20260604T100000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Amazon Prime Day - Jour 4
+DESCRIPTION:Prime Day Amazon France 2026 - du 23 juin 00h01 au 26 juin 23h59. Source: About Amazon France.
 CATEGORIES:E-commerce,Amazon,Promotions
 STATUS:CONFIRMED
 END:VEVENT
