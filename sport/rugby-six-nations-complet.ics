@@ -94,17 +94,6 @@ CATEGORIES:Sport,Rugby,Competition,Six Nations
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-rugby-six-nations-complet-rugby-six-nations-complet-source-202600-ireland-v-scotland@facilabo.app
-DTSTAMP:20260314T000000Z
-DTSTART;TZID=Europe/Paris:20260314T151000
-DTEND;TZID=Europe/Paris:20260314T171000
-SUMMARY:Irlande - Ecosse
-DESCRIPTION:Competition: Six Nations | External Match ID: 202600-ireland-v-scotland | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/ireland-v-scotland-14032026-1410 | Provenance: crawl:rugby-six-nations-complet-source
-URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/ireland-v-scotland-14032026-1410
-CATEGORIES:Sport,Rugby,Competition,Six Nations
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sport-rugby-six-nations-complet-six-nations-2026-irlande-ecosse@facilabo.app
 DTSTAMP:20260314T000000Z
 DTSTART;TZID=Europe/Paris:20260314T151000
@@ -113,17 +102,6 @@ SUMMARY:Irlande - Ecosse
 DESCRIPTION:Competition: Six Nations | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/ireland-v-scotland-14032026-1410 | Provenance: fallback:rugby-six-nations-complet-source
 LOCATION:Dublin\, Irlande
 URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/ireland-v-scotland-14032026-1410
-CATEGORIES:Sport,Rugby,Competition,Six Nations
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:sport-rugby-six-nations-complet-rugby-six-nations-complet-source-202600-wales-v-italy@facilabo.app
-DTSTAMP:20260314T000000Z
-DTSTART;TZID=Europe/Paris:20260314T174000
-DTEND;TZID=Europe/Paris:20260314T194000
-SUMMARY:Pays de Galles - Italie
-DESCRIPTION:Competition: Six Nations | External Match ID: 202600-wales-v-italy | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202600/wales-v-italy-14032026-1640 | Provenance: crawl:rugby-six-nations-complet-source
-URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202600/wales-v-italy-14032026-1640
 CATEGORIES:Sport,Rugby,Competition,Six Nations
 STATUS:CONFIRMED
 END:VEVENT
