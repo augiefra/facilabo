@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Sorties Salons Grand Public 2026//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Salons grand public 2026
+X-WR-CALDESC:Japan Expo Paris et Paris Games Week 2026
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sorties-japan-expo-paris-2026@facilabo.app
+DTSTAMP:20260622T120000Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260713
+SUMMARY:Japan Expo Paris
+DESCRIPTION:Japan Expo Paris 2026 au Parc des Expositions Paris-Nord Villepinte. Source officielle: paris.japan-expo.com
+LOCATION:Parc des Expositions Paris-Nord Villepinte, Villepinte, France
+URL:https://paris.japan-expo.com/fr
+CATEGORIES:Sorties,Salon,Culture pop
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sorties-paris-games-week-2026@facilabo.app
+DTSTAMP:20260622T120000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261026
+SUMMARY:Paris Games Week
+DESCRIPTION:Paris Games Week 2026, du 22 au 25 octobre a Paris Expo Porte de Versailles. Source officielle: parisgamesweek.com
+LOCATION:Paris Expo Porte de Versailles, Paris, France
+URL:https://www.parisgamesweek.com/
+CATEGORIES:Sorties,Salon,Jeux video
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

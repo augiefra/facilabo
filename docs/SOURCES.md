@@ -8,6 +8,12 @@
 - Paye fonction publique: https://www.education.gouv.fr/la-paye-des-agents-du-ministere-378286 (consulte le 2026-02-25)
 - Soldes: https://www.economie.gouv.fr/dgccrf/soldes
 - Culture: https://www.culture.gouv.fr
+- Sorties / ministere Culture: https://journeesdupatrimoine.culture.gouv.fr, https://nuitdesmusees.culture.gouv.fr, https://rendezvousauxjardins.culture.gouv.fr, https://journeesarcheologie.culture.gouv.fr, https://fetedelamusique.culture.gouv.fr (verifies le 2026-06-22)
+- Sorties / patrimoine vivant: https://www.journeesdesmetiersdart.fr (verifie le 2026-06-22)
+- Sorties / nature: https://fetedelanature.com (verifie le 2026-06-22)
+- Sorties / fetes et traditions: https://fetes.bayonne.fr, https://www.daxlaferia.fr, https://www.fete-du-citron.com, https://www.carnaval-de-granville.fr, https://www.fetedeslumieres.lyon.fr (verifies le 2026-06-22)
+- Sorties / Noel par ville: https://www.noel-colmar.com (verifie le 2026-06-22; Colmar, Eguisheim, Riquewihr, Kaysersberg separes en flux distincts)
+- Sorties / festivals et salons: https://festival-avignon.com, https://festival-aix.com, https://www.parisgamesweek.com, https://paris.japan-expo.com/fr (verifies le 2026-06-22)
 
 ## Belgium
 

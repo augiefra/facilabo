@@ -14,6 +14,7 @@
 - `religion`
 - `societe`
 - `soldes`
+- `sorties`
 - `sport`
 - `suisse`
 - `tennis`
@@ -65,6 +66,17 @@
 
 - `culture/france.ics` (slug: `culture-france`) - sorties gratuites culture: Nuit des Musees, Fete de la Musique, Journees du Patrimoine
 
+## Sorties feeds
+
+- `sorties/patrimoine-culture-gratuite-2026.ics` (slug: `sorties-patrimoine-culture-gratuite-2026`) - JEP, Nuit des musees, Fete de la musique, JEMA, Journees de l'archeologie, Rendez-vous aux jardins, Fete de la Nature
+- `sorties/fetes-traditions-2026.ics` (slug: `sorties-fetes-traditions-2026`) - Fetes de Bayonne, Dax la Feria, Fete du Citron, Carnaval de Granville, Fete des Lumieres Lyon
+- `sorties/festivals-culture-2026.ics` (slug: `sorties-festivals-culture-2026`) - Festival d'Avignon et Festival d'Aix-en-Provence
+- `sorties/salons-grand-public-2026.ics` (slug: `sorties-salons-grand-public-2026`) - Japan Expo Paris et Paris Games Week
+- `sorties/noel-colmar-2026.ics` (slug: `sorties-noel-colmar-2026`) - marches de Noel de Colmar
+- `sorties/noel-eguisheim-2026.ics` (slug: `sorties-noel-eguisheim-2026`) - marche de Noel d'Eguisheim
+- `sorties/noel-riquewihr-2026.ics` (slug: `sorties-noel-riquewihr-2026`) - marche de Noel de Riquewihr
+- `sorties/noel-kaysersberg-2026.ics` (slug: `sorties-noel-kaysersberg-2026`) - marche de Noel de Kaysersberg, decoupe par week-end
+
 ## Education feeds
 
 - `education/examens-2026.ics` (slug: `education-examens-2026`) - reperes nationaux utiles des examens 2026: bac, brevet, CAP, BTS, BP et BMA
@@ -93,5 +105,6 @@
 - Suisse romande: `UID = suisse-romande-<canton>-<type>-<event-key>-<year>@facilabo.app`; chaque flux reste cantonal et ne doit jamais etre presente comme Suisse entiere.
 - Canada/Quebec: `UID = canada-feries-publics-<event-key>-<year>@facilabo.app` et `UID = canada-quebec-feries-<event-key>-<year>@facilabo.app`; ne jamais presenter `canada-feries-publics` comme une couverture provinciale exhaustive.
 - Examens / Parcoursup 2026: `UID = examens-2026-<date>-<type>@facilabo.app` ou `parcoursup-2026-<date>-<type>@facilabo.app`; corriger le contenu en place sans changer les UIDs.
+- Sorties 2026: `UID = sorties-<event-key>-2026@facilabo.app`; les marches de Noel restent separes par ville, et Kaysersberg garde un UID par week-end pour eviter d'occuper les jours de semaine.
 - Coupe du Monde 2026: `UID = worldcup-2026-match-<numero FIFA>@facilabo.app`; mettre a jour les affiches en place sans changer l'UID.
 - Apres qualification France/Belgique, ajouter les numeros de match FIFA correspondants dans `facilabo-api/lib/worldcup-2026-routes.ts`, puis redeployer l'API pour enrichir le slug existant sans recreer d'abonnement.

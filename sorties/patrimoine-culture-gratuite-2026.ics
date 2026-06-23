@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Sorties Patrimoine Culture Gratuite 2026//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sorties patrimoine et culture gratuite 2026
+X-WR-CALDESC:JEP, Nuit des musees, Fete de la musique et grands rendez-vous gratuits 2026
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sorties-jema-2026@facilabo.app
+DTSTAMP:20260622T120000Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260413
+SUMMARY:Journees europeennes des Metiers d'Art
+DESCRIPTION:Edition 2026 des JEMA, rendez-vous gratuit autour des metiers d'art et du patrimoine vivant. Source officielle: journeesdesmetiersdart.fr
+LOCATION:France et Europe
+URL:https://www.journeesdesmetiersdart.fr/
+CATEGORIES:Sorties,Patrimoine,Metiers d'art
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sorties-fete-nature-2026@facilabo.app
+DTSTAMP:20260622T120000Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260526
+SUMMARY:Fete de la Nature
+DESCRIPTION:Animations gratuites au contact de la nature partout en France. Source officielle: fetedelanature.com
+LOCATION:France
+URL:https://fetedelanature.com/
+CATEGORIES:Sorties,Nature,Gratuit
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sorties-nuit-musees-2026@facilabo.app
+DTSTAMP:20260622T120000Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:Nuit europeenne des musees
+DESCRIPTION:Ouverture nocturne exceptionnelle et souvent gratuite de musees participants. Source officielle: nuitdesmusees.culture.gouv.fr
+LOCATION:France et Europe
+URL:https://nuitdesmusees.culture.gouv.fr/
+CATEGORIES:Sorties,Musees,Gratuit
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sorties-rendezvous-jardins-2026@facilabo.app
+DTSTAMP:20260622T120000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260608
+SUMMARY:Rendez-vous aux jardins
+DESCRIPTION:23e edition des Rendez-vous aux jardins, organisee par le ministere de la Culture. Source officielle: rendezvousauxjardins.culture.gouv.fr
+LOCATION:France et Europe
+URL:https://rendezvousauxjardins.culture.gouv.fr/
+CATEGORIES:Sorties,Jardins,Patrimoine
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sorties-journees-archeologie-2026@facilabo.app
+DTSTAMP:20260622T120000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260615
+SUMMARY:Journees europeennes de l'archeologie
+DESCRIPTION:Rendez-vous national et europeen autour de l'archeologie, coordonne par le ministere de la Culture. Source officielle: journeesarcheologie.culture.gouv.fr
+LOCATION:France et Europe
+URL:https://journeesarcheologie.culture.gouv.fr/
+CATEGORIES:Sorties,Archeologie,Patrimoine
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sorties-fete-musique-2026@facilabo.app
+DTSTAMP:20260622T120000Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Fete de la musique
+DESCRIPTION:Concerts gratuits partout en France et dans le monde, le 21 juin. Source officielle: fetedelamusique.culture.gouv.fr
+LOCATION:France
+URL:https://fetedelamusique.culture.gouv.fr/
+CATEGORIES:Sorties,Musique,Gratuit
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sorties-journees-patrimoine-2026@facilabo.app
+DTSTAMP:20260622T120000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journees europeennes du patrimoine
+DESCRIPTION:Ouvertures exceptionnelles et visites autour du patrimoine, les 19 et 20 septembre 2026. Source officielle: journeesdupatrimoine.culture.gouv.fr
+LOCATION:France
+URL:https://journeesdupatrimoine.culture.gouv.fr/
+CATEGORIES:Sorties,Patrimoine,Gratuit
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

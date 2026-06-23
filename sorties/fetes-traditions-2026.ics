@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Sorties Fetes Traditions 2026//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Fetes et traditions 2026
+X-WR-CALDESC:Grands carnavals, ferias et fetes populaires localisees en France
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sorties-carnaval-granville-2026@facilabo.app
+DTSTAMP:20260622T120000Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260218
+SUMMARY:Carnaval de Granville
+DESCRIPTION:152e edition du Carnaval de Granville, fete populaire inscrite au patrimoine culturel immateriel de l'humanite. Source officielle: carnaval-de-granville.fr
+LOCATION:Granville, Manche, France
+URL:https://www.carnaval-de-granville.fr/
+CATEGORIES:Sorties,Carnaval,Traditions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sorties-fete-citron-menton-2026@facilabo.app
+DTSTAMP:20260622T120000Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260302
+SUMMARY:Fete du Citron Menton
+DESCRIPTION:Fete du Citron 2026 a Menton. Source officielle: fete-du-citron.com
+LOCATION:Menton, Alpes-Maritimes, France
+URL:https://www.fete-du-citron.com/
+CATEGORIES:Sorties,Traditions,Gastronomie
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sorties-fetes-bayonne-2026@facilabo.app
+DTSTAMP:20260622T120000Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260720
+SUMMARY:Fetes de Bayonne
+DESCRIPTION:Fetes de Bayonne 2026, du 15 au 19 juillet. Source officielle: fetes.bayonne.fr
+LOCATION:Bayonne, Pyrenees-Atlantiques, France
+URL:https://fetes.bayonne.fr/
+CATEGORIES:Sorties,Fetes populaires,Traditions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sorties-dax-feria-2026@facilabo.app
+DTSTAMP:20260622T120000Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260817
+SUMMARY:Dax la Feria
+DESCRIPTION:Dax, la Feria 2026. Source officielle: daxlaferia.fr
+LOCATION:Dax, Landes, France
+URL:https://www.daxlaferia.fr/
+CATEGORIES:Sorties,Feria,Traditions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sorties-fete-lumieres-lyon-2026@facilabo.app
+DTSTAMP:20260622T120000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261209
+SUMMARY:Fete des Lumieres Lyon
+DESCRIPTION:Fete des Lumieres 2026, du 5 au 8 decembre a Lyon. Source officielle: fetedeslumieres.lyon.fr
+LOCATION:Lyon, Rhone, France
+URL:https://www.fetedeslumieres.lyon.fr/
+CATEGORIES:Sorties,Lumieres,Traditions
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
