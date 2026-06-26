@@ -32,6 +32,10 @@ Examples:
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/sport/rugby-six-nations-complet.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/sport/worldcup-2026-all.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/sport/worldcup-2026-france.ics`
+- `https://raw.githubusercontent.com/augiefra/facilabo/main/sorties/festival-avignon-2026.ics`
+- `https://raw.githubusercontent.com/augiefra/facilabo/main/sorties/festival-aix-2026.ics`
+- `https://raw.githubusercontent.com/augiefra/facilabo/main/sorties/foire-marseille-2026.ics`
+- `https://raw.githubusercontent.com/augiefra/facilabo/main/sorties/marseille-cassis-2026.ics`
 
 ## Covered categories
 
@@ -46,6 +50,7 @@ Examples:
 - `luxembourg`
 - `religion`
 - `soldes`
+- `sorties`
 - `sport`
 - `suisse`
 - `tennis`
@@ -71,3 +76,4 @@ Luxembourg school holidays currently follow the official MENJE publication throu
 Suisse romande feeds are canton-scoped only: Geneve, Vaud, Neuchatel and Jura MVP; Fribourg and Valais remain to study later.
 Canada/Quebec feeds stay deliberately narrow: ARC public-holiday markers for Canada 2026, and CNESST Quebec statutory-holiday markers only. No Canada/Quebec school feed is published here.
 World Cup 2026 feeds use stable match-number UIDs to avoid duplicate events when team placeholders are updated.
+Sorties 1.61+ adds dedicated static feeds for Festival d'Avignon 2026, Festival d'Aix-en-Provence 2026, Foire de Marseille 2026 and Marseille-Cassis 2026; city feeds that depend on live official sources stay API-proxied instead of snapshotted here.
