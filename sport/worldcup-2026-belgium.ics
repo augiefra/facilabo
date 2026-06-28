@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Coupe du Monde 2026 - Belgique
 X-WR-TIMEZONE:Europe/Paris
-X-FACILABO-SOURCE:FIFA World Cup 2026 Official Match Schedule
-X-FACILABO-SOURCE-VERIFIED:2026-04-24
+X-FACILABO-SOURCE:FIFA World Cup 2026 live API
+X-FACILABO-SOURCE-VERIFIED:2026-06-28
 BEGIN:VEVENT
 UID:worldcup-2026-match-16@facilabo.app
-DTSTAMP:20260424T120000Z
+DTSTAMP:20260628T120000Z
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
 SUMMARY:Coupe du Monde 2026 - Belgique - Egypte
@@ -17,17 +17,17 @@ LOCATION:Seattle Stadium\, Seattle\, Etats-Unis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
-DESCRIPTION:Match FIFA 16\nPhase de groupes\nGroupe G\nStade: Seattle Stadi
- um\nVille: Seattle\nHoraire source: 15:00 ET (FIFA World Cup 2026 Official
-  Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1b
- e9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable Facil
- Abo derive du numero de match FIFA.
-URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
- edule_English.pdf
+DESCRIPTION:Match FIFA 16\nPhase de groupes\nGroupe G\nAffiche officielle:
+  Belgique - Egypte\nScore: Belgique 1 - 1 Egypte\nStade: Seattle Stadium\
+ nHoraire source: FIFA World Cup 2026 live API\, verifie le 2026-06-28\nSo
+ urce: https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetit
+ ion=17&idSeason=285023&count=200\nUID stable FacilAbo derive du numero de
+  match FIFA.
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026
 END:VEVENT
 BEGIN:VEVENT
 UID:worldcup-2026-match-39@facilabo.app
-DTSTAMP:20260424T120000Z
+DTSTAMP:20260628T120000Z
 DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
 SUMMARY:Coupe du Monde 2026 - Belgique - Iran
@@ -35,30 +35,47 @@ LOCATION:Los Angeles Stadium\, Los Angeles\, Etats-Unis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
-DESCRIPTION:Match FIFA 39\nPhase de groupes\nGroupe G\nStade: Los Angeles S
- tadium\nVille: Los Angeles\nHoraire source: 15:00 ET (FIFA World Cup 2026 
- Official Match Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.
- com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stab
- le FacilAbo derive du numero de match FIFA.
-URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
- edule_English.pdf
+DESCRIPTION:Match FIFA 39\nPhase de groupes\nGroupe G\nAffiche officielle:
+  Belgique - Iran\nScore: Belgique 0 - 0 Iran\nStade: Los Angeles Stadium\
+ nHoraire source: FIFA World Cup 2026 live API\, verifie le 2026-06-28\nSo
+ urce: https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetit
+ ion=17&idSeason=285023&count=200\nUID stable FacilAbo derive du numero de
+  match FIFA.
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026
 END:VEVENT
 BEGIN:VEVENT
 UID:worldcup-2026-match-64@facilabo.app
-DTSTAMP:20260424T120000Z
+DTSTAMP:20260628T120000Z
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 SUMMARY:Coupe du Monde 2026 - Nouvelle-Zelande - Belgique
-LOCATION:BC Place\, Vancouver\, Canada
+LOCATION:BC Place Vancouver\, Vancouver\, Canada
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
-DESCRIPTION:Match FIFA 64\nPhase de groupes\nGroupe G\nStade: BC Place\nVil
- le: Vancouver\nHoraire source: 23:00 ET (FIFA World Cup 2026 Official Matc
- h Schedule\, 10 April 2026)\nSource: https://digitalhub.fifa.com/m/1be9ce3
- 7eb98fcc5/original/FWC26-Match-Schedule_English.pdf\nUID stable FacilAbo d
- erive du numero de match FIFA.
-URL:https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Sch
- edule_English.pdf
+DESCRIPTION:Match FIFA 64\nPhase de groupes\nGroupe G\nAffiche officielle:
+  Nouvelle-Zelande - Belgique\nScore: Nouvelle-Zelande 1 - 5 Belgique\nSta
+ de: BC Place Vancouver\nHoraire source: FIFA World Cup 2026 live API\, ve
+ rifie le 2026-06-28\nSource: https://api.fifa.com/api/v3/calendar/matches
+ ?language=en&idCompetition=17&idSeason=285023&count=200\nUID stable Facil
+ Abo derive du numero de match FIFA.
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-82@facilabo.app
+DTSTAMP:20260628T120000Z
+DTSTART:20260701T200000Z
+DTEND:20260701T220000Z
+SUMMARY:Coupe du Monde 2026 - Belgique - Senegal
+LOCATION:Seattle Stadium\, Seattle\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 82\n16es de finale\nAffiche officielle: Belgique - 
+ Senegal\nStade: Seattle Stadium\nHoraire source: FIFA World Cup 2026 live
+  API\, verifie le 2026-06-28\nSource: https://api.fifa.com/api/v3/calenda
+ r/matches?language=en&idCompetition=17&idSeason=285023&count=200\nUID sta
+ ble FacilAbo derive du numero de match FIFA.
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026
 END:VEVENT
 END:VCALENDAR
