@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FacilAbo//Sorties Patrimoine Culture Gratuite 2026//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Sorties patrimoine et culture gratuite 2026
-X-WR-CALDESC:JEP, Nuit des musees, Fete de la musique et grands rendez-vous gratuits 2026
+X-WR-CALNAME:Culture gratuite 2026
+X-WR-CALDESC:Choix recommande 2026: Nuit des musees, Fete de la musique, JEP, JEMA, archeologie, jardins et nature
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris

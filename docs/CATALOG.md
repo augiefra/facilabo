@@ -64,11 +64,11 @@
 
 ## Culture feeds
 
-- `culture/france.ics` (slug: `culture-france`) - sorties gratuites culture: Nuit des Musees, Fete de la Musique, Journees du Patrimoine
+- `culture/france.ics` (slug: `culture-france`) - reperes culturels nationaux historiques 2025-2030: Nuit des Musees, Fete de la Musique, Journees du Patrimoine
 
 ## Sorties feeds
 
-- `sorties/patrimoine-culture-gratuite-2026.ics` (slug: `sorties-patrimoine-culture-gratuite-2026`) - JEP, Nuit des musees, Fete de la musique, JEMA, Journees de l'archeologie, Rendez-vous aux jardins, Fete de la Nature
+- `sorties/patrimoine-culture-gratuite-2026.ics` (slug: `sorties-patrimoine-culture-gratuite-2026`) - Culture gratuite 2026, choix recommande pour JEP, Nuit des musees, Fete de la musique, JEMA, Journees de l'archeologie, Rendez-vous aux jardins, Fete de la Nature
 - `sorties/fetes-traditions-2026.ics` (slug: `sorties-fetes-traditions-2026`) - Fetes de Bayonne, Dax la Feria, Fete du Citron, Carnaval de Granville, Fete des Lumieres Lyon
 - `sorties/festivals-culture-2026.ics` (slug: `sorties-festivals-culture-2026`) - Festival d'Avignon et Festival d'Aix-en-Provence
 - `sorties/salons-grand-public-2026.ics` (slug: `sorties-salons-grand-public-2026`) - Japan Expo Paris et Paris Games Week

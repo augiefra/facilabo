@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FacilAbo//Calendrier Culture France//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Sorties gratuites culture
-X-WR-CALDESC:Nuit des Musees, Fete de la Musique, Journees du Patrimoine
+X-WR-CALNAME:Reperes culturels nationaux
+X-WR-CALDESC:Calendrier historique multi-annees: Nuit des Musees, Fete de la Musique, Journees du Patrimoine
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
