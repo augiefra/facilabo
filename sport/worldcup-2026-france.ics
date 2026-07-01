@@ -6,28 +6,29 @@ METHOD:PUBLISH
 X-WR-CALNAME:Coupe du Monde 2026 - France
 X-WR-TIMEZONE:Europe/Paris
 X-FACILABO-SOURCE:FIFA World Cup 2026 live API
-X-FACILABO-SOURCE-VERIFIED:2026-06-28
+X-FACILABO-SOURCE-VERIFIED:2026-07-01
 BEGIN:VEVENT
 UID:worldcup-2026-match-17@facilabo.app
-DTSTAMP:20260628T120000Z
+DTSTAMP:20260424T120000Z
 DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
 SUMMARY:Coupe du Monde 2026 - France - Senegal
-LOCATION:New York/New Jersey Stadium\, New York New Jersey\, Etats-Unis
+LOCATION:New York New Jersey Stadium\, New Jersey\, Etats-Unis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
-DESCRIPTION:Match FIFA 17\nPhase de groupes\nGroupe I\nAffiche officielle:
-  France - Senegal\nScore: France 3 - 1 Senegal\nStade: New York/New Jerse
- y Stadium\nHoraire source: FIFA World Cup 2026 live API\, verifie le 2026
- -06-28\nSource: https://api.fifa.com/api/v3/calendar/matches?language=en&
- idCompetition=17&idSeason=285023&count=200\nUID stable FacilAbo derive du
-  numero de match FIFA.
-URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026
+DESCRIPTION:Match FIFA 17\nPhase de groupes\nStade: New York New Jersey St
+ adium\nVille: New Jersey\nHoraire source: 2026-06-16T19:00:00Z (FIFA Worl
+ d Cup 2026 live API)\nScore officiel: France 3 - 1 Senegal\nSource: https
+ ://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition=17&idSe
+ ason=285023&count=200\nUID stable FacilAbo derive du numero de match FIFA
+ .
+URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
+ =17&idSeason=285023&count=200
 END:VEVENT
 BEGIN:VEVENT
 UID:worldcup-2026-match-42@facilabo.app
-DTSTAMP:20260628T120000Z
+DTSTAMP:20260424T120000Z
 DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
 SUMMARY:Coupe du Monde 2026 - France - Irak
@@ -35,17 +36,17 @@ LOCATION:Philadelphia Stadium\, Philadelphia\, Etats-Unis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
-DESCRIPTION:Match FIFA 42\nPhase de groupes\nGroupe I\nAffiche officielle:
-  France - Irak\nScore: France 3 - 0 Irak\nStade: Philadelphia Stadium\nHo
- raire source: FIFA World Cup 2026 live API\, verifie le 2026-06-28\nSourc
- e: https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
- =17&idSeason=285023&count=200\nUID stable FacilAbo derive du numero de ma
- tch FIFA.
-URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026
+DESCRIPTION:Match FIFA 42\nPhase de groupes\nStade: Philadelphia Stadium\n
+ Ville: Philadelphia\nHoraire source: 2026-06-22T21:00:00Z (FIFA World Cup
+  2026 live API)\nScore officiel: France 3 - 0 Irak\nSource: https://api.f
+ ifa.com/api/v3/calendar/matches?language=en&idCompetition=17&idSeason=285
+ 023&count=200\nUID stable FacilAbo derive du numero de match FIFA.
+URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
+ =17&idSeason=285023&count=200
 END:VEVENT
 BEGIN:VEVENT
 UID:worldcup-2026-match-61@facilabo.app
-DTSTAMP:20260628T120000Z
+DTSTAMP:20260424T120000Z
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 SUMMARY:Coupe du Monde 2026 - Norvege - France
@@ -53,29 +54,48 @@ LOCATION:Boston Stadium\, Boston\, Etats-Unis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
-DESCRIPTION:Match FIFA 61\nPhase de groupes\nGroupe I\nAffiche officielle:
-  Norvege - France\nScore: Norvege 1 - 4 France\nStade: Boston Stadium\nHo
- raire source: FIFA World Cup 2026 live API\, verifie le 2026-06-28\nSourc
- e: https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
- =17&idSeason=285023&count=200\nUID stable FacilAbo derive du numero de ma
- tch FIFA.
-URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026
+DESCRIPTION:Match FIFA 61\nPhase de groupes\nStade: Boston Stadium\nVille:
+  Boston\nHoraire source: 2026-06-26T19:00:00Z (FIFA World Cup 2026 live A
+ PI)\nScore officiel: Norvege 1 - 4 France\nSource: https://api.fifa.com/a
+ pi/v3/calendar/matches?language=en&idCompetition=17&idSeason=285023&count
+ =200\nUID stable FacilAbo derive du numero de match FIFA.
+URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
+ =17&idSeason=285023&count=200
 END:VEVENT
 BEGIN:VEVENT
 UID:worldcup-2026-match-77@facilabo.app
-DTSTAMP:20260628T120000Z
+DTSTAMP:20260701T072543Z
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
 SUMMARY:Coupe du Monde 2026 - France - Suede
-LOCATION:New York/New Jersey Stadium\, New York New Jersey\, Etats-Unis
+LOCATION:New York New Jersey Stadium\, New Jersey\, Etats-Unis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
-DESCRIPTION:Match FIFA 77\n16es de finale\nAffiche officielle: France - Su
- ede\nStade: New York/New Jersey Stadium\nHoraire source: FIFA World Cup 2
- 026 live API\, verifie le 2026-06-28\nSource: https://api.fifa.com/api/v3
- /calendar/matches?language=en&idCompetition=17&idSeason=285023&count=200\
- nUID stable FacilAbo derive du numero de match FIFA.
-URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026
+DESCRIPTION:Match FIFA 77\n16es de finale\nStade: New York New Jersey Stad
+ ium\nVille: New Jersey\nHoraire source: 2026-06-30T21:00:00Z (FIFA World 
+ Cup 2026 live API)\nScore officiel: France 3 - 0 Suede\nSource: https://a
+ pi.fifa.com/api/v3/calendar/matches?language=en&idCompetition=17&idSeason
+ =285023&count=200\nUID stable FacilAbo derive du numero de match FIFA.
+URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
+ =17&idSeason=285023&count=200
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-89@facilabo.app
+DTSTAMP:20260701T072543Z
+DTSTART:20260704T210000Z
+DTEND:20260704T230000Z
+SUMMARY:Coupe du Monde 2026 - Paraguay - France
+LOCATION:Philadelphia Stadium\, Philadelphia\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 89\n8es de finale\nStade: Philadelphia Stadium\nVil
+ le: Philadelphia\nHoraire source: 2026-07-04T21:00:00Z (FIFA World Cup 20
+ 26 live API)\nSource: https://api.fifa.com/api/v3/calendar/matches?langua
+ ge=en&idCompetition=17&idSeason=285023&count=200\nUID stable FacilAbo der
+ ive du numero de match FIFA.
+URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
+ =17&idSeason=285023&count=200
 END:VEVENT
 END:VCALENDAR
