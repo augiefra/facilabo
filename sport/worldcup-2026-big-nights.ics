@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Coupe du Monde 2026 - Grands soirs
 X-WR-TIMEZONE:Europe/Paris
 X-FACILABO-SOURCE:FIFA World Cup 2026 live API
-X-FACILABO-SOURCE-VERIFIED:2026-07-01
+X-FACILABO-SOURCE-VERIFIED:2026-07-02
 BEGIN:VEVENT
 UID:worldcup-2026-match-1@facilabo.app
 DTSTAMP:20260424T120000Z
@@ -219,9 +219,9 @@ TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
 DESCRIPTION:Match FIFA 82\n16es de finale\nStade: Seattle Stadium\nVille: 
  Seattle\nHoraire source: 2026-07-01T20:00:00Z (FIFA World Cup 2026 live A
- PI)\nSource: https://api.fifa.com/api/v3/calendar/matches?language=en&idC
- ompetition=17&idSeason=285023&count=200\nUID stable FacilAbo derive du nu
- mero de match FIFA.
+ PI)\nScore officiel: Belgique 3 - 2 Senegal\nSource: https://api.fifa.com
+ /api/v3/calendar/matches?language=en&idCompetition=17&idSeason=285023&cou
+ nt=200\nUID stable FacilAbo derive du numero de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -284,7 +284,7 @@ UID:worldcup-2026-match-92@facilabo.app
 DTSTAMP:20260424T120000Z
 DTSTART:20260706T000000Z
 DTEND:20260706T020000Z
-SUMMARY:Coupe du Monde 2026 - Mexique - Vainqueur match 80
+SUMMARY:Coupe du Monde 2026 - Mexique - Angleterre
 LOCATION:Mexico City Stadium\, Mexico City\, Mexique
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -320,7 +320,7 @@ UID:worldcup-2026-match-94@facilabo.app
 DTSTAMP:20260424T120000Z
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
-SUMMARY:Coupe du Monde 2026 - Vainqueur match 81 - Vainqueur match 82
+SUMMARY:Coupe du Monde 2026 - Etats-Unis - Belgique
 LOCATION:Seattle Stadium\, Seattle\, Etats-Unis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
