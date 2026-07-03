@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Coupe du Monde 2026 - Tous les matchs
 X-WR-TIMEZONE:Europe/Paris
 X-FACILABO-SOURCE:FIFA World Cup 2026 live API
-X-FACILABO-SOURCE-VERIFIED:2026-07-02
+X-FACILABO-SOURCE-VERIFIED:2026-07-03
 BEGIN:VEVENT
 UID:worldcup-2026-match-1@facilabo.app
 DTSTAMP:20260424T120000Z
@@ -1517,9 +1517,9 @@ TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
 DESCRIPTION:Match FIFA 83\n16es de finale\nStade: Toronto Stadium\nVille: 
  Toronto\nHoraire source: 2026-07-02T23:00:00Z (FIFA World Cup 2026 live A
- PI)\nSource: https://api.fifa.com/api/v3/calendar/matches?language=en&idC
- ompetition=17&idSeason=285023&count=200\nUID stable FacilAbo derive du nu
- mero de match FIFA.
+ PI)\nScore officiel: Portugal 2 - 1 Croatie\nSource: https://api.fifa.com
+ /api/v3/calendar/matches?language=en&idCompetition=17&idSeason=285023&cou
+ nt=200\nUID stable FacilAbo derive du numero de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -1535,9 +1535,9 @@ TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
 DESCRIPTION:Match FIFA 84\n16es de finale\nStade: Los Angeles Stadium\nVil
  le: Los Angeles\nHoraire source: 2026-07-02T19:00:00Z (FIFA World Cup 202
- 6 live API)\nSource: https://api.fifa.com/api/v3/calendar/matches?languag
- e=en&idCompetition=17&idSeason=285023&count=200\nUID stable FacilAbo deri
- ve du numero de match FIFA.
+ 6 live API)\nScore officiel: Espagne 3 - 0 Autriche\nSource: https://api.
+ fifa.com/api/v3/calendar/matches?language=en&idCompetition=17&idSeason=28
+ 5023&count=200\nUID stable FacilAbo derive du numero de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -1553,9 +1553,9 @@ TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
 DESCRIPTION:Match FIFA 85\n16es de finale\nStade: BC Place\nVille: Vancouv
  er\nHoraire source: 2026-07-03T03:00:00Z (FIFA World Cup 2026 live API)\n
- Source: https://api.fifa.com/api/v3/calendar/matches?language=en&idCompet
- ition=17&idSeason=285023&count=200\nUID stable FacilAbo derive du numero 
- de match FIFA.
+ Score officiel: Suisse 2 - 0 Algerie\nSource: https://api.fifa.com/api/v3
+ /calendar/matches?language=en&idCompetition=17&idSeason=285023&count=200\
+ nUID stable FacilAbo derive du numero de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -1690,7 +1690,7 @@ UID:worldcup-2026-match-93@facilabo.app
 DTSTAMP:20260424T120000Z
 DTSTART:20260706T190000Z
 DTEND:20260706T210000Z
-SUMMARY:Coupe du Monde 2026 - Vainqueur match 83 - Vainqueur match 84
+SUMMARY:Coupe du Monde 2026 - Portugal - Espagne
 LOCATION:Dallas Stadium\, Dallas\, Etats-Unis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1744,7 +1744,7 @@ UID:worldcup-2026-match-96@facilabo.app
 DTSTAMP:20260424T120000Z
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
-SUMMARY:Coupe du Monde 2026 - Vainqueur match 85 - Vainqueur match 87
+SUMMARY:Coupe du Monde 2026 - Suisse - Vainqueur match 87
 LOCATION:BC Place\, Vancouver\, Canada
 STATUS:CONFIRMED
 TRANSP:OPAQUE
