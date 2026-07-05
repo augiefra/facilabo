@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Coupe du Monde 2026 - France
 X-WR-TIMEZONE:Europe/Paris
 X-FACILABO-SOURCE:FIFA World Cup 2026 live API
-X-FACILABO-SOURCE-VERIFIED:2026-07-01
+X-FACILABO-SOURCE-VERIFIED:2026-07-05
 BEGIN:VEVENT
 UID:worldcup-2026-match-17@facilabo.app
 DTSTAMP:20260424T120000Z
@@ -92,9 +92,27 @@ TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
 DESCRIPTION:Match FIFA 89\n8es de finale\nStade: Philadelphia Stadium\nVil
  le: Philadelphia\nHoraire source: 2026-07-04T21:00:00Z (FIFA World Cup 20
- 26 live API)\nSource: https://api.fifa.com/api/v3/calendar/matches?langua
- ge=en&idCompetition=17&idSeason=285023&count=200\nUID stable FacilAbo der
- ive du numero de match FIFA.
+ 26 live API)\nScore officiel: Paraguay 0 - 1 France\nSource: https://api.
+ fifa.com/api/v3/calendar/matches?language=en&idCompetition=17&idSeason=28
+ 5023&count=200\nUID stable FacilAbo derive du numero de match FIFA.
+URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
+ =17&idSeason=285023&count=200
+END:VEVENT
+BEGIN:VEVENT
+UID:worldcup-2026-match-97@facilabo.app
+DTSTAMP:20260705T061540Z
+DTSTART:20260709T200000Z
+DTEND:20260709T220000Z
+SUMMARY:Coupe du Monde 2026 - France - Maroc
+LOCATION:Boston Stadium\, Boston\, Etats-Unis
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Coupe du Monde 2026
+DESCRIPTION:Match FIFA 97\nQuarts de finale\nStade: Boston Stadium\nVille:
+  Boston\nHoraire source: 2026-07-09T20:00:00Z (FIFA World Cup 2026 live A
+ PI)\nSource: https://api.fifa.com/api/v3/calendar/matches?language=en&idC
+ ompetition=17&idSeason=285023&count=200\nUID stable FacilAbo derive du nu
+ mero de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
