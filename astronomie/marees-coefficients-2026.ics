@@ -1,0 +1,807 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Grandes Marees 2026//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Grandes marées 2026
+X-WR-CALDESC:Grosses marées océaniques avec coefficients élevés (SHOM, référence BREST, seuil 90+)
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260103@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260103
+DTEND;VALUE=DATE:20260104
+SUMMARY:Grande marée - coef 88/91
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260104@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260104
+DTEND;VALUE=DATE:20260105
+SUMMARY:Grande marée - coef 94/95
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260105@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260106
+SUMMARY:Grande marée - coef 96/95
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260106@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+SUMMARY:Grande marée - coef 93/91
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260202@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:Grande marée - coef 94/97
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260203@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:Grande marée - coef 99/99
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260204@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:Grande marée - coef 99/97
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260205@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+SUMMARY:Grande marée - coef 94/90
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260218@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:Grande marée - coef 91/94
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260219@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:Grande marée - coef 96/97
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260220@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:Grande marée - coef 97/96
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260221@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:Grande marée - coef 94/91
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260302@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:Grande marée - coef 84/90
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260303@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:Grande marée - coef 94/97
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260304@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260305
+SUMMARY:Grande marée - coef 99/99
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260305@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:Grande marée - coef 99/97
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260306@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:Grande marée - coef 94/91
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260318@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:Grande marée - coef 87/92
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260319@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:Grande marée - coef 97/101
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260320@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Grande marée - coef 103/104
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260321@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:Grande marée - coef 104/103
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260322@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:Grande marée - coef 100/95
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260401@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Grande marée - coef 89/92
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260402@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Grande marée - coef 93/93
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260403@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Grande marée - coef 93/91
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260416@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:Grande marée - coef 87/93
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260417@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Grande marée - coef 97/101
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260418@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Grande marée - coef 104/105
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260419@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:Grande marée - coef 104/102
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260420@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Grande marée - coef 99/94
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260516@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Grande marée - coef 92/96
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260517@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:Grande marée - coef 98/99
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260518@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:Grande marée - coef 99/97
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260519@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:Grande marée - coef 95/91
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260615@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Grande marée - coef 90/93
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260616@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Grande marée - coef 94/95
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260617@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:Grande marée - coef 94/93
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260618@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:Grande marée - coef 90/87
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260714@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Grande marée - coef 86/90
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260715@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:Grande marée - coef 94/96
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260716@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:Grande marée - coef 98/98
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260717@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:Grande marée - coef 97/94
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260718@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:Grande marée - coef 91/86
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260812@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Grande marée - coef 87/93
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260813@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:Grande marée - coef 97/100
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260814@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Grande marée - coef 102/102
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260815@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Grande marée - coef 101/98
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260816@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:Grande marée - coef 95/90
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260829@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:Grande marée - coef 89/91
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260830@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Grande marée - coef 93/93
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260831@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Grande marée - coef 93/91
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260910@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Grande marée - coef 90/95
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260911@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Grande marée - coef 98/101
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260912@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Grande marée - coef 102/101
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260913@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Grande marée - coef 100/97
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260914@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Grande marée - coef 93/89
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260926@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Grande marée - coef 87/92
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260927@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Grande marée - coef 95/97
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260928@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Grande marée - coef 99/99
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260929@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Grande marée - coef 98/96
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20260930@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Grande marée - coef 92/88
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20261009@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Grande marée - coef 87/91
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20261010@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Grande marée - coef 94/95
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20261011@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Grande marée - coef 95/95
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20261012@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Grande marée - coef 93/91
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20261025@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Grande marée - coef 87/92
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20261026@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Grande marée - coef 95/98
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20261027@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Grande marée - coef 99/100
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20261028@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Grande marée - coef 99/96
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20261029@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Grande marée - coef 93/88
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20261124@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Grande marée - coef 90/93
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20261125@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Grande marée - coef 96/97
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20261126@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Grande marée - coef 97/96
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20261127@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Grande marée - coef 94/90
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20261224@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Grande marée - coef 91/95
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20261225@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Grande marée - coef 97/99
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20261226@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Grande marée - coef 99/98
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marees-coefficients-2026-20261227@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Grande marée - coef 96/93
+DESCRIPTION:Grosses marées océaniques: coefficients SHOM >= 90\, référence BREST. Les horaires et hauteurs varient selon le port.
+CATEGORIES:Sciences,Marées,SHOM
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

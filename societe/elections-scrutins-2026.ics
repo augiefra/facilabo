@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Elections et Scrutins 2026//FR
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Élections et scrutins 2026
+X-WR-CALDESC:Dates utiles des scrutins nationaux confirmés par les sources officielles 2026
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:societe-elections-scrutins-2026-municipales-tour-1@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:Élections municipales 2026 - 1er tour
+DESCRIPTION:Date officielle des élections municipales et communautaires 2026 publiée par le ministère de l'Intérieur.
+CATEGORIES:Société,Élections,France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:societe-elections-scrutins-2026-municipales-tour-2@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:Élections municipales 2026 - 2e tour
+DESCRIPTION:Date officielle des élections municipales et communautaires 2026 publiée par le ministère de l'Intérieur.
+CATEGORIES:Société,Élections,France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:societe-elections-scrutins-2026-senatoriales@facilabo.app
+DTSTAMP:20260707T120000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Élections sénatoriales 2026
+DESCRIPTION:Date officielle des élections sénatoriales 2026 publiée par le ministère de l'Intérieur.
+CATEGORIES:Société,Élections,France
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
