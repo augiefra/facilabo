@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Coupe du Monde 2026 - Phase finale
 X-WR-TIMEZONE:Europe/Paris
 X-FACILABO-SOURCE:FIFA World Cup 2026 live API
-X-FACILABO-SOURCE-VERIFIED:2026-07-06
+X-FACILABO-SOURCE-VERIFIED:2026-07-07
 BEGIN:VEVENT
 UID:worldcup-2026-match-73@facilabo.app
 DTSTAMP:20260424T120000Z
@@ -381,9 +381,9 @@ TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
 DESCRIPTION:Match FIFA 93\n8es de finale\nStade: Dallas Stadium\nVille: Da
  llas\nHoraire source: 2026-07-06T19:00:00Z (FIFA World Cup 2026 live API)
- \nSource: https://api.fifa.com/api/v3/calendar/matches?language=en&idComp
- etition=17&idSeason=285023&count=200\nUID stable FacilAbo derive du numer
- o de match FIFA.
+ \nScore officiel: Portugal 0 - 1 Espagne\nSource: https://api.fifa.com/ap
+ i/v3/calendar/matches?language=en&idCompetition=17&idSeason=285023&count=
+ 200\nUID stable FacilAbo derive du numero de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -399,9 +399,9 @@ TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
 DESCRIPTION:Match FIFA 94\n8es de finale\nStade: Seattle Stadium\nVille: S
  eattle\nHoraire source: 2026-07-07T00:00:00Z (FIFA World Cup 2026 live AP
- I)\nSource: https://api.fifa.com/api/v3/calendar/matches?language=en&idCo
- mpetition=17&idSeason=285023&count=200\nUID stable FacilAbo derive du num
- ero de match FIFA.
+ I)\nScore officiel: Etats-Unis 1 - 4 Belgique\nSource: https://api.fifa.c
+ om/api/v3/calendar/matches?language=en&idCompetition=17&idSeason=285023&c
+ ount=200\nUID stable FacilAbo derive du numero de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -464,7 +464,7 @@ UID:worldcup-2026-match-98@facilabo.app
 DTSTAMP:20260424T120000Z
 DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
-SUMMARY:Coupe du Monde 2026 - Vainqueur match 93 - Vainqueur match 94
+SUMMARY:Coupe du Monde 2026 - Espagne - Belgique
 LOCATION:Los Angeles Stadium\, Los Angeles\, Etats-Unis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
