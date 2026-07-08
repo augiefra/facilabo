@@ -90,17 +90,17 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
 SUMMARY:Debut des Soldes d'ete
-DESCRIPTION:Debut des soldes d'ete en France metropolitaine - Duree 4 semaines
+DESCRIPTION:Debut des soldes d'ete en France metropolitaine - Fin prolongee au 28 juillet 2026
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:soldes-ete-fin-2026@facilabo.app
 DTSTAMP:20241212T120000Z
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260722
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
 SUMMARY:Fin des Soldes d'ete
-DESCRIPTION:Dernier jour des soldes d'ete en France metropolitaine
+DESCRIPTION:Dernier jour des soldes d'ete en France metropolitaine - Prolongation exceptionnelle canicule 2026
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
