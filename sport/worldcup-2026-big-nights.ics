@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Coupe du Monde 2026 - Grands soirs
 X-WR-TIMEZONE:Europe/Paris
 X-FACILABO-SOURCE:FIFA World Cup 2026 live API
-X-FACILABO-SOURCE-VERIFIED:2026-07-07
+X-FACILABO-SOURCE-VERIFIED:2026-07-08
 BEGIN:VEVENT
 UID:worldcup-2026-match-1@facilabo.app
 DTSTAMP:20260424T120000Z
@@ -345,9 +345,9 @@ TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
 DESCRIPTION:Match FIFA 95\n8es de finale\nStade: Atlanta Stadium\nVille: A
  tlanta\nHoraire source: 2026-07-07T16:00:00Z (FIFA World Cup 2026 live AP
- I)\nSource: https://api.fifa.com/api/v3/calendar/matches?language=en&idCo
- mpetition=17&idSeason=285023&count=200\nUID stable FacilAbo derive du num
- ero de match FIFA.
+ I)\nScore officiel: Argentine 3 - 2 Egypte\nSource: https://api.fifa.com/
+ api/v3/calendar/matches?language=en&idCompetition=17&idSeason=285023&coun
+ t=200\nUID stable FacilAbo derive du numero de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -363,9 +363,9 @@ TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
 DESCRIPTION:Match FIFA 96\n8es de finale\nStade: BC Place\nVille: Vancouve
  r\nHoraire source: 2026-07-07T20:00:00Z (FIFA World Cup 2026 live API)\nS
- ource: https://api.fifa.com/api/v3/calendar/matches?language=en&idCompeti
- tion=17&idSeason=285023&count=200\nUID stable FacilAbo derive du numero d
- e match FIFA.
+ core officiel: Suisse 0 - 0 Colombie\nSource: https://api.fifa.com/api/v3
+ /calendar/matches?language=en&idCompetition=17&idSeason=285023&count=200\
+ nUID stable FacilAbo derive du numero de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -428,7 +428,7 @@ UID:worldcup-2026-match-100@facilabo.app
 DTSTAMP:20260424T120000Z
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
-SUMMARY:Coupe du Monde 2026 - Vainqueur match 95 - Vainqueur match 96
+SUMMARY:Coupe du Monde 2026 - Argentine - Suisse
 LOCATION:Kansas City Stadium\, Kansas City\, Etats-Unis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
