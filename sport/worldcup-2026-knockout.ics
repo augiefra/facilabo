@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Coupe du Monde 2026 - Phase finale
 X-WR-TIMEZONE:Europe/Paris
 X-FACILABO-SOURCE:FIFA World Cup 2026 live API
-X-FACILABO-SOURCE-VERIFIED:2026-07-08
+X-FACILABO-SOURCE-VERIFIED:2026-07-10
 BEGIN:VEVENT
 UID:worldcup-2026-match-73@facilabo.app
 DTSTAMP:20260424T120000Z
@@ -453,9 +453,9 @@ TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
 DESCRIPTION:Match FIFA 97\nQuarts de finale\nStade: Boston Stadium\nVille:
   Boston\nHoraire source: 2026-07-09T20:00:00Z (FIFA World Cup 2026 live A
- PI)\nSource: https://api.fifa.com/api/v3/calendar/matches?language=en&idC
- ompetition=17&idSeason=285023&count=200\nUID stable FacilAbo derive du nu
- mero de match FIFA.
+ PI)\nScore officiel: France 2 - 0 Maroc\nSource: https://api.fifa.com/api
+ /v3/calendar/matches?language=en&idCompetition=17&idSeason=285023&count=2
+ 00\nUID stable FacilAbo derive du numero de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -518,7 +518,7 @@ UID:worldcup-2026-match-101@facilabo.app
 DTSTAMP:20260424T120000Z
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
-SUMMARY:Coupe du Monde 2026 - Vainqueur match 97 - Vainqueur match 98
+SUMMARY:Coupe du Monde 2026 - France - Vainqueur match 98
 LOCATION:Dallas Stadium\, Dallas\, Etats-Unis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
