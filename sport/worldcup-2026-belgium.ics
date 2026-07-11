@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Coupe du Monde 2026 - Belgique
 X-WR-TIMEZONE:Europe/Paris
 X-FACILABO-SOURCE:FIFA World Cup 2026 live API
-X-FACILABO-SOURCE-VERIFIED:2026-07-07
+X-FACILABO-SOURCE-VERIFIED:2026-07-11
 BEGIN:VEVENT
 UID:worldcup-2026-match-16@facilabo.app
 DTSTAMP:20260424T120000Z
@@ -109,9 +109,9 @@ TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
 DESCRIPTION:Match FIFA 98\nQuarts de finale\nStade: Los Angeles Stadium\nV
  ille: Los Angeles\nHoraire source: 2026-07-10T19:00:00Z (FIFA World Cup 2
- 026 live API)\nSource: https://api.fifa.com/api/v3/calendar/matches?langu
- age=en&idCompetition=17&idSeason=285023&count=200\nUID stable FacilAbo de
- rive du numero de match FIFA.
+ 026 live API)\nScore officiel: Espagne 2 - 1 Belgique\nSource: https://ap
+ i.fifa.com/api/v3/calendar/matches?language=en&idCompetition=17&idSeason=
+ 285023&count=200\nUID stable FacilAbo derive du numero de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
