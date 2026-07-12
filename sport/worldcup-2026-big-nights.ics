@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Coupe du Monde 2026 - Grands soirs
 X-WR-TIMEZONE:Europe/Paris
 X-FACILABO-SOURCE:FIFA World Cup 2026 live API
-X-FACILABO-SOURCE-VERIFIED:2026-07-11
+X-FACILABO-SOURCE-VERIFIED:2026-07-12
 BEGIN:VEVENT
 UID:worldcup-2026-match-1@facilabo.app
 DTSTAMP:20260424T120000Z
@@ -417,9 +417,9 @@ TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
 DESCRIPTION:Match FIFA 99\nQuarts de finale\nStade: Miami Stadium\nVille: 
  Miami\nHoraire source: 2026-07-11T21:00:00Z (FIFA World Cup 2026 live API
- )\nSource: https://api.fifa.com/api/v3/calendar/matches?language=en&idCom
- petition=17&idSeason=285023&count=200\nUID stable FacilAbo derive du nume
- ro de match FIFA.
+ )\nScore officiel: Norvege 1 - 2 Angleterre\nSource: https://api.fifa.com
+ /api/v3/calendar/matches?language=en&idCompetition=17&idSeason=285023&cou
+ nt=200\nUID stable FacilAbo derive du numero de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -435,9 +435,9 @@ TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
 DESCRIPTION:Match FIFA 100\nQuarts de finale\nStade: Kansas City Stadium\n
  Ville: Kansas City\nHoraire source: 2026-07-12T01:00:00Z (FIFA World Cup 
- 2026 live API)\nSource: https://api.fifa.com/api/v3/calendar/matches?lang
- uage=en&idCompetition=17&idSeason=285023&count=200\nUID stable FacilAbo d
- erive du numero de match FIFA.
+ 2026 live API)\nScore officiel: Argentine 3 - 1 Suisse\nSource: https://a
+ pi.fifa.com/api/v3/calendar/matches?language=en&idCompetition=17&idSeason
+ =285023&count=200\nUID stable FacilAbo derive du numero de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -464,7 +464,7 @@ UID:worldcup-2026-match-102@facilabo.app
 DTSTAMP:20260424T120000Z
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
-SUMMARY:Coupe du Monde 2026 - Vainqueur match 99 - Vainqueur match 100
+SUMMARY:Coupe du Monde 2026 - Angleterre - Argentine
 LOCATION:Atlanta Stadium\, Atlanta\, Etats-Unis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
