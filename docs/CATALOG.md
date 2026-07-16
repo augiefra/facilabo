@@ -79,6 +79,7 @@
 
 ## Education feeds
 
+- `education/vacances-toutes-zones.ics` (slug: `vacances-toutes-zones`) - zones A, B et C dans un feed lisible sans tripler les événements; périodes communes fusionnées et périodes décalées segmentées par zones actives
 - `education/examens-2026.ics` (slug: `education-examens-2026`) - reperes nationaux utiles des examens 2026: bac, brevet, CAP, BTS, BP et BMA
 - `education/parcoursup-2026.ics` (slug: `education-parcoursup-2026`) - grandes echeances Parcoursup 2026
 

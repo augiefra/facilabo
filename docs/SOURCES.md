@@ -2,6 +2,7 @@
 
 ## France
 
+- Vacances scolaires toutes zones: calendrier dérivé des trois ICS officiels Opendatasoft `Zone-A.ics`, `Zone-B.ics` et `Zone-C.ics`. Contrat: fusion des périodes identiques, segmentation sans chevauchement des périodes divergentes, exclusion de la prérentrée enseignants.
 - Education / examens: https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384 (verifie le 2026-04-24)
 - Parcoursup: https://www.parcoursup.gouv.fr/calendrier (verifie le 2026-04-24)
 - Fiscal: https://www.impots.gouv.fr

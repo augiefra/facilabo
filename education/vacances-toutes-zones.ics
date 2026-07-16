@@ -1,0 +1,670 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//Vacances scolaires toutes zones//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Vacances scolaires - Toutes zones (FacilAbo)
+X-WR-CALNAME:Vacances scolaires - Toutes zones (FacilAbo)
+X-WR-TIMEZONE:Europe/Paris
+X-WR-CALDESC:Zones A, B et C sans doublons quotidiens.
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-noel-20231223-20240108-abc@facilabo
+ .app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20231223
+DTEND;VALUE=DATE:20240108
+SUMMARY:Vacances de Noël — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-hiver-20240210-20240217-c@facilabo.a
+ pp
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20240210
+DTEND;VALUE=DATE:20240217
+SUMMARY:Vacances d'Hiver — zone C
+DESCRIPTION:Zones concernées : zone C. Segment calculé à partir des ca
+ lendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zone C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-hiver-20240217-20240224-ac@facilabo.
+ app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20240217
+DTEND;VALUE=DATE:20240224
+SUMMARY:Vacances d'Hiver — zones A et C
+DESCRIPTION:Zones concernées : zones A et C. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zones A et C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-hiver-20240224-20240226-abc@facilabo
+ .app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20240224
+DTEND;VALUE=DATE:20240226
+SUMMARY:Vacances d'Hiver — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-hiver-20240226-20240304-ab@facilabo.
+ app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20240226
+DTEND;VALUE=DATE:20240304
+SUMMARY:Vacances d'Hiver — zones A et B
+DESCRIPTION:Zones concernées : zones A et B. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zones A et B
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-hiver-20240304-20240311-b@facilabo.a
+ pp
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20240304
+DTEND;VALUE=DATE:20240311
+SUMMARY:Vacances d'Hiver — zone B
+DESCRIPTION:Zones concernées : zone B. Segment calculé à partir des ca
+ lendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zone B
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-printemps-20240406-20240413-c@facil
+ abo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20240406
+DTEND;VALUE=DATE:20240413
+SUMMARY:Vacances de Printemps — zone C
+DESCRIPTION:Zones concernées : zone C. Segment calculé à partir des ca
+ lendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zone C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-printemps-20240413-20240420-ac@faci
+ labo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20240413
+DTEND;VALUE=DATE:20240420
+SUMMARY:Vacances de Printemps — zones A et C
+DESCRIPTION:Zones concernées : zones A et C. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zones A et C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-printemps-20240420-20240422-abc@fac
+ ilabo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20240420
+DTEND;VALUE=DATE:20240422
+SUMMARY:Vacances de Printemps — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-printemps-20240422-20240429-ab@faci
+ labo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20240422
+DTEND;VALUE=DATE:20240429
+SUMMARY:Vacances de Printemps — zones A et B
+DESCRIPTION:Zones concernées : zones A et B. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zones A et B
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-printemps-20240429-20240506-b@facil
+ abo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20240429
+DTEND;VALUE=DATE:20240506
+SUMMARY:Vacances de Printemps — zone B
+DESCRIPTION:Zones concernées : zone B. Segment calculé à partir des ca
+ lendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zone B
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-pont-de-l-ascension-20240509-20240513-abc@facil
+ abo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20240509
+DTEND;VALUE=DATE:20240513
+SUMMARY:Pont de l'Ascension — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-ete-20240706-20240902-abc@facilabo.a
+ pp
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20240706
+DTEND;VALUE=DATE:20240902
+SUMMARY:Vacances d'Été — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-la-toussaint-20241019-20241104-abc@
+ facilabo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20241019
+DTEND;VALUE=DATE:20241104
+SUMMARY:Vacances de la Toussaint — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-noel-20241221-20250106-abc@facilabo
+ .app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20241221
+DTEND;VALUE=DATE:20250106
+SUMMARY:Vacances de Noël — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-hiver-20250208-20250215-b@facilabo.a
+ pp
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20250208
+DTEND;VALUE=DATE:20250215
+SUMMARY:Vacances d'Hiver — zone B
+DESCRIPTION:Zones concernées : zone B. Segment calculé à partir des ca
+ lendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zone B
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-hiver-20250215-20250222-bc@facilabo.
+ app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20250215
+DTEND;VALUE=DATE:20250222
+SUMMARY:Vacances d'Hiver — zones B et C
+DESCRIPTION:Zones concernées : zones B et C. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zones B et C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-hiver-20250222-20250224-abc@facilabo
+ .app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20250222
+DTEND;VALUE=DATE:20250224
+SUMMARY:Vacances d'Hiver — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-hiver-20250224-20250303-ac@facilabo.
+ app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20250224
+DTEND;VALUE=DATE:20250303
+SUMMARY:Vacances d'Hiver — zones A et C
+DESCRIPTION:Zones concernées : zones A et C. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zones A et C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-hiver-20250303-20250310-a@facilabo.a
+ pp
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+SUMMARY:Vacances d'Hiver — zone A
+DESCRIPTION:Zones concernées : zone A. Segment calculé à partir des ca
+ lendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zone A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-printemps-20250405-20250412-b@facil
+ abo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20250405
+DTEND;VALUE=DATE:20250412
+SUMMARY:Vacances de Printemps — zone B
+DESCRIPTION:Zones concernées : zone B. Segment calculé à partir des ca
+ lendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zone B
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-printemps-20250412-20250419-bc@faci
+ labo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250419
+SUMMARY:Vacances de Printemps — zones B et C
+DESCRIPTION:Zones concernées : zones B et C. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zones B et C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-printemps-20250419-20250422-abc@fac
+ ilabo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20250419
+DTEND;VALUE=DATE:20250422
+SUMMARY:Vacances de Printemps — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-printemps-20250422-20250428-ac@faci
+ labo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20250422
+DTEND;VALUE=DATE:20250428
+SUMMARY:Vacances de Printemps — zones A et C
+DESCRIPTION:Zones concernées : zones A et C. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zones A et C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-printemps-20250428-20250505-a@facil
+ abo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+SUMMARY:Vacances de Printemps — zone A
+DESCRIPTION:Zones concernées : zone A. Segment calculé à partir des ca
+ lendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zone A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-pont-de-l-ascension-20250529-20250602-abc@facil
+ abo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20250529
+DTEND;VALUE=DATE:20250602
+SUMMARY:Pont de l'Ascension — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-ete-20250705-20250901-abc@facilabo.a
+ pp
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20250705
+DTEND;VALUE=DATE:20250901
+SUMMARY:Vacances d'Été — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-la-toussaint-20251018-20251103-abc@
+ facilabo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20251018
+DTEND;VALUE=DATE:20251103
+SUMMARY:Vacances de la Toussaint — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-noel-20251220-20260105-abc@facilabo
+ .app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20260105
+SUMMARY:Vacances de Noël — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-hiver-20260207-20260214-a@facilabo.a
+ pp
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260214
+SUMMARY:Vacances d'Hiver — zone A
+DESCRIPTION:Zones concernées : zone A. Segment calculé à partir des ca
+ lendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zone A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-hiver-20260214-20260221-ab@facilabo.
+ app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260221
+SUMMARY:Vacances d'Hiver — zones A et B
+DESCRIPTION:Zones concernées : zones A et B. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zones A et B
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-hiver-20260221-20260223-abc@facilabo
+ .app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260223
+SUMMARY:Vacances d'Hiver — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-hiver-20260223-20260302-bc@facilabo.
+ app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260302
+SUMMARY:Vacances d'Hiver — zones B et C
+DESCRIPTION:Zones concernées : zones B et C. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zones B et C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-hiver-20260302-20260309-c@facilabo.a
+ pp
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260309
+SUMMARY:Vacances d'Hiver — zone C
+DESCRIPTION:Zones concernées : zone C. Segment calculé à partir des ca
+ lendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zone C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-printemps-20260404-20260411-a@facil
+ abo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260411
+SUMMARY:Vacances de Printemps — zone A
+DESCRIPTION:Zones concernées : zone A. Segment calculé à partir des ca
+ lendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zone A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-printemps-20260411-20260418-ab@faci
+ labo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260418
+SUMMARY:Vacances de Printemps — zones A et B
+DESCRIPTION:Zones concernées : zones A et B. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zones A et B
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-printemps-20260418-20260420-abc@fac
+ ilabo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260420
+SUMMARY:Vacances de Printemps — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-printemps-20260420-20260427-bc@faci
+ labo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260427
+SUMMARY:Vacances de Printemps — zones B et C
+DESCRIPTION:Zones concernées : zones B et C. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zones B et C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-printemps-20260427-20260504-c@facil
+ abo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260504
+SUMMARY:Vacances de Printemps — zone C
+DESCRIPTION:Zones concernées : zone C. Segment calculé à partir des ca
+ lendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zone C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-pont-de-l-ascension-20260514-20260518-abc@facil
+ abo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260518
+SUMMARY:Pont de l'Ascension — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-ete-20260704-20260901-abc@facilabo.a
+ pp
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260901
+SUMMARY:Vacances d'Été — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-la-toussaint-20261017-20261102-abc@
+ facilabo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261102
+SUMMARY:Vacances de la Toussaint — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-noel-20261219-20270104-abc@facilabo
+ .app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20270104
+SUMMARY:Vacances de Noël — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-hiver-20270206-20270213-c@facilabo.a
+ pp
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270213
+SUMMARY:Vacances d'Hiver — zone C
+DESCRIPTION:Zones concernées : zone C. Segment calculé à partir des ca
+ lendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zone C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-hiver-20270213-20270220-ac@facilabo.
+ app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270220
+SUMMARY:Vacances d'Hiver — zones A et C
+DESCRIPTION:Zones concernées : zones A et C. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zones A et C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-hiver-20270220-20270222-abc@facilabo
+ .app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270222
+SUMMARY:Vacances d'Hiver — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-hiver-20270222-20270301-ab@facilabo.
+ app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270301
+SUMMARY:Vacances d'Hiver — zones A et B
+DESCRIPTION:Zones concernées : zones A et B. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zones A et B
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-d-hiver-20270301-20270308-b@facilabo.a
+ pp
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270308
+SUMMARY:Vacances d'Hiver — zone B
+DESCRIPTION:Zones concernées : zone B. Segment calculé à partir des ca
+ lendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zone B
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-printemps-20270403-20270410-c@facil
+ abo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270410
+SUMMARY:Vacances de Printemps — zone C
+DESCRIPTION:Zones concernées : zone C. Segment calculé à partir des ca
+ lendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zone C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-printemps-20270410-20270417-ac@faci
+ labo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270417
+SUMMARY:Vacances de Printemps — zones A et C
+DESCRIPTION:Zones concernées : zones A et C. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zones A et C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-printemps-20270417-20270419-abc@fac
+ ilabo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270419
+SUMMARY:Vacances de Printemps — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-printemps-20270419-20270426-ab@faci
+ labo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270426
+SUMMARY:Vacances de Printemps — zones A et B
+DESCRIPTION:Zones concernées : zones A et B. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zones A et B
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-vacances-de-printemps-20270426-20270503-b@facil
+ abo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270503
+SUMMARY:Vacances de Printemps — zone B
+DESCRIPTION:Zones concernées : zone B. Segment calculé à partir des ca
+ lendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine - zone B
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-pont-de-l-ascension-20270507-20270508-abc@facil
+ abo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Pont de l'Ascension — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-debut-des-vacances-d-ete-20270703-20270704-abc@
+ facilabo.app
+DTSTAMP:20260316T133328Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:Début des Vacances d'Été — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir 
+ des calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

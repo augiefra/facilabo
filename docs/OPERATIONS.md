@@ -23,6 +23,7 @@ Forbidden:
 
 ## Specific notes for new feeds
 
+- `education/vacances-toutes-zones.ics`: regenerate from the iOS repo root with `python3 facilabo-calendars/scripts/generate_combined_school_holidays.py --mirror-output calendars/education/vacances-toutes-zones.ics --anchor-manifest config/calendar-date-anchors.json`. The default published window starts in 2024. Identical A/B/C periods become one event; staggered periods are split into non-overlapping segments labelled with the active zone set. Teacher pre-entry events are excluded from this general-public feed.
 - `societe/reperes-france.ics`: keep deterministic FR rules (mothers/fathers/grandparents days) and preserve overlap rationale with `ecommerce/fetes-commerciales.ics`.
 - `sport/cyclisme-majeurs.ics`: keep strict scope (Monuments + Grands Tours + Mondiaux route), and maintain rolling window target `J-30 -> J+730`.
 - `sport/wec.ics`: one event per official FIA WEC round, stable round keys (`imola`, `spa`, `lemans`, `saopaulo`, `austin`, `fuji`, `qatar`, `bahrain`), date-only until an official race start time is published, and no expected overlap with `f1`, `motogp` or `nascar`.
