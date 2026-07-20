@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Coupe du Monde 2026 - Phase finale
 X-WR-TIMEZONE:Europe/Paris
 X-FACILABO-SOURCE:FIFA World Cup 2026 live API
-X-FACILABO-SOURCE-VERIFIED:2026-07-19
+X-FACILABO-SOURCE-VERIFIED:2026-07-20
 BEGIN:VEVENT
 UID:worldcup-2026-match-73@facilabo.app
 DTSTAMP:20260424T120000Z
@@ -579,9 +579,9 @@ TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
 DESCRIPTION:Match FIFA 104\nFinale\nStade: New York New Jersey Stadium\nVi
  lle: New Jersey\nHoraire source: 2026-07-19T19:00:00Z (FIFA World Cup 202
- 6 live API)\nSource: https://api.fifa.com/api/v3/calendar/matches?languag
- e=en&idCompetition=17&idSeason=285023&count=200\nUID stable FacilAbo deri
- ve du numero de match FIFA.
+ 6 live API)\nScore officiel: Espagne 1 - 0 Argentine\nSource: https://api
+ .fifa.com/api/v3/calendar/matches?language=en&idCompetition=17&idSeason=2
+ 85023&count=200\nUID stable FacilAbo derive du numero de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
