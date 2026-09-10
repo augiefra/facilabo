@@ -31,8 +31,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260217
 DTEND;VALUE=DATE:20260218
 SUMMARY:Carnaval de Binche - Mardi gras
-DESCRIPTION:Tradition majeure belge (UNESCO). Source: carnavaldebinche.be. 
- Fiabilité: moyenne à haute\; vérifier agenda officiel annuel.
+DESCRIPTION:Tradition majeure belge (UNESCO). Source: carnavaldebinche.be.
+  Fiabilité: moyenne à haute\; vérifier agenda officiel annuel.
 URL:https://www.carnavaldebinche.be
 CATEGORIES:Belgique\,Traditions\,Carnaval
 STATUS:CONFIRMED
@@ -55,8 +55,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260727
 SUMMARY:Gentse Feesten
-DESCRIPTION:Grand festival urbain a Gand. Source: gentsefeesten.stad.gent. 
- Fiabilité: moyenne à haute selon programmation.
+DESCRIPTION:Grand festival urbain a Gand. Source: gentsefeesten.stad.gent.
+  Fiabilité: moyenne à haute selon programmation.
 URL:https://gentsefeesten.stad.gent
 CATEGORIES:Belgique\,Festival\,Culture
 STATUS:CONFIRMED
@@ -99,15 +99,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-grands-evenements-plaisirs-hiver-bruxelles-2026@facilabo.app
-DTSTAMP:20260210T120000Z
+DTSTAMP:20260910T062757Z
 DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
 SUMMARY:Plaisirs d Hiver - Bruxelles
-DESCRIPTION:Marche et animations de fin d année a Bruxelles. Source: winte
- rwonders.be. Fiabilité: moyenne à haute selon édition.
-URL:https://www.winterwonders.be
+DESCRIPTION:Marché et animations de fin d’année à Bruxelles du 27 nove
+ mbre 2026 au 3 janvier 2027 inclus. Dates confirmées par l’organisateur
+ .
+URL:https://www.plaisirsdhiver.be/category/que-faire/attractions
 CATEGORIES:Belgique\,Festival\,Hiver
 STATUS:CONFIRMED
+LAST-MODIFIED:20260910T062757Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-grands-evenements-carnaval-binche-2027@facilabo.app
@@ -115,8 +118,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 SUMMARY:Carnaval de Binche - Mardi gras
-DESCRIPTION:Tradition majeure belge (UNESCO). Source: carnavaldebinche.be. 
- Fiabilité: moyenne à haute\; vérifier agenda officiel annuel.
+DESCRIPTION:Tradition majeure belge (UNESCO). Source: carnavaldebinche.be.
+  Fiabilité: moyenne à haute\; vérifier agenda officiel annuel.
 URL:https://www.carnavaldebinche.be
 CATEGORIES:Belgique\,Traditions\,Carnaval
 STATUS:CONFIRMED
@@ -139,8 +142,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270726
 SUMMARY:Gentse Feesten
-DESCRIPTION:Grand festival urbain a Gand. Source: gentsefeesten.stad.gent. 
- Fiabilité: moyenne à haute selon programmation.
+DESCRIPTION:Grand festival urbain a Gand. Source: gentsefeesten.stad.gent.
+  Fiabilité: moyenne à haute selon programmation.
 URL:https://gentsefeesten.stad.gent
 CATEGORIES:Belgique\,Festival\,Culture
 STATUS:CONFIRMED
@@ -199,8 +202,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20280229
 DTEND;VALUE=DATE:20280301
 SUMMARY:Carnaval de Binche - Mardi gras
-DESCRIPTION:Tradition majeure belge (UNESCO). Source: carnavaldebinche.be. 
- Fiabilité: moyenne à haute\; vérifier agenda officiel annuel.
+DESCRIPTION:Tradition majeure belge (UNESCO). Source: carnavaldebinche.be.
+  Fiabilité: moyenne à haute\; vérifier agenda officiel annuel.
 URL:https://www.carnavaldebinche.be
 CATEGORIES:Belgique\,Traditions\,Carnaval
 STATUS:CONFIRMED
@@ -223,8 +226,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20280721
 DTEND;VALUE=DATE:20280731
 SUMMARY:Gentse Feesten
-DESCRIPTION:Grand festival urbain a Gand. Source: gentsefeesten.stad.gent. 
- Fiabilité: moyenne à haute selon programmation.
+DESCRIPTION:Grand festival urbain a Gand. Source: gentsefeesten.stad.gent.
+  Fiabilité: moyenne à haute selon programmation.
 URL:https://gentsefeesten.stad.gent
 CATEGORIES:Belgique\,Festival\,Culture
 STATUS:CONFIRMED
@@ -243,15 +246,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-grands-evenements-grand-prix-spa-2028@facilabo.app
-DTSTAMP:20260210T120000Z
+DTSTAMP:20260910T062757Z
 DTSTART;VALUE=DATE:20280730
 DTEND;VALUE=DATE:20280731
-SUMMARY:Grand Prix de Belgique (Spa-Francorchamps)
-DESCRIPTION:Repère sport automobile Belgique. Source: formula1.com. Fiabil
- ité: moyenne à haute après publication du calendrier F1.
-URL:https://www.formula1.com
+SUMMARY:Annulé — Grand Prix de Belgique 2028 (Spa-Francorchamps)
+DESCRIPTION:Aucune édition à Spa-Francorchamps en 2028 selon la rotation
+  officielle Formula 1. Ancien repère annulé et UID conservé pour mettre
+  à jour les abonnements existants.
+URL:https://corp.formula1.com/formula-1-announces-multi-year-extension-with
+ -the-circuit-de-barcelona-catalunya-to-race-in-rotation-with-circuit-de-sp
+ a-francorchamps/
 CATEGORIES:Belgique\,Sport\,Automobile
-STATUS:CONFIRMED
+STATUS:CANCELLED
+LAST-MODIFIED:20260910T062757Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-grands-evenements-brussels-beer-weekend-2028@facilabo.app
@@ -283,8 +291,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20290213
 DTEND;VALUE=DATE:20290214
 SUMMARY:Carnaval de Binche - Mardi gras
-DESCRIPTION:Tradition majeure belge (UNESCO). Source: carnavaldebinche.be. 
- Fiabilité: moyenne à haute\; vérifier agenda officiel annuel.
+DESCRIPTION:Tradition majeure belge (UNESCO). Source: carnavaldebinche.be.
+  Fiabilité: moyenne à haute\; vérifier agenda officiel annuel.
 URL:https://www.carnavaldebinche.be
 CATEGORIES:Belgique\,Traditions\,Carnaval
 STATUS:CONFIRMED
@@ -307,8 +315,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20290720
 DTEND;VALUE=DATE:20290730
 SUMMARY:Gentse Feesten
-DESCRIPTION:Grand festival urbain a Gand. Source: gentsefeesten.stad.gent. 
- Fiabilité: moyenne à haute selon programmation.
+DESCRIPTION:Grand festival urbain a Gand. Source: gentsefeesten.stad.gent.
+  Fiabilité: moyenne à haute selon programmation.
 URL:https://gentsefeesten.stad.gent
 CATEGORIES:Belgique\,Festival\,Culture
 STATUS:CONFIRMED
@@ -367,8 +375,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20300305
 DTEND;VALUE=DATE:20300306
 SUMMARY:Carnaval de Binche - Mardi gras
-DESCRIPTION:Tradition majeure belge (UNESCO). Source: carnavaldebinche.be. 
- Fiabilité: moyenne à haute\; vérifier agenda officiel annuel.
+DESCRIPTION:Tradition majeure belge (UNESCO). Source: carnavaldebinche.be.
+  Fiabilité: moyenne à haute\; vérifier agenda officiel annuel.
 URL:https://www.carnavaldebinche.be
 CATEGORIES:Belgique\,Traditions\,Carnaval
 STATUS:CONFIRMED
@@ -391,8 +399,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20300719
 DTEND;VALUE=DATE:20300729
 SUMMARY:Gentse Feesten
-DESCRIPTION:Grand festival urbain a Gand. Source: gentsefeesten.stad.gent. 
- Fiabilité: moyenne à haute selon programmation.
+DESCRIPTION:Grand festival urbain a Gand. Source: gentsefeesten.stad.gent.
+  Fiabilité: moyenne à haute selon programmation.
 URL:https://gentsefeesten.stad.gent
 CATEGORIES:Belgique\,Festival\,Culture
 STATUS:CONFIRMED
@@ -411,15 +419,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-grands-evenements-grand-prix-spa-2030@facilabo.app
-DTSTAMP:20260210T120000Z
+DTSTAMP:20260910T062757Z
 DTSTART;VALUE=DATE:20300728
 DTEND;VALUE=DATE:20300729
-SUMMARY:Grand Prix de Belgique (Spa-Francorchamps)
-DESCRIPTION:Repère sport automobile Belgique. Source: formula1.com. Fiabil
- ité: moyenne à haute après publication du calendrier F1.
-URL:https://www.formula1.com
+SUMMARY:Annulé — Grand Prix de Belgique 2030 (Spa-Francorchamps)
+DESCRIPTION:Aucune édition à Spa-Francorchamps en 2030 selon la rotation
+  officielle Formula 1. Ancien repère annulé et UID conservé pour mettre
+  à jour les abonnements existants.
+URL:https://corp.formula1.com/formula-1-announces-multi-year-extension-with
+ -the-circuit-de-barcelona-catalunya-to-race-in-rotation-with-circuit-de-sp
+ a-francorchamps/
 CATEGORIES:Belgique\,Sport\,Automobile
-STATUS:CONFIRMED
+STATUS:CANCELLED
+LAST-MODIFIED:20260910T062757Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-grands-evenements-brussels-beer-weekend-2030@facilabo.app
@@ -451,8 +464,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20310225
 DTEND;VALUE=DATE:20310226
 SUMMARY:Carnaval de Binche - Mardi gras
-DESCRIPTION:Tradition majeure belge (UNESCO). Source: carnavaldebinche.be. 
- Fiabilité: moyenne à haute\; vérifier agenda officiel annuel.
+DESCRIPTION:Tradition majeure belge (UNESCO). Source: carnavaldebinche.be.
+  Fiabilité: moyenne à haute\; vérifier agenda officiel annuel.
 URL:https://www.carnavaldebinche.be
 CATEGORIES:Belgique\,Traditions\,Carnaval
 STATUS:CONFIRMED
@@ -475,8 +488,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20310718
 DTEND;VALUE=DATE:20310728
 SUMMARY:Gentse Feesten
-DESCRIPTION:Grand festival urbain a Gand. Source: gentsefeesten.stad.gent. 
- Fiabilité: moyenne à haute selon programmation.
+DESCRIPTION:Grand festival urbain a Gand. Source: gentsefeesten.stad.gent.
+  Fiabilité: moyenne à haute selon programmation.
 URL:https://gentsefeesten.stad.gent
 CATEGORIES:Belgique\,Festival\,Culture
 STATUS:CONFIRMED

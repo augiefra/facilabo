@@ -56,8 +56,8 @@ DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260901
 SUMMARY:Zomervakantie Vlaanderen
 DESCRIPTION:Période estivale des écoles en Flandre. Source: https://www.o
- nderwijs.vlaanderen.be. Fiabilité: haute pour cadre général\, détails 
- à confirmer annuellement.
+ nderwijs.vlaanderen.be. Fiabilité: haute pour cadre général\, détails
+  à confirmer annuellement.
 URL:https://www.onderwijs.vlaanderen.be
 CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
 STATUS:CONFIRMED
@@ -121,8 +121,8 @@ DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270901
 SUMMARY:Zomervakantie Vlaanderen
 DESCRIPTION:Période estivale des écoles en Flandre. Source: https://www.o
- nderwijs.vlaanderen.be. Fiabilité: haute pour cadre général\, détails 
- à confirmer annuellement.
+ nderwijs.vlaanderen.be. Fiabilité: haute pour cadre général\, détails
+  à confirmer annuellement.
 URL:https://www.onderwijs.vlaanderen.be
 CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
 STATUS:CONFIRMED
@@ -133,8 +133,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20271101
 DTEND;VALUE=DATE:20271108
 SUMMARY:Herfstvakantie Vlaanderen
-DESCRIPTION:Période indicative autour de la Toussaint en Flandre. Source: 
- https://www.onderwijs.vlaanderen.be. Fiabilité: moyenne.
+DESCRIPTION:Période indicative autour de la Toussaint en Flandre. Source:
+  https://www.onderwijs.vlaanderen.be. Fiabilité: moyenne.
 URL:https://www.onderwijs.vlaanderen.be
 CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
 STATUS:CONFIRMED
@@ -183,8 +183,8 @@ DTSTART;VALUE=DATE:20280701
 DTEND;VALUE=DATE:20280901
 SUMMARY:Zomervakantie Vlaanderen
 DESCRIPTION:Période estivale des écoles en Flandre. Source: https://www.o
- nderwijs.vlaanderen.be. Fiabilité: haute pour cadre général\, détails 
- à confirmer annuellement.
+ nderwijs.vlaanderen.be. Fiabilité: haute pour cadre général\, détails
+  à confirmer annuellement.
 URL:https://www.onderwijs.vlaanderen.be
 CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
 STATUS:CONFIRMED
@@ -195,8 +195,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20281030
 DTEND;VALUE=DATE:20281106
 SUMMARY:Herfstvakantie Vlaanderen
-DESCRIPTION:Période indicative autour de la Toussaint en Flandre. Source: 
- https://www.onderwijs.vlaanderen.be. Fiabilité: moyenne.
+DESCRIPTION:Période indicative autour de la Toussaint en Flandre. Source:
+  https://www.onderwijs.vlaanderen.be. Fiabilité: moyenne.
 URL:https://www.onderwijs.vlaanderen.be
 CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
 STATUS:CONFIRMED
@@ -245,8 +245,8 @@ DTSTART;VALUE=DATE:20290701
 DTEND;VALUE=DATE:20290901
 SUMMARY:Zomervakantie Vlaanderen
 DESCRIPTION:Période estivale des écoles en Flandre. Source: https://www.o
- nderwijs.vlaanderen.be. Fiabilité: haute pour cadre général\, détails 
- à confirmer annuellement.
+ nderwijs.vlaanderen.be. Fiabilité: haute pour cadre général\, détails
+  à confirmer annuellement.
 URL:https://www.onderwijs.vlaanderen.be
 CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
 STATUS:CONFIRMED
@@ -257,24 +257,26 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20291029
 DTEND;VALUE=DATE:20291105
 SUMMARY:Herfstvakantie Vlaanderen
-DESCRIPTION:Période indicative autour de la Toussaint en Flandre. Source: 
- https://www.onderwijs.vlaanderen.be. Fiabilité: moyenne.
+DESCRIPTION:Période indicative autour de la Toussaint en Flandre. Source:
+  https://www.onderwijs.vlaanderen.be. Fiabilité: moyenne.
 URL:https://www.onderwijs.vlaanderen.be
 CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-vlaanderen-kerstvakantie-2029@facilabo.app
-DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20291222
-DTEND;VALUE=DATE:20300105
+DTSTAMP:20260910T062757Z
+DTSTART;VALUE=DATE:20291224
+DTEND;VALUE=DATE:20300107
 SUMMARY:Kerstvakantie Vlaanderen
-DESCRIPTION:Période indicative de vacances scolaires en Flandre. Source: h
- ttps://www.onderwijs.vlaanderen.be. Fiabilité: moyenne pour années non p
- ubliées.
-URL:https://www.onderwijs.vlaanderen.be
+DESCRIPTION:Vacances de Noël officielles en Flandre du 24 décembre 2029 a
+ u 6 janvier 2030 inclus.
+URL:https://www.vlaanderen.be/onderwijs-en-vorming/wat-mag-en-moet-op-schoo
+ l/schoolvakanties-vrije-dagen-en-afwezigheden/schoolvakanties
 CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
 STATUS:CONFIRMED
+LAST-MODIFIED:20260910T062757Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-vlaanderen-krokusvakantie-2030@facilabo.app
@@ -290,15 +292,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-vlaanderen-paasvakantie-2030@facilabo.app
-DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20300401
-DTEND;VALUE=DATE:20300415
+DTSTAMP:20260910T062757Z
+DTSTART;VALUE=DATE:20300408
+DTEND;VALUE=DATE:20300423
 SUMMARY:Paasvakantie Vlaanderen
-DESCRIPTION:Période indicative des vacances de printemps en Flandre. Sourc
- e: https://www.onderwijs.vlaanderen.be. Fiabilité: moyenne.
-URL:https://www.onderwijs.vlaanderen.be
+DESCRIPTION:Vacances de Pâques officielles en Flandre du 8 au 22 avril 203
+ 0 inclus.
+URL:https://www.vlaanderen.be/onderwijs-en-vorming/wat-mag-en-moet-op-schoo
+ l/schoolvakanties-vrije-dagen-en-afwezigheden/schoolvakanties
 CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
 STATUS:CONFIRMED
+LAST-MODIFIED:20260910T062757Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-vlaanderen-zomervakantie-2030@facilabo.app
@@ -307,8 +312,8 @@ DTSTART;VALUE=DATE:20300701
 DTEND;VALUE=DATE:20300901
 SUMMARY:Zomervakantie Vlaanderen
 DESCRIPTION:Période estivale des écoles en Flandre. Source: https://www.o
- nderwijs.vlaanderen.be. Fiabilité: haute pour cadre général\, détails 
- à confirmer annuellement.
+ nderwijs.vlaanderen.be. Fiabilité: haute pour cadre général\, détails
+  à confirmer annuellement.
 URL:https://www.onderwijs.vlaanderen.be
 CATEGORIES:Belgique\,Vacances scolaires\,Vlaanderen
 STATUS:CONFIRMED
