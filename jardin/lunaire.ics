@@ -1520,1482 +1520,1492 @@ CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20280105@facilabo.app
-DTSTAMP:20260106T120000Z
+UID:lune-1q-20280105@facilabo.app
+DTSTAMP:20260914T120000Z
 DTSTART;VALUE=DATE:20280105
 DTEND;VALUE=DATE:20280106
-SUMMARY:Nouvelle Lune - Légumes-racines
-DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
+SUMMARY:Premier Quartier - Légumes-feuilles
+DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20280112@facilabo.app
-DTSTAMP:20260106T120000Z
+UID:lune-pl-20280112@facilabo.app
+DTSTAMP:20260914T120000Z
 DTSTART;VALUE=DATE:20280112
 DTEND;VALUE=DATE:20280113
-SUMMARY:Premier Quartier - Légumes-feuilles
-DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
-CATEGORIES:Jardin,Lune
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lune-pl-20280121@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280121
-DTEND;VALUE=DATE:20280122
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20280128@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280128
-DTEND;VALUE=DATE:20280129
+UID:lune-dq-20280118@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280118
+DTEND;VALUE=DATE:20280119
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20280204@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280204
-DTEND;VALUE=DATE:20280205
+UID:lune-nl-20280126@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280126
+DTEND;VALUE=DATE:20280127
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20280211@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280211
-DTEND;VALUE=DATE:20280212
+UID:lune-1q-20280203@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280203
+DTEND;VALUE=DATE:20280204
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20280220@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280220
-DTEND;VALUE=DATE:20280221
+UID:lune-pl-20280210@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280210
+DTEND;VALUE=DATE:20280211
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20280227@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280227
-DTEND;VALUE=DATE:20280228
+UID:lune-dq-20280217@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280217
+DTEND;VALUE=DATE:20280218
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20280305@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280305
-DTEND;VALUE=DATE:20280306
+UID:lune-nl-20280225@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280225
+DTEND;VALUE=DATE:20280226
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20280312@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280312
-DTEND;VALUE=DATE:20280313
+UID:lune-1q-20280304@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280304
+DTEND;VALUE=DATE:20280305
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20280321@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280321
-DTEND;VALUE=DATE:20280322
+UID:lune-pl-20280311@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280311
+DTEND;VALUE=DATE:20280312
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20280327@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280327
-DTEND;VALUE=DATE:20280328
+UID:lune-dq-20280318@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280318
+DTEND;VALUE=DATE:20280319
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20280403@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280403
-DTEND;VALUE=DATE:20280404
+UID:lune-nl-20280326@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280326
+DTEND;VALUE=DATE:20280327
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20280410@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280410
-DTEND;VALUE=DATE:20280411
+UID:lune-1q-20280402@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280402
+DTEND;VALUE=DATE:20280403
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20280419@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280419
-DTEND;VALUE=DATE:20280420
+UID:lune-pl-20280409@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280409
+DTEND;VALUE=DATE:20280410
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20280426@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280426
-DTEND;VALUE=DATE:20280427
+UID:lune-dq-20280416@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280416
+DTEND;VALUE=DATE:20280417
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20280503@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280503
-DTEND;VALUE=DATE:20280504
+UID:lune-nl-20280424@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280424
+DTEND;VALUE=DATE:20280425
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20280510@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280510
-DTEND;VALUE=DATE:20280511
+UID:lune-1q-20280502@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280502
+DTEND;VALUE=DATE:20280503
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20280519@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280519
-DTEND;VALUE=DATE:20280520
+UID:lune-pl-20280508@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280508
+DTEND;VALUE=DATE:20280509
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20280525@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280525
-DTEND;VALUE=DATE:20280526
+UID:lune-dq-20280516@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280516
+DTEND;VALUE=DATE:20280517
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20280602@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280602
-DTEND;VALUE=DATE:20280603
+UID:lune-nl-20280524@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280524
+DTEND;VALUE=DATE:20280525
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20280609@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280609
-DTEND;VALUE=DATE:20280610
+UID:lune-1q-20280531@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280531
+DTEND;VALUE=DATE:20280601
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20280617@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280617
-DTEND;VALUE=DATE:20280618
+UID:lune-pl-20280607@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280607
+DTEND;VALUE=DATE:20280608
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20280624@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280624
-DTEND;VALUE=DATE:20280625
+UID:lune-dq-20280615@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20280701@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280701
-DTEND;VALUE=DATE:20280702
+UID:lune-nl-20280622@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280622
+DTEND;VALUE=DATE:20280623
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20280708@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280708
-DTEND;VALUE=DATE:20280709
+UID:lune-1q-20280629@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280629
+DTEND;VALUE=DATE:20280630
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20280717@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280717
-DTEND;VALUE=DATE:20280718
+UID:lune-pl-20280706@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280706
+DTEND;VALUE=DATE:20280707
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20280723@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280723
-DTEND;VALUE=DATE:20280724
+UID:lune-dq-20280714@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280715
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20280731@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280731
-DTEND;VALUE=DATE:20280801
+UID:lune-nl-20280722@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20280806@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280806
-DTEND;VALUE=DATE:20280807
+UID:lune-1q-20280728@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280728
+DTEND;VALUE=DATE:20280729
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20280815@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280815
-DTEND;VALUE=DATE:20280816
+UID:lune-pl-20280805@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280805
+DTEND;VALUE=DATE:20280806
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20280822@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280822
-DTEND;VALUE=DATE:20280823
+UID:lune-dq-20280813@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280813
+DTEND;VALUE=DATE:20280814
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20280829@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280829
-DTEND;VALUE=DATE:20280830
+UID:lune-nl-20280820@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280820
+DTEND;VALUE=DATE:20280821
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20280905@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280905
-DTEND;VALUE=DATE:20280906
+UID:lune-1q-20280827@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280827
+DTEND;VALUE=DATE:20280828
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20280914@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280914
-DTEND;VALUE=DATE:20280915
+UID:lune-pl-20280904@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280904
+DTEND;VALUE=DATE:20280905
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20280921@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280921
-DTEND;VALUE=DATE:20280922
+UID:lune-dq-20280912@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280912
+DTEND;VALUE=DATE:20280913
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20280928@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20280928
-DTEND;VALUE=DATE:20280929
+UID:lune-nl-20280918@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280918
+DTEND;VALUE=DATE:20280919
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20281004@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20281004
-DTEND;VALUE=DATE:20281005
+UID:lune-1q-20280925@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20280925
+DTEND;VALUE=DATE:20280926
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20281014@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20281014
-DTEND;VALUE=DATE:20281015
+UID:lune-pl-20281003@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20281003
+DTEND;VALUE=DATE:20281004
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20281020@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20281020
-DTEND;VALUE=DATE:20281021
+UID:lune-dq-20281011@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20281011
+DTEND;VALUE=DATE:20281012
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20281027@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20281027
-DTEND;VALUE=DATE:20281028
+UID:lune-nl-20281018@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20281018
+DTEND;VALUE=DATE:20281019
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20281103@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20281103
-DTEND;VALUE=DATE:20281104
+UID:lune-1q-20281025@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20281025
+DTEND;VALUE=DATE:20281026
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20281112@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20281112
-DTEND;VALUE=DATE:20281113
+UID:lune-pl-20281102@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20281102
+DTEND;VALUE=DATE:20281103
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20281119@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20281119
-DTEND;VALUE=DATE:20281120
+UID:lune-dq-20281109@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20281109
+DTEND;VALUE=DATE:20281110
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20281126@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20281126
-DTEND;VALUE=DATE:20281127
+UID:lune-nl-20281116@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20281116
+DTEND;VALUE=DATE:20281117
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20281202@facilabo.app
-DTSTAMP:20260106T120000Z
+UID:lune-1q-20281124@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20281124
+DTEND;VALUE=DATE:20281125
+SUMMARY:Premier Quartier - Légumes-feuilles
+DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
+CATEGORIES:Jardin,Lune
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lune-pl-20281202@facilabo.app
+DTSTAMP:20260914T120000Z
 DTSTART;VALUE=DATE:20281202
 DTEND;VALUE=DATE:20281203
-SUMMARY:Premier Quartier - Légumes-feuilles
-DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
-CATEGORIES:Jardin,Lune
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lune-pl-20281212@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20281212
-DTEND;VALUE=DATE:20281213
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20281219@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20281219
-DTEND;VALUE=DATE:20281220
+UID:lune-dq-20281209@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20281209
+DTEND;VALUE=DATE:20281210
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20281226@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20281226
-DTEND;VALUE=DATE:20281227
+UID:lune-nl-20281216@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20281216
+DTEND;VALUE=DATE:20281217
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20290108@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290108
-DTEND;VALUE=DATE:20290109
+UID:lune-1q-20281223@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20281223
+DTEND;VALUE=DATE:20281224
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20290114@facilabo.app
-DTSTAMP:20260106T120000Z
+UID:lune-pl-20281231@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:Pleine Lune - Recolte
+DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
+CATEGORIES:Jardin,Lune
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lune-dq-20290107@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290107
+DTEND;VALUE=DATE:20290108
+SUMMARY:Dernier Quartier - Repos et entretien
+DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
+CATEGORIES:Jardin,Lune
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lune-nl-20290114@facilabo.app
+DTSTAMP:20260914T120000Z
 DTSTART;VALUE=DATE:20290114
 DTEND;VALUE=DATE:20290115
-SUMMARY:Pleine Lune - Recolte
-DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
-CATEGORIES:Jardin,Lune
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lune-dq-20290117@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290117
-DTEND;VALUE=DATE:20290118
-SUMMARY:Dernier Quartier - Repos et entretien
-DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
-CATEGORIES:Jardin,Lune
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lune-nl-20290125@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290125
-DTEND;VALUE=DATE:20290126
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20290207@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290207
-DTEND;VALUE=DATE:20290208
+UID:lune-1q-20290122@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290122
+DTEND;VALUE=DATE:20290123
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20290212@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290212
-DTEND;VALUE=DATE:20290213
+UID:lune-pl-20290130@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290130
+DTEND;VALUE=DATE:20290131
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20290216@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290216
-DTEND;VALUE=DATE:20290217
+UID:lune-dq-20290205@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290205
+DTEND;VALUE=DATE:20290206
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20290224@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290224
-DTEND;VALUE=DATE:20290225
+UID:lune-nl-20290213@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290213
+DTEND;VALUE=DATE:20290214
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20290308@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290308
-DTEND;VALUE=DATE:20290309
+UID:lune-1q-20290221@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290221
+DTEND;VALUE=DATE:20290222
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20290314@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290314
-DTEND;VALUE=DATE:20290315
+UID:lune-pl-20290228@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290228
+DTEND;VALUE=DATE:20290301
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20290317@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290317
-DTEND;VALUE=DATE:20290318
+UID:lune-dq-20290307@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290307
+DTEND;VALUE=DATE:20290308
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20290326@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290326
-DTEND;VALUE=DATE:20290327
+UID:lune-nl-20290315@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290315
+DTEND;VALUE=DATE:20290316
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20290407@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290407
-DTEND;VALUE=DATE:20290408
+UID:lune-1q-20290323@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290323
+DTEND;VALUE=DATE:20290324
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20290412@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290412
-DTEND;VALUE=DATE:20290413
+UID:lune-pl-20290330@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290330
+DTEND;VALUE=DATE:20290331
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20290416@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290416
-DTEND;VALUE=DATE:20290417
+UID:lune-dq-20290405@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290405
+DTEND;VALUE=DATE:20290406
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20290424@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290424
-DTEND;VALUE=DATE:20290425
+UID:lune-nl-20290413@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290413
+DTEND;VALUE=DATE:20290414
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20290506@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290506
-DTEND;VALUE=DATE:20290507
+UID:lune-1q-20290421@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290421
+DTEND;VALUE=DATE:20290422
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20290511@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290511
-DTEND;VALUE=DATE:20290512
+UID:lune-pl-20290428@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290428
+DTEND;VALUE=DATE:20290429
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20290515@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290515
-DTEND;VALUE=DATE:20290516
+UID:lune-dq-20290505@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290505
+DTEND;VALUE=DATE:20290506
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20290524@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290524
-DTEND;VALUE=DATE:20290525
+UID:lune-nl-20290513@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290513
+DTEND;VALUE=DATE:20290514
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20290605@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290605
-DTEND;VALUE=DATE:20290606
+UID:lune-1q-20290521@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290521
+DTEND;VALUE=DATE:20290522
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20290610@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290610
-DTEND;VALUE=DATE:20290611
+UID:lune-pl-20290527@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290527
+DTEND;VALUE=DATE:20290528
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20290614@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290614
-DTEND;VALUE=DATE:20290615
+UID:lune-dq-20290604@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290604
+DTEND;VALUE=DATE:20290605
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20290622@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290622
-DTEND;VALUE=DATE:20290623
+UID:lune-nl-20290612@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290612
+DTEND;VALUE=DATE:20290613
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20290705@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290705
-DTEND;VALUE=DATE:20290706
+UID:lune-1q-20290619@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290619
+DTEND;VALUE=DATE:20290620
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20290709@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290709
-DTEND;VALUE=DATE:20290710
+UID:lune-pl-20290626@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290626
+DTEND;VALUE=DATE:20290627
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20290713@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290713
-DTEND;VALUE=DATE:20290714
+UID:lune-dq-20290703@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290703
+DTEND;VALUE=DATE:20290704
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20290722@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290722
-DTEND;VALUE=DATE:20290723
+UID:lune-nl-20290711@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290711
+DTEND;VALUE=DATE:20290712
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20290803@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290803
-DTEND;VALUE=DATE:20290804
+UID:lune-1q-20290718@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290718
+DTEND;VALUE=DATE:20290719
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20290808@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290808
-DTEND;VALUE=DATE:20290809
+UID:lune-pl-20290725@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290725
+DTEND;VALUE=DATE:20290726
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20290812@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290812
-DTEND;VALUE=DATE:20290813
+UID:lune-dq-20290802@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290802
+DTEND;VALUE=DATE:20290803
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20290820@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290820
-DTEND;VALUE=DATE:20290821
+UID:lune-nl-20290810@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290810
+DTEND;VALUE=DATE:20290811
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20290902@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290902
-DTEND;VALUE=DATE:20290903
+UID:lune-1q-20290816@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290816
+DTEND;VALUE=DATE:20290817
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20290906@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290906
-DTEND;VALUE=DATE:20290907
+UID:lune-pl-20290824@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290824
+DTEND;VALUE=DATE:20290825
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20290910@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290910
-DTEND;VALUE=DATE:20290911
+UID:lune-dq-20290901@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290901
+DTEND;VALUE=DATE:20290902
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20290919@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20290919
-DTEND;VALUE=DATE:20290920
+UID:lune-nl-20290908@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290908
+DTEND;VALUE=DATE:20290909
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20291001@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20291001
-DTEND;VALUE=DATE:20291002
+UID:lune-1q-20290915@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290915
+DTEND;VALUE=DATE:20290916
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20291006@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20291006
-DTEND;VALUE=DATE:20291007
+UID:lune-pl-20290922@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290922
+DTEND;VALUE=DATE:20290923
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20291010@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20291010
-DTEND;VALUE=DATE:20291011
+UID:lune-dq-20290930@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20290930
+DTEND;VALUE=DATE:20291001
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20291018@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20291018
-DTEND;VALUE=DATE:20291019
+UID:lune-nl-20291007@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20291007
+DTEND;VALUE=DATE:20291008
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20291031@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20291031
-DTEND;VALUE=DATE:20291101
+UID:lune-1q-20291014@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20291014
+DTEND;VALUE=DATE:20291015
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20291104@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20291104
-DTEND;VALUE=DATE:20291105
+UID:lune-pl-20291022@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20291022
+DTEND;VALUE=DATE:20291023
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20291109@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20291109
-DTEND;VALUE=DATE:20291110
+UID:lune-dq-20291030@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20291030
+DTEND;VALUE=DATE:20291031
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20291117@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20291117
-DTEND;VALUE=DATE:20291118
+UID:lune-nl-20291106@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20291106
+DTEND;VALUE=DATE:20291107
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20291129@facilabo.app
-DTSTAMP:20260106T120000Z
+UID:lune-1q-20291113@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20291113
+DTEND;VALUE=DATE:20291114
+SUMMARY:Premier Quartier - Légumes-feuilles
+DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
+CATEGORIES:Jardin,Lune
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lune-pl-20291121@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20291121
+DTEND;VALUE=DATE:20291122
+SUMMARY:Pleine Lune - Recolte
+DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
+CATEGORIES:Jardin,Lune
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lune-dq-20291129@facilabo.app
+DTSTAMP:20260914T120000Z
 DTSTART;VALUE=DATE:20291129
 DTEND;VALUE=DATE:20291130
-SUMMARY:Premier Quartier - Légumes-feuilles
-DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
-CATEGORIES:Jardin,Lune
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lune-pl-20291204@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20291204
-DTEND;VALUE=DATE:20291205
-SUMMARY:Pleine Lune - Recolte
-DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
-CATEGORIES:Jardin,Lune
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lune-dq-20291208@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20291208
-DTEND;VALUE=DATE:20291209
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20291217@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20291217
-DTEND;VALUE=DATE:20291218
+UID:lune-nl-20291205@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20291205
+DTEND;VALUE=DATE:20291206
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20291229@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20291229
-DTEND;VALUE=DATE:20291230
+UID:lune-1q-20291212@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20291212
+DTEND;VALUE=DATE:20291213
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20300102@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300102
-DTEND;VALUE=DATE:20300103
+UID:lune-pl-20291220@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20291220
+DTEND;VALUE=DATE:20291221
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20300107@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300107
-DTEND;VALUE=DATE:20300108
+UID:lune-dq-20291228@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20291228
+DTEND;VALUE=DATE:20291229
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20300115@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300115
-DTEND;VALUE=DATE:20300116
+UID:lune-nl-20300104@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300104
+DTEND;VALUE=DATE:20300105
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20300127@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300127
-DTEND;VALUE=DATE:20300128
+UID:lune-1q-20300111@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300111
+DTEND;VALUE=DATE:20300112
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20300201@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300201
-DTEND;VALUE=DATE:20300202
+UID:lune-pl-20300119@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300119
+DTEND;VALUE=DATE:20300120
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20300206@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300206
-DTEND;VALUE=DATE:20300207
+UID:lune-dq-20300126@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300126
+DTEND;VALUE=DATE:20300127
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20300214@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300214
-DTEND;VALUE=DATE:20300215
+UID:lune-nl-20300202@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300202
+DTEND;VALUE=DATE:20300203
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20300226@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300226
-DTEND;VALUE=DATE:20300227
+UID:lune-1q-20300210@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300210
+DTEND;VALUE=DATE:20300211
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20300303@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300303
-DTEND;VALUE=DATE:20300304
+UID:lune-pl-20300218@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300218
+DTEND;VALUE=DATE:20300219
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20300307@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300307
-DTEND;VALUE=DATE:20300308
+UID:lune-dq-20300225@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300225
+DTEND;VALUE=DATE:20300226
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20300315@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300315
-DTEND;VALUE=DATE:20300316
+UID:lune-nl-20300304@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300304
+DTEND;VALUE=DATE:20300305
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20300327@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300327
-DTEND;VALUE=DATE:20300328
+UID:lune-1q-20300312@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300312
+DTEND;VALUE=DATE:20300313
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20300401@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300401
-DTEND;VALUE=DATE:20300402
+UID:lune-pl-20300319@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300319
+DTEND;VALUE=DATE:20300320
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20300406@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300406
-DTEND;VALUE=DATE:20300407
+UID:lune-dq-20300326@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300326
+DTEND;VALUE=DATE:20300327
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20300414@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300414
-DTEND;VALUE=DATE:20300415
+UID:lune-nl-20300403@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300403
+DTEND;VALUE=DATE:20300404
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20300426@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300426
-DTEND;VALUE=DATE:20300427
+UID:lune-1q-20300411@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300411
+DTEND;VALUE=DATE:20300412
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20300430@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300430
-DTEND;VALUE=DATE:20300501
+UID:lune-pl-20300418@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300418
+DTEND;VALUE=DATE:20300419
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20300506@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300506
-DTEND;VALUE=DATE:20300507
+UID:lune-dq-20300424@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300424
+DTEND;VALUE=DATE:20300425
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20300513@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300513
-DTEND;VALUE=DATE:20300514
+UID:lune-nl-20300502@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300502
+DTEND;VALUE=DATE:20300503
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20300526@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300526
-DTEND;VALUE=DATE:20300527
+UID:lune-1q-20300510@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300510
+DTEND;VALUE=DATE:20300511
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20300530@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300530
-DTEND;VALUE=DATE:20300531
+UID:lune-pl-20300517@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300517
+DTEND;VALUE=DATE:20300518
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20300604@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300604
-DTEND;VALUE=DATE:20300605
+UID:lune-dq-20300524@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300524
+DTEND;VALUE=DATE:20300525
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20300611@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300611
-DTEND;VALUE=DATE:20300612
+UID:lune-nl-20300601@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300601
+DTEND;VALUE=DATE:20300602
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20300624@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300624
-DTEND;VALUE=DATE:20300625
+UID:lune-1q-20300609@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300609
+DTEND;VALUE=DATE:20300610
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20300628@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300628
-DTEND;VALUE=DATE:20300629
+UID:lune-pl-20300615@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300615
+DTEND;VALUE=DATE:20300616
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20300704@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300704
-DTEND;VALUE=DATE:20300705
+UID:lune-dq-20300622@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300622
+DTEND;VALUE=DATE:20300623
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20300711@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300711
-DTEND;VALUE=DATE:20300712
+UID:lune-nl-20300630@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300630
+DTEND;VALUE=DATE:20300701
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20300724@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300724
-DTEND;VALUE=DATE:20300725
+UID:lune-1q-20300708@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300708
+DTEND;VALUE=DATE:20300709
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20300728@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300728
-DTEND;VALUE=DATE:20300729
+UID:lune-pl-20300715@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300715
+DTEND;VALUE=DATE:20300716
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20300802@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300802
-DTEND;VALUE=DATE:20300803
+UID:lune-dq-20300722@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300722
+DTEND;VALUE=DATE:20300723
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20300810@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300810
-DTEND;VALUE=DATE:20300811
+UID:lune-nl-20300730@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300730
+DTEND;VALUE=DATE:20300731
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20300822@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300822
-DTEND;VALUE=DATE:20300823
+UID:lune-1q-20300806@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300806
+DTEND;VALUE=DATE:20300807
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20300827@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300827
-DTEND;VALUE=DATE:20300828
+UID:lune-pl-20300813@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300813
+DTEND;VALUE=DATE:20300814
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20300901@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300901
-DTEND;VALUE=DATE:20300902
+UID:lune-dq-20300821@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300821
+DTEND;VALUE=DATE:20300822
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20300908@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300908
-DTEND;VALUE=DATE:20300909
+UID:lune-nl-20300829@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300829
+DTEND;VALUE=DATE:20300830
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20300921@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300921
-DTEND;VALUE=DATE:20300922
+UID:lune-1q-20300904@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300904
+DTEND;VALUE=DATE:20300905
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20300925@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300925
-DTEND;VALUE=DATE:20300926
+UID:lune-pl-20300911@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300911
+DTEND;VALUE=DATE:20300912
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20300930@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20300930
-DTEND;VALUE=DATE:20301001
+UID:lune-dq-20300919@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300919
+DTEND;VALUE=DATE:20300920
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20301008@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20301008
-DTEND;VALUE=DATE:20301009
+UID:lune-nl-20300927@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20300927
+DTEND;VALUE=DATE:20300928
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20301021@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20301021
-DTEND;VALUE=DATE:20301022
+UID:lune-1q-20301004@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20301004
+DTEND;VALUE=DATE:20301005
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20301025@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20301025
-DTEND;VALUE=DATE:20301026
+UID:lune-pl-20301011@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20301011
+DTEND;VALUE=DATE:20301012
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20301030@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20301030
-DTEND;VALUE=DATE:20301031
+UID:lune-dq-20301019@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20301019
+DTEND;VALUE=DATE:20301020
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20301106@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20301106
-DTEND;VALUE=DATE:20301107
+UID:lune-nl-20301026@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20301026
+DTEND;VALUE=DATE:20301027
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20301119@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20301119
-DTEND;VALUE=DATE:20301120
+UID:lune-1q-20301102@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20301102
+DTEND;VALUE=DATE:20301103
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20301123@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20301123
-DTEND;VALUE=DATE:20301124
+UID:lune-pl-20301110@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20301110
+DTEND;VALUE=DATE:20301111
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20301128@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20301128
-DTEND;VALUE=DATE:20301129
+UID:lune-dq-20301118@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20301118
+DTEND;VALUE=DATE:20301119
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-nl-20301206@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20301206
-DTEND;VALUE=DATE:20301207
+UID:lune-nl-20301125@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20301125
+DTEND;VALUE=DATE:20301126
 SUMMARY:Nouvelle Lune - Légumes-racines
 DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-1q-20301219@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20301219
-DTEND;VALUE=DATE:20301220
+UID:lune-1q-20301201@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20301201
+DTEND;VALUE=DATE:20301202
 SUMMARY:Premier Quartier - Légumes-feuilles
 DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-pl-20301223@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20301223
-DTEND;VALUE=DATE:20301224
+UID:lune-pl-20301209@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20301209
+DTEND;VALUE=DATE:20301210
 SUMMARY:Pleine Lune - Recolte
 DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:lune-dq-20301228@facilabo.app
-DTSTAMP:20260106T120000Z
-DTSTART;VALUE=DATE:20301228
-DTEND;VALUE=DATE:20301229
+UID:lune-dq-20301218@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20301218
+DTEND;VALUE=DATE:20301219
 SUMMARY:Dernier Quartier - Repos et entretien
 DESCRIPTION:Période de repos. Bon pour désherber, tailler, retourner le sol et faire du compost.
+CATEGORIES:Jardin,Lune
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lune-nl-20301224@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20301224
+DTEND;VALUE=DATE:20301225
+SUMMARY:Nouvelle Lune - Légumes-racines
+DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
+CATEGORIES:Jardin,Lune
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lune-1q-20301231@facilabo.app
+DTSTAMP:20260914T120000Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:Premier Quartier - Légumes-feuilles
+DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
 END:VEVENT
