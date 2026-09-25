@@ -1078,336 +1078,315 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-clermont-castres-20260926@facilab
  o.app
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20260926T163500
+DTEND;TZID=Europe/Paris:20260926T183500
 SUMMARY:Clermont - Castres
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 4 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j4
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j4
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-pau-la-rochelle-20260926@facilabo
  .app
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20260926T210000
+DTEND;TZID=Europe/Paris:20260926T230000
 SUMMARY:Pau - La Rochelle
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 4 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j4
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j4
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-perpignan-bordeaux-20260926@facil
  abo.app
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20260926T143000
+DTEND;TZID=Europe/Paris:20260926T163000
 SUMMARY:Perpignan - Bordeaux
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 4 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j4
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j4
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-racing-metro-bayonne-20260926@fac
  ilabo.app
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20260926T163500
+DTEND;TZID=Europe/Paris:20260926T183500
 SUMMARY:Racing Métro - Bayonne
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 4 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j4
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j4
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-stade-francais-lyon-20260926@faci
  labo.app
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20260926T163500
+DTEND;TZID=Europe/Paris:20260926T183500
 SUMMARY:Stade Français - Lyon
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 4 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j4
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j4
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-toulon-vannes-20260926@facilabo.a
  pp
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20260926T163500
+DTEND;TZID=Europe/Paris:20260926T183500
 SUMMARY:Toulon - Vannes
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 4 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j4
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j4
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-toulouse-montpellier-20260927@fac
  ilabo.app
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20260927T210500
+DTEND;TZID=Europe/Paris:20260927T230500
 SUMMARY:Toulouse - Montpellier
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 4 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j4
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j4
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-bayonne-stade-francais-20261003@f
  acilabo.app
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20261003T163500
+DTEND;TZID=Europe/Paris:20261003T183500
 SUMMARY:Bayonne - Stade Français
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 5 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j5
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j5
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-bordeaux-lyon-20261003@facilabo.a
  pp
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20261003T143000
+DTEND;TZID=Europe/Paris:20261003T163000
 SUMMARY:Bordeaux - Lyon
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 5 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j5
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j5
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-castres-toulouse-20261003@facilab
  o.app
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20261003T210000
+DTEND;TZID=Europe/Paris:20261003T230000
 SUMMARY:Castres - Toulouse
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 5 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j5
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j5
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-la-rochelle-clermont-20261003@fac
  ilabo.app
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20261003T163500
+DTEND;TZID=Europe/Paris:20261003T183500
 SUMMARY:La Rochelle - Clermont
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 5 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j5
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j5
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-racing-metro-perpignan-20261003@f
  acilabo.app
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20261003T163500
+DTEND;TZID=Europe/Paris:20261003T183500
 SUMMARY:Racing Métro - Perpignan
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 5 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j5
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j5
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-vannes-pau-20261003@facilabo.app
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20261003T163500
+DTEND;TZID=Europe/Paris:20261003T183500
 SUMMARY:Vannes - Pau
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 5 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j5
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j5
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-montpellier-toulon-20261004@facil
  abo.app
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20261004T210500
+DTEND;TZID=Europe/Paris:20261004T230500
 SUMMARY:Montpellier - Toulon
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 5 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j5
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j5
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-clermont-bordeaux-20261010@facila
  bo.app
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20261010T210000
+DTEND;TZID=Europe/Paris:20261010T230000
 SUMMARY:Clermont - Bordeaux
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 6 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j6
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j6
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-lyon-la-rochelle-20261010@facilab
  o.app
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20261010T163500
+DTEND;TZID=Europe/Paris:20261010T183500
 SUMMARY:Lyon - La Rochelle
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 6 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j6
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j6
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-pau-castres-20261010@facilabo.app
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20261010T163500
+DTEND;TZID=Europe/Paris:20261010T183500
 SUMMARY:Pau - Castres
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 6 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j6
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j6
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-perpignan-vannes-20261010@facilab
  o.app
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20261010T163500
+DTEND;TZID=Europe/Paris:20261010T183500
 SUMMARY:Perpignan - Vannes
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 6 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j6
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j6
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-stade-francais-montpellier-202610
  10@facilabo.app
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20261010T143000
+DTEND;TZID=Europe/Paris:20261010T163000
 SUMMARY:Stade Français - Montpellier
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 6 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j6
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j6
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-toulon-racing-metro-20261010@faci
  labo.app
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20261010T163500
+DTEND;TZID=Europe/Paris:20261010T183500
 SUMMARY:Toulon - Racing Métro
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 6 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j6
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j6
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-toulouse-bayonne-20261010@facilab
  o.app
-DTSTAMP:20260729T120000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
+DTSTAMP:20260925T080000Z
+LAST-MODIFIED:20260925T080000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Paris:20261011T210500
+DTEND;TZID=Europe/Paris:20261011T230500
 SUMMARY:Toulouse - Bayonne
-DESCRIPTION:Competition: Top 14 2026/2027 | Dates de saison LNR: https://to
- p14.lnr.fr/actualite/calendrier-20262027-les-dates-connues | Affiche: http
- s://data.rugbyfixture.io/ical/v1/top14.ics | Horaire de coup d envoi provi
- soire\, en attente de programmation officielle LNR.
-URL:https://top14.lnr.fr/actualite/calendrier-20262027-les-dates-connues
+DESCRIPTION:Compétition: Top 14 2026/2027 | Journée 6 | Horaire officiel 
+ LNR : https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j6
+URL:https://top14.lnr.fr/calendrier-et-resultats/2026-2027/j6
 CATEGORIES:Sport,Rugby,Competition,Top 14
-STATUS:TENTATIVE
-X-FACILABO-TIME-STATUS:PROVISIONAL
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-rugby-top-14-complet-top14-2026-bayonne-lyon-20261024@facilabo.ap

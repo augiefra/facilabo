@@ -5,7 +5,8 @@ METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Prime Day & Singles Day
 X-WR-CALDESC:Amazon Prime Day (dates variables), Ventes flash de printemps 
- Amazon (mars) et Singles Day Alibaba (11 novembre)
+ Amazon (mars), Jours Flash Prime (octobre) et Singles Day Alibaba (11 nove
+ mbre)
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 UID:primeday-2025-1@facilabo.app
@@ -88,6 +89,20 @@ DTEND;VALUE=DATE:20260627
 SUMMARY:Amazon Prime Day - Jour 4
 DESCRIPTION:Prime Day Amazon France 2026 - du 23 juin 00h01 au 26 juin 23h5
  9. Source: About Amazon France.
+CATEGORIES:E-commerce,Amazon,Promotions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:amazon-prime-flash-days-2026@facilabo.app
+DTSTAMP:20260925T080000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261008
+SUMMARY:Amazon - Jours Flash Prime
+DESCRIPTION:Jours Flash Prime Amazon (France) : 48 heures d'offres réserv
+ ées aux membres Prime\, les 6 et 7 octobre 2026. Source : aboutamazon.fr
+URL:https://www.aboutamazon.fr/actualites/amazon-prime/les-jours-flash-prim
+ e-reviennent-les-6-et-7-octobre-avec-des-centaines-de-milliers-doffres-exc
+ lusives-reservees-aux-membres-prime
 CATEGORIES:E-commerce,Amazon,Promotions
 STATUS:CONFIRMED
 END:VEVENT
